@@ -89,17 +89,18 @@ const config = {
             className: 'navbar_doc_items',
           },
           {
-            href: 'https://www.roombanker.com/',
+            to: 'https://www.roombanker.com/',
             position: 'right',
-            className: 'header-shop-link',
-            // label: 'Shop',
+            className: 'navbar_doc_right_items',
+            // className: 'header-shop-link',
+            label: 'Shop 👜',
+          },
+          {
+            href: 'https://github.com/Roombanker01/wiki',
+            position: 'right',
+            className: 'header-github-link',
             'aria-label': 'GitHub repository',
           },
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
         ],
       },
       footer: {
