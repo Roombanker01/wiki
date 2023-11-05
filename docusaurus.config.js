@@ -9,7 +9,7 @@ const config = {
   title: 'Roombanker wiki',
   tagline: 'Roombanker wiki',
   favicon: 'img/favicon.png',
-  noIndex: true,
+  noIndex: false,
   // Set the production url of your site here
   url: 'https://wiki.roombanker.com',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -227,9 +227,9 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       algolia: {
-        appId: 'ANUSD2X02Y',
-        apiKey: '47b490fe9a55f1c8d34d2dec4aea653d',
-        indexName: 'dusuniot',
+        appId: 'L8CL4JH3FE',
+        apiKey: 'd4f73bbe43b5a64479a558e8d83dfc97',
+        indexName: 'roombanker',
         contextualSearch: false,
         searchParameters: {},
         searchPagePath: 'search',
