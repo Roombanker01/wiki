@@ -21,7 +21,7 @@ Welcome to our Wiki Center — a comprehensive resource hub designed to enhance 
 In this resource hub you’ll find detailed product specifications, user manuals, quick start guides, and more about all features of Roombanker. It is always here to guide you every step of the way. Whether you're a first-time user or a seasoned distributor, the Wiki Center is your go-to destination for in-depth insights, troubleshooting tips, and the latest updates.
 
 
-## Pick the Security Alarm Device You Are Installing  
+## Find the Device You Are Installing  
 
 <div class="iot-list">
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
