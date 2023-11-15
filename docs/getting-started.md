@@ -52,7 +52,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
         <img src="https://www.roombanker.com/wp-content/uploads/2023/11/motion-sensor-roombanker-pir.jpg" alt="Roombanker PIR motion sensor" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
-        <h4>PIR Sensor</h4>
+        <h3>PIR Sensor</h3>
         <p>The PIR motion sensor discerns motion by precisely gauging alterations in infrared (IR) levels attributed to the presence of human beings within its designated range, thereby providing accurate and responsive detection capabilities.</p>
     </div>
 </div>
@@ -71,16 +71,16 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 *** 
 
-<div class="iot-list">
+<div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
         <img src="https://www.roombanker.com/wp-content/uploads/2023/11/door-sensor-roombanker.jpg" alt="Door Magnetic Sensor" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
-        <h3>Door Magnetic Sensor</h3>
+        <h4>Door Magnetic Sensor</h4>
         <p>The door magnetic sensor continuously oversees the state of door movements and remains vigilant in detecting openings and closings. It dutifully communicates these status changes to the central control units, ensuring a seamless flow of information and robust monitoring.</p>
     </div>
 </div>
-<div class="iot-list">
+<div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
         <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
             <a href="https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/specification" style={{ display: 'inline-block', backgroundColor: '#F6940B', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
