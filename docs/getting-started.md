@@ -14,7 +14,7 @@ Welcome to our Wiki Center — a comprehensive resource hub designed to enhance 
     <img src="https://www.roombanker.com/wp-content/uploads/2023/11/roombanker-wiki-center.jpg" alt="Roombanker Wiki Center" />
 </div>
  
- At [Roombanker](https://www.roombanker.com/), our commitment to security extends beyond the devices we create. We understand the importance of providing not just innovative products but also empowering our users with the knowledge to utilize them effectively.
+ At [Roombanker](https://www.roombanker.com/), our commitment to security extends beyond the devices we create. We understand the importance of providing not just innovative products but also empowering our users with the knowledge to utilize them effectively.  
 
 ## How Does Wiki Center Help You?  
 
