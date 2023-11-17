@@ -1,6 +1,6 @@
 # Roombanker Device Specification List  
 
-| Device Name | Quick Start Guide  |
+| Device Name | Specification  |
 |-----|-----|
 | Smart Hub | [View](https://wiki.roombanker.com/central-units/smart-hub/specification) |
 | PIR Sensor | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/specification) |
