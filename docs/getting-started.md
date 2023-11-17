@@ -24,7 +24,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div class="iot-list">
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/smart-hub-roombanker-home.jpg" alt="Roombanker Smart Alarm Hub" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/smart-hub-roombanker-rbgw-big.png" alt="Roombanker Smart Alarm Hub" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Smart Hub</h3>
@@ -48,7 +48,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/motion-sensor-roombanker-pir.jpg" alt="Roombanker PIR motion sensor" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/pir-sensor-roombanker-rbss-big.png" alt="Roombanker PIR motion sensor" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>PIR Sensor</h3>
@@ -72,7 +72,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/door-sensor-roombanker.jpg" alt="Roombanker Door Magnetic Sensor" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/door-magnetic-sensor-roombanker-rbss-big.png" alt="Roombanker Door Magnetic Sensor" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Door Magnetic Sensor</h3>
@@ -96,7 +96,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/panic-button-roombanker.jpg" alt="Roombanker Panic Button" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/panic-button-roombanker-rbss-big.png" alt="Roombanker Panic Button" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Panic Button</h3>
@@ -120,7 +120,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/environmental-monitoring-sensor-roombanker.jpg" alt="Roombanker Temperature and Humidity Monitor" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/temperature-humidity-monitor-roombanker-rbss-big-front.png" alt="Roombanker Temperature and Humidity Monitor" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Temperature and Humidity Monitor</h3>
@@ -144,7 +144,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/indoor-enviormental-safety.jpg" alt="Roombanker Water Leak Detector" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/water-leak-detector-roombanker-rbss-big-front.png" alt="Roombanker Water Leak Detector" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Water Leak Detector</h3>
@@ -168,7 +168,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/indoor-environmental-safety-.jpg" alt="Roombanker Smoke Detector" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/smoke-sensor-big-front.png" alt="Roombanker Smoke Detector" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Smoke Detector</h3>
@@ -192,7 +192,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/alarm-siren-roombanker.jpg" alt="Roombanker Indoor Siren" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/indoor-siren-roombanker-rbad-big.png" alt="Roombanker Indoor Siren" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Indoor Siren</h3>
@@ -216,7 +216,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/outdoor-siren-roombanker.jpg" alt="Roombanker Outdoor Siren" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/outdoor-siren-roombanker-rbad-big.png" alt="Roombanker Outdoor Siren" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Outdoor Siren</h3>
@@ -240,7 +240,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/control-device-roombanker.jpg" alt="Roombanker Keypad" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/keypad-roombanker-rbct-big.png" alt="Roombanker Keypad" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Keypad</h3>
@@ -264,7 +264,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/keyfob-roombanker.jpg" alt="Roombanker Keyfob" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/keyfob-roombanker-rbct-big.png" alt="Roombanker Keyfob" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Keyfob</h3>
@@ -288,7 +288,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/relay-roombanker.jpg" alt="Roombanker Relay" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/relay-roombanker-rbad-big.png" alt="Roombanker Relay" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Relay</h3>
@@ -312,7 +312,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/thoughtfuldesign.jpg" alt="Roombanker Wall Switch" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/wall-switch-roombanker-rbad-big.png" alt="Roombanker Wall Switch" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Wall Switch</h3>
@@ -336,7 +336,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/automation-device-roombanker.jpg" alt="Roombanker Smart Plug" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/smart-plug-roombanker-rbad-big.png" alt="Roombanker Smart Plug" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Smart Plug</h3>
@@ -360,7 +360,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/smart-hub-roombanker-home.jpg" alt="Roombanker Smart Thermostat" style={{maxWidth:'280px'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/smart-thermostat-roombanker-rbss-touch-big.png" alt="Roombanker Smart Thermostat" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Smart Thermostat</h3>
