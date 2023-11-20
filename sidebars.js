@@ -337,7 +337,20 @@ const sidebars = {
           ]
         },
       ],
-    }
+    },
+    {
+      type: "category",
+      label: "Smart Radiator Valve",
+      className:'bolder',
+      collapsed: true,
+      items: [
+        {
+          type: "doc",
+          id: "smart-radiator-valve/specification",
+          label: "Specification",
+        }
+      ],
+    },
   ],
 };
 

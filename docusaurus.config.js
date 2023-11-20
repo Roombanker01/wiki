@@ -56,7 +56,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: {
-        defaultMode: 'light',
+        defaultMode: 'dark',
       },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
@@ -64,7 +64,8 @@ const config = {
         title: '',
         logo: {
           alt: 'Roombanker',
-          src: 'img/logo.png',
+          srcDark: '/img/dark-logo.png',
+          src: '/img/logo.png',
         },
         items: [
           {
