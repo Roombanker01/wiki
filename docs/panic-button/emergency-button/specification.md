@@ -3,7 +3,7 @@
 Wireless button immediately inform relatives about a panic alarm in just one click. Meanwhile sirens will start to action automatically.
 Moreover, button can manage smart home appliances by activating scenes with a single clicks.
 
-<img width={100} src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Panic%20Button.png" alt="Panic Button" style="zoom:45%;" />
+<img width={100} src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Panic%20Button.png" alt="Panic Button" style={{zoom:‘45%’}} />
 
 ------
 
