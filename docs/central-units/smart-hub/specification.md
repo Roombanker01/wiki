@@ -1,214 +1,179 @@
-# Home Security Hub RBF
+# Home Security Hub (Pico)
 
-A smart hub supporting security, automation, health care wireless devices
+Smart Hub is the powerful brain of RoomBanker Security & Automation system, enabling you to connect a variety of sensors and peripherals and then DIY your own security solution in a flexible and easy-to-use way.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-3.png" alt="1-透视图-3" style="zoom:8%;" />                       <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/RBGW-201.3293%20%E6%8B%B7%E8%B4%9D.png" alt="RBGW-201.3293 拷贝" style="zoom:13.5%;" />
-
-------
-
-[TOC]
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-3.png" width=300 /> 
 
 ------
 
-## Capacity
+## 1. Capacity
 
-### Wireless  devices (including  RBF, Zigbee 3.0, Bluetooth  devices)
+### Wireless peripherals
 
-* Station supports up to 128 devices(RBF, Zigbee, BLE devices) 
+* Supports up to 64 peripherals (RBF devices only)
+*Specifically, up to 1 alarm keypad, 2 sirens, 32 keyfobs, 1 repeaters*
 
-  *Specifically, up to 2 alarm keypad, 4 sirens, 32 keyfobs, 2 repeaters*
 
-* Pico supports up to 64 devices(RBF devices only)
-  *Specifically, up to 1 alarm keypad, 2 sirens, 32 keyfobs, 1 repeaters*
-
-  > Note: There are different hubs supporting different wireless devices, please check "Available models" before ordering a Hub.
 
 ### Users
 
-* Up to 37
+* Up to 69 users
 
-  *1 Super Admin*
+  | User Type   | Quantity |
+  | ----------- | -------- |
+  | Super Admin | × 1      |
+  | Admin       | × 4      |
+  | App User    | × 32     |
+  | Local User  | × 32     |
 
-  _4 Admin_
 
-  *32 Users*
 
 ### Automation scenes
 
-* Up to 64
-  *Alarm responses.*
-  *Scheduled actions.*
-  *Security mode changing reactions.*
-  *Temperature changing reactions.*
-  *Humidity changing reactions.*
-  *Reactions to pressing Button.*
+* Up to 64 custom scenes
+  *Alarm responses / Scheduled actions / Security mode changing reactions / Temperature changing reactions / Humidity changing reactions / Reactions to pressing Button*
+
+
 
 ### Rooms
+* Up to 64 rooms
 
-* Up to 64
 
-## Wireless communication
+
+## 2. Wireless Communication
 
 ### RBF communication technology
 
 Innovative and Proprietary wireless communication technology to transmit information.
 
 Key features:
-
-* Ultra-long communication range.(Up to 3.5km@open area)
+* Ultra-long communication range. (Up to 3.5km in open space)
 * Two-way communication.
 * AES-CCM encryption featuring a random key.
+* OTA by wireless.
 * Instant notifications.
 * Remote control via RB Link App.
 
+
+
 ### Frequency bands
+* 863 ~ 870 MHz, 902 ~ 928 MHz
+*Depends on sales region.*
 
-* 868 MHz, 915 MHz, 433 MHz
-  *Depends on sales region.*
 
-### Maximum effective radiated power
-
-* Up to 20 dBm
-  Featured automatic power control to reduce power consumption and noise interference.
-
-  *External antenna optional for places where built-in antenna signal is bad or no signal.*
 
 ### Wireless signal modulation
-
 * FSK / DSSS
 
-### Wireless signal range
 
+
+### Wireless signal range
 * Up to 3,500m
-  Between the hub and connected devices (in an open space).
-  *Maximum range depends on the connected device.*
+Between the hub and connected devices (in an open space).
+*Maximum range depends on the connected device.*
+
+
 
 ### Encrypted communication
 
 All the data transmitted are protected by AES-CCM encryption with a random key.
 
+
+
 ### Frequency hopping (FHSS)
 
-To prevent radio interference and radio signal interception.
+Up to to 50 channels available to prevent radio interference and radio signal interception.
 
-> ### Recommendation:  The device operating voltage is DC5V 2A (Type-C)
->
-> Home Security Hub is designed for indoor installation only.
 
-------
 
-## Internet connection
+## 3. Internet Connection
 
 ### Ethernet
+* 1 × RJ45 Ethernet connector: 10/100 Mbps.
 
-* 1 RJ45 Ethernet connector: 10/100 Mbps.
 
-### Cellular
-
-* 1 Standard SIM slot
-
-* Cellular Band (LTE Cat1)
-
-  | Region                                | LTE-FDD Band                 | LTE-TDD Band        | GSM Band    |
-  | ------------------------------------- | ---------------------------- | ------------------- | ----------- |
-  | EMEA / ASIA / Australia / New Zealand | B1/ 3/ 5/ 7/ 8/ 20           | -                   | B2/ 3/ 5/ 8 |
-  | USA                                   | B2/B4/B5/B12/B13/B14/B66/B71 | -                   |             |
-  | Latin America                         | B2/ 3/ 4/ 5/ 7/ 8/ 28/ 66    | -                   | B2/ 3/ 5/ 8 |
-  | China / India                         | B1/ 3/ 5/ 8                  | B34/ 38/ 39/ 40/ 41 | B3/ 8       |
-
-> Note: Select the right LTE region before ordering a hub.
->
-> *External antenna optional for places where built-in antenna signal is bad or no signal.*
 
 ### Wi-Fi
 
-* 802.11 b/g/n
+* 2.4G, 802.11 b/g/n
 
-### Automatic switching between communication channels
 
-* Instant switching between Ethernet, Wi-Fi and SIM.
-* Instant switching between 4G (LTE), 3G, and 2G networks of SIM.
 
 ### Communication channels prioritization
-
 1. Ethernet
+
 2. Wi-Fi
-3. Cellular connection
 
-------
+   *Backup between Ethernet and Wi-Fi.*
+   
+   
 
-## Notifications
+## 4. Notifications
 
 ### Supported notification types
+* App notification Push
 
-* Push
-* SMS
-* Calls
 
-### Event types
 
-* Alarms
-* Malfunctions
-* Arm / Disarm
-* System Events
-* Automation devicesʼ events
-* Secen linkage events
-
-## Power Supply
-
+## 5. Power Supply
 ### External plug
 
 * Type-C, DC5V, 2A
 
-### Backup Battery
 
-* Built-in backup battery: 1 × 18650 lithium battery，2600mAh
-  *Up to 8 hours backup time*
 
-## Anti-sabotage
+## 6. Anti-sabotage
 
 ### Tamper alarm
 
 The system receives notifications about attempts to detach the device from the surface or remove it from the mounting panel.
 
-### Frequency hopping
 
+
+### Anti-jamming
 The users  receive notifications in case of jamming or when the hub loses connection with the devices.
 
-## Enclosure
 
+
+## 7. Enclosure
 ### Dimensions
+
+* 150mm × 150mm × 37mm
+
+
 
 ### Weight
 
-### Operating temperature range
+* 260 g
 
+
+
+### Operating temperature range
 * from −10°C to +45°C
 
-## Complete set
 
-* Home Security Hub with mounting panel
-* Power Plug with 1m Type-C cable
-* Ethernet cable
-* Screw package
-* Quick Start Guide
 
-## Additional information
+## 8. Complete set
+
+| Product                               | Quantity |
+| ------------------------------------- | -------- |
+| Home Security Hub with mounting panel | × 1      |
+| Power Plug with Type-C cable (1m)     | × 1      |
+| Ethernet cable                        | × 1      |
+| Screw package                         | × 1      |
+| Quick Start Guide                     | × 1      |
+
+
+
+## 9. Additional information
 
 ### Available models
 
-| Hub          | Model Name                                       | RBF  | Zigbee | Ethernet | Wi-Fi | GPRS | LTE  |
-| ------------ | ------------------------------------------------ | ---- | ------ | -------- | ----- | ---- | ---- |
-| Pico         | RBGW-101-433<br />RBGW-101-868<br />RBGW-101-915 | √    | ×      | √        | √     | ×    | ×    |
-| Station-GPRS | RBGW-201-433<br />RBGW-201-868<br />RBGW-201-915 | √    | √      | √        | √     | √    | ×    |
-| Station-LTE  | RBGW-202-433<br />RBGW-202-868<br />RBGW-202-915 | √    | √      | √        | √     | ×    | √    |
+| Hub  | Model Name                     | RBF  | Zigbee | Ethernet | Wi-Fi | GPRS | LTE  |
+| ---- | ------------------------------ | ---- | ------ | -------- | ----- | ---- | ---- |
+| Pico | RBGW-101-868<br />RBGW-101-915 | √    | ×      | √        | √     | ×    | ×    |
 
-> Note：Station-LTE needs to select LTE region. 
->
-> * Region 1: EMEA / ASIA / Australia / New Zealand
-> * Region 2: USA
-> * Region 3: Latin America
-> * Region 4: China / India
+
 
 ### Certifications
 
@@ -220,10 +185,12 @@ The users  receive notifications in case of jamming or when the hub loses connec
 * NOM
 * Anatel
 
-### User manual
 
+
+### User manual
 * [Home Security Hub user manual]: 
 
-### Warranty
 
-* 24 months
+
+### Warranty
+* Replacement and repair within 24 months of the date of sale. 
