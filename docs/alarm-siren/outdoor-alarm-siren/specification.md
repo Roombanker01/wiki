@@ -1,14 +1,9 @@
-# Outdoor Siren RBF
+﻿# Outdoor Siren RBF
 
 Wireless outdoor siren is designed for outdoor installation. With the built-in solar panel, the device has a continuous green energy supply making the siren a long live device.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Outdoor%20Siren1.png" alt="Outdoor Siren1" style="zoom:15%;" />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Outdoor%20Siren1.png" alt="Outdoor Siren1" style={{zoom:'15%'}} />
 
-------
-
-[TOC]
-
-------
 
 ## Siren Performance
 
