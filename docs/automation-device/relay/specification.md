@@ -1,14 +1,9 @@
-# Wireless Relay RBF
+﻿# Wireless Relay RBF
 
 Wireless relay is a dry contact relay to control 6-36 V⎓ power supply remotely.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-2.png" alt="1-透视图-2" style="zoom:15%;" />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-2.png" alt="1-透视图-2" style={{zoom:'15%'}} />
 
-------
-
-[TOC]
-
-------
 
 ## Features
 
