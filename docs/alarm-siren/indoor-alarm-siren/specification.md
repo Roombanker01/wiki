@@ -2,13 +2,7 @@
 
 Wireless indoor siren that loudly notifies of an alarm during detector activation. It is installed indoors to warn of danger or deter intruders.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Indoor%20Siren1.png" alt="Indoor Siren1" style="zoom:15%;" />
-
-------
-
-[TOC]
-
-------
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Indoor%20Siren1.png" alt="Indoor Siren1" style={{zoom:'15%'}} />
 
 ## Siren Performance
 
