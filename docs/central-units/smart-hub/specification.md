@@ -7,46 +7,53 @@ Smart Hub is the powerful brain of RoomBanker Security & Automation system, enab
 
 ------
 
+
+
 ## 1. Capacity
 
 ### Wireless peripherals
 
-* Supports up to 64 peripherals (RBF devices only)
+* Supports up to **64** devices(RBF devices only)
 *Specifically, up to 1 alarm keypad, 2 sirens, 32 keyfobs, 1 repeaters*
 
 
 
 ### Users
 
-* Up to 69 users
+* Up to **69** users
+
   | User Type   | Quantity |
   | ----------- | -------- |
   | Super Admin | × 1      |
   | Admin       | × 4      |
   | App User    | × 32     |
   | Local User  | × 32     |
-
+  
+  
 
 ### Automation scenes
 
-* Up to 64 custom scenes
+* Up to **64** custom scenes
   *Alarm responses / Scheduled actions / Security mode changing reactions / Temperature changing reactions / Humidity changing reactions / Reactions to pressing Button*
 
 
 
 ### Rooms
-* Up to 64 rooms
+
+* Up to **64** rooms
+
+------
 
 
 
-## 2. Wireless Communication
+## 2. Wireless communication
 
 ### RBF communication technology
 
 Innovative and Proprietary wireless communication technology to transmit information.
 
 Key features:
-* Ultra-long communication range. (Up to 3.5km in open space)
+* Ultra-long communication range.(Up to 3.5km@open area)
 * Two-way communication.
 * AES-CCM encryption featuring a random key.
 * OTA by wireless.
@@ -56,38 +63,49 @@ Key features:
 
 
 ### Frequency bands
-* 863 ~ 870 MHz, 902 ~ 928 MHz
-*Depends on sales region.*
+* RBGW-101-868: 863 ~ 870 MHz
 
+* RBGW-101-915: 902 ~ 928 MHz
+  *Depends on sales region.*
 
-
+  
 ### Wireless signal modulation
 * FSK / DSSS
 
 
 
 ### Wireless signal range
-* Up to 3,500m
-Between the hub and connected devices (in an open space).
+* Up to **3,500m** (in open space)
+Between the hub and connected devices.
 *Maximum range depends on the connected device.*
 
 
 
 ### Encrypted communication
-
-All the data transmitted are protected by AES-CCM encryption with a random key.
+* All the data transmitted are protected by AES-CCM encryption with a random key.
 
 
 
 ### Frequency hopping (FHSS)
 
-Up to to 50 channels available to prevent radio interference and radio signal interception.
+* Up to **50 channels** available to prevent radio interference and radio signal interception.
 
 
 
-## 3. Internet Connection
+### Time division multiple access (TDMA)
+* With the help of clock synchronization technology, hub will slice time into different division for different RBF wireless devices. In this way, all devices will communicate with hub in a sequence.
+
+
+
+
+------
+
+
+
+## 3. Internet connection
 
 ### Ethernet
+
 * 1 × RJ45 Ethernet connector: 10/100 Mbps.
 
 
@@ -99,6 +117,7 @@ Up to to 50 channels available to prevent radio interference and radio signal in
 
 
 ### Communication channels prioritization
+
 1. Ethernet
 
 2. Wi-Fi
@@ -107,17 +126,31 @@ Up to to 50 channels available to prevent radio interference and radio signal in
    
    
 
+------
+
+
+
 ## 4. Notifications
 
 ### Supported notification types
+
 * App notification Push
 
 
 
+------
+
+
+
 ## 5. Power Supply
+
 ### External plug
 
 * Type-C, DC5V, 2A
+
+
+
+------
 
 
 
@@ -130,11 +163,17 @@ The system receives notifications about attempts to detach the device from the s
 
 
 ### Anti-jamming
+
 The users  receive notifications in case of jamming or when the hub loses connection with the devices.
 
 
 
+------
+
+
+
 ## 7. Enclosure
+
 ### Dimensions
 
 * 150mm × 150mm × 37mm
@@ -152,6 +191,10 @@ The users  receive notifications in case of jamming or when the hub loses connec
 
 
 
+------
+
+
+
 ## 8. Complete set
 
 | Product                               | Quantity |
@@ -161,6 +204,8 @@ The users  receive notifications in case of jamming or when the hub loses connec
 | Ethernet cable                        | × 1      |
 | Screw package                         | × 1      |
 | Quick Start Guide                     | × 1      |
+
+------
 
 
 
@@ -187,9 +232,10 @@ The users  receive notifications in case of jamming or when the hub loses connec
 
 
 ### User manual
-* [Home Security Hub user manual]: 
+* [Roombanker User Manual](https://wiki.roombanker.com/user-manual)
 
 
 
 ### Warranty
+
 * Replacement and repair within 24 months of the date of sale. 
