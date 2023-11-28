@@ -118,12 +118,12 @@ const sidebars = {
           items: [
             {
               type: "doc",
-              id: "Panic-button/Panic-Button/specification",
+              id: "panic-button/panic-putton/specification",
               label: "Specification",
             },
             {
               type: "doc",
-              id: "Panic-button/Panic-button/quick-start-guide",
+              id: "panic-button/panic-button/quick-start-guide",
               label: "Quick Start Guide",
             },
           ]
