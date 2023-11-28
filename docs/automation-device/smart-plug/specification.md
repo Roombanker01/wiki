@@ -1,14 +1,9 @@
-# Smart Plug RBF
+﻿# Smart Plug RBF
 
 Wireless Smart Plug controls appliances, monitors power consumption.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Smart%20Plug%20EU.png" alt="Smart Plug EU" style="zoom:15%;" />		<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Smart%20Plug%20US.png" alt="Smart Plug US" style="zoom:24%;" />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Smart%20Plug%20EU.png" alt="Smart Plug EU" style={{zoom:'15%'}} />		<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Smart%20Plug%20US.png" alt="Smart Plug US" style={{zoom:'24%'}} />
 
-------
-
-[TOC]
-
-------
 
 ## Features
 
