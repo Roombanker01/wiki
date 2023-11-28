@@ -2,37 +2,33 @@
 
 Wireless PIR motion sensor that notifies the owner of the first signs of home or office intrusion. The sensor is fastened to the wall in front of the doors and other places likely of intruder entry.
 
-​    <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/PIR-45%E4%BE%A7%E8%A7%86%E5%9B%BE.png" alt="PIR-45侧视图" style={{zoom:'15%'}} />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/PIR-45%E4%BE%A7%E8%A7%86%E5%9B%BE.png" alt="PIR-45侧视图" style={{zoom:'15%'}} />
 
+------
 
-## Detection Performance
+## 1. Detection Performance
 
 ### Detection method
 
-* PIR sensor
-
+* Passive infrared sensor
 ### Motion detection distance
 
-* Up to 12m
-
+* Up to **12 m**
 ### Detection angle
 
-* 110°
+* Horizontal: **110°**
 
 > *Recommended installation height: 1.8m to 2.4m*
 
 ------
 
-## Features
-
+## 2. Features
 ### Pet Immunity
 
-* 10kg
-
+* ≤ 10 kg
 ### White Light Filter
 
-* 6500lux
-
+* 2000 lux
 ### Tamper Protection
 
 * Rear
@@ -46,9 +42,9 @@ Wireless PIR motion sensor that notifies the owner of the first signs of home or
 * Power up enrolling
   *When sensor is powered up, it will automatically start paring to the hub nearby*
 * Find me
-  *When enabled, the sensor starts flashing green, which can help identify the sensor from numerous door magnetic sensors.*
+  *When enabled, the sensor starts flashing green, which can help identify the sensor from numerous devices.*
 * Signal strength detection
-  *When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation place.* 
+  *When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
 * Low battery notification
 
 ### Indicator
@@ -62,22 +58,18 @@ Wireless PIR motion sensor that notifies the owner of the first signs of home or
 
 ------
 
-## RBF wireless technology
+## 3. RBF wireless technology
 
 ### Wireless signal range
 
-* Up to 3,150 m in an open space with hub
-* Two-way communication between hub
+* 868 MHz Sensor: Up to **3,150 m** in an open space with hub
+* Two-way communication with hub
 
 ### Frequency bands
 
-* 868 MHz, 915 MHz, 433 MHz
+* **RBSS-PS1-868**: 863 ~ 870 MHz
+* **RBSS-PS1-915**: 902 ~ 928 MHz
   *Depends on sales region.*
-
-### Maximum effective radiated power
-
-* Up to 20 dBm
-  Featured automatic power control to reduce power consumption and noise interference.
 
 ### Wireless signal modulation
 
@@ -97,16 +89,16 @@ Wireless PIR motion sensor that notifies the owner of the first signs of home or
 
 ------
 
-## Electrical Characteristics
+## 4. Electrical Characteristics
 
 ### Power Supply
 
 * CR123A × 1
-* Up to 2 years (standby time)
+* Up to 5 years (standby mode)
 
 ------
 
-## General
+## 5. General
 
 ### Operation Temperature
 
@@ -126,28 +118,29 @@ Wireless PIR motion sensor that notifies the owner of the first signs of home or
 
 ### Weight
 
-* 111g
+* 111 g
 
 ------
 
-## Compatibility
+## 6. Compatibility
 
 * Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
 
+------
 
-## Complete set
+## 7. Complete set
 
-* PIR Motion Sensor
-* CR123A battery (pre-installed)
-* Wall-mount bracket
-* 3M adhesive
-* Quick Start Guide
+* PIR Motion Sensor × 1
+* Wall-mount bracket × 1
+* 3M adhesive × 1
+* Quick Start Guide × 1
 
-## Additional information
+------
+
+## 8. Additional information
 
 ### Available models
 
-* RBSS-PS1-433
 * RBSS-PS1-868
 * RBSS-PS1-915
 
@@ -156,10 +149,17 @@ Wireless PIR motion sensor that notifies the owner of the first signs of home or
 * CE, CB
 * FCC
 * ICASA
-* LOA
 * RCM
 * NOM
 * Anatel
+
+
+
+### User Manual
+
+- [Roombanker User Manual](https://wiki.roombanker.com/user-manual)
+
+
 
 ### Warranty
 
