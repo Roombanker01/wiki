@@ -114,16 +114,16 @@ const sidebars = {
        // ============Smart Hub===============
         {
           type: "category",
-          label: "Emergency Button",
+          label: "Panic Button",
           items: [
             {
               type: "doc",
-              id: "panic-button/emergency-button/specification",
+              id: "panic-button/Panic-Button/specification",
               label: "Specification",
             },
             {
               type: "doc",
-              id: "panic-button/emergency-button/quick-start-guide",
+              id: "panic-button/Panic-button/quick-start-guide",
               label: "Quick Start Guide",
             },
           ]
