@@ -123,7 +123,7 @@ const sidebars = {
             },
             {
               type: "doc",
-              id: "panic-button/panic-button/quick-start-guide",
+              id: "panic-button/panic-putton/quick-start-guide",
               label: "Quick Start Guide",
             },
           ]
