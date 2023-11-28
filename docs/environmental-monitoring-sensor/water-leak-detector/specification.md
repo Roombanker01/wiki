@@ -1,14 +1,9 @@
-# Water Leak Detector RBF
+﻿# Water Leak Detector RBF
 
 Wireless Water Leak Detector is used to detect water leak issue in your home and office. It can be placed even in hard-to-reach places with an external strobe, goes years without maintenance, and works 24/7.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Water%20Leak.png" alt="Water Leak" style="zoom:25%;" />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Water%20Leak.png" alt="Water Leak" style={{zoom:'25%'}} />
 
-------
-
-[TOC]
-
-------
 
 ## Detection Performance
 

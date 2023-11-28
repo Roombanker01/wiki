@@ -1,14 +1,9 @@
-# Keyfob RBF
+﻿# Keyfob RBF
 
 A keyfob for controlling security modes. Features two custom buttons for controlling your home appliances.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Keyfob-%E6%AD%A3%E8%A7%86%E5%9B%BE.png" alt="Keyfob-正视图" style="zoom:13%;" />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Keyfob-%E6%AD%A3%E8%A7%86%E5%9B%BE.png" alt="Keyfob-正视图" style={{zoom:'13%'}} />
 
-------
-
-[TOC]
-
-------
 
 ## Button Function
 

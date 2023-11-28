@@ -1,14 +1,9 @@
-# PIR Motion Sensor RBF
+﻿# PIR Motion Sensor RBF
 
 Wireless PIR motion sensor that notifies the owner of the first signs of home or office intrusion. The sensor is fastened to the wall in front of the doors and other places likely of intruder entry.
 
-​    <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/PIR-45%E4%BE%A7%E8%A7%86%E5%9B%BE.png" alt="PIR-45侧视图" style="zoom:15%;" />
+​    <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/PIR-45%E4%BE%A7%E8%A7%86%E5%9B%BE.png" alt="PIR-45侧视图" style={{zoom:'15%'}} />
 
-------
-
-[TOC]
-
-------
 
 ## Detection Performance
 

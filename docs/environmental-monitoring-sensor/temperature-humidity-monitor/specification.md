@@ -1,14 +1,9 @@
-# Temperature Humidity Monitor RBF
+﻿# Temperature Humidity Monitor RBF
 
 Temperature Humidity Monitor indicates temperature&humidity of your space in real-time. Air-conditioning and humidifier can be automatically ON/OFF according to the smart scene you set.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/TH%E6%B8%A9%E6%B9%BF%E5%BA%A63.png" alt="TH温湿度3" style="zoom:10%;" />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/TH%E6%B8%A9%E6%B9%BF%E5%BA%A63.png" alt="TH温湿度3" style={{zoom:'10%'}} />
 
-------
-
-[TOC]
-
-------
 
 ## Detection Performance
 
