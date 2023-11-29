@@ -161,12 +161,12 @@ const config = {
                 to: '/environmental-monitoring-sensor/water-leak-detector/specification',
               },
               {
-                label: 'Indoor Alarm Siren',
-                to: '/alarm-siren/indoor-alarm-siren/specification',
+                label: 'Indoor Siren',
+                to: '/alarm-siren/indoor-siren/specification',
               },
               {
-                label: 'Outdoor Alarm Siren',
-                to: '/alarm-siren/outdoor-alarm-siren/specification',
+                label: 'Outdoor Siren',
+                to: '/alarm-siren/outdoor-siren/specification',
               },
               {
                 label: 'Heating Thermostat',
