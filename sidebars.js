@@ -19,7 +19,7 @@ const sidebars = {
   // But you can create a sidebar manually
   tutorialSidebar: [
     {
-      type: "doc",
+      type: "doc", //文档
       id: "getting-started",
       label: "Getting Started",
       className:'bolder',
@@ -31,24 +31,40 @@ const sidebars = {
       className:'bolder',
     },
     {
-      type: "category",
-      label: "Central Units",
+      type: "category", // 类别
+      label: "Hub",
       className:'bolder',
       collapsed: true,
       items: [
        // ============Smart Hub===============
         {
           type: "category",
-          label: "Smart Hub",
+          label: "Home Security Hub (Pico)",
           items: [
             {
               type: "doc",
-              id: "central-units/smart-hub/specification",
+              id: "hub/home-security-hub-pico/specification",
               label: "Specification",
             },
             {
               type: "doc",
-              id: "central-units/smart-hub/quick-start-guide",
+              id: "hub/home-security-hub-pico/quick-start-guide",
+              label: "Quick Start Guide",
+            },
+          ]
+        },
+        {
+          type: "category",
+          label: "Home Security Hub (Station)",
+          items: [
+            {
+              type: "doc",
+              id: "hub/home-security-hub-station/specification",
+              label: "Specification",
+            },
+            {
+              type: "doc",
+              id: "hub/home-security-hub-station/quick-start-guide",
               label: "Quick Start Guide",
             },
           ]
@@ -114,16 +130,16 @@ const sidebars = {
        // ============Smart Hub===============
         {
           type: "category",
-          label: "Panic Button",
+          label: "Emergency Button",
           items: [
             {
               type: "doc",
-              id: "panic-button/panic-button/specification",
+              id: "panic-button/emergency-button/specification",
               label: "Specification",
             },
             {
               type: "doc",
-              id: "panic-button/panic-button/quick-start-guide",
+              id: "panic-button/emergency-button/quick-start-guide",
               label: "Quick Start Guide",
             },
           ]
