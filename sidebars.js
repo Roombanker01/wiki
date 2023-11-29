@@ -210,32 +210,32 @@ const sidebars = {
       items: [
         {
           type: "category",
-          label: "Indoor Alarm Siren",
+          label: "Indoor Siren",
           items: [
             {
               type: "doc",
-              id: "alarm-siren/indoor-alarm-siren/specification",
+              id: "alarm-siren/indoor-siren/specification",
               label: "Specification",
             },
             {
               type: "doc",
-              id: "alarm-siren/indoor-alarm-siren/quick-start-guide",
+              id: "alarm-siren/indoor-siren/quick-start-guide",
               label: "Quick Start Guide",
             },
           ]
         },
         {
           type: "category",
-          label: "Outdoor Alarm Siren",
+          label: "Outdoor Siren",
           items: [
             {
               type: "doc",
-              id: "alarm-siren/outdoor-alarm-siren/specification",
+              id: "alarm-siren/outdoor-siren/specification",
               label: "Specification",
             },
             {
               type: "doc",
-              id: "alarm-siren/outdoor-alarm-siren/quick-start-guide",
+              id: "alarm-siren/outdoor-siren/quick-start-guide",
               label: "Quick Start Guide",
             },
           ]
@@ -322,51 +322,54 @@ const sidebars = {
         },
         {
           type: "category",
-          label: "Smart Plug",
+          label: "Smart Plug EU",
           items: [
             {
               type: "doc",
-              id: "automation-device/smart-plug/specification",
+              id: "automation-device/smart-plug-eu/specification",
               label: "Specification",
             },
             {
               type: "doc",
-              id: "automation-device/smart-plug/quick-start-guide",
+              id: "automation-device/smart-plug-eu/quick-start-guide",
               label: "Quick Start Guide",
             },
           ]
         },
         {
           type: "category",
-          label: "Heating Thermostat",
+          label: "Smart Plug US",
           items: [
             {
               type: "doc",
-              id: "automation-device/heating-thermostat/specification",
+              id: "automation-device/smart-plug-us/specification",
               label: "Specification",
             },
             {
               type: "doc",
-              id: "automation-device/heating-thermostat/quick-start-guide",
+              id: "automation-device/smart-plug-us/quick-start-guide",
               label: "Quick Start Guide",
             },
           ]
         },
-      ],
-    },
-    {
-      type: "category",
-      label: "Smart Radiator Valve",
-      className:'bolder',
-      collapsed: true,
-      items: [
         {
-          type: "doc",
-          id: "smart-radiator-valve/specification",
-          label: "Specification",
-        }
+          type: "category",
+          label: "Smart Radiator Valve",
+          items: [
+            {
+              type: "doc",
+              id: "automation-device/smart-radiator-valve/specification",
+              label: "Specification",
+            },
+            {
+              type: "doc",
+              id: "automation-device/smart-radiator-valve/quick-start-guide",
+              label: "Quick Start Guide",
+            },
+         ]
+       },
       ],
-    },
+   },
   ],
 };
 
