@@ -5,7 +5,7 @@
 | Smart Hub | [View](https://wiki.roombanker.com/central-units/smart-hub/quick-start-guide) |
 | PIR Sensor | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/quick-start-guide) |
 | Door Magnetic Sensor | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/quick-start-guide) |
-| Panic Button | [View](https://wiki.roombanker.com/panic-button/emergency-button/quick-start-guide) |
+| Panic Button | [View](https://wiki.roombanker.com/panic-button/panic-button/quick-start-guide) |
 | Temperature and Humidity Minitor | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/quick-start-guide) |
 | Water Leak Detector | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/water-leak-detector/quick-start-guide) |
 | Smoke Detector | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/quick-start-guide) |

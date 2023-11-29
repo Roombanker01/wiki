@@ -141,7 +141,7 @@ const config = {
               },
               {
                 label: 'Panic Button',
-                to: '/panic-button/emergency-button/specification',
+                to: '/panic-button/panic-button/specification',
               },
               {
                 label: 'Smoke Sensor',
