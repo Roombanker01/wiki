@@ -1,6 +1,11 @@
-﻿# PIR Sensor
+# PIR Sensor
 
 The passive infrared sensor detects motion by detecting changes in infrared (IR) levels caused by the presence of humans within its range.
+
+<p align = "center">
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/PIR-45%E4%BE%A7%E8%A7%86%E5%9B%BE.png" alt="PIR-45侧视图" style="zoom:15%;" />
+</p>
+
 
 ------
 
@@ -12,6 +17,7 @@ The passive infrared sensor detects motion by detecting changes in infrared (IR)
 ### Motion detection distance
 
 * Up to **12 m**
+
 ### Detection angle
 
 * Horizontal: **110°**
@@ -60,7 +66,7 @@ The passive infrared sensor detects motion by detecting changes in infrared (IR)
 
 ### Wireless signal range
 
-* 868 MHz Sensor: Up to **3,150 m** in an open space with hub
+* 868 MHz PIR Sensor: Up to **3,150 m** in an open space with hub
 * Two-way communication with hub
 
 ### Frequency bands
@@ -128,10 +134,14 @@ The passive infrared sensor detects motion by detecting changes in infrared (IR)
 
 ## 7. Complete set
 
-* PIR Motion Sensor × 1
-* Wall-mount bracket × 1
-* 3M adhesive × 1
-* Quick Start Guide × 1
+| Product               | Quantity |
+| --------------------- | -------- |
+| PIR Sensor            | × 1      |
+| Wall-mounting bracket | × 1      |
+| 3M adhesive           | × 1      |
+| Quick Start Guide     | × 1      |
+
+
 
 ------
 
