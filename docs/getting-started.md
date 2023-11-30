@@ -363,24 +363,48 @@ In this resource hub you’ll find detailed product specifications, user manuals
         <img src="https://www.roombanker.com/wp-content/uploads/2023/11/smart-plug-roombanker-rbad-big.png" alt="Roombanker Smart Plug" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
-        <h3>Smart Plug</h3>
+        <h3>Smart Plug (EU)</h3>
         <p>The smart plug revolutionizes your home by transforming ordinary household appliances into intelligent devices with just a few seconds of setup. Furthermore, leverage its electricity monitoring and reminder functionality to track and optimize your energy usage, putting you in control of efficiency and convenience.</p>
     </div>
 </div>
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
         <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
-            <a href="https://wiki.roombanker.com/automation-device/smart-plug/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
+            <a href="https://wiki.roombanker.com/automation-device/smart-plug-eu/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
         </div>
     </div>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
         <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
-            <a href="https://wiki.roombanker.com/automation-device/smart-plug/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
+            <a href="https://wiki.roombanker.com/automation-device/smart-plug-eu/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
         </div>
     </div>
 </div>
 
 ***  
+
+<div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/smart-plug-roombanker-rbad-big.png" alt="Roombanker Smart Plug" style={{maxWidth:'280px'}}/>
+    </div>
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
+        <h3>Smart Plug (US)</h3>
+        <p>The smart plug revolutionizes your home by transforming ordinary household appliances into intelligent devices with just a few seconds of setup. Furthermore, leverage its electricity monitoring and reminder functionality to track and optimize your energy usage, putting you in control of efficiency and convenience.</p>
+    </div>
+</div>
+<div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
+            <a href="https://wiki.roombanker.com/automation-device/smart-plug-us/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
+        </div>
+    </div>
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
+            <a href="https://wiki.roombanker.com/automation-device/smart-plug-us/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
+        </div>
+    </div>
+</div>
+
+***
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
