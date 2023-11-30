@@ -2,7 +2,7 @@
 
 The wireless smart plug features functions such as power management and child lock safety protection.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-1.png" alt="1-透视图-1" style={{zoom:'25'%}} />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-1.png" alt="1-透视图-1" style={{zoom:'25%'}} />
 
 ------
 
