@@ -361,8 +361,8 @@ const sidebars = {
               id: "automation-device/smart-radiator-valve/specification",
               label: "Specification",
             },
-            {s
-              type: "doc",
+            {
+              stype: "doc",
               id: "automation-device/smart-radiator-valve/quick-start-guide",
               label: "Quick Start Guide",
             },
