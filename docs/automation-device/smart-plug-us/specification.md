@@ -1,27 +1,26 @@
-﻿# Smart Plug RBF
+# Smart Plug(US)
 
-Wireless Smart Plug controls appliances, monitors power consumption.
+The wireless smart plug features functions such as power management and child lock safety protection.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Smart%20Plug%20EU.png" alt="Smart Plug EU" style={{zoom:'15%'}} />		<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Smart%20Plug%20US.png" alt="Smart Plug US" style={{zoom:'24%'}} />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-1.png" alt="1-透视图-1" style="zoom:25%;" />
 
+------
 
-## Features
+## 1. Features
 
 ### ON/OFF
 
-* Physical button control
-* App Control
-* Smart Scene control: By Alarm, By Operation, By Fault, By Schedule
+* 1 × Power switch button
 
 ### Energy monitoring
 
-* Support power consumption
+* Support power consumption monitoring
 
 ### Child lock
 
 * Support
 
-  *When enabled, physical button will be locked. The plug can be controlled by App only.*
+  *When enabled, physical button will be locked. The plug can not be controlled locally.*
 
 ### Remote setting and testing
 
@@ -30,7 +29,9 @@ Wireless Smart Plug controls appliances, monitors power consumption.
 ### Advanced features
 
 * Power up enrolling
-  *When sensor is powered up, it will automatically start paring to the hub nearby*
+  *When plug is powered up, it will automatically start paring to the hub nearby*
+* Find me
+  *When enabled, the plug starts flashing blue, which can help identify the plug from numerous devices.*
 * Signal strength detection
   *When enabled, App shows green/orange/red indicating the wireless signal strength between the hub at current installation place.* 
 
@@ -41,22 +42,16 @@ Wireless Smart Plug controls appliances, monitors power consumption.
 
 ------
 
-## RBF wireless technology
+## 2. RBF wireless technology
 
 ### Wireless signal range
 
-* Up to 1,900 m in an open space with hub
-* Two-way communication between hub
+* 915 MHz Smart Plug: Up to **1,900 m** in an open space with hub
+* Two-way communication with hub
 
 ### Frequency bands
 
-* 868 MHz, 915 MHz, 433 MHz
-  *Depends on sales region.*
-
-### Maximum effective radiated power
-
-* Up to 20 dBm
-  Featured automatic power control to reduce power consumption and noise interference.
+* 902 ~ 928 MHz
 
 ### Wireless signal modulation
 
@@ -76,21 +71,22 @@ Wireless Smart Plug controls appliances, monitors power consumption.
 
 ------
 
-## Electrical Characteristics
+## 3. Electrical Characteristics
 
 ### Power Supply
 
-* European standard: 230V AC ±10%; 50/60 Hz; Max 16A, Max 3680W
-* American standard: 110V AC ±10%; 50/60 Hz , Max 16A, Max 3680W
+* 110 V~ ±10%; 50/60 Hz
+* Max 16 A
+* Max 3680 W
 
 ### Overvoltage protection
 
-* European standard: min-184V~; max-253V~
-* American standard: min-92V~; max-132V~
+* Min-92 V~
+* Max-132 V~
 
 ------
 
-## General
+## 4. General
 
 ### Operation Temperature
 
@@ -106,31 +102,31 @@ Wireless Smart Plug controls appliances, monitors power consumption.
 
 ### Dimension(WxHxD)
 
-* European standard: Φ55.5 × 82.3mm
-* American standard: 80mm × 38mm × 48.5mm
+* 80mm × 38mm × 48.5mm
 
 ### Weight
 
-* European standard: 93.6 g
-* American standard: 60.6 g
+* 60.6 g
 
 ------
 
-## Compatibility
+## 5. Compatibility
 
 * Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
 
+## 6. Complete set
 
-## Complete set
+| Product                  | Quantity |
+| ------------------------ | -------- |
+| Smart Plug (US Standard) | × 1      |
+| Quick Start Guide        | × 1      |
 
-* Smart Plug
-* Quick Start Guide
 
-## Additional information
+
+## 7. Additional information
 
 ### Available models
 
-* RBAD-PL1-868(EU)
 * RBAD-PL1-915(US)
 
 ### Certifications
@@ -145,4 +141,4 @@ Wireless Smart Plug controls appliances, monitors power consumption.
 
 ### Warranty
 
-* Replacement and repair within 24 months of the date of sale. Batteries are not covered under warranty.
+* Replacement and repair within 24 months of the date of sale. 
