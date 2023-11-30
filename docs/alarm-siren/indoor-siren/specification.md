@@ -1,8 +1,8 @@
-# Indoor Siren
+﻿# Indoor Siren
 
 The wireless alarm sirens with loud sounds and flashing lights are designed to grab attention of your community and scare off any vandals effectively.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Indoor%20Siren1.png" alt="Indoor Siren1" style="zoom:15%;" />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Indoor%20Siren1.png" alt="Indoor Siren1" style={{zoom:'15%'}} />
 
 
 

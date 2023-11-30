@@ -1,8 +1,8 @@
-# Smoke Detector Zigbee3.0
+﻿# Smoke Detector Zigbee3.0
 
 A low-power, long-lasting wireless smoke detector that supports high-precision smoke detection, capable of timely detection and triggering alarms in the early stages of a fire.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-4.png" alt="1-透视图-4" style="zoom:15%;" />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-4.png" alt="1-透视图-4" style={{zoom:'15%'}} />
 
 
 ------
