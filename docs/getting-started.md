@@ -370,12 +370,12 @@ In this resource hub you’ll find detailed product specifications, user manuals
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
         <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
-            <a href="https://wiki.roombanker.com/automation-device/heating-thermostat/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
+            <a href="https://wiki.roombanker.com/automation-device/smart-thermostat/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
         </div>
     </div>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
         <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
-            <a href="https://wiki.roombanker.com/automation-device/heating-thermostat/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
+            <a href="https://wiki.roombanker.com/automation-device/smart-thermostat/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
         </div>
     </div>
 </div>

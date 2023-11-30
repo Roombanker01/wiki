@@ -15,4 +15,4 @@
 | Relay | [View](https://wiki.roombanker.com/automation-device/relay/quick-start-guide) |  
 | Wall Switch | [View](https://wiki.roombanker.com/automation-device/wall-switch/quick-start-guide) |  
 | Smart Plug | [View](https://wiki.roombanker.com/automation-device/smart-plug/quick-start-guide) | 
-| Heating Thermostat | [View](https://wiki.roombanker.com/automation-device/heating-thermostat/quick-start-guide) | 
+| Heating Thermostat | [View](https://wiki.roombanker.com/automation-device/smart-thermostat/quick-start-guide) | 

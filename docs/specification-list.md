@@ -15,4 +15,4 @@
 | Relay | [View](https://wiki.roombanker.com/automation-device/relay/specification) |  
 | Wall Switch | [View](https://wiki.roombanker.com/automation-device/wall-switch/specification) |  
 | Smart Plug | [View](https://wiki.roombanker.com/automation-device/smart-plug/specification) | 
-| Heating Thermostat | [View](https://wiki.roombanker.com/automation-device/heating-thermostat/specification) | 
+| Heating Thermostat | [View](https://wiki.roombanker.com/automation-device/smart-thermostat/specification) | 

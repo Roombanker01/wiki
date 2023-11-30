@@ -169,8 +169,8 @@ const config = {
                 to: '/alarm-siren/outdoor-siren/specification',
               },
               {
-                label: 'Heating Thermostat',
-                to: '/automation-device/heating-thermostat/specification',
+                label: 'Smart Thermostat',
+                to: '/automation-device/smart-thermostat/specification',
               }
             ],
           },
