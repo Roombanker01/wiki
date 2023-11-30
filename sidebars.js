@@ -130,7 +130,7 @@ const sidebars = {
        // ============Smart Hub===============
         {
           type: "category",
-          label: "Emergency Button",
+          label: "Panic Button",
           items: [
             {
               type: "doc",
