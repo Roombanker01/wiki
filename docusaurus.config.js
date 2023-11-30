@@ -128,8 +128,12 @@ const config = {
             title: 'Devices',
             items: [
               {
-                label: 'Smart Hub',
-                to: '/door-sensor/door-magnetic-sensor/specification',
+                label: 'Home Security Hub (Pico)',
+                to: '/hub/home-security-hub-pico/specification',
+              },
+              {
+                label: 'Home Security Hub (Station)',
+                to: '/hub/home-security-hub-station/specification',
               },
               {
                 label: 'Motion Sensor',

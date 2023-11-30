@@ -27,19 +27,43 @@ In this resource hub you’ll find detailed product specifications, user manuals
         <img src="https://www.roombanker.com/wp-content/uploads/2023/11/smart-hub-roombanker-rbgw-big.png" alt="Roombanker Smart Alarm Hub" style={{maxWidth:'280px'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
-        <h3>Smart Hub</h3>
+        <h3>Home Security Hub (Pico)</h3>
         <p>The Smart Hub functions as a powerful brain of Roombanker security alarm system. It has WiFi, 3/4G, and Ethernet options, and support RBF, Zigbee and Bluetooth protocols. As a central control unit, it can manage up to 128 wireless peripherals and 64 rooms.</p>
     </div>
 </div>
 <div class="iot-list">
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
         <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
-            <a href="https://wiki.roombanker.com/central-units/smart-hub/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
+            <a href="https://wiki.roombanker.com/hub/home-security-hub-pico/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
         </div>
     </div>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
         <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
-            <a href="https://wiki.roombanker.com/central-units/smart-hub/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
+            <a href="https://wiki.roombanker.com/hub/home-security-hub-pico/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
+        </div>
+    </div>
+</div>
+
+***
+
+<div class="iot-list">
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/11/smart-hub-roombanker-rbgw-big.png" alt="Roombanker Smart Alarm Hub" style={{maxWidth:'280px'}}/>
+    </div>
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
+        <h3>Home Security Hub (Station)</h3>
+        <p>The Smart Hub functions as a powerful brain of Roombanker security alarm system. It has WiFi, 3/4G, and Ethernet options, and support RBF, Zigbee and Bluetooth protocols. As a central control unit, it can manage up to 128 wireless peripherals and 64 rooms.</p>
+    </div>
+</div>
+<div class="iot-list">
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
+            <a href="https://wiki.roombanker.com/hub/home-security-hub-station/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
+        </div>
+    </div>
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
+            <a href="https://wiki.roombanker.com/hub/home-security-hub-station/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
         </div>
     </div>
 </div>
