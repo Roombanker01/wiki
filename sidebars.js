@@ -362,13 +362,13 @@ const sidebars = {
               label: "Specification",
             },
             {
-              stype: "doc",
+              type: "doc",
               id: "automation-device/smart-radiator-valve/quick-start-guide",
               label: "Quick Start Guide",
             },
          ]
        },
-     ],
+     ],s
    },
   ],
 };
