@@ -1,21 +1,20 @@
-﻿# Wall Switch RBF
+# Wall Switch
 
-Wireless wall switch is a power relay to control 110/230 V~ power supply remotely.
+The high-voltage smart wall switch can be installed in a standard 86 box, equipped with various functions such as power management and circuit protection to ensure high degree of safety.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-2.png" alt="1-透视图-2" style={{zoom:'15%'}}/>
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-2.png" alt="1-透视图-2" style="zoom:15%;" />
 
+------
 
-## Features
+## 1. Features
 
 ### ON/OFF
 
-* Physical button control
-* App Control
-* Smart Scene control: By Alarm, By Operation, By Fault, By Schedule
+* 1 × Power switch button
 
 ### Energy monitoring
 
-* Support current, voltage, power consumption
+* Support current, voltage, power consumption monitoring
 
 ### Remote setting and testing
 
@@ -24,11 +23,11 @@ Wireless wall switch is a power relay to control 110/230 V~ power supply remotel
 ### Advanced features
 
 * Power up enrolling
-  *When sensor is powered up, it will automatically start paring to the hub nearby*
+  *When wall switch is powered up, it will automatically start paring to the hub nearby*
 * Find me
-  *When enabled, the device starts flashing green, which can help identify the sensor from numerous door magnetic sensors.*
+  *When enabled, the wall switch starts flashing green, which can help identify the wall switch from numerous devices.*
 * Signal strength detection
-  **When enabled, wall switch starts flashing green/orange/red showing the wireless signal strength between the hub at current installation place.* * 
+  **When enabled, wall switch starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* * 
 
 ### Indicator
 
@@ -42,22 +41,18 @@ Wireless wall switch is a power relay to control 110/230 V~ power supply remotel
 
 ------
 
-## RBF wireless technology
+## 2. RBF wireless technology
 
 ### Wireless signal range
 
-* Up to 1,900 m in an open space with hub
-* Two-way communication between hub
+* 868 MHz Wall Switch: Up to 1,900 m in an open space with hub
+* Two-way communication with hub
 
 ### Frequency bands
 
-* 868 MHz, 915 MHz, 433 MHz
+* 868 MHz Wall Switch: 863 ~ 870 MHz
+* 915 MHz Wall Switch: 902 ~ 928 MHz
   *Depends on sales region.*
-
-### Maximum effective radiated power
-
-* Up to 20 dBm
-  Featured automatic power control to reduce power consumption and noise interference.
 
 ### Wireless signal modulation
 
@@ -77,7 +72,7 @@ Wireless wall switch is a power relay to control 110/230 V~ power supply remotel
 
 ------
 
-## Electrical Characteristics
+## 3. Electrical Characteristics
 
 ### Power Supply
 
@@ -94,7 +89,7 @@ Wireless wall switch is a power relay to control 110/230 V~ power supply remotel
 
 ------
 
-## General
+## 4. General
 
 ### Operation Temperature
 
@@ -118,21 +113,27 @@ Wireless wall switch is a power relay to control 110/230 V~ power supply remotel
 
 ------
 
-## Compatibility
+## 5. Compatibility
 
 * Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
 
+------
 
-## Complete set
+## 6. Complete set
 
-* Wall Switch
-* Quick Start Guide
+| Product           | Quantity |
+| ----------------- | -------- |
+| Wall Switch       | × 1      |
+| Quick Start Guide | × 1      |
 
-## Additional information
+
+
+------
+
+## 7. Additional information
 
 ### Available models
 
-* RBAD-WS1-433
 * RBAD-WS1-868
 * RBAD-WS1-915
 
@@ -148,4 +149,4 @@ Wireless wall switch is a power relay to control 110/230 V~ power supply remotel
 
 ### Warranty
 
-* Replacement and repair within 24 months of the date of sale. Batteries are not covered under warranty.
+* Replacement and repair within 24 months of the date of sale. 
