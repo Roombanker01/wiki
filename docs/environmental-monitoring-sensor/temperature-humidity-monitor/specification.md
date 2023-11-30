@@ -1,17 +1,18 @@
-﻿# Temperature Humidity Monitor RBF
+# Temperature Humidity Monitor
 
-Temperature Humidity Monitor indicates temperature&humidity of your space in real-time. Air-conditioning and humidifier can be automatically ON/OFF according to the smart scene you set.
+A compact and exquisite temperature and humidity monitor to accurately track your indoor temperature and humidity changes. It supports both Fahrenheit and Celsius versions.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/TH%E6%B8%A9%E6%B9%BF%E5%BA%A63.png" alt="TH温湿度3" style={{zoom:'10%'}} />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/TH%E6%B8%A9%E6%B9%BF%E5%BA%A63.png" alt="TH温湿度3" style="zoom:10%;" />
 
 
-## Detection Performance
+------
+
+## 1. Detection Performance
 
 ### Temperature Range and Accuracy
 
 * From -10 ℃ to +55 ℃
-* Accuracy at 0.1 ℃
-
+* Accuracy at 0.5 ℃
 
 ### Humidity Range and Accuracy
 
@@ -20,7 +21,7 @@ Temperature Humidity Monitor indicates temperature&humidity of your space in rea
 
 ------
 
-## Features
+## 2. Features
 
 ### Centigrade and Fahrenheit
 
@@ -35,31 +36,27 @@ Temperature Humidity Monitor indicates temperature&humidity of your space in rea
 ### Advanced features
 
 * Power up enrolling
-  *When sensor is powered up, it will automatically start paring to the hub nearby*
+  *When T&H monitor is powered up, it will automatically start paring to the hub nearby*
 * Find me
-  *When enabled, the sensor starts flashing green, which can help identify the sensor from numerous door magnetic sensors.*
+  *When enabled, the T&H monitor starts flashing green, which can help identify the monitor from numerous devices.*
 * Signal strength detection
-  *When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation place.* 
+  *When enabled, T&H monitor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
 * Low battery notification
 
 ------
 
-## RBF wireless technology
+## 3. RBF wireless technology
 
 ### Wireless signal range
 
-* Up to 1,900 m in an open space with hub
-* Two-way communication between hub
+* 868 MHz Monitor: Up to **1,900 m** in an open space with hub
+* Two-way communication with hub
 
 ### Frequency bands
 
-* 868 MHz, 915 MHz, 433 MHz
+* 868 MHz Monitor: 863 ~ 870 MHz
+* 915 MHz Monitor: 902 ~ 928 MHz
   *Depends on sales region.*
-
-### Maximum effective radiated power
-
-* Up to 20 dBm
-  Featured automatic power control to reduce power consumption and noise interference.
 
 ### Wireless signal modulation
 
@@ -79,16 +76,16 @@ Temperature Humidity Monitor indicates temperature&humidity of your space in rea
 
 ------
 
-## Electrical Characteristics
+## 4. Electrical Characteristics
 
 ### Power Supply
 
 * AA Battery× 3
-* Up to 2 years (standby time)
+* Up to 5 years (standby mode)
 
 ------
 
-## General
+## 5. General
 
 ### Operation Temperature
 
@@ -96,7 +93,7 @@ Temperature Humidity Monitor indicates temperature&humidity of your space in rea
 
 ### Operation Humidity
 
-* From 0 to 99%
+* From 0% to 99%
 
 ### Storage Temperature
 
@@ -108,26 +105,32 @@ Temperature Humidity Monitor indicates temperature&humidity of your space in rea
 
 ### Weight
 
-* 68.5g
+* 68.5 g
 
 ------
 
-## Compatibility
+## 6. Compatibility
 
 * Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
 
+------
 
-## Complete set
+## 7. Complete set
 
-* Temperature Humidity Monitor
-* AA battery × 3
-* Quick Start Guide
+| Product                      | Quantity |
+| ---------------------------- | -------- |
+| Temperature Humidity Monitor | × 1      |
+| AA Battery                   | × 3      |
+| Quick Start Guide            | × 1      |
 
-## Additional information
+
+
+------
+
+## 8. Additional information
 
 ### Available models
 
-* RBSS-TH1-433
 * RBSS-TH1-868
 * RBSS-TH1-915
 
@@ -136,7 +139,6 @@ Temperature Humidity Monitor indicates temperature&humidity of your space in rea
 * CE, CB
 * FCC
 * ICASA
-* LOA
 * RCM
 * NOM
 * Anatel
