@@ -182,8 +182,12 @@ const config = {
                 to: '/automation-device/wall-switch/specification',
               },
               {
-                label: 'Smart Plug',
-                to: '/automation-device/smart-plug/specification',
+                label: 'Smart Plug (EU)',
+                to: '/automation-device/smart-plug-eu/specification',
+              },
+              {
+                label: 'Smart Plug (US)',
+                to: '/automation-device/smart-plug-us/specification',
               },
               {
                 label: 'Keypad',
