@@ -1,20 +1,22 @@
-﻿# Water Leak Detector RBF
+# Water Leak Detector
 
-Wireless Water Leak Detector is used to detect water leak issue in your home and office. It can be placed even in hard-to-reach places with an external strobe, goes years without maintenance, and works 24/7.
+The water leak detector with extension cable design for multi-point high-precision leak detection, is ideal for areas prone to leaks, including kitchens, bathrooms, and balconies.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Water%20Leak.png" alt="Water Leak" style={{zoom:'25%'}} />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Water%20Leak.png" alt="Water Leak" style="zoom:25%;" />
 
 
-## Detection Performance
+------
+
+## 1. Detection Performance
 
 ### Detection method
 
 * Main body
-* External strobe
+* Extension cable
 
 ------
 
-## Features
+## 2. Features
 
 ### IP Rate
 
@@ -29,9 +31,9 @@ Wireless Water Leak Detector is used to detect water leak issue in your home and
 * Power up enrolling
   *When sensor is powered up, it will automatically start paring to the hub nearby*
 * Find me
-  *When enabled, the sensor starts flashing green, which can help identify the sensor from numerous door magnetic sensors.*
+  *When enabled, the sensor starts flashing green, which can help identify the sensor from numerous devices.*
 * Signal strength detection
-  *When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation place.* 
+  *When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
 * Low battery notification
 
 ### Indicator
@@ -45,22 +47,18 @@ Wireless Water Leak Detector is used to detect water leak issue in your home and
 
 ------
 
-## RBF wireless technology
+## 3. RBF wireless technology
 
 ### Wireless signal range
 
-* Up to 1,900 m in an open space with hub
-* Two-way communication between hub
+* 868 MHz Sensor: Up to 1,900 m in an open space with hub
+* Two-way communication with hub
 
 ### Frequency bands
 
-* 868 MHz, 915 MHz, 433 MHz
+* 868 MHz Water Leak Detector: 863 ~ 870 MHz
+* 915 MHz Water Leak Detector: 902 ~ 928 MHz
   *Depends on sales region.*
-
-### Maximum effective radiated power
-
-* Up to 20 dBm
-  Featured automatic power control to reduce power consumption and noise interference.
 
 ### Wireless signal modulation
 
@@ -80,16 +78,16 @@ Wireless Water Leak Detector is used to detect water leak issue in your home and
 
 ------
 
-## Electrical Characteristics
+## 4. Electrical Characteristics
 
 ### Power Supply
 
 * CR2032 × 1
-* Up to 1 year (standby time)
+* Up to 2.2 year (standby mode)
 
 ------
 
-## General
+## 5. General
 
 ### Operation Temperature
 
@@ -109,29 +107,36 @@ Wireless Water Leak Detector is used to detect water leak issue in your home and
 
 ### Weight
 
-* ??
+* Water Leak Detector: 45 g
+* External Strobe: 8.3 g
 
 ------
 
-## Compatibility
+## 6. Compatibility
 
 * Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
 
+------
 
-## Complete set
+## 7. Complete set
 
-* Water Leak Detector
-* External strobe
-* CR2032 battery
-* Mounting Screw package
-* 3M adhesive 
-* Quick Start Guide
+| Product             | Quantity |
+| ------------------- | -------- |
+| Water Leak Detector | × 1      |
+| External strobe     | × 1      |
+| CR2032 battery      | × 1      |
+| Screw package       | × 1      |
+| 3M adhesive         | × 1      |
+| Quick Start Guide   | × 1      |
 
-## Additional information
+
+
+------
+
+## 8. Additional information
 
 ### Available models
 
-* RBSS-WL1-433
 * RBSS-WL1-868
 * RBSS-WL1-915
 
@@ -140,7 +145,6 @@ Wireless Water Leak Detector is used to detect water leak issue in your home and
 * CE, CB
 * FCC
 * ICASA
-* LOA
 * RCM
 * NOM
 * Anatel
