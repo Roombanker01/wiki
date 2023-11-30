@@ -1,26 +1,19 @@
-﻿# Panic Button RBF
+﻿# Panic Button
 
-Wireless button immediately inform relatives about a panic alarm in just one click. Meanwhile sirens will start to action automatically.
-Moreover, button can manage smart home appliances by activating scenes with a single clicks.
+The 24/7 panic alarm button always ready to assist you. Just press the button to trigger the alarm and send crucial help info when emergencies strike.
 
 <div style={{textAlign: 'center'}}><img width="{200}" src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Panic%20Button.png" alt="Panic Button" style={{width:'50%'}} /></div>
 
 
-## Button Function
+------
 
-### Number of buttons
-
-* 1
-
-
-### Button function
+## 1. Button Function
 
 * One-push panic alarm
-* Wireless smart switch by creating scenes
 
 ------
 
-## Features
+## 2. Features
 
 ### Remote setting and testing
 
@@ -29,40 +22,30 @@ Moreover, button can manage smart home appliances by activating scenes with a si
 ### Advanced features
 
 * Power up enrolling
-  *When sensor is powered up, it will automatically start paring to the hub nearby*
+  *When panic button is powered up, it will automatically start paring to the hub nearby*
 * Find me
-  *When enabled, the sensor starts flashing green, which can help identify the sensor from numerous door magnetic sensors.*
-* Signal strength detection
-  *When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation place.* 
+  *When enabled, the panic button starts flashing green, which can help identify the button from numerous devices.*
 * Low battery notification
 
 ### Indicator
 
 * Alarm: Flashing Red
 * Find me: Flashing Green
-* Signal strength: Flashing Green / Orange / Red
-  *Flashing Green: signal strength is strong, and is recommended to install device here*
-  *Flashing Orange: signal strength is medium and device can be installed here*
-  *Flashing Red: signal strength is bad or no signal, and device can not be installed here*
 
 ------
 
-## RBF wireless technology
+## 3. RBF wireless technology
 
 ### Wireless signal range
 
-* Up to 1,900 m in an open space with hub
-* Two-way communication between hub
+* 868 MHz Button: Up to 1,900 m in an open space with hub
+* Two-way communication with hub
 
 ### Frequency bands
 
-* 868 MHz, 915 MHz, 433 MHz
+* 868 MHz Panic Button: 863 ~ 870 MHz
+* 915 MHz Panic Button: 902 ~ 928 MHz
   *Depends on sales region.*
-
-### Maximum effective radiated power
-
-* Up to 20 dBm
-  Featured automatic power control to reduce power consumption and noise interference.
 
 ### Wireless signal modulation
 
@@ -82,16 +65,16 @@ Moreover, button can manage smart home appliances by activating scenes with a si
 
 ------
 
-## Electrical Characteristics
+## 4. Electrical Characteristics
 
 ### Power Supply
 
 * CR2032 x 1
-* Up to 2 years (standby time)
+* Up to 3 years (standby mode)
 
 ------
 
-## General
+## 5. General
 
 ### Operation Temperature
 
@@ -111,27 +94,32 @@ Moreover, button can manage smart home appliances by activating scenes with a si
 
 ### Weight
 
-* 19.8g
+* 19.8 g
 
 ------
 
-## Compatibility
+## 6. Compatibility
 
 * Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
 
+------
 
-## Complete set
+## 7. Complete set
 
-* Panic button
-* CR2032 battery (pre-installed)
-* 3M adhesive (pre-installed)
-* Quick Start Guide
+| Product           | Quantity |
+| ----------------- | -------- |
+| Panic button      | × 1      |
+| 3M Adhesive       | × 1      |
+| Quick Start Guide | × 1      |
 
-## Additional information
+
+
+------
+
+## 8. Additional information
 
 ### Available models
 
-* RBSS-EB1-433
 * RBSS-EB1-868
 * RBSS-EB1-915
 
@@ -140,7 +128,6 @@ Moreover, button can manage smart home appliances by activating scenes with a si
 * CE, CB
 * FCC
 * ICASA
-* LOA
 * RCM
 * NOM
 * Anatel
