@@ -1,26 +1,20 @@
-﻿# Keyfob RBF
+# Keyfob
 
-A keyfob for controlling security modes. Features two custom buttons for controlling your home appliances.
+The portable wireless keyfob simplifies control operations with one-click arming and disarming, along with customizable buttons for personalized convenience.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Keyfob-%E6%AD%A3%E8%A7%86%E5%9B%BE.png" alt="Keyfob-正视图" style={{zoom:'13%'}} />
-
-
-## Button Function
-
-### Number of buttons
-
-* 4
-
-### Button function
-
-* Arm
-* Disarm
-* Custom Arm
-* Wireless smart switch by creating scenes
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Keyfob-%E6%AD%A3%E8%A7%86%E5%9B%BE.png" alt="Keyfob-正视图" style="zoom:13%;" />
 
 ------
 
-## Features
+## 1. Button Function
+
+* Arm
+* Disarm
+* Custom Button **× 2** (Button function can be customized from the App)
+
+------
+
+## 2. Features
 
 ### Remote setting and testing
 
@@ -29,11 +23,9 @@ A keyfob for controlling security modes. Features two custom buttons for control
 ### Advanced features
 
 * Power up enrolling
-  *When sensor is powered up, it will automatically start paring to the hub nearby*
+  *When keyfob is powered up, it will automatically start paring to the hub nearby*
 * Find me
-  *When enabled, the sensor starts flashing green, which can help identify the sensor from numerous door magnetic sensors.*
-* Signal strength detection
-  *When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation place.* 
+  *When enabled, the keyfob starts flashing green, which can help identify the sensor from numerous devices.*
 * Low battery notification
 
 ### Indicator
@@ -44,22 +36,18 @@ A keyfob for controlling security modes. Features two custom buttons for control
 
 ------
 
-## RBF wireless technology
+## 3. RBF wireless technology
 
 ### Wireless signal range
 
-* Up to 1,900 m in an open space with hub
-* Two-way communication between hub
+* 868 MHz Keyfob: Up to **1,900** m in an open space with hub
+* Two-way communication with hub
 
 ### Frequency bands
 
-* 868 MHz, 915 MHz, 433 MHz
+* 868MHz Keyfob: 863 ~ 870 MHz
+* 915MHz Keyfob: 902 ~ 928 MHz
   *Depends on sales region.*
-
-### Maximum effective radiated power
-
-* Up to 20 dBm
-  Featured automatic power control to reduce power consumption and noise interference.
 
 ### Wireless signal modulation
 
@@ -79,16 +67,16 @@ A keyfob for controlling security modes. Features two custom buttons for control
 
 ------
 
-## Electrical Characteristics
+## 4. Electrical Characteristics
 
 ### Power Supply
 
 * CR2032 × 1
-* Up to 2 years (standby time)
+* Up to 5 years (standby mode)
 
 ------
 
-## General
+## 5. General
 
 ### Operation Temperature
 
@@ -108,27 +96,32 @@ A keyfob for controlling security modes. Features two custom buttons for control
 
 ### Weight
 
-* 14.6g
+* 14.6 g
 
 ------
 
-## Compatibility
+## 6. Compatibility
 
 * Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
 
+------
 
-## Complete set
+## 7. Complete set
 
-* Keyfob
-* CR2032 battery (pre-installed)
-* Key Chain
-* Quick Start Guide
+| Product           | Quantity |
+| ----------------- | -------- |
+| Keyfob            | × 1      |
+| Keychain          | × 1      |
+| Quick Start Guide | × 1      |
 
-## Additional information
+
+
+------
+
+## 8. Additional information
 
 ### Available models
 
-* RBCT-KF1-433
 * RBCT-KF1-868
 * RBCT-KF1-915
 
@@ -137,7 +130,6 @@ A keyfob for controlling security modes. Features two custom buttons for control
 * CE, CB
 * FCC
 * ICASA
-* LOA
 * RCM
 * NOM
 * Anatel

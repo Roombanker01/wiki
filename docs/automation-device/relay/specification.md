@@ -1,9 +1,10 @@
-﻿# Wireless Relay RBF
+# Relay
 
-Wireless relay is a dry contact relay to control 6-36 V⎓ power supply remotely.
+RBF Relay is a dry contact relay to control 6-36 V⎓ power supply remotely.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-2.png" alt="1-透视图-2" style={{zoom:'15%'}} />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-2.png" alt="1-透视图-2" style="zoom:15%;" />
 
+------
 
 ## Features
 
@@ -42,12 +43,15 @@ Wireless relay is a dry contact relay to control 6-36 V⎓ power supply remotely
 
 ### Wireless signal range
 
-* Up to 1,900 m in an open space with hub
+* 868 MHz Relay: Up to 1,900 m in an open space with hub
 * Two-way communication between hub
 
 ### Frequency bands
 
-* 868 MHz, 915 MHz, 433 MHz
+* 868 MHz Relay: 863 ~ 870 MHz
+
+* 915 MHz Relay: 902 ~ 928 MHz
+
   *Depends on sales region.*
 
 ### Maximum effective radiated power
@@ -78,9 +82,7 @@ Wireless relay is a dry contact relay to control 6-36 V⎓ power supply remotely
 ### Power Supply
 
 * 7 - 24 V⎓ (DC only)
-
 ### Maximum load current
-
 * 5 A at 24 V⎓
 
 ------
@@ -99,7 +101,7 @@ Wireless relay is a dry contact relay to control 6-36 V⎓ power supply remotely
 
 * From -20°C to 60°C (-4°F to 140°F)
 
-### Dimension(WxHxD)
+### Dimension(W × H × D)
 
 * 40mm × 35mm × 20mm
 
@@ -119,11 +121,17 @@ Wireless relay is a dry contact relay to control 6-36 V⎓ power supply remotely
 * Relay Module
 * Quick Start Guide
 
+| Product           | Quantity |
+| ----------------- | -------- |
+| Relay Module      | × 1      |
+| Quick Start Guide | × 1      |
+
+
+
 ## Additional information
 
 ### Available models
 
-* RBAD-RL1-433
 * RBAD-RL1-868
 * RBAD-RL1-915
 

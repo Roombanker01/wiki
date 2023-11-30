@@ -1,27 +1,29 @@
-﻿# Outdoor Siren RBF
+# Outdoor Siren
 
-Wireless outdoor siren is designed for outdoor installation. With the built-in solar panel, the device has a continuous green energy supply making the siren a long live device.
+The wireless alarm sirens with loud sounds and flashing lights are designed to grab attention of your community and scare off any vandals effectively.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Outdoor%20Siren1.png" alt="Outdoor Siren1" style={{zoom:'15%'}} />
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Outdoor%20Siren1.png" alt="Outdoor Siren1" style="zoom:15%;" />
 
-
-## Siren Performance
-
-### Type of notification
-
-* Sound & LED
-
-### Sound volume level
-
-* Adjustable, 85dB/95dB/105dB at a distance of 1m
-
-### Alarm time
-
-* Adjustable, 1s ~ 15mins
 
 ------
 
-## Features
+## 1. Siren Performance
+
+### Type of notification
+
+* Sound & Strobe
+
+### Sound volume level
+
+* Adjustable: 85 dB / 95 dB / 105 dB
+
+### Alarm time
+
+* Adjustable: 1s ~ 15mins (90s by default)
+
+------
+
+## 2. Features
 
 ### Solar Panel
 
@@ -46,31 +48,27 @@ Wireless outdoor siren is designed for outdoor installation. With the built-in s
 ### Advanced features
 
 * Power up enrolling
-  *When sensor is powered up, it will automatically start paring to the hub nearby*
+  *When siren is powered up, it will automatically start paring to the hub nearby*
 * Find me
-  *When enabled, the sensor starts flashing green, which can help identify the sensor from numerous door magnetic sensors.*
+  *When enabled, the siren starts flashing green, which can help identify the siren from numerous devices.*
 * Signal strength detection
-  *When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation place.* 
+  *When enabled, siren starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
 * Low battery notification
 
 ------
 
-## RBF wireless technology
+## 3. RBF wireless technology
 
 ### Wireless signal range
 
-* Up to 3,150 m in an open space with hub
-* Two-way communication between hub
+* 868 MHz Siren: Up to **3,150** m in an open space with hub
+* Two-way communication with hub
 
 ### Frequency bands
 
-* 868 MHz, 915 MHz, 433 MHz
+* 868 MHz Siren: 863 ~ 870 MHz
+* 915 MHz Siren: 902 ~ 928 MHz
   *Depends on sales region.*
-
-### Maximum effective radiated power
-
-* Up to 20 dBm
-  Featured automatic power control to reduce power consumption and noise interference.
 
 ### Wireless signal modulation
 
@@ -90,16 +88,19 @@ Wireless outdoor siren is designed for outdoor installation. With the built-in s
 
 ------
 
-## Electrical Characteristics
+## 4. Electrical Characteristics
 
 ### Power Supply
 
 * 1,700 mAh Lithium battery with Solar Panel charging
-* Up to 2 years (standby time)
+
+* Up to 4.2 years (Standby mode, Battery fully charged)
+
+  *Note: when solar panel works fine, the outdoor siren can work continuously without external power charging.*
 
 ------
 
-## General
+## 5. General
 
 ### Operation Temperature
 
@@ -123,24 +124,29 @@ Wireless outdoor siren is designed for outdoor installation. With the built-in s
 
 ------
 
-## Compatibility
+## 6. Compatibility
 
 * Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
 
+------
 
-## Complete set
+## 7. Complete set
 
-* Outdoor Siren
-* Lithium battery (pre-installed)
-* Mounting bracket
-* Mounting Screw package
-* Quick Start Guide
+| Product           | Quantity |
+| ----------------- | -------- |
+| Outdoor Siren     | × 1      |
+| Mounting bracket  | × 1      |
+| Screw package     | × 1      |
+| Quick Start Guide | × 1      |
 
-## Additional information
+
+
+------
+
+## 8. Additional information
 
 ### Available models
 
-* RBAD-SO1-433
 * RBAD-SO1-868
 * RBAD-SO1-915
 
@@ -149,11 +155,10 @@ Wireless outdoor siren is designed for outdoor installation. With the built-in s
 * CE, CB
 * FCC
 * ICASA
-* LOA
 * RCM
 * NOM
 * Anatel
 
 ### Warranty
 
-* Replacement and repair within 24 months of the date of sale. Batteries are not covered under warranty.
+* Replacement and repair within 24 months of the date of sale. 
