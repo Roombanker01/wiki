@@ -1,5 +1,11 @@
 ﻿# Keyfob
 
+<div style={{textAlign: 'center'}}>
+<button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
+</div>
+
+<br />
+
 The portable wireless keyfob simplifies control operations with one-click arming and disarming, along with customizable buttons for personalized convenience.
 
 <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Keyfob-%E6%AD%A3%E8%A7%86%E5%9B%BE.png" alt="Keyfob-正视图" style={{zoom:'13%'}} />
