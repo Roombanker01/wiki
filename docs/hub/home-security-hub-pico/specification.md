@@ -1,5 +1,11 @@
 ﻿# Home Security Hub (Pico)
 
+<div style={{textAlign: 'center'}}>
+
+<button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 25px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download</button>
+
+</div>
+
 Smart Hub is the powerful brain of RoomBanker Security & Automation system, enabling you to connect a variety of sensors and peripherals and then DIY your own security solution in a flexible and easy-to-use way.
 <div style={{textAlign:'center'}}>
 <img src="https://www.roombanker.com/wp-content/uploads/2023/11/smart-hub-roombanker-rbgw-big.png" style={{textAlign:'center',width:'50%'}} /> 
