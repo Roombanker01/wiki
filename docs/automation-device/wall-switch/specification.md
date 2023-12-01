@@ -1,5 +1,11 @@
 ﻿# Wall Switch
 
+<div style={{textAlign: 'center'}}>
+<button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
+</div>
+
+<br />
+
 The high-voltage smart wall switch can be installed in a standard 86 box, equipped with various functions such as power management and circuit protection to ensure high degree of safety.
 
 <div style={{textAlign:'center'}}>
