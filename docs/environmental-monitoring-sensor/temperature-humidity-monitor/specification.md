@@ -2,7 +2,9 @@
 
 A compact and exquisite temperature and humidity monitor to accurately track your indoor temperature and humidity changes. It supports both Fahrenheit and Celsius versions.
 
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/TH%E6%B8%A9%E6%B9%BF%E5%BA%A63.png" alt="TH温湿度3" style={{zoom:'10%'}} />
+<div style={{textAlign:'center'}}>
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/TH%E6%B8%A9%E6%B9%BF%E5%BA%A63.png" style={{textAlign:'center',width:'10%'}} /> 
+</div>
 
 
 ------
