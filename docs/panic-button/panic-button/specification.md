@@ -2,7 +2,7 @@
 
 The 24/7 panic alarm button always ready to assist you. Just press the button to trigger the alarm and send crucial help info when emergencies strike.
 
-<div style={{textAlign: 'center'}}><img width="{200}" src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Panic%20Button.png" alt="Panic Button" style={{width:'50%'}} /></div>
+<div style={{textAlign: 'center'}}><img width="{200}" src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Panic%20Button.png" alt="Panic Button" style={{width:'30%'}} /></div>
 
 
 ------
