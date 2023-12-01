@@ -84,8 +84,8 @@ The wireless smart plug features functions such as power management and child lo
 ### Power Supply
 
 * 110 V~ ±10%; 50/60 Hz
-* Max 16 A
-* Max 3680 W
+* Max 15 A
+* Max 1800 W
 
 ### Overvoltage protection
 
