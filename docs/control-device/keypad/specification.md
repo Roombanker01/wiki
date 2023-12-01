@@ -114,7 +114,7 @@ The wireless keypad streamlines user interactions with one-click arming, passwor
 
 ### Dimension(WxHxD)
 
-* 59mm × 34mm × 12mm
+* 140mm × 86mm × 22mm
 
 ### Weight
 
@@ -153,7 +153,6 @@ The wireless keypad streamlines user interactions with one-click arming, passwor
 * CE, CB
 * FCC
 * ICASA
-* LOA
 * RCM
 * NOM
 * Anatel
