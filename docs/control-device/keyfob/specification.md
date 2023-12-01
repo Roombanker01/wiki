@@ -9,7 +9,7 @@
 The portable wireless keyfob simplifies control operations with one-click arming and disarming, along with customizable buttons for personalized convenience.
 
 <div style={{textAlign:'center'}}>
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Keyfob-%E6%AD%A3%E8%A7%86%E5%9B%BE.png" alt="Keyfob-正视图" style={{textAlign:'center',width:'50%'}} /> 
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Keyfob-%E6%AD%A3%E8%A7%86%E5%9B%BE.png" alt="Keyfob-正视图" style={{textAlign:'center',width:'20%'}} /> 
 </div>
 
 ------
