@@ -1,5 +1,11 @@
 # Home Security Hub (Station)
 
+<div style={{textAlign: 'center'}}>
+<button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
+</div>
+
+<br />
+
 Smart Hub is the powerful brain of RoomBanker Secuiry & Automation system, enabling you to connect a variety of sensors and peripherals and then DlY your own security solution in a flexible and easy-to-use way.
 
 <div style={{textAlign:'center'}}>
