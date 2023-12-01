@@ -1,5 +1,11 @@
 ﻿# Indoor Siren
 
+<div style={{textAlign: 'center'}}>
+<button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
+</div>
+
+<br />
+
 The wireless alarm sirens with loud sounds and flashing lights are designed to grab attention of your community and scare off any vandals effectively.
 
 <div style={{textAlign:'center'}}>
