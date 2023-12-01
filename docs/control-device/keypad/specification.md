@@ -2,7 +2,9 @@
 
 The wireless keypad streamlines user interactions with one-click arming, password disarming, scene-specific alarms and duress silent alarm, among other functions.
 
-
+<div style={{textAlign:'center'}}>
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/keypad.png" alt="keypad" style={{textAlign:'center',width:'20%'}} /> 
+</div>
 
 ------
 
@@ -10,7 +12,7 @@ The wireless keypad streamlines user interactions with one-click arming, passwor
 
 ### Number of buttons
 
-* 15 (0~9, C, Arm Away, Arm Stay, Disarm, Custom Button)
+* 15 (0~9, Clear, Arm Away, Arm Stay, Disarm, Custom Button)
 
 ### Button function
 
