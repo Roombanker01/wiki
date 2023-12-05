@@ -28,7 +28,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Home Security Hub (Pico)</h3>
-        <p>The Smart Hub functions as a powerful brain of Roombanker security alarm system. It has WiFi, 3/4G, and Ethernet options, and support RBF, Zigbee and Bluetooth protocols. As a central control unit, it can manage up to 128 wireless peripherals and 64 rooms.</p>
+        <p>This hub functions as a powerful brain of Roombanker security alarm system. It has WiFi and Ethernet options, and support RBF and Zigbee protocols. As a central control unit, it can manage up to 128 wireless peripherals and 64 rooms.</p>
     </div>
 </div>
 <div class="iot-list">
@@ -52,7 +52,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Home Security Hub (Station)</h3>
-        <p>The Smart Hub functions as a powerful brain of Roombanker security alarm system. It has WiFi, 3/4G, and Ethernet options, and support RBF, Zigbee and Bluetooth protocols. As a central control unit, it can manage up to 128 wireless peripherals and 64 rooms.</p>
+        <p>This hub is an upgraded version of Home Security Hub (Pico), with an extra Zigbee and Bluetooth protocol support, GPRS/4G network options to ensure continuous communication once the WiFi and Ethernet failed. It is also equipped with a 2600 mAh Lithium battery for uninterrupted operation. Besides mobile app operation, it has SMS and phone call buttons.</p>
     </div>
 </div>
 <div class="iot-list">
