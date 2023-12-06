@@ -364,7 +364,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Smart Plug (EU)</h3>
-        <p>The smart plug revolutionizes your home by transforming ordinary household appliances into intelligent devices with just a few seconds of setup. Furthermore, leverage its electricity monitoring and reminder functionality to track and optimize your energy usage, putting you in control of efficiency and convenience.</p>
+        <p>The smart plug EU version operates at a frequency of 868 MHz and its RBF transmission distance can reach up to 1900m in open area. This EU-compatible smart plug has a power supply of 230V AC and maximum amperage and a maximum power consumption of 3680W. Leverage its electricity monitoring and reminder functionality to track and optimize your energy usage, putting you in control of efficiency and convenience.</p>
     </div>
 </div>
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
@@ -388,7 +388,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Smart Plug (US)</h3>
-        <p>The smart plug revolutionizes your home by transforming ordinary household appliances into intelligent devices with just a few seconds of setup. Furthermore, leverage its electricity monitoring and reminder functionality to track and optimize your energy usage, putting you in control of efficiency and convenience.</p>
+        <p>The smart plug US version operates at a frequency of 915 MHz and is compatible with a power supply of 120V AC. It can automatically monitor power consumption of your electrical appliance at home with power up 1800 watts at 15A, and gives you precise consumption information for each electrical appliance plugged in it.</p>
     </div>
 </div>
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
