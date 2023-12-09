@@ -59,7 +59,11 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 * Find me  
   *When enabled, the siren starts flashing green, which can help identify the siren from numerous devices.*
 * Signal strength detection  
-  *When enabled, siren starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
+ *When enabled, siren starts flashing to show the wireless signal strength between the hub at current installation site.* 
+  * The **left indicator** flashes every 3 seconds: signal strength is good;
+  * The **center indicator** flashes every 3 seconds: signal strength is medium;
+  * The **right indicator** flashes every 3 seconds: signal strength is bad;
+  * The **right indicator** flashes rapidly (4 times / second): no signal; 
 * Low battery notification
 
 ------
