@@ -9,7 +9,7 @@
 The wireless alarm sirens with loud sounds and flashing lights are designed to grab attention of your community and scare off any vandals effectively.
 
 <div style={{textAlign:'center'}}>
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Outdoor%20Siren1.png" alt="Outdoor Siren1" style={{textAlign:'center',width:'50%'}} /> 
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Outdoor%20Siren1.png" alt="Outdoor Siren1" style={{textAlign:'center',width:'30%'}} /> 
 </div>
 
 ------
@@ -54,11 +54,11 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 
 ### Advanced features
 
-* Power up enrolling
+* Power up enrolling  
   *When siren is powered up, it will automatically start paring to the hub nearby*
-* Find me
+* Find me  
   *When enabled, the siren starts flashing green, which can help identify the siren from numerous devices.*
-* Signal strength detection
+* Signal strength detection  
   *When enabled, siren starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
 * Low battery notification
 
