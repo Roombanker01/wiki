@@ -26,7 +26,8 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 
 ### Alarm time
 
-* Adjustable: 1s ~ 15mins (90s by default)
+* Adjustable: 1s ~ 15mins
+> *90s by default*
 
 ------
 
@@ -78,8 +79,8 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 ### Frequency bands
 
 * 868 MHz Siren: 863 ~ 870 MHz
-* 915 MHz Siren: 902 ~ 928 MHz
-  *Depends on sales region.*
+* 915 MHz Siren: 902 ~ 928 MHz  
+> *Depends on sales region.*
 
 ### Wireless signal modulation
 
@@ -107,7 +108,7 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 
 * Up to 4.2 years (Standby mode, Battery fully charged)
 
-  *Note: when solar panel works fine, the outdoor siren can work continuously without external power charging.*
+> *Note: when solar panel works fine, the outdoor siren can work continuously without external power charging.*
 
 ------
 
