@@ -9,7 +9,7 @@
 A low-power, long-lasting wireless smoke detector that supports high-precision smoke detection, capable of timely detection and triggering alarms in the early stages of a fire.
 
 <div style={{textAlign:'center'}}>
-<img src="[https://www.roombanker.com/wp-content/uploads/2023/11/smart-hub-roombanker-rbgw-big.png](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-4.png)" style={{textAlign:'center',width:'300'}} /> 
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Smoke%20Detector.png" alt="Smoke Detector" style={{textAlign:'center',width:'25%'}} /> 
 </div>
 
 ------
