@@ -9,7 +9,7 @@
 The high-voltage smart wall switch can be installed in a standard 86 box, equipped with various functions such as power management and circuit protection to ensure high degree of safety.
 
 <div style={{textAlign:'center'}}>
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-2.png" style={{textAlign:'center',width:'30%'}} /> 
+<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Wall-switch.png" alt="Wall-switch" style={{textAlign:'center',width:'25%'}} /> 
 </div>
 
 ------
