@@ -354,6 +354,22 @@ const sidebars = {
         },
         {
           type: "category",
+          label: "Smart Plug UK",
+          items: [
+            {
+              type: "doc",
+              id: "automation-device/smart-plug-uk/specification",
+              label: "Specification",
+            },
+            {
+              type: "doc",
+              id: "automation-device/smart-plug-uk/quick-start-guide",
+              label: "Quick Start Guide",
+            },
+          ]
+        },
+        {
+          type: "category",
           label: "Smart Thermostat",
           items: [
             {
