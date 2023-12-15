@@ -57,13 +57,13 @@ PIN code can be configured on the keypad settings page of RB Link.
 
 **1. Arm with PIN code**
 
-PIN code +[  /  ]. The blue indicator on the keypad turns on when the system is armed . If it fails, the buzzer will beep three times.
+PIN code +[ ![资源 2@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%202@4x.png)/  ]. The blue indicator on the keypad turns on when the system is armed . If it fails, the buzzer will beep three times.
 
 ![image-20231215155329687](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215155329687.png)
 
 **2. Disarm with PIN code**
 
-PIN code +[  ] . The green indicator on the keypad flashes twice when the system is disarmed . If it fails,the buzzer will beep three times.
+PIN code +[ ] . The green indicator on the keypad flashes twice when the system is disarmed . If it fails,the buzzer will beep three times.
 
 ![image-20231215155212175](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215155212175.png)
 
