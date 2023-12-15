@@ -1,9 +1,5 @@
 # KEYPAD
 
-RBCT-KP1-868/915
-
-![image-20231215142206199](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215142206199.png)
-
 ## 1、Appearance
 
 ![image-20231215142308672](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215142308672.png)
@@ -63,19 +59,19 @@ PIN code can be configured on the keypad settings page of RB Link.
 
 PIN code +[  /  ]. The blue indicator on the keypad turns on when the system is armed . If it fails, the buzzer will beep three times.
 
-![image-20231215145800496](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215145800496.png)
+![image-20231215154844039](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215154844039.png)
 
 **2. Disarm with PIN code**
 
 PIN code +[  ] . The green indicator on the keypad flashes twice when the system is disarmed . If it fails,the buzzer will beep three times.
 
-![image-20231215145932859](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215145932859.png)
+![image-20231215154856817](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215154856817.png)
 
 **3. Duress silent alarm**
 
 Duress code +[  ] . The green indicator on the keypad will flash twice when the operation is successful. If it fails,the buzzer will beep three times.
 
-![image-20231215150041313](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215150041313.png)
+![image-20231215154909502](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215154909502.png)
 
 **4. Custom function**
 
@@ -83,23 +79,22 @@ PIN code +[  ]. The built-in buzzer on the keypad beeps twice and trigger the cu
 
 ## 7、Device specifications
 
-| Feature                        |                                                 |
-| ------------------------------ | ----------------------------------------------- |
+| Parameter                      | Value                                           |
+| :----------------------------- | ----------------------------------------------- |
+| Model                          | RBCT-KP1                                        |
 | Advanced Features              | Signal Strength detection,Find me               |
 | Tamper Protection              | Rear                                            |
-| **RBF Wireless Transmission**  |                                                 |
-| RF Frequency                   | 868/915 MHz                                     |
-| RF Distance(Open Space)        | 1900 m                                          |
+| Transmission Technology        | RBF Wireless Transmission                       |
+| Transmission  Frequency        | 868/915 MHz                                     |
+| Transmission Range(Open Space) | 1900 m                                          |
 | Advanced Tech                  | AES-128 Encryption, FHSS, TDMA                  |
-| **Electrical Characteristics** |                                                 |
 | Battery Type                   | Four AAA batteries,Up to 5 years (standby mode) |
-| **General**                    |                                                 |
 | Operation Temperature          | -10°C to 55°C (14℉ to 131℉)                     |
 | Installation Method            | Screw /Adhesive                                 |
 | Dimension(W x H x D)           | 140 mm x 86 mm x 22 mm                          |
 | Weight                         | 170 g                                           |
 
-## 8、FCC Statement
+## 8、FCC  Statement
 
 This device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions:(1)This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.
 
@@ -117,10 +112,6 @@ Caution: Any changes or modifications to this device not explicitly approved by 
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance 20 cm between the radiator and your body.
 
 ---
-
-**Scan the QR code for more information**
-
-![image-20231215151707022](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215151707022.png)
 
 **Product name:** Keypad
 
