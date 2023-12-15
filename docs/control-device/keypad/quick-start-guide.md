@@ -20,7 +20,7 @@ Please make sure you have logged into the RB Link App and completed adding the h
 
    **Note: if the device does not show up in the App interface until green indicator is off, please press and hold the device register button for 5s to try again.*
 
-   ![image-20231215144435296](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215144435296.png)
+   ![image-20231215161458108](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215161458108.png)
 
 3. Assign room for the keypad and click the “Done" button , the keypad is added successfully.
 
@@ -36,7 +36,7 @@ This step checks that the signal strength of the communication between the devic
 2. Click on "Signal Strength Test”
 3. Click the "  " button to check the result of signal strength test.
 
-![image-20231215160517067](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215160517067.png)
+![Signal](https://dusunprj.oss-us-west-1.aliyuncs.com/Signal.png)
 
 ## 5、Installation Instruction
 
