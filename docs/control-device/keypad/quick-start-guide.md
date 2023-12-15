@@ -2,9 +2,9 @@
 
 ## 1、Appearance
 
-![image-20231215142308672](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215142308672.png)
+![image-20231215155459329](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215155459329.png)
 
-![image-20231215142346865](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215142346865.png)
+![image-20231215160336177](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215160336177.png)
 
 ## 2、Packaging List
 
@@ -24,7 +24,7 @@ Please make sure you have logged into the RB Link App and completed adding the h
 
 3. Assign room for the keypad and click the “Done" button , the keypad is added successfully.
 
-![image-20231215144603239](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215144603239.png)
+![image-20231215160417583](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215160417583.png)
 
 ## 4、Testing Instruction
 
@@ -36,7 +36,7 @@ This step checks that the signal strength of the communication between the devic
 2. Click on "Signal Strength Test”
 3. Click the "  " button to check the result of signal strength test.
 
-![image-20231215145005882](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215145005882.png)
+![image-20231215160517067](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215160517067.png)
 
 ## 5、Installation Instruction
 
@@ -59,19 +59,19 @@ PIN code can be configured on the keypad settings page of RB Link.
 
 PIN code +[  /  ]. The blue indicator on the keypad turns on when the system is armed . If it fails, the buzzer will beep three times.
 
-![image-20231215154844039](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215154844039.png)
+![image-20231215155329687](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215155329687.png)
 
 **2. Disarm with PIN code**
 
 PIN code +[  ] . The green indicator on the keypad flashes twice when the system is disarmed . If it fails,the buzzer will beep three times.
 
-![image-20231215154856817](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215154856817.png)
+![image-20231215155212175](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215155212175.png)
 
 **3. Duress silent alarm**
 
 Duress code +[  ] . The green indicator on the keypad will flash twice when the operation is successful. If it fails,the buzzer will beep three times.
 
-![image-20231215154909502](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215154909502.png)
+![image-20231215155212175](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215155212175.png)
 
 **4. Custom function**
 
