@@ -32,9 +32,9 @@ Please make sure you have logged into the RB Link App and completed adding the h
 
 This step checks that the signal strength of the communication between the device at its current location and the Home Security Hub.
 
-1. Click the "  "button in the top right corner of the Keypad details page.
+1. Click the " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2015@4x.png) "button in the top right corner of the Keypad details page.
 2. Click on "Signal Strength Test”
-3. Click the "  " button to check the result of signal strength test.
+3. Click the " ![资源 16@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2016@4x.png) " button to check the result of signal strength test.
 
 ![Signal](https://dusunprj.oss-us-west-1.aliyuncs.com/Signal.png)
 
@@ -63,19 +63,19 @@ PIN code +[![资源 6@5x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%
 
 **2. Disarm with PIN code**
 
-PIN code +[ ] . The green indicator on the keypad flashes twice when the system is disarmed . If it fails,the buzzer will beep three times.
+PIN code +[ ![资源 17@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2017@4x.png) ] . The green indicator on the keypad flashes twice when the system is disarmed . If it fails,the buzzer will beep three times.
 
 ![资源 13@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2013@4x.png)
 
 **3. Duress silent alarm**
 
-Duress code +[  ] . The green indicator on the keypad will flash twice when the operation is successful. If it fails,the buzzer will beep three times.
+Duress code +[ ![](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2017@4x.png) ] . The green indicator on the keypad will flash twice when the operation is successful. If it fails,the buzzer will beep three times.
 
 ![](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2013@4x.png)
 
 **4. Custom function**
 
-PIN code +[  ]. The built-in buzzer on the keypad beeps twice and trigger the custom function .If it fails, the buzzer will beep three times. Custom functions can be configured via RB Link.
+PIN code +[ ![资源 18@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2018@4x.png) ]. The built-in buzzer on the keypad beeps twice and trigger the custom function .If it fails, the buzzer will beep three times. Custom functions can be configured via RB Link.
 
 ## 7、Device specifications
 
