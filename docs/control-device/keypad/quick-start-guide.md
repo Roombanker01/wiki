@@ -8,7 +8,7 @@
 
 ## 2、Packaging List
 
-![image-20231215142451653](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215142451653.png)
+![资源 14@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2014@4x.png)
 
 ## 3、Add Keypad
 
@@ -20,7 +20,7 @@ Please make sure you have logged into the RB Link App and completed adding the h
 
    **Note: if the device does not show up in the App interface until green indicator is off, please press and hold the device register button for 5s to try again.*
 
-   ![image-20231215161458108](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215161458108.png)
+   ![资源 9@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%209@4x.png)
 
 3. Assign room for the keypad and click the “Done" button , the keypad is added successfully.
 
@@ -45,11 +45,11 @@ This step checks that the signal strength of the communication between the devic
 1. Select the mounting position and drill three holes in the wall, and then insert the expansion bolts into the holes.
 2. Fasten the back panel to the wall with three screws. Snap the keypad onto the back panel and secure it to the back panel with the screws.
 
-![image-20231215145328107](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215145328107.png)
+![资源 10@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2010@4x.png)
 
 **Mount on the wall by 3M  adhesive strip.**
 
-![image-20231215145426105](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215145426105.png)
+![资源 11@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2011@4x.png)
 
 ## 6、Basic Operation
 
@@ -59,19 +59,19 @@ PIN code can be configured on the keypad settings page of RB Link.
 
 PIN code +[![资源 6@5x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%206@5x.png)/ ![资源 7@5x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%207@5x.png) ]. The blue indicator on the keypad turns on when the system is armed . If it fails, the buzzer will beep three times.
 
-![image-20231215155329687](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215155329687.png)
+![资源 12@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2012@4x.png)
 
 **2. Disarm with PIN code**
 
 PIN code +[ ] . The green indicator on the keypad flashes twice when the system is disarmed . If it fails,the buzzer will beep three times.
 
-![image-20231215155212175](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215155212175.png)
+![资源 13@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2013@4x.png)
 
 **3. Duress silent alarm**
 
 Duress code +[  ] . The green indicator on the keypad will flash twice when the operation is successful. If it fails,the buzzer will beep three times.
 
-![image-20231215155212175](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215155212175.png)
+![](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2013@4x.png)
 
 **4. Custom function**
 
