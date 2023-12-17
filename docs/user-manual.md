@@ -20,21 +20,22 @@ The main purpose of the manual contains three parts:
 
 All the functions described in the manual are based on the products and version showing in the form below. You may find some functions cannot be achieved if your devices are not the latest version, please check your devices version and update to the latest from APP if so.
 
-| **Device name and latest available version** |             |                                |             |
-| -------------------------------------------- | ----------- | ------------------------------ | ----------- |
-| **Device**                                   | **Version** | **Device**                     | **Version** |
-| Gateway (Station)                            | v1.0.0      | PIR Sensor                     |             |
-| Gateway (Pico)                               | v1.0.0      | Panic Button                   |             |
-| Keypad                                       | 子设备版本  | Door Magnetic Sensor           |             |
-| Relay                                        |             | Water Leak Detector            |             |
-| Wall Switch                                  |             | Temperature & Humidity Monitor |             |
-| Indoor Siren                                 |             | Smoke Detector                 |             |
-| Outdoor Siren                                |             | RB Link APP                    |             |
-| Keyfob                                       |             |                                |             |
-| Smart Plug (US)                              |             |                                |             |
-| Smart Plug (EU)                              |             |                                |             |
-| Smart Plug (UK)                              |             |                                |             |
-| Smart Plug (IT)                              |             |                                |             |
+**Device name and latest available version**
+
+|    **Device**     | **Version** |           **Device**           | **Version** |
+| :---------------: | :---------: | :----------------------------: | :---------: |
+| Gateway (Station) |   v1.0.0    |           PIR Sensor           |             |
+|  Gateway (Pico)   |   v1.0.0    |          Panic Button          |             |
+|      Keypad       | 子设备版本  |      Door Magnetic Sensor      |             |
+|       Relay       |             |      Water Leak Detector       |             |
+|    Wall Switch    |             | Temperature & Humidity Monitor |             |
+|   Indoor Siren    |             |         Smoke Detector         |             |
+|   Outdoor Siren   |             |          RB Link APP           |             |
+|      Keyfob       |             |                                |             |
+|  Smart Plug (US)  |             |                                |             |
+|  Smart Plug (EU)  |             |                                |             |
+|  Smart Plug (UK)  |             |                                |             |
+|  Smart Plug (IT)  |             |                                |             |
 
 <br />
 
@@ -84,9 +85,9 @@ Once an alarm occurred, Hub reports the alarm to cloud via LAN/Wi-Fi/4G, activat
 
 <br />
 
-![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/note.png) **Note**
-
-**RBF** is a self-developed encrypted wireless protocol by Roombanker, aim to enhance the communication between devices, the transmission range is up to 3,500m in open area. It contains advanced technologies design, such as TDMA, Frequency Hopping, Power Adjustment, Multi-Band Transmission with Low Power, to guarantee a stable, secure, highly efficient wireless communication.
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/note.png)**Note**
+>
+> **RBF** is a self-developed encrypted wireless protocol by Roombanker, aim to enhance the communication between devices, the transmission range is up to 3,500m in open area. It contains advanced technologies design, such as TDMA, Frequency Hopping, Power Adjustment, Multi-Band Transmission with Low Power, to guarantee a stable, secure, highly efficient wireless communication.
 
 <br />
 
@@ -110,21 +111,26 @@ Once an alarm occurred, Hub reports the alarm to cloud via LAN/Wi-Fi/4G, activat
 
 Home security Hub has two different models, called **Station** and **Pico**, below form describes the brief comparison between two models.
 
-| **Specifications**      | **Home Hub (Pico)**                               | **Home Hub (Station)** |
-| ----------------------- | ------------------------------------------------- | ---------------------- |
-| Transmission Technology | RBF                                               | RBF/Zigbee 3.0/BLE     |
-| Transmission Method     | Two-way wireless (RBF)                            |                        |
-| Transmission Frequency  | 868/915MHz (RBF)                                  |                        |
-| Transmission Security   | AES128 Encryption (RBF)                           |                        |
-| Peripherals Connected   | Up to 64                                          | Up to 128              |
-| Users                   | 1 Super Admin+4 Admin+32 App Users+32 Local Users |                        |
-| Cellular                | /                                                 | 1 SIM (4G)             |
-| Wi-Fi                   | 2.4G，802.11 b/g/n                                |                        |
-| Ethernet                | 1 x RJ45, 10/100Mbps                              |                        |
-| Firmware Upgrade        | OTA via APP                                       |                        |
-| Power Supply            | Type-C，5VDC 2A                                   |                        |
-| Battery                 | /                                                 | 2600mAh 18650 battery  |
-| Backup time             | /                                                 | Up to 8h power backup  |
-| Weight                  | 260g                                              | 320g                   |
-| Operation Temperature   | -10℃~+45℃                                         |                        |
-| Dimension (W×H×D)       | 150mm x 150mm x 37mm                              |                        |
+| **Specifications**          | **Home Hub (Pico)**                               | **Home Hub (Station)**                            |
+| --------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| **Transmission Technology** | RBF                                               | RBF/Zigbee 3.0/BLE                                |
+| **Transmission Method**     | Two-way wireless (RBF)                            | Two-way wireless (RBF)                            |
+| **Transmission Frequency**  | 868/915MHz (RBF)                                  | 868/915MHz (RBF)                                  |
+| **Transmission Security**   | AES128 Encryption (RBF)                           | AES128 Encryption (RBF)                           |
+| **Peripherals Connected**   | Up to 64                                          | Up to **128**                                     |
+| **Users**                   | 1 Super Admin+4 Admin+32 App Users+32 Local Users | 1 Super Admin+4 Admin+32 App Users+32 Local Users |
+| **Cellular**                | /                                                 | **1 SIM (4G)**                                    |
+| **Wi-Fi**                   | 2.4G，802.11 b/g/n                                | 2.4G，802.11 b/g/n                                |
+| **Ethernet**                | 1 x RJ45, 10/100Mbps                              | 1 x RJ45, 10/100Mbps                              |
+| **Firmware Upgrade**        | OTA via APP                                       | OTA via APP                                       |
+| **Power Supply**            | Type-C，5VDC 2A                                   | Type-C，5VDC 2A                                   |
+| **Battery**                 | /                                                 | **2600mAh 18650 battery**                         |
+| **Backup time**             | /                                                 | **Up to 8h power backup**                         |
+| **Weight**                  | 260g                                              | 320g                                              |
+| **Operation Temperature**   | -10℃~+45℃                                         | -10℃~+45℃                                         |
+| Dimension (W×H×D)           | 150mm x 150mm x 37mm                              | 150mm x 150mm x 37mm                              |
+
+
+
+
+
