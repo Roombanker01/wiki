@@ -68,7 +68,7 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 
 ### Wireless signal range
 
-* 868 MHz Siren: Up to **1,900** m in an open space with hub
+* Up to **1,900** m in an open space with hub
 * Two-way communication with hub
 
 ### Frequency bands
