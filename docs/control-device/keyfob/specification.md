@@ -30,9 +30,9 @@ The portable wireless keyfob simplifies control operations with one-click arming
 
 ### Advanced features
 
-* Power up enrolling
+* Power up enrolling  
   *When keyfob is powered up, it will automatically start paring to the hub nearby*
-* Find me
+* Find me  
   *When enabled, the keyfob starts flashing green, which can help identify the sensor from numerous devices.*
 * Low battery notification
 
@@ -48,7 +48,7 @@ The portable wireless keyfob simplifies control operations with one-click arming
 
 ### Wireless signal range
 
-* 868 MHz Keyfob: Up to **1,900** m in an open space with hub
+* Up to **1,200** m in an open space with hub
 * Two-way communication with hub
 
 ### Frequency bands
