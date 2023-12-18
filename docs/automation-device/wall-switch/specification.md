@@ -53,7 +53,7 @@ The high-voltage smart wall switch can be installed in a standard 86 box, equipp
 
 ### Wireless signal range
 
-* 868 MHz Wall Switch: Up to 1,900 m in an open space with hub
+* Up to **1,900 m** in an open space with hub
 * Two-way communication with hub
 
 ### Frequency bands
