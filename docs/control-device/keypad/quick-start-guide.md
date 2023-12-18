@@ -2,13 +2,13 @@
 
 ## 1、Appearance
 
-![资源 4@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%204@4x.png)
+![Keypad-1](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-1.png)
 
-![资源 3@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%203@4x.png)
+![Keypad-2](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-2.png)
 
 ## 2、Packaging List
 
-![资源 14@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2014@4x.png)
+![Keypad-3](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-3.png)
 
 ## 3、Add Keypad
 
@@ -24,7 +24,7 @@ Please make sure you have logged into the RB Link App and completed adding the h
 
 3. Assign room for the keypad and click the “**Done**" button , the keypad is added successfully.
 
-![image-20231215160417583](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215160417583.png)
+![Keypad-tianjiazishebei](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-tianjiazishebei.png)
 
 ## 4、Testing Instruction
 
@@ -36,7 +36,7 @@ This step checks that the signal strength of the communication between the devic
 2. Click on "**Signal Strength Test**”
 3. Click the " ![资源 16@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2016@4x.png) " button to check the result of signal strength test.
 
-![Signal](https://dusunprj.oss-us-west-1.aliyuncs.com/Signal.png)
+![Keypad-signal](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-signal.png)
 
 ## 5、Installation Instruction
 
@@ -45,11 +45,11 @@ This step checks that the signal strength of the communication between the devic
 1. Select the mounting position and drill three holes in the wall, and then insert the expansion bolts into the holes.
 2. Fasten the back panel to the wall with three screws. Snap the keypad onto the back panel and secure it to the back panel with the screws.
 
-![资源 10@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2010@4x.png)
+![keypad-anzhuang1](https://dusunprj.oss-us-west-1.aliyuncs.com/keypad-anzhuang1.png)
 
 **Mount on the wall by 3M  adhesive strip.**
 
-![资源 11@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2011@4x.png)
+![Keypad-anzhuang2](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-anzhuang2.png)
 
 ## 6、Basic Operation
 
@@ -57,7 +57,7 @@ PIN code can be configured on the keypad settings page of RB Link.
 
 **1. Arm with PIN code**
 
-PIN code +[ ![资源 1@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%201@4x.png)/![资源 2@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%202@4x.png) ]. The blue indicator on the keypad turns on when the system is armed . If it fails, the buzzer will beep three times.
+PIN code +[![Keypad-tubiao1](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-tubiao1.png) /![资源 2@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%202@4x.png) ]. The blue indicator on the keypad turns on when the system is armed . If it fails, the buzzer will beep three times.
 
 ![资源 12@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2012@4x.png)
 
