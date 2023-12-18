@@ -169,7 +169,7 @@ The users  receive notifications in case of jamming or when the hub loses connec
 | Screw package                         | × 1      |
 | Quick Start Guide                     | × 1      |
 | SIM Card Tray                         | × 1      |
-
+| screwdriver                           | × 1      |
 
 ------
 
