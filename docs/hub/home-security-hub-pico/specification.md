@@ -210,6 +210,7 @@ The users  receive notifications in case of jamming or when the hub loses connec
 | Ethernet cable                        | × 1      |
 | Screw package                         | × 1      |
 | Quick Start Guide                     | × 1      |
+| screwdriver                           | × 1      |
 
 ------
 
