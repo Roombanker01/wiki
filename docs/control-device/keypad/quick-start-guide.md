@@ -77,7 +77,7 @@ Duress code +[ ![](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%9
 
 PIN code +[ ![资源 18@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2018@4x.png) ]. The built-in buzzer on the keypad beeps twice and trigger the custom function .If it fails, the buzzer will beep three times. Custom functions can be configured via RB Link.
 
-## 7、Device Specifications
+## 7、Device specifications
 
 | Parameter                      | Value                                           |
 | :----------------------------- | ----------------------------------------------- |
