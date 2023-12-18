@@ -2,7 +2,7 @@
 
 ## 1、Appearance
 
-![资源 8@5x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%208@5x.png)
+![资源 4@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%204@4x.png)
 
 ![资源 3@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%203@4x.png)
 
