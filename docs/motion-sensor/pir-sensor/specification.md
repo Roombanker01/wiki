@@ -72,7 +72,7 @@ The passive infrared sensor detects motion by detecting changes in infrared (IR)
 
 ### Wireless signal range
 
-* 868 MHz PIR Sensor: Up to **3,150 m** in an open space with hub
+* Up to **3,100 m** in an open space with hub
 * Two-way communication with hub
 
 ### Frequency bands
