@@ -51,7 +51,7 @@ RBF Relay is a dry contact relay to control 6-36 V⎓ power supply remotely.
 
 ### Wireless signal range
 
-* 868 MHz Relay: Up to 1,900 m in an open space with hub
+* Up to **1,900 m** in an open space with hub
 * Two-way communication between hub
 
 ### Frequency bands
