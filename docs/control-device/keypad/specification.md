@@ -68,7 +68,7 @@ The wireless keypad streamlines user interactions with one-click arming, passwor
 
 ### Wireless signal range
 
-* 868 MHz Keypad: Up to **1,900 m** in an open space with hub
+* Up to **1,900 m** in an open space with hub
 * Two-way communication with hub
 
 ### Frequency bands
