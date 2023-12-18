@@ -63,7 +63,7 @@ The surface-mounted door magnetic sensor always monitor the opening and closing 
 
 ## 3. RBF wireless technology
 ### Wireless signal range
-* 868 MHz Door Magnetic Sensor: Up to **1,900 m** in an open space with hub
+* Up to **1,900 m** in an open space with hub
 * Two-way communication with hub
 ### Frequency bands
 
