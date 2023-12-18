@@ -59,7 +59,7 @@ The water leak detector with extension cable design for multi-point high-precisi
 
 ### Wireless signal range
 
-* 868 MHz Sensor: Up to 1,900 m in an open space with hub
+* Up to **1,600 m** in an open space with hub
 * Two-way communication with hub
 
 ### Frequency bands
