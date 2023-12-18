@@ -14,7 +14,7 @@
 
 Please make sure you have logged into the RB Link App and completed adding the home security hub before adding peripheral.
 
-1. Click Home Security Hub to enter peripheral page, then click "+" on the top right corner and select "Add peripheral" to enable enrollment mode.
+1. Click Home Security Hub to enter peripheral page, then click "**+**" on the top right corner and select "**Add peripheral**" to enable enrollment mode.
 
 2. Power up the keypad by removing the insulator from the device . The green indicator will start flashing continuously and the device will automatically show up in the App interface.
 
@@ -33,7 +33,7 @@ Please make sure you have logged into the RB Link App and completed adding the h
 This step checks that the signal strength of the communication between the device at its current location and the Home Security Hub.
 
 1. Click the " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2015@4x.png) "button in the top right corner of the Keypad details page.
-2. Click on "Signal Strength Test”
+2. Click on "**Signal Strength Test**”
 3. Click the " ![资源 16@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2016@4x.png) " button to check the result of signal strength test.
 
 ![Signal](https://dusunprj.oss-us-west-1.aliyuncs.com/Signal.png)
