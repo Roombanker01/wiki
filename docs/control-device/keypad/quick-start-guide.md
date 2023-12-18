@@ -111,13 +111,3 @@ Caution: Any changes or modifications to this device not explicitly approved by 
 
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance 20 cm between the radiator and your body.
 
----
-
-**Product name:** Keypad
-
-**Manufacturer:** HangZhou Roombanker Technology Co., Ltd
-
-**Address:** 8F Block A, No.189 Daguan Road, Gongshu District, Hangzhou, Zhejiang, China
-
-**Origin:** No. 640, Fengqing Street, Moganshan Economic Development Zone, Deqing County, Zhejiang Province
-
