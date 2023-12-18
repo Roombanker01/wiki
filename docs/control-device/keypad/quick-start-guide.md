@@ -22,7 +22,7 @@ Please make sure you have logged into the RB Link App and completed adding the h
 
    ![资源 9@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%209@4x.png)
 
-3. Assign room for the keypad and click the “Done" button , the keypad is added successfully.
+3. Assign room for the keypad and click the “**Done**" button , the keypad is added successfully.
 
 ![image-20231215160417583](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20231215160417583.png)
 
