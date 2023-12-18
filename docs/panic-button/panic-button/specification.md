@@ -45,7 +45,7 @@ The 24/7 panic alarm button always ready to assist you. Just press the button to
 
 ### Wireless signal range
 
-* 868 MHz Button: Up to 1,900 m in an open space with hub
+* Up to 1,500 m in an open space with hub
 * Two-way communication with hub
 
 ### Frequency bands
