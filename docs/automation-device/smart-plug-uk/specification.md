@@ -54,7 +54,7 @@ The wireless smart plug features functions such as power management and child lo
 
 ### Wireless signal range
 
-* 868 MHz Smart Plug: Up to **1,900 m** in an open space with hub
+* Up to **1,900 m** in an open space with hub
 * Two-way communication with hub
 
 ### Frequency bands
