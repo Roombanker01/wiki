@@ -8,7 +8,7 @@
 
 ## 2. Packaging List
 
-![Indoor Siren-3](https://dusunprj.oss-us-west-1.aliyuncs.com/Indoor%20Siren-3.png)
+![Indoor Siren-10](https://dusunprj.oss-us-west-1.aliyuncs.com/Indoor%20Siren-10.png)
 
 ## 3. Add Indoor Siren
 
