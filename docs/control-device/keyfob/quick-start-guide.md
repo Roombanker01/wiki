@@ -22,7 +22,7 @@ Please make sure you have logged into the RB Link App and completed adding the h
 
 4. Click the "  ![Keyfob-7](https://dusunprj.oss-us-west-1.aliyuncs.com/Keyfob-7.png)  " button in the top right corner of the keyfob details page.
 
-5. Click on "**Alarm Settings**" ，the keyfob will work normally after associating a specific user. 
+5. Click on "**Associate User**" ，the keyfob will work normally after associating a specific user. 
 
 ![Keypad-tianjiazishebei](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-tianjiazishebei.png)
 
