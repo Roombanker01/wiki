@@ -14,9 +14,9 @@ Please make sure you have logged into the RB Link App and completed adding the h
 
 1. Click Home Security Hub to enter peripheral page， then click "**+**" on the top right corner and select "**Add peripheral**" to enable enrollment mode.
 
-2. Power up the smart plug by plugging it into a conventional outlet . The green indicator will start flashing continuously and the device will automatically show up in the App interface. 
+2. Power up the smart plug by plugging it into a conventional outlet . The blue indicator will start flashing continuously and the device will automatically show up in the App interface. 
 
-   **Note: If the device does not show up in the App interface until green indicator is off， please press and hold the device register button for 5s to try again.*
+   **Note: If the device does not show up in the App interface until blue indicator is off， please press and hold the device register button for 5s to try again.*
 
 3. Assign room  for the smart plug and click the "Done"button , the smart plug is added successfully. 
 
