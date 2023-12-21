@@ -73,7 +73,9 @@ Roombanker offers security solutions to Residential and SMB users, such as Apart
 
 It has four parts to consist of the whole system, which are Peripherals, Hub, Roombanker Cloud, RB Link APP.
 
-![Topology](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Topology.png)
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Topology.png" width="720" />
+</div>
 
 
 
@@ -138,7 +140,9 @@ Home security Hub has two different models, called **Station** and **Pico**, bel
 
 1. Scan the QR code below or search "RB Link" in Google Play or App Store to download and install the App.
 
-   ![image-20231221181603900](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/image-20231221181603900.png)
+   <div align="center">
+     <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/image-20231221181603900.png" width="200" />
+   </div>
 
 2. Register and log in to your account (with email) by following the instructions in the app.
 
@@ -235,8 +239,9 @@ Icons display some of the Hub status.
 Hub states can be viewed in the RB Link (App).
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221201418121.png" width="200" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221201418121.png" width="250" />
 </div>
+
 
 |       **Parameter**        | **Meaning**                                                  |
 | :------------------------: | ------------------------------------------------------------ |
@@ -267,21 +272,77 @@ You can click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker
 
 ### 2.5.2 User Management
 
-
+Please turn to [Charter 5. User Management](#charter-5.-user-management) for more details about user management.
 
 ### 2.5.3 System
+
+- **Time Zone**
+
+  Click "**>**" and then select your time zone, then the time will be updated automatically.
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Time%20Zone.png" width="500" />
+</div>
+
+- **Cellular Network**
+  - **Username**, **Password** and **APN** - After inserting the SIM card, the Hub automatically obtains the necessary information and connects to the network. If you are unable to connect, please contact your network operator to obtain these information and perform manual configuration.
+  - **Used Data (This month)** - Show current data usage.
+  - **Monthly data allowance** - You can set a data usage limit here, and the APP will send a notification when that limit is exceeded. 
+
+![image-20231221215745089](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221215745089.png)
+
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *The calculation standard for device data usage might different from telecom operators. Please refer to the actual bill for accurate data usage.*
+
+
+
+- **Fault Check**
+
+  You can configure fault detection rules. After you enable it, the Hub performs periodic detection and uploads relevant information according to the configured rules.
+
+|     **Parameter**     | **Meaning**                                                  |
+| :-------------------: | ------------------------------------------------------------ |
+|     Battery Loss      | Monitors battery connection status to ensure it's functioning normally.<br />**Open** **-** Monitoring function is active<br />**Close** - Monitoring function is disabled |
+|      Low Battery      | Monitors low battery levels (below 20%) <br />**Open** **-** Monitoring function is active<br />**Close** - Monitoring function is disabled |
+|     Ethernet Lost     | Monitors ethernet connectivity, and sends an alert to the APP if an ethernet outage lasts longer than a predefined threshold. |
+|      Wi-Fi Lost       | Monitors Wi-Fi connectivity, and sends an alert to the APP if Wi-Fi outage lasts longer than a predefined threshold. |
+| Cellular Network Lost | Monitors Cellular Network connectivity, and sends an alert to the APP if Cellular Network outage lasts longer than a predefined threshold. |
+|  External Power Lost  | Monitors external power supply connection status <br />**Open** - Monitoring function is active<br />**Close** - Monitoring function is disabled |
+
+- **24H Lid Detection**
+
+  This feature is enabled by default, detecting hub tampering and triggering an alarm if disassembly is detected. It can be used in both armed and disarmed states.
 
 
 
 ### 2.5.4 Communication
 
-
+During this period, if your Hub is frequently online and offline, you will not receive any offline notifications. Due to delay or status synchronization, the delay time may be different.
 
 ### 2.5.5 Maintenance
 
+- **Walk Test**
 
+  Enable walk test, you can trigger the corresponding sensors individually in order to check if they are installed and configured correctly. When this function is enabled, only the indicators in sensors will flash red instead of pushing alarm notification. and you can also see the corresponding status changes from `Not Triggered` to `Triggered` if the sensor detects an alarm event.
+
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/note.png)**Note** : *The walk test can only last for 20 minutes and then turn off automatically.*
+
+- **Firmware Upgrade**
+
+  The current firmware version of the device is displayed here. If a new version is available, you can simply click to upgrade.
+
+- **Device Reset**
+
+  - **Restart Hub** - Click `Restart` button to restart the hub without changing any settings.
+  - **Factory Default** - Click `Restore` button to reset all settings to their factory defaults.
+  - **Reset Network** - Click `Default`  button to reset the network settings while preserving detectors and peripherals.
+
+- **SSH**
+
+  When SSH is enabled, our technical support staff can help you troubleshoot issues with your device remotely. SSH is disabled by default and can only be enabled by you and other Admin users.
 
 ### 2.5.6 User Guide
+
+You can click to view the Quick Start Guide document of the Hub.
 
 
 
@@ -289,23 +350,55 @@ You can click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker
 
 ## 3.1 Create and manage rooms
 
+● **Definition of Room:** the area where the peripheral is installed in house.
 
+● **Function of Room:** allow each peripheral to be assigned to just one room. Admins can assign management permissions to different users on different rooms. 
+
+![Room management](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Room%20management.png)
+
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *The above recommendations are for reference only and may vary depending on the specific layout and type of home. Adjustments to the room division and hub or peripherals placement may be necessary to suit your specific needs.*
 
 ### 3.1.1 Create a room
 
+Click "![room](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/room.png)" on the management page of Hub to view your rooms.
 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221222433259.png" width="300" />
+</div>
+
+Click `Create a New Room` to add a new room, you can fill in the room name by yourself or choose one of the recommended name generated by app.
+
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *One hub can support up to 64 rooms.*
 
 ### 3.1.2 Rename a room
 
+Click a room whose name you want to modify, then you can edit its name by yourself.
 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221223150842.png" width="300" />
+</div>
+
+   
 
 ### 3.1.3 Delete a room
 
+Deleting a room is a snap. Just swipe left on the room in the list and click `Delete`.
 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Delete%20a%20room.png" width="300" />
+</div>
+
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *Make sure to remove any devices from the room before deleting it.*
 
 ### 3.1.4 View Peripherals in a specific room
 
+In the Hub management page, click on a specific room to view all the associated peripherals.
 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/peripheral%20list%20in%20room.png" width="250" />
+</div>
+
+<br />
 
 # **Charter** 4. Peripheral Setting
 
@@ -313,21 +406,60 @@ You can click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker
 
 ## 4.1. Adding peripherals
 
+Home Security System supports 2 types of wireless peripheral adding:
 
+● **By QR Code:** adding peripherals `one by one`.
+
+● **By Enrollment Mode:** adding multiple peripherals `in bulk`.
 
 ### Option 1: Adding via QR Code
 
+This is a way to add your wireless peripherals (RBF) one by one by scanning device QR Code. And QR Code can be found on device or device package. Please refer to the following guide to add your peripheral via QR Code.
 
+<br />
+
+1. Open RB Link App. Click name of your hub to turn to the "Main Page" of your hub.
+2. Click `+`  icon on the top right corner, and then click `Scan` to open your phone's camera to scan device QR Code.
+3. When QR Code is scanned, App will turn to **Device Adding Guide** page, you can follow the guide to operate your device and click `Next` to wait for adding.
+4. When your device is added, please assign a room for this device and edit the device name.
+5. Click `Done` to finish adding.
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Adding%20via%20qr%20code.png" width="700" />
+</div>
+
+After all above steps, your device will show up on the product list of the assigned room or on the product list of **Smart Home**.
+
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note**:
+>
+> - Only the RBF peripherals (with "![RBF green (1)](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/RBF%20green%20(1).png)" printed on their packages) support to be added via QR Code, while Bluetooth and Zigbee peripherals doesn't work.
+> - Since wall switch needs to connect to mains power (110V~ / 220V~) as a power supply, it is recommended to use "Adding via Scan QR Code" before cable connection.
 
 ### Option 2: Adding via Enrollment Mode
 
+This is a way to add your wireless devices (RBF, Zigbee3.0) in batches by scanning devices over-the-air. Please refer to the following guide to add your devices via Enrollment Mode.
 
+![image-20231221215745089](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221215745089.png)
+
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : 
+>
+> - All the rest devices except Wall Switch are recommended to use "Adding via Enrollment Mode". 
+> - Keyfob needs to be assigned to a user after enrolled.
+> - Keypad needs to be set which rooms can be controlled after enrolled.
 
 <br />
 
 ## 4.2 Peripheral Icons
 
-
+|                             Icon                             | Meaning                                                      |
+| :----------------------------------------------------------: | ------------------------------------------------------------ |
+| ![Signal](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Signal.png) | Device signal strength between the wireless peripherals and hub. |
+| ![Battery](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Battery.png) | Device battery status. Red means low battery                 |
+| ![alarm](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/alarm.png) | Alarm triggered, including device alarm and tamper alarm.    |
+| ![motion](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/motion.png) | PIR Motion alarm triggered.<br />**for PIR Sensor only.*     |
+| ![water leak](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/water%20leak.png) | Water Leak alarm triggered.<br />**for Water Leak Detector only.* |
+| ![smoke](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/smoke.png) | Smoke alarm triggered.<br />**for Smoke Detector only.*      |
+| ![charging](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/charging.png) | Solar Panel is charging the battery.<br />**for Outdoor Siren only* |
 
 <br />
 
@@ -335,15 +467,51 @@ You can click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker
 
 ### 4.3.1 Appearance
 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/PIR%20front.png" width="300" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/PIR%20Top.png" width="300" />
+</div>
 
+| **Appearance**      | **Description**                                              |
+| ------------------- | ------------------------------------------------------------ |
+| **LED Indicator**   | Red / Green / Orange<br />**Used to indicate alarm status, signal strength status, and Find Me status.* |
+| **Register Button** | Press and hold for 5s to add the PIR to the Hub.<br />**Register Button is only used for re-adding or connecting the peripheral to another hub.* |
+| **PIR Lens**        | Fresnel lens<br />**Used to detect motion within the detection range.* |
+| **Case Lock**       | Rotate to lock / unlock the PIR case.                        |
 
 ### 4.3.2 State
 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/PIR%20State.png" width="250" />
+</div>
 
+|     **Parameter**     |                          **Value**                           | **Meaning**                                                  |
+| :-------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| **Associated scene**  |                            0 ~ 64                            | Shows the number of custom scenes associated with this PIR. You can also click to view and configure the scenes.<br />**Please turn to [Charter 6. Scene Management](#charter-6.-Scene-management) for more details.* |
+|    **Arm Status**     |                         Arm / Disarm                         | Shows the arm status of the PIR. When it’s armed, the PIR could detect motion events and then report alarm to Hub immediately.<br />**The PIR will enter sleep mode for energy-saving.* |
+|   **Alarm Status**    |                        Normal / Alarm                        | Shows whether the PIR is triggered.<br />**Alarm will only be triggered when PIR is armed.* |
+|    **Lid Status**     |                      Normal / Triggered                      | Shows whether the lid of PIR is open or not.                 |
+|  **Signal Strength**  | ![signal blue](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/signal%20blue.png) | Shows the signal strength between the PIR and the hub.       |
+| **Connection Status** |                       Online / Offline                       | Shows the connection status between the PIR and the Hub.<br />**The PIR will not be functional if the status is offline.* |
+|  **Battery Status**   | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | Shows the battery level of PIR. <br />**If the battery level is low, the icon will turn red and you’ll receiver a malfunction notification in App.* |
 
 ### 4.3.3 Setting
 
+Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
+![image-20231221215745089](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221215745089.png)
+
+|      **Parameter**       |                          **Value**                           | **Meaning**                                                  |
+| :----------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+|  **Basic Information**   |                              /                               | Check the basic information of this device, including MAC Address, Serial Number, etc. <br />And you can also edit the device name here by yourself. |
+|   **Room Belongs to**    | ![image-20231221233352230](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221233352230.png) | You can select one of the rooms created before and then link the PIR to.<br />**When linked to a specific room, the PIR will be displayed on the product list of the room, and the PIR could begin for detecting when the room is armed.* |
+|       **Find Me**        | ![image-20231221233401438](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221233401438.png) | A function that used to find your PIR among numerous devices. When you enable this function, the indicator in PIR will flash green to help you find the target device quickly. |
+| **Signal Strength Test** | ![image-20231221233412208](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221233412208.png) | A function that used to check the signal strength between PIR and hub at the tested place, which is designed to help you choose the right place for installation. When you enable this function, you can check the signal strength by watching the indicator in PIR and the feedback in app. |
+|  **Installation Test**   | ![image-20231221233433396](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221233433396.png) | A function that used to test whether the PIR is installed properly. When you enable this function, you can walk in the room to test if the PIR can detect and trigger an alarm properly. The indicator will flash red when it detects successfully. |
+|    **Disable Device**    |                           ON / OFF                           | If this button is ON, the alarm and malfunctions generated by this PIR will no longer be uploaded to the Hub and App.<br />**It is recommended that you disable the device only if it’s defective. Before turning on this function, please ensure that you are aware of the situation to avoid possible personal injury or property damage that may result from the device not detecting and triggering an alarm.* |
+| **Display On Homepage**  |                           ON / OF                            | When enabled, the PIR will show up on homepage so that you can operate quickly. |
+|      **User Guide**      |                              /                               | Click to check the user guide document of PIR.               |
+|    **Delete Device**     |                              /                               | Delete the PIR from your hub.                                |
 
 <br />
 
@@ -351,13 +519,37 @@ You can click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker
 
 ### 4.4.1 Appearance
 
+![Magnetic](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Magnetic.png)
 
+| **Appearance**                    | **Description**                                              |
+| --------------------------------- | ------------------------------------------------------------ |
+| **LED Indicator**                 | Red / Green / Orange<br />**Used to indicate alarm status, signal strength status, and Find Me status.* |
+| **Register Button**               | Press and hold for 5s to add the Door Magnetic Sensor to the Hub.<br />**Register Button is only used for re-adding or connecting the peripheral to another hub.* |
+| **Tamper Switch / Tamper Button** | Used to detect the tamper alarm status of the lid.           |
 
 ### 4.4.2 State
 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/MC%20state.jpg" width="250" />
+</div>
 
+|     **Parameter**     |                          **Value**                           | **Meaning**                                                  |
+| :-------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| **Associated scene**  |                            0 ~ 64                            | Shows the number of custom scenes associated with this Door Magnetic Sensor. You can also click to view and configure the scenes.<br />**Please turn to [Charter 6. Scene Management](#charter-6.-Scene-management) for more details.* |
+|    **Arm Status**     |                         Arm / Disarm                         | Shows the arm status of the Door Magnetic Sensor. When it’s armed, the Door Magnetic Sensor could detect open/close events and then report alarm to Hub immediately. |
+|   **Alarm Status**    |                        Normal / Alarm                        | Shows whether the Door Magnetic Sensor is triggered.         |
+|    **Lid Status**     |                      Normal / Triggered                      | Shows whether the Door Magnetic Sensor’s lid is opened or not. |
+|  **Signal Strength**  | ![signal blue](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/signal%20blue.png) | Shows the signal strength between the Door Magnetic Sensor and the Hub. |
+| **Connection Status** |                       Online / Offline                       | Shows the connection status between the Door Magnetic Sensor and the Hub.<br />**The Door Magnetic Sensor will not be functional if the status is offline.* |
+|  **Battery Status**   | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | Shows the battery level of Door Magnetic Sensor. <br />**If the battery level is low, the icon will turn red and you’ll receive a malfunction notification in App.* |
 
 ### 4.4.3 Setting
+
+Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221233126628.png" width="250" />
+</div>
 
 
 
