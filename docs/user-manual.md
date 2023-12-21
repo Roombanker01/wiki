@@ -4,7 +4,7 @@
 
 # **Overview**
 
-## **Purpose of the Manual**
+## Purpose of the Manual
 
 The main purpose of the manual contains three parts:
 
@@ -16,7 +16,7 @@ The main purpose of the manual contains three parts:
 
 
 
-## **Scope of the Manual**
+## Scope of the Manual
 
 All the functions described in the manual are based on the products and version showing in the form below. You may find some functions cannot be achieved if your devices are not the latest version, please check your devices version and update to the latest from APP if so.
 
@@ -41,7 +41,7 @@ All the functions described in the manual are based on the products and version 
 
 <br />
 
-## **Symbol Conventions**
+## Symbol Conventions
 
 | **Symbol**                                                   | **Description**                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -55,7 +55,7 @@ All the functions described in the manual are based on the products and version 
 
 # **Charter 1. System Introduction**
 
-## **1.1 Overview of the System**
+##  1.1 Overview of the System
 
 ● **Product Positioning:** 
 
@@ -91,7 +91,7 @@ Once an alarm occurred, Hub reports the alarm to cloud via LAN/Wi-Fi/4G, activat
 
 <br />
 
-## 1.2 **System Key Features**
+## 1.2 System Key Features
 
 ● Ultra-long range, reliable transmission
 
@@ -107,7 +107,7 @@ Once an alarm occurred, Hub reports the alarm to cloud via LAN/Wi-Fi/4G, activat
 
 <br />
 
-## 1.3 **Spec of Hub**
+## 1.3 Spec of Hub
 
 Home security Hub has two different models, called **Station** and **Pico**, below form describes the brief comparison between two models.
 
@@ -134,7 +134,7 @@ Home security Hub has two different models, called **Station** and **Pico**, bel
 
 # **Charter 2. Start Up Hub**
 
-## **2.1 App Installation**
+## 2.1 App Installation
 
 1. Scan the QR code below or search "RB Link" in Google Play or App Store to download and install the App.
 
@@ -144,7 +144,7 @@ Home security Hub has two different models, called **Station** and **Pico**, bel
 
    > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/note.png)**Note** : *as of now, e-mail is the only supported method for account registration*
 
-## **2.2 Add Home Security Hub**
+## 2.2 Add Home Security Hub
 
 1. Insert the charging cable into the home security hub and turn on the power switch. Wait a moment until the center indicator starts flashing green continuously.
 
@@ -196,7 +196,7 @@ The Cloud Indicator turns `blue` when the connection is successful.
 
 <br />
 
-## **2.3 Home Page Display**
+## 2.3 Home Page Display
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221194703486.png" width="300" />
@@ -210,9 +210,9 @@ The Cloud Indicator turns `blue` when the connection is successful.
 
 <br />
 
-## **2.4 Hub Status** **Introduction**
+## 2.4 Hub Status Introduction
 
-### **2.4.1 Hub icons**
+### 2.4.1 Hub icons
 
 Icons display some of the Hub status.
 
@@ -303,7 +303,7 @@ You can click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker
 
 
 
-### **3.1.4 View Peripherals in a specific room**
+### 3.1.4 View Peripherals in a specific room
 
 
 
