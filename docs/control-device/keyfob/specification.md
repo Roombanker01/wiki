@@ -17,8 +17,12 @@ The portable wireless keyfob simplifies control operations with one-click arming
 ## 1. Button Function
 
 * Arm
+
 * Disarm
-* Custom Button **× 2** (Button function can be customized from the App)
+
+* Custom Button **× 2**    
+
+  > *custom function can be customized from the App*
 
 ------
 
@@ -31,16 +35,18 @@ The portable wireless keyfob simplifies control operations with one-click arming
 ### Advanced features
 
 * Power up enrolling  
-  *When keyfob is powered up, it will automatically start paring to the hub nearby*
+  
+  > *When keyfob is powered up, it will automatically start paring to the hub nearby*
 * Find me  
-  *When enabled, the keyfob starts flashing green, which can help identify the sensor from numerous devices.*
+  
+  > *When enabled, the keyfob starts flashing green, which can help identify the sensor from numerous devices.*
 * Low battery notification
 
 ### Indicator
 
-* Arm succeed: Flashing Green twice
-* Disarm/Custom function succeed: Flashing Green three times
-* Operation failed: Flashing Red twice
+* Arm succeed: Flashing `Green `twice
+* Disarm/Custom function succeed: Flashing `Green `three times
+* Operation failed: Flashing `Red ` twice
 
 ------
 
@@ -54,8 +60,9 @@ The portable wireless keyfob simplifies control operations with one-click arming
 ### Frequency bands
 
 * 868MHz Keyfob: 863 ~ 870 MHz
-* 915MHz Keyfob: 902 ~ 928 MHz
-  *Depends on sales region.*
+* 915MHz Keyfob: 902 ~ 928 MHz  
+  
+  > *Depends on sales region.*
 
 ### Wireless signal modulation
 
@@ -110,7 +117,7 @@ The portable wireless keyfob simplifies control operations with one-click arming
 
 ## 6. Compatibility
 
-* Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
+* Operates with all Roombanker Home Security Hubs,  RBF repeaters.
 
 ------
 

@@ -30,22 +30,26 @@ The high-voltage smart wall switch can be installed in a standard 86 box, equipp
 
 ### Advanced features
 
-* Power up enrolling
-  *When wall switch is powered up, it will automatically start paring to the hub nearby*
-* Find me
-  *When enabled, the wall switch starts flashing green, which can help identify the wall switch from numerous devices.*
-* Signal strength detection
-  **When enabled, wall switch starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* * 
+* Power up enrolling  
+  
+  > *When wall switch is powered up, it will automatically start paring to the hub nearby*
+* Find me  
+  
+  > *When enabled, the wall switch starts flashing green, which can help identify the wall switch from numerous devices.*
+* Signal strength detection  
+  
+  > **When enabled, wall switch starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* * 
 
 ### Indicator
 
-* ON: Blue on
-* OFF: Blue off
-* Find me: Flashing Green
-* Signal strength: Flashing Green / Orange / Red
-  *Flashing Green: signal strength is strong, and is recommended to install device here*
-  *Flashing Orange: signal strength is medium and device can be installed here*
-  *Flashing Red: signal strength is bad or no signal, and device can not be installed here*
+* Wall Switch ON: Blue indicator is `on`
+* Wall Switch OFF: Blue indicator is `off`
+* Find me: Flashing `Green`
+* Signal strength: 
+  * Flashing `Green`: signal strength is strong, and is recommended to install device here
+  * Flashing `Orange`: signal strength is medium and device can be installed here
+  * Flashing `Red`: signal strength is bad or no signal, and device can not be installed here
+
 
 ------
 
@@ -59,8 +63,9 @@ The high-voltage smart wall switch can be installed in a standard 86 box, equipp
 ### Frequency bands
 
 * 868 MHz Wall Switch: 863 ~ 870 MHz
-* 915 MHz Wall Switch: 902 ~ 928 MHz
-  *Depends on sales region.*
+* 915 MHz Wall Switch: 902 ~ 928 MHz  
+  
+  > *Depends on sales region.*
 
 ### Wireless signal modulation
 
@@ -123,7 +128,7 @@ The high-voltage smart wall switch can be installed in a standard 86 box, equipp
 
 ## 5. Compatibility
 
-* Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
+* Operates with all Roombanker Home Security Hubs,  RBF repeaters.
 
 ------
 

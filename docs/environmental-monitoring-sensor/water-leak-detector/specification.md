@@ -36,22 +36,26 @@ The water leak detector with extension cable design for multi-point high-precisi
 
 ### Advanced features
 
-* Power up enrolling
-  *When sensor is powered up, it will automatically start paring to the hub nearby*
-* Find me
-  *When enabled, the sensor starts flashing green, which can help identify the sensor from numerous devices.*
-* Signal strength detection
-  *When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
+* Power up enrolling  
+  
+  > *When sensor is powered up, it will automatically start paring to the hub nearby*
+* Find me  
+  
+  > *When enabled, the sensor starts flashing green, which can help identify the sensor from numerous devices.*
+* Signal strength detection  
+  
+  > *When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
 * Low battery notification
 
 ### Indicator
 
-* Alarm: Flashing Red
-* Find me: Flashing Green
-* Signal strength: Flashing Green / Orange / Red
-  *Flashing Green: signal strength is strong, and is recommended to install device here*
-  *Flashing Orange: signal strength is medium and device can be installed here*
-  *Flashing Red: signal strength is bad or no signal, and device can not be installed here*
+* Alarm: Flashing `Red`
+* Find me: Flashing `Green`
+* Signal strength:
+  * Flashing `Green`: signal strength is strong, and is recommended to install device here
+  * Flashing `Orange`: signal strength is medium and device can be installed here
+  * Flashing `Red`: signal strength is bad or no signal, and device can not be installed here
+
 
 ------
 
@@ -65,8 +69,9 @@ The water leak detector with extension cable design for multi-point high-precisi
 ### Frequency bands
 
 * 868 MHz Water Leak Detector: 863 ~ 870 MHz
-* 915 MHz Water Leak Detector: 902 ~ 928 MHz
-  *Depends on sales region.*
+* 915 MHz Water Leak Detector: 902 ~ 928 MHz  
+  
+  > *Depends on sales region.*
 
 ### Wireless signal modulation
 
@@ -122,7 +127,7 @@ The water leak detector with extension cable design for multi-point high-precisi
 
 ## 6. Compatibility
 
-* Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
+* Operates with all Roombanker Home Security Hubs,  RBF repeaters.
 
 ------
 

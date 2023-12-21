@@ -12,7 +12,10 @@ Smart Hub is the powerful brain of RoomBanker Secuiry & Automation system, enabl
 <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-6.png" alt="img" style={{textAlign:'center',width:'25%'}} /> 
 </div>
 
+
+
 > Note: the external antennas need to be purchased separately.
+
 ------
 
 ## 1. Capacity
@@ -38,7 +41,7 @@ Smart Hub is the powerful brain of RoomBanker Secuiry & Automation system, enabl
 
 ### Automation scenes
 
-* Up to **64** custom scenes
+* Up to **64** custom scenes  
   *Alarm responses / Scheduled actions / Security mode changing reactions / Temperature changing reactions / Humidity changing reactions / Reactions to pressing Button*
 
 ### Rooms
@@ -53,7 +56,7 @@ Smart Hub is the powerful brain of RoomBanker Secuiry & Automation system, enabl
 Innovative and Proprietary wireless communication technology to transmit information.
 
 Key features:
-* Ultra-long communication range.(868MHz: Up to 3.5km@open area)
+* Ultra-long communication range.(Up to 3.5km@open area)
 * Two-way communication.
 * AES-CCM encryption featuring a random key.
 * OTA by wireless.
@@ -61,15 +64,15 @@ Key features:
 * Remote control via RB Link App.
 ### Frequency bands
 * **868 MHz version**: 863 ~ 870 MHz
-* **915 MHz version**: 902 ~ 928 MHz
+* **915 MHz version**: 902 ~ 928 MHz  
 *Depends on sales region.*
 ### Wireless signal modulation
 * FSK / DSSS
 
 ### Wireless signal range
 
-* 868MHz: Up to **3,500m** in open space
-Between the hub and connected devices.
+* Up to **3,500m** in open space  
+Between the hub and connected devices.  
 *Maximum range depends on the connected device.*
 ### Encrypted communication
 All the data transmitted are protected by AES-CCM encryption with a random key.
@@ -102,7 +105,9 @@ All the data transmitted are protected by AES-CCM encryption with a random key.
   | China                                 | B1/ 3/ 5/ 8                  | B34/ 38/ 39/ 40/ 41 | B3/ 8       |
   
 
-> Note: Select the right LTE region before ordering a hub.
+> Note: 
+>
+> *Select the right LTE region before ordering a hub.*
 >
 > *External antenna optional for places where built-in antenna signal is bad or no signal.*
 
@@ -130,7 +135,7 @@ All the data transmitted are protected by AES-CCM encryption with a random key.
 ### External plug
 * Type-C, DC5V, 2A
 ### Backup Battery
-* Built-in backup battery: 1 × 18650 lithium battery，2600mAh
+* Built-in backup battery: 1 × 18650 lithium battery，2600mAh  
 *Up to 8 hours backup time*
 
 ------
@@ -177,10 +182,12 @@ The users  receive notifications in case of jamming or when the hub loses connec
 
 ### Available models
 
-| Hub          | Model Name                     | RBF  | Zigbee | Ethernet | Wi-Fi | GPRS | LTE  |
-| ------------ | ------------------------------ | ---- | ------ | -------- | ----- | ---- | ---- |
-| Station-GPRS | RBGW-201-868<br />RBGW-201-915 | √    | √      | √        | √     | √    | ×    |
-| Station-LTE  | RBGW-202-868<br />RBGW-202-915 | √    | √      | √        | √     | ×    | √    |
+|     Hub      |  Model Name  | RBF  | Zigbee | Ethernet | Wi-Fi | GPRS | LTE  |
+| :----------: | :----------: | :--: | :----: | :------: | :---: | :--: | :--: |
+| Station-GPRS | RBGW-201-868 |  √   |   √    |    √     |   √   |  √   |  ×   |
+| Station-GPRS | RBGW-201-915 |  √   |   √    |    √     |   √   |  √   |  ×   |
+| Station-LTE  | RBGW-202-868 |  √   |   √    |    √     |   √   |  ×   |  √   |
+| Station-LTE  | RBGW-202-915 |  √   |   √    |    √     |   √   |  ×   |  √   |
 
 > Note：Station-LTE needs to select LTE region. 
 >
@@ -197,7 +204,9 @@ The users  receive notifications in case of jamming or when the hub loses connec
 * RCM
 * NOM
 * Anatel
+
 ### User manual
+
 * [Roombanker User Manual](https://wiki.roombanker.com/user-manual)
 
 ### Warranty

@@ -43,24 +43,31 @@ The wireless keypad streamlines user interactions with one-click arming, passwor
 
 ### Advanced features
 
-* Power up enrolling
-  *When keypad is powered up, it will automatically start paring to the hub nearby*
-* Find me
-  *When enabled, the keypad starts flashing green, which can help identify the keypad from numerous devices.*
-* Signal strength detection
-  *When enabled, keypad starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
+* Power up enrolling  
+  
+  > *When keypad is powered up, it will automatically start paring to the hub nearby*
+* Find me  
+  
+  > *When enabled, the keypad starts flashing green, which can help identify the keypad from numerous devices.*
+* Signal strength detection  
+  
+  > *When enabled, keypad starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
 * Low battery notification
 
 ### Indicator
 
-* Alarm: Flashing Red
-* Fault: Orange
-* Arm/Disarm: Armed with Blue On / Disarmed with Blue Off
-* Find me: Flashing Green
-* Signal strength: Flashing Green / Orange / Red
-  *Flashing Green: signal strength is strong, and is recommended to install device here*
-  *Flashing Orange: signal strength is medium and device can be installed here*
-  *Flashing Red: signal strength is bad or no signal, and device can not be installed here*
+* Alarm Indicator: Flashing `Red` (Alarm triggered)
+* Fault Indicator:  `Orange` (System fault)
+* Arm/Disarm Indicator: 
+  * Blue indicator is `On ` (Armed)
+  * Indicator is `Off ` (Disarmed)
+
+* Find me: Flashing `Green`
+* Signal Strength Indicator:
+  * Flashing `Green`: signal strength is strong, and is recommended to install device here
+  * Flashing `Orange`: signal strength is medium and device can be installed here
+  * Flashing `Red`: signal strength is bad or no signal, and device can not be installed here
+
 
 ------
 
@@ -74,8 +81,9 @@ The wireless keypad streamlines user interactions with one-click arming, passwor
 ### Frequency bands
 
 * 868MHz Keypad: 863 ~ 870 MHz
-* 915MHz Keypad: 902 ~ 928 MHz
-  *Depends on sales region.*
+* 915MHz Keypad: 902 ~ 928 MHz  
+  
+  > *Depends on sales region.*
 
 ### Wireless signal modulation
 
@@ -130,7 +138,7 @@ The wireless keypad streamlines user interactions with one-click arming, passwor
 
 ## 6. Compatibility
 
-* Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
+* Operates with all Roombanker Home Security Hubs,  RBF repeaters.
 
 ------
 

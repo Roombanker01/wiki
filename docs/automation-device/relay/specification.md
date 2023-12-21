@@ -20,7 +20,7 @@ RBF Relay is a dry contact relay to control 6-36 V⎓ power supply remotely.
 
 * Physical button control
 * App Control
-* Smart Scene control: By Alarm, By Operation, By Fault, By Schedule
+* Smart Scene control: `By Alarm`, `By Operation`, `By Fault`, `By Schedule`
 
 ### Remote setting and testing
 
@@ -28,22 +28,26 @@ RBF Relay is a dry contact relay to control 6-36 V⎓ power supply remotely.
 
 ### Advanced features
 
-* Power up enrolling
-  *When sensor is powered up, it will automatically start paring to the hub nearby*
-* Find me
-  *When enabled, the device starts flashing green, which can help identify the sensor from numerous door magnetic sensors.*
-* Signal strength detection
-  *When enabled, relay starts flashing green/orange/red showing the wireless signal strength between the hub at current installation place.* 
+* Power up enrolling  
+  
+  > *When sensor is powered up, it will automatically start paring to the hub nearby*
+* Find me  
+  
+  > *When enabled, the device starts flashing green, which can help identify the sensor from numerous door magnetic sensors.*
+* Signal strength detection  
+  
+  > *When enabled, relay starts flashing green/orange/red showing the wireless signal strength between the hub at current installation place.* 
 
 ### Indicator
 
-* ON: Blue on
-* OFF: Blue off
-* Find me: Flashing Green
-* Signal strength: Flashing Green / Orange / Red
-  *Flashing Green: signal strength is strong, and is recommended to install device here*
-  *Flashing Orange: signal strength is medium and device can be installed here*
-  *Flashing Red: signal strength is bad or no signal, and device can not be installed here*
+* Relay ON: Blue indicator is `On`
+* Relay OFF: Blue `Off`
+* Find me: Flashing `Green`
+* Signal strength:
+  * Flashing `Green`: signal strength is strong, and is recommended to install device here
+  * Flashing `Orange`: signal strength is medium and device can be installed here
+  * Flashing `Red`: signal strength is bad or no signal, and device can not be installed here
+  
 
 ------
 
@@ -58,14 +62,15 @@ RBF Relay is a dry contact relay to control 6-36 V⎓ power supply remotely.
 
 * 868 MHz Relay: 863 ~ 870 MHz
 
-* 915 MHz Relay: 902 ~ 928 MHz
+* 915 MHz Relay: 902 ~ 928 MHz  
 
-  *Depends on sales region.*
+  > *Depends on sales region.*
 
 ### Maximum effective radiated power
 
 * Up to 20 dBm
-  Featured automatic power control to reduce power consumption and noise interference.
+  
+  > Featured automatic power control to reduce power consumption and noise interference.
 
 ### Wireless signal modulation
 
@@ -121,7 +126,7 @@ RBF Relay is a dry contact relay to control 6-36 V⎓ power supply remotely.
 
 ## Compatibility
 
-* Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
+* Operates with all Roombanker Home Security Hubs,  RBF repeaters.
 
 
 ## Complete set

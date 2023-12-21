@@ -45,22 +45,26 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 
 ### Advanced features
 
-* Power up enrolling
-  *When siren is powered up, it will automatically start paring to the hub nearby*
-* Find me
-  *When enabled, the siren starts flashing green, which can help identify the siren from numerous devices.*
-* Signal strength detection
-  *When enabled, siren starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
+* Power up enrolling  
+  
+  > *When siren is powered up, it will automatically start paring to the hub nearby*
+* Find me  
+  
+  > *When enabled, the siren starts flashing green, which can help identify the siren from numerous devices.*
+* Signal strength detection  
+  
+  > *When enabled, siren starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
 * Low battery notification
 
 ### Indicators
 
-* Alarm: Flashing Red
-* Find me: Flashing Green
-* Signal strength: Flashing Green / Orange / Red
-  *Flashing Green: signal strength is strong, and is recommended to install device here*
-  *Flashing Orange: signal strength is medium and device can be installed here*
-  *Flashing Red: signal strength is bad or no signal, and device can not be installed here*
+* Alarm: Flashing `Red`
+* Find me: Flashing `Green`
+* Signal strength:
+  * Flashing `Green`: signal strength is strong, and is recommended to install device here
+  * Flashing `Orange`: signal strength is medium and device can be installed here
+  * Flashing `Red`: signal strength is bad or no signal, and device can not be installed here
+
 
 ------
 
@@ -74,8 +78,9 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 ### Frequency bands
 
 * **RBAD-SI1-868**: 863 ~ 870 MHz
-* **RBAD-SI1-915**: 902 ~ 928 MHz
-  *Depends on sales region.*
+* **RBAD-SI1-915**: 902 ~ 928 MHz  
+  
+  > *Depends on sales region.*
 
 ### Wireless signal modulation
 
@@ -130,7 +135,7 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 
 ## 6. Compatibility
 
-* Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
+* Operates with all Roombanker Home Security Hubs,  RBF repeaters.
 
 ------
 

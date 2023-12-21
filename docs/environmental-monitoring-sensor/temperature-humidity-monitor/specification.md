@@ -1,5 +1,5 @@
 ﻿# Temperature Humidity Monitor
- 
+
 <div style={{textAlign: 'center'}}>
 <button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
 </div>
@@ -33,9 +33,9 @@ A compact and exquisite temperature and humidity monitor to accurately track you
 
 ### Centigrade and Fahrenheit
 
-* Support Centigrade and Fahrenheit
+* Support unit switching between Centigrade and Fahrenheit
 
-  *Depends on sales region.*
+  > *Depends on sales region.*
 
 ### Remote setting and testing
 
@@ -43,12 +43,15 @@ A compact and exquisite temperature and humidity monitor to accurately track you
 
 ### Advanced features
 
-* Power up enrolling
-  *When T&H monitor is powered up, it will automatically start paring to the hub nearby*
-* Find me
-  *When enabled, the T&H monitor starts flashing green, which can help identify the monitor from numerous devices.*
-* Signal strength detection
-  *When enabled, T&H monitor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
+* Power up enrolling  
+  
+  > *When T&H monitor is powered up, it will automatically start paring to the hub nearby*
+* Find me  
+  
+  > *When enabled, the T&H monitor starts flashing green, which can help identify the monitor from numerous devices.*
+* Signal strength detection  
+  
+  > *When enabled, T&H monitor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
 * Low battery notification
 
 ------
@@ -63,8 +66,9 @@ A compact and exquisite temperature and humidity monitor to accurately track you
 ### Frequency bands
 
 * 868 MHz Monitor: 863 ~ 870 MHz
-* 915 MHz Monitor: 902 ~ 928 MHz
-  *Depends on sales region.*
+* 915 MHz Monitor: 902 ~ 928 MHz  
+  
+  > *Depends on sales region.*
 
 ### Wireless signal modulation
 
@@ -119,7 +123,7 @@ A compact and exquisite temperature and humidity monitor to accurately track you
 
 ## 6. Compatibility
 
-* Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
+* Operates with all Roombanker Home Security Hubs,  RBF repeaters.
 
 ------
 

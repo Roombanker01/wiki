@@ -94,7 +94,7 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 
 ## 6. Compatibility
 
-* Operates with RoomBanker Home Security Hub-Station.
+* Operates with Roombanker Home Security Hub-Station.
 
 ------
 

@@ -19,7 +19,7 @@ Smart Hub is the powerful brain of RoomBanker Security & Automation system, enab
 
 ### Wireless peripherals
 
-* Supports up to **64** devices(RBF devices only)
+* Supports up to **64** devices(RBF devices only)  
 *Specifically, up to 1 alarm keypad, 2 sirens, 32 keyfobs, 1 repeaters*
 
 
@@ -39,7 +39,7 @@ Smart Hub is the powerful brain of RoomBanker Security & Automation system, enab
 
 ### Automation scenes
 
-* Up to **64** custom scenes
+* Up to **64** custom scenes  
   *Alarm responses / Scheduled actions / Security mode changing reactions / Temperature changing reactions / Humidity changing reactions / Reactions to pressing Button*
 
 
@@ -71,7 +71,7 @@ Key features:
 ### Frequency bands
 * RBGW-101-868: 863 ~ 870 MHz
 
-* RBGW-101-915: 902 ~ 928 MHz
+* RBGW-101-915: 902 ~ 928 MHz  
   *Depends on sales region.*
 
   
@@ -82,7 +82,7 @@ Key features:
 
 ### Wireless signal range
 * Up to **3,500m** (in open space)
-Between the hub and connected devices.
+Between the hub and connected devices.  
 *Maximum range depends on the connected device.*
 
 
@@ -220,9 +220,10 @@ The users  receive notifications in case of jamming or when the hub loses connec
 
 ### Available models
 
-| Hub  | Model Name                     | RBF  | Zigbee | Ethernet | Wi-Fi | GPRS | LTE  |
-| ---- | ------------------------------ | ---- | ------ | -------- | ----- | ---- | ---- |
-| Pico | RBGW-101-868<br />RBGW-101-915 | √    | ×      | √        | √     | ×    | ×    |
+| Hub  | Model Name   | RBF  | Zigbee | Ethernet | Wi-Fi | GPRS | LTE  |
+| ---- | ------------ | ---- | ------ | -------- | ----- | ---- | ---- |
+| Pico | RBGW-101-868 | √    | ×      | √        | √     | ×    | ×    |
+| Pico | RBGW-101-915 | √    | ×      | √        | √     | ×    | ×    |
 
 
 

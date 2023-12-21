@@ -28,16 +28,18 @@ The 24/7 panic alarm button always ready to assist you. Just press the button to
 
 ### Advanced features
 
-* Power up enrolling
-  *When panic button is powered up, it will automatically start paring to the hub nearby*
-* Find me
-  *When enabled, the panic button starts flashing green, which can help identify the button from numerous devices.*
+* Power up enrolling  
+  
+  > *When panic button is powered up, it will automatically start paring to the hub nearby*
+* Find me  
+  
+  > *When enabled, the panic button starts flashing green, which can help identify the button from numerous devices.*
 * Low battery notification
 
 ### Indicator
 
-* Alarm: Flashing Red
-* Find me: Flashing Green
+* Alarm: Flashing `Red`
+* Find me: Flashing `Green`
 
 ------
 
@@ -45,14 +47,15 @@ The 24/7 panic alarm button always ready to assist you. Just press the button to
 
 ### Wireless signal range
 
-* Up to 1,500 m in an open space with hub
+* Up to **1,500 m** in an open space with hub
 * Two-way communication with hub
 
 ### Frequency bands
 
 * 868 MHz Panic Button: 863 ~ 870 MHz
-* 915 MHz Panic Button: 902 ~ 928 MHz
-  *Depends on sales region.*
+* 915 MHz Panic Button: 902 ~ 928 MHz  
+  
+  > *Depends on sales region.*
 
 ### Wireless signal modulation
 
@@ -107,7 +110,7 @@ The 24/7 panic alarm button always ready to assist you. Just press the button to
 
 ## 6. Compatibility
 
-* Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
+* Operates with all Roombanker Home Security Hubs,  RBF repeaters.
 
 ------
 

@@ -3,7 +3,6 @@
 <div style={{textAlign: 'center'}}>
 <button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
 </div>
-
 <br />
 
 The wireless smart plug features functions such as power management and child lock safety protection.
@@ -29,7 +28,7 @@ The wireless smart plug features functions such as power management and child lo
 
 * Support
 
-  *When enabled, physical button will be locked. The plug can not be controlled locally.*
+  > *When enabled, physical button will be locked. The plug can not be controlled locally.*
 
 ### Remote setting and testing
 
@@ -37,17 +36,20 @@ The wireless smart plug features functions such as power management and child lo
 
 ### Advanced features
 
-* Power up enrolling
-  *When plug is powered up, it will automatically start paring to the hub nearby*
-* Find me
-  *When enabled, the plug starts flashing blue, which can help identify the plug from numerous devices.*
-* Signal strength detection
-  *When enabled, App shows green/orange/red indicating the wireless signal strength between the hub at current installation place.* 
+* Power up enrolling  
+  
+  > *When plug is powered up, it will automatically start paring to the hub nearby*
+* Find me  
+  
+  > *When enabled, the plug starts flashing blue, which can help identify the plug from numerous devices.*
+* Signal strength detection  
+  
+  > *When enabled, App shows green/orange/red indicating the wireless signal strength between the hub at current installation place.* 
 
 ### Indicator
 
-* ON: Blue on
-* OFF: Blue off
+* Smart Plug ON: Blue indicator is `on`
+* Smart Plug OFF: Blue indicator is `off`
 
 ------
 
@@ -118,7 +120,7 @@ The wireless smart plug features functions such as power management and child lo
 
 ## 5. Compatibility
 
-* Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
+* Operates with all Roombanker Home Security Hubs,  RBF repeaters.
 
 ## 6. Complete set
 

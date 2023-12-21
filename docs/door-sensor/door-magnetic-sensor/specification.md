@@ -23,7 +23,7 @@ The surface-mounted door magnetic sensor always monitor the opening and closing 
 
 ### Detection Gap
 
-* &gt; 17mm
+* &gt; 17 mm
 
 ------
 
@@ -31,8 +31,9 @@ The surface-mounted door magnetic sensor always monitor the opening and closing 
 
 ### Door Status detection
 
-* Door Opened 
-*Alarm will be triggered when system is armed.*
+* Door Open   
+
+  > *Alarm will be triggered when system is armed.*
 * Door Closed
 
 ### Tamper Protection
@@ -43,21 +44,25 @@ The surface-mounted door magnetic sensor always monitor the opening and closing 
 * Setting and testing from RB Link App
 ### Advanced features
 
-* Power up enrolling
-*When sensor is powered up, it will automatically start paring to the hub nearby*
-* Find me
-*When enabled, the sensor starts flashing green, which can help identify the sensor from numerous door magnetic sensors.*
-* Signal strength detection
-*When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
+* Power up enrolling  
+
+  > *When sensor is powered up, it will automatically start paring to the hub nearby*
+* Find me  
+
+  > *When enabled, the sensor starts flashing green, which can help identify the sensor from numerous door magnetic sensors.*
+* Signal strength detection  
+
+  > *When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
 * Low battery notification
 ### Indicators
 
-* Alarm: Flashing Red
-* Find me: Flashing Green
-* Signal strength: Flashing Green / Orange / Red
-*Flashing Green: signal strength is strong, and is recommended to install device here*
-*Flashing Orange: signal strength is medium and device can be installed here*
-*Flashing Red: signal strength is bad or no signal, and device can not be installed here*
+* Alarm: Flashing `Red`
+* Find me: Flashing `Green`
+* Signal strength: 
+  * Flashing `Green`: signal strength is strong, and is recommended to install device here
+  * Flashing `Orange`: signal strength is medium and device can be installed here
+  * Flashing `Red`: signal strength is bad or no signal, and device can not be installed here
+
 
 ------
 
@@ -68,8 +73,9 @@ The surface-mounted door magnetic sensor always monitor the opening and closing 
 ### Frequency bands
 
 * 868MHz version: 863 ~ 870 MHz
-* 915MHz version: 902 ~ 928 MHz
-*Depends on sales region.*
+* 915MHz version: 902 ~ 928 MHz  
+
+  > *Depends on sales region.*
 ### Wireless signal modulation
 * FSK / DSSS
 ### Encrypted communication
@@ -111,7 +117,7 @@ The surface-mounted door magnetic sensor always monitor the opening and closing 
 ------
 
 ## 6. Compatibility
-* Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
+* Operates with all Roombanker Home Security Hubs,  RBF repeaters.
 
 ## 7. Complete set
 

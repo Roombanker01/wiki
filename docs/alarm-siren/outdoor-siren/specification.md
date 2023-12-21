@@ -26,9 +26,7 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 
 ### Alarm time
 
-* Adjustable: 1s ~ 15mins
-> *90s by default*
-
+* Adjustable: 1s ~ 15mins (*90s by default*)
 ------
 
 ## 2. Features
@@ -56,15 +54,22 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 ### Advanced features
 
 * Power up enrolling  
-  *When siren is powered up, it will automatically start paring to the hub nearby*
+
+  > *When siren is powered up, it will automatically start paring to the hub nearby*
+
 * Find me  
-  *When enabled, the siren starts flashing green, which can help identify the siren from numerous devices.*
-* Signal strength detection  
- *When enabled, siren starts flashing to show the wireless signal strength between the hub at current installation site.* 
+
+  > *When enabled, the siren starts flashing green, which can help identify the siren from numerous devices.*
+
+* Signal strength detection
+
   * The **left indicator** flashes every 3 seconds: signal strength is good;
   * The **center indicator** flashes every 3 seconds: signal strength is medium;
   * The **right indicator** flashes every 3 seconds: signal strength is bad;
   * The **right indicator** flashes rapidly (4 times / second): no signal; 
+
+  > *When enabled, siren starts flashing to show the wireless signal strength between the hub at current installation site.* 
+
 * Low battery notification
 
 ------
@@ -138,7 +143,7 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 
 ## 6. Compatibility
 
-* Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
+* Operates with all Roombanker Home Security Hubs,  RBF repeaters.
 
 ------
 

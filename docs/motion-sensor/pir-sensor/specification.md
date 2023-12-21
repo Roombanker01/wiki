@@ -1,9 +1,8 @@
 ﻿# PIR Sensor
- 
+
 <div style={{textAlign: 'center'}}>
 <button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
 </div>
-
 <br />
 
 The passive infrared sensor detects motion by detecting changes in infrared (IR) levels caused by the presence of humans within its range.
@@ -49,22 +48,26 @@ The passive infrared sensor detects motion by detecting changes in infrared (IR)
 
 ### Advanced features
 
-* Power up enrolling
-  *When sensor is powered up, it will automatically start paring to the hub nearby*
-* Find me
-  *When enabled, the sensor starts flashing green, which can help identify the sensor from numerous devices.*
-* Signal strength detection
-  *When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
+* Power up enrolling  
+  
+  > *When sensor is powered up, it will automatically start paring to the hub nearby*
+* Find me  
+  
+  > *When enabled, the s ensor starts flashing green, which can help identify the sensor from numerous devices.*
+* Signal strength detection  
+  
+  > *When enabled, senor starts flashing green/orange/red sh owing the wireless signal strength between the hub at current installation site.* 
 * Low battery notification
 
 ### Indicator
 
-* Alarm: Flashing Red
-* Find me: Flashing Green
+* Alarm: Flashing `Red`
+* Find me: Flashing `Green`
 * Signal strength: Flashing Green / Orange / Red
-  *Flashing Green: signal strength is strong, and is recommended to install device here*
-  *Flashing Orange: signal strength is medium and device can be installed here*
-  *Flashing Red: signal strength is bad or no signal, and device can not be installed here*
+  * Flashing `Green`: signal strength is strong, and is recommended to install device here
+  * Flashing `Orange`: signal strength is medium and device can be installed here
+  * Flashing `Red`: signal strength is bad or no signal, and device can not be installed here
+
 
 ------
 
@@ -78,8 +81,9 @@ The passive infrared sensor detects motion by detecting changes in infrared (IR)
 ### Frequency bands
 
 * **RBSS-PS1-868**: 863 ~ 870 MHz
-* **RBSS-PS1-915**: 902 ~ 928 MHz
-  *Depends on sales region.*
+* **RBSS-PS1-915**: 902 ~ 928 MHz  
+  
+  > *Depends on sales region.* 
 
 ### Wireless signal modulation
 
@@ -134,7 +138,7 @@ The passive infrared sensor detects motion by detecting changes in infrared (IR)
 
 ## 6. Compatibility
 
-* Operates with all RoomBanker Home Security Hubs,  RBF repeaters.
+* Operates with all Roombanker Home Security Hubs,  RBF repeaters.
 
 ------
 
