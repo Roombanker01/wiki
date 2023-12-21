@@ -16,7 +16,7 @@ Please make sure you have logged into the RB Link App and completed adding the h
 
 1. Click Home Security Hub to enter peripheral page， then click "**+**" on the top right corner and select "**Add peripheral**" to enable enrollment mode.
 
-2. PPower up the relay by connecting to 7-24V DC power supply . The green indicator will start flashing continuously and the device will automatically show up in the App interface. 
+2. Power up the relay by connecting to 7-24V DC power supply . The green indicator will start flashing continuously and the device will automatically show up in the App interface. 
 
    **Note: If the device does not show up in the APP interface until green indicator is off, please press and hold the device power switch button for 5s to try again.*
 
