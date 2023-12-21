@@ -749,23 +749,32 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ## 5.1 User Type
 
-
+There are two types of user in this system, named **APP User** and **Local User**.
 
 ### 5.1.1 App User
 
+Refer to the users who use APP to operate system and receive notifications, these users must be registered in RB Link APP, the APP users are classified into three types:
 
+- **Super Admin:** The first user who adds the Hub in the APP.
+- **Admin:** Can be invited by super admin from APP, and enabled as an admin.
+- **Regular User:** Invited by super admin or admin from APP, enabled as a regular user
 
 ### 5.1.2 Local User
 
-
+Refer to the users do not use APP, but only use keypad and keyfob to operate system.
 
 <br />
 
 ## 5.2 User Authority
 
+![image-20231221234420015](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221234420015.png)
 
-
-
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : 
+>
+> - Super Admin and Admin users are linked to all rooms by default and cannot be modified.
+> - Regular Users and Local Users’ room linkage can be set individually by super admin or admin, so their authorities to the system are also limited by their room authorities.
+> - Super admin can configure admin and regular user.
+> - Admin can only configure himself and regular user.
 
 
 
@@ -775,13 +784,69 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ### 5.3.1 App User Management
 
+#### Share Hub to APP User:
 
+Step 1: Enter `My` page on APP, click `Share` and choose the **Hub** that you want to share.
 
+Step 2: Click `Invite User` and select the user role from **Administrator** and **Regular User**.
 
+Step 3: Enter the **Email** address of the user you want to share with.
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221234908316.png" width="700" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221235422588.png" width="700" />
+</div>
+
+Step 4: The invited user need to enter `Message` page, and switch to `Share `on the top
+
+Step 5: The invitation will be notified here, and click `Agree` to finish the invitation.
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222000016732.png" width="200" />
+</div>
+
+#### Configure App User:
+
+1. Once the sharing process has been successfully finished, enter **`User Management`** (Hub → "**Settings**" → "**User Management**"), the new user will be shown in the list.
+2. Click the "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" button on the right side of the user to configure user authorities.
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222000555050.png" width="700" />
+</div>
+
+![](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221234420015.png)
+
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : 
+>
+> - The detailed definition of notification **Alarm**, **Malfunction**, **Event**, **Operation**, will be elaborated in [Charter 7. Notification Management](#charter-7.-notification-management) later.
+> - SMS and Phone Call are only supported by Home Security Hub **Station**, not for **Pico**.
+> - For each notification, the Hub makes Phone Call and SMS to every user only once no matter successful or not.
 
 ### 5.3.2 Local User Management
 
+#### Add a Local User
 
+Step 1: Enter `Settings` page of Hub, click `User Management`.
+
+Step 2: Switch to `Local User` on the top page.
+
+Step 3: Click `Add User` and set a `Nickname` for the user, press `Done` to finish the operation.  
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222001747988.png" width="700" />
+</div>
+
+After adding successfully, click the "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" button on the right side of the user to configuration.
+
+**Local User Setting Explanation**
+
+| Setting              | Explanation                               |
+| -------------------- | ----------------------------------------- |
+| **PIN Code**         | Set a code for the user to operate keypad |
+| **Keyfob**           | Assign a keyfob for the user              |
+| **Linked Room**      | Assign room permissions for the user      |
+| **User Information** | Modify profile and nickname               |
+| **Delete User**      | Delete user                               |
 
 <br />
 
@@ -833,13 +898,39 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ## 7.1 Notification Type
 
+In `Message` page, the received messages are classified into `Device` and `Share` in general, on the top of the page, by clicking to switch the contents.
 
+### 7.1.1 Device
+
+It means the notifications are generated if status changed in system devices. It has 5 types, which are listed in below form, each type has an icon design to distinguish.
+
+|  **Notification Types**  |                           **Icon**                           | **Definition**                                               |
+| :----------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+|        **Alarm**         | ![alarm](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/alarm.png) | All the alarm notifications in system, such as Intrusion alarm, Panic alarm, Fire alarm, and more |
+|     **Malfunction**      | ![Malfunction](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Malfunction.png) | All the system fault notifications, such as Low battery, External power failure, Cellular lost, and more |
+| **Malfunction Restored** | ![mal restore](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/mal%20restore.png) | All the system faults recovered to normal status             |
+|        **Event**         | ![event](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/event.png) | Regular notifications, such as Hub is online / offline / updating, Scene auto-triggered, and more |
+|      **Operation**       | ![Operation](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Operation.png) | System operation, such as Arm/Disarm, Scene manually-triggered, Automation device manually-triggered, Peripherals enable/disable |
+
+### 7.1.2 Share
+
+It means the notifications are generated by user invitation process. Only when someone is sharing Hub to you, notifications will be received and agreed there.
+
+
+
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *APP can only save notifications from latest two weeks, history over two weeks will be cleared.*
 
 <br />
 
 ## 7.2 Notification Setting
 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222002949593.png" width="300" />
+</div>
 
+- ![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png): Enable / Disable whether to receive notifications from App;
+- ![image-20231222003205182](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222003205182.png): Quickly select the notifications you prefer to view;
+- ![image-20231222003247445](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222003247445.png): Set notifications as `All Read` or `Clear`.
 
 <br />
 
@@ -847,23 +938,38 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ## 8.1 Hub Installation
 
-
-
-<br />
-
 ### 8.1.1 Noise Level
 
+Ensuring the presence of acceptable wireless noise levels, you can check the data in app settings page. Path: Details of the Hub → `>` → `Wireless Noise Level`.
 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222003432932.png" width="250" />
+</div>
 
 ### 8.1.2 Considerations
 
+**DO NOT** place the hub:
 
+- Outside the premises (outdoors).
+- Nearby or inside any metal objects or mirrors causing attenuation and screening of the signal.
+- In places with high radio interference level.
+- Close to radio interference sources: less than 1 meter from the router and power cables.
+- Inside any premises with the temperature and humidity beyond the range of permissible limits. The recommended temperature is -10~45 Celsius, humidity between 30%~70%.
 
 <br />
 
 ## 8.2 Peripheral Installation
 
+1. Check the detector’s installation position (indoor/outdoor)
+2. Check the battery. Please navagate to device's status to check the battery level in app, you will receive a message when battery is low.
+3. Check the LED indicator. The Hub's "**Fault Indicator**" will turn on when the detector's battery level is low.
+4. Double check the Signal Strength.
 
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *You can turn to [Charter 4 Peripheral Setting](#charter-4-peripheral-setting) to learn how to determine the installation position with signal strength test.*
+
+<br />For detailed information, please check the User Guide or please visit the link blow: [Roombanker YouTube Channel](https://www.youtube.com/@Roombanker)
+
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *Peripherals installation is recommended to pass the Walk Test. For the operation methods, please refer to [Charter 2.5.5 System Maintenance](#Charter-2.5.5-maintenance) for details.*
 
 
 
@@ -871,5 +977,41 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 # Charter 9. Maintenance
 
+## 9.1 Battery Replacement
 
+- **Identify the Battery Type**:
+
+  Determine the type of battery your device uses (e.g, alkaline) and ensure you have a replacement battery of the same type.
+
+- **Locate the Battery Compartment**:
+
+  Find the battery compartment on your device. In many cases, it's on the back or underside of the device. Make sure you have turned off the device if needed.
+
+- **Remove the Old Battery**:
+
+  Follow the manufacturer's instructions to safely remove the old battery. This may involve sliding a latch, unscrewing a cover, or using a tool.
+
+- **Dispose of Old Battery Properly**:
+
+  If the old battery is rechargeable or contains hazardous materials, dispose of it according to local regulations. Many communities have specific battery recycling programs.
+
+- **Check Battery Orientation**:
+
+  Pay attention to the correct orientation of the battery. There are usually markings or diagrams in the battery compartment indicating the proper placement.
+
+- **Insert the New Battery**:
+
+  Carefully insert the new battery into the compartment, ensuring it is correctly oriented.
+
+- **Secure the Battery Compartment**:
+
+  Close or secure the battery compartment according to the device's design. Follow any locking or sealing mechanisms specified by the manufacturer.
+
+- **Power On and Test**:
+
+  Turn on the device and check that it operates correctly with the new battery.
+
+- **Charge if Necessary**:
+
+  If the battery is rechargeable, ensure it is fully charged before using the device.
 
