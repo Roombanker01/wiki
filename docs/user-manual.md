@@ -1,5 +1,9 @@
 # Roombanker User Manual
 
+<div style={{textAlign: 'center'}}>
+<button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 40px',cursor:'pointer', textDecoration: 'none', borderRadius: '1px' }}>Download User Manual</button>
+</div>
+
 ## Purpose of the Manual
 
 The main purpose of the manual contains three parts:
