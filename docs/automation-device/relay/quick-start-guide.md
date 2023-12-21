@@ -24,7 +24,7 @@ Please make sure you have logged into the RB Link App and completed adding the h
 
    ![Relay-6](https://dusunprj.oss-us-west-1.aliyuncs.com/Relay-6.png)
 
-3. Add location for the relay and click the "**Done**"button ，the relay is added successfully.
+3. Assign room for the relay and click the "**Done**"button ，the relay is added successfully.
 
 ![Relay-7](https://dusunprj.oss-us-west-1.aliyuncs.com/Relay-7.png)
 
