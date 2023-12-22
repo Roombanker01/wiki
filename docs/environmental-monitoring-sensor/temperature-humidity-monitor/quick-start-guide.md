@@ -2,13 +2,13 @@
 
 ## 1. Appearance
 
-![THMonitor-1](D:\东胜相关资料\RoomBanker家居安防解决方案发布\产品QSG\对外输出终稿2023.12.14\阅读版\AI格式阅读版\tupiana\T&H Monitor\THMonitor-1.png)
+![THMonitor-1](https://dusunprj.oss-us-west-1.aliyuncs.com/THMonitor-1.png)
 
-![THMonitor-2](D:\东胜相关资料\RoomBanker家居安防解决方案发布\产品QSG\对外输出终稿2023.12.14\阅读版\AI格式阅读版\tupiana\T&H Monitor\THMonitor-2.png)
+![THMonitor-2](https://dusunprj.oss-us-west-1.aliyuncs.com/THMonitor-2.png)
 
 ## 2. Packaging List
 
-![THMonitor-3](D:\东胜相关资料\RoomBanker家居安防解决方案发布\产品QSG\对外输出终稿2023.12.14\阅读版\AI格式阅读版\tupiana\T&H Monitor\THMonitor-3.png)
+![THMonitor-3](https://dusunprj.oss-us-west-1.aliyuncs.com/THMonitor-3.png)
 
 ## 3. Add Temperature & Humidity Monitor
 
