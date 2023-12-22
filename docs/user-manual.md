@@ -1573,8 +1573,9 @@ After adding successfully, click the "![Setting](https://dusunprj.oss-us-west-1.
 Security Scene allows you to carry out the default arming/disarming operation, as well as to create new custom arming scenes to meet daily safety needs.
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222142627600.png" width="300" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222180300695.png" width="300" />
 </div>
+
 
 
 
@@ -1736,6 +1737,12 @@ There are **3** types of execution task:
   - All day or Specified Time Period. If you choose Specified Time Period, you can set Start Time and End Time. The End Time can be the next day.
   - You can set the scene to be executed everyday, or a specific day as you need.
 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222180423579.png" width="200" />
+</div>
+
+
+
 - **Arm**:
 
   - If you choose Manual Click or Scheduled Execution as one of trigger conditions, the task of Arm will be available to select.
@@ -1745,7 +1752,14 @@ There are **3** types of execution task:
 
 - **Deferred Execution**:
 
-  ![image-20231222150310115](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222150310115.png)
+  You can set a action delay before another Smart Device or Arm task. 
+
+  If you insert a Deferred Execution (e.g. one minute) between two tasks, when a task is executed, another task will be executed one minute later.
+
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : 
+>
+> - Deferred Execution cannot be the last task in one scene.
+> - Maximum 59 minutes and 59 seconds can be set.
 
 ---
 
