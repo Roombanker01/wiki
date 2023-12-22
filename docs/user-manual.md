@@ -367,7 +367,7 @@ You can click to view the Quick Start Guide document of the Hub.
 
 <br />
 
-### Charter 3. Room Management
+## Charter 3. Room Management
 
 ### 3.1 Create and manage rooms
 
