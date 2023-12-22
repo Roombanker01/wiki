@@ -130,7 +130,9 @@ Home security Hub has two different models, called **Station** and **Pico**, bel
 | **Backup time**             |                         /                         |             **Up to 8h power backup**             |
 | **Weight**                  |                       260g                        |                       320g                        |
 | **Operation Temperature**   |                    -10℃ ~ +45℃                    |                    -10℃ ~ +45℃                    |
-| Dimension (W×H×D)           |               150mm x 150mm x 37mm                |               150mm x 150mm x 37mm                |
+| **Dimension (W×H×D)**       |               150mm x 150mm x 37mm                |               150mm x 150mm x 37mm                |
+
+
 
 ---
 
@@ -295,7 +297,11 @@ Please turn to [Charter 5. User Management](#charter-5.-user-management) for mor
   - **Used Data (This month)** - Show current data usage.
   - **Monthly data allowance** - You can set a data usage limit here, and the APP will send a notification when that limit is exceeded. 
 
-![image-20231221215745089](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221215745089.png)
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Screenshot_2023-12-22-16-01-16-319_com.example.iot_app.png" width="300" />
+</div>
+
+
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *The calculation standard for device data usage might different from telecom operators. Please refer to the actual bill for accurate data usage.*
 
@@ -364,7 +370,11 @@ You can click to view the Quick Start Guide document of the Hub.
 
 ● **Function of Room:** allow each peripheral to be assigned to just one room. Admins can assign management permissions to different users on different rooms. 
 
-![Room management](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Room%20management.png)
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Room%20management.png" width="600" />
+</div>
+
+
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *The above recommendations are for reference only and may vary depending on the specific layout and type of home. Adjustments to the room division and hub or peripherals placement may be necessary to suit your specific needs.*
 
@@ -452,7 +462,9 @@ After all above steps, your device will show up on the product list of the assig
 
 This is a way to add your wireless devices (RBF, Zigbee3.0) in batches by scanning devices over-the-air. Please refer to the following guide to add your devices via Enrollment Mode.
 
-![image-20231222102651328](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222102651328.png)
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222102651328.png" width="900" />
+</div>
 
 
 
@@ -858,7 +870,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 |  **Basic Information**   |                              /                               | Check the basic information of this device, including MAC Address, Serial Number, etc.<br />And you can also edit the device name here by yourself. |
 |   **Room belongs to**    | ![image-20231222113612270](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222113612270.png) | You can select one of the rooms created before and then link the device to.<br />**When linked to a specific room, the device will be displayed on the product list of the room.* |
 |  **Siren Triggered by**  | ![image-20231222113626888](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222113626888.png) | The siren can be linked with one or multiple rooms as a warning device to announce any alarm or other events with sound and strobe. |
-|    **Alarm Settings**    | ![image-20231222113634913](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222113634913.png) | **Buzzer**: <br />1. You can enable/disable buzzer and switch alarm volume among three levels: High (105dB) /  Medium (95dB) / Low (85dB)<br />2. Buzzer Trigger Method: You can select one or more triggers.<br />*An alarm sound will be triggered when the following events occur.* <br /><br />**Alarm Light**:<br />1. You can enable/disable alarm light manually. <br />2. Alarm Light Trigger Method: You can select one or more triggers.<br />*The siren strobe will be triggered when the following events occur.*<br /><br />**Alarm Duration**:You can set the alarm duration of siren from 1s ~ 15mins.<br />**90s by default* |
+|    **Alarm Settings**    | ![image-20231222113634913](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222113634913.png) | **Buzzer**: <br />1. You can enable/disable buzzer and switch alarm volume among three levels: High (105dB) /  Medium (95dB) / Low (85dB)<br />2. Buzzer Trigger Method: You can select one or more triggers.<br />*An alarm sound will be triggered when the following events occur.* <br /><br />**Alarm Light**:<br />1. You can enable/disable alarm light manually. <br />2. Alarm Light Trigger Method: You can select one or more triggers.<br />*The siren strobe will be triggered when the following events occur.*<br /><br />**Alarm Duration**: You can set the alarm duration of siren from 1s ~ 15mins.<br />**90s by default* |
 |     **Volume Test**      |                              /                               | You can use it to check if the current volume could meet your requirement. |
 |       **Find Me**        | ![image-20231222113651394](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222113651394.png) | A function that used to find your Indoor Siren among numerous devices. When you enable this function, the indicator in Indoor Siren will flash green to help you find the target device quickly. |
 | **Signal Strength Test** | ![image-20231222113702028](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222113702028.png) | A function that used to check the signal strength between the Indoor Siren and the hub at the tested place, which is designed to help you choose the right place for installation.When you enable this function, you can check the signal strength by watching the indicator in Indoor Siren and the feedback in app. |
@@ -1174,7 +1186,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 |     **Parameter**     |                          **Value**                           | **Meaning**                                                  |
 | :-------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| **Associated Scene**  |                            0～64                             | Check how many custom scenes are associated with this Relay.You can also click to view and configure the scenes.<br />**Please turn to [Charter 6. Scene Management](#charter-6.-scene-management) for more details.* |
+| **Associated Scene**  |                            0～64                             | Check how many custom scenes are associated with this Relay. You can also click to view and configure the scenes.<br />**Please turn to [Charter 6. Scene Management](#charter-6.-scene-management) for more details.* |
 |  **Signal Strength**  | ![signal blue](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/signal%20blue.png) | Shows the signal strength between the Relay and the Hub.     |
 | **Connection Status** |                       Online / Offline                       | Shows the connection status between the Relay and the Hub.<br />**The Relay will not be  functional if the status is offline.* |
 |   **Opened/Closed**   | ![ON](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/ON.png)  / ![Off](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Off.png) | Click the button to switch the relay open/close              |
@@ -1261,7 +1273,7 @@ Click "**Countdown** ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/ro
 
 |     **Parameter**     |                          **Value**                           | **Meaning**                                                  |
 | :-------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| **Associated Scene**  |                            0～64                             | Shows the number of custom scenes associated with this Wall Switc. You can also click to view and configure the scenes.<br />**Please turn to [Charter 6. Scene Management](#charter-6.-scene-management) for more details.* |
+| **Associated Scene**  |                            0～64                             | Shows the number of custom scenes associated with this Wall Switch. You can also click to view and configure the scenes.<br />**Please turn to [Charter 6. Scene Management](#charter-6.-scene-management) for more details.* |
 |  **Signal Strength**  | ![signal blue](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/signal%20blue.png) | Shows the signal strength between the Wall Switch and the Hub. |
 | **Connection Status** |                       Online / Offline                       | Shows the connection status between the Wall Switch and the Hub.<br />**The* *Wall Switch* *will not be functional if the status is offline.* |
 |   **Opened/Closed**   | ![ON](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/ON.png) / ![Off](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Off.png) | Click the button to switch the relay open/close              |
@@ -1359,7 +1371,7 @@ Daily, weekly, monthly and yearly trends in electricity consumption will be show
 | :-------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | **Associated Scene**  |                            0～64                             | Shows the number of custom scenes associated with this Smart Plug. You can also click to view and configure the scenes.<br />**Please turn to [Charter 6. Scene Management](#charter-6.-scene-management) for more details.* |
 |  **Signal Strength**  | ![signal blue](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/signal%20blue.png) | Shows  the signal strength between the Smart Plug and the Hub. |
-| **Connection Status** |                       Online / Offline                       | Shows the connection status between the Smart Plugand the Hub.<br />**The* *Smart Plug* *will not be functional if the status is offline.* |
+| **Connection Status** |                       Online / Offline                       | Shows the connection status between the Smart Plug and the Hub.<br />**The* *Smart Plug* *will not be functional if the status is offline.* |
 |   **Opened/Closed**   | ![ON](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/ON.png) / ![Off](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Off.png) | Click the button to switch the relay open/close              |
 |      **Timing**       | ![Timing](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Timing.png) | Trigger the relay execute action when the estimated time is reached |
 |     **Countdown**     | ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Countdown.png) | Trigger the relay execute action after the countdown timer expires |
@@ -1457,7 +1469,11 @@ Refer to the users do not use APP, but only use keypad and keyfob to operate sys
 
 ## 5.2 User Authority
 
-![image-20231221234420015](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221234420015.png)
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222154119637.png" width="600" />
+</div>
+
+
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : 
 >
@@ -1503,8 +1519,11 @@ Step 5: The invitation will be notified here, and click `Agree` to finish the in
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222000555050.png" width="700" />
 </div>
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222155209989.png" width="600" />
+</div>
 
-![](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221234420015.png)
+
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : 
 >
