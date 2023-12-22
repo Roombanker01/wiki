@@ -1,10 +1,13 @@
 # Roombanker User Manual
 
+## Overview
+
 <div style={{textAlign: 'center'}}>
 <button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 40px',cursor:'pointer', textDecoration: 'none', borderRadius: '1px' }}>Download User Manual</button>
 </div>
 
-## Purpose of the Manual
+
+### Purpose of the Manual
 
 The main purpose of the manual contains three parts:
 
@@ -16,7 +19,7 @@ The main purpose of the manual contains three parts:
 
 
 
-## Scope of the Manual
+### Scope of the Manual
 
 All the functions described in the manual are based on the products and version showing in the form below. You may find some functions cannot be achieved if your devices are not the latest version, please check your devices version and update to the latest from APP if so.
 
@@ -39,7 +42,7 @@ All the functions described in the manual are based on the products and version 
 
 <br />
 
-## Symbol Conventions
+### Symbol Conventions
 
 | **Symbol**                                                   | **Description**                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -53,9 +56,9 @@ All the functions described in the manual are based on the products and version 
 
 <br />
 
-# **Charter 1. System Introduction**
+## **Charter 1. System Introduction**
 
-##  1.1 Overview of the System
+###  1.1 Overview of the System
 
 ● **Product Positioning:** 
 
@@ -93,7 +96,7 @@ Once an alarm occurred, Hub reports the alarm to cloud via LAN/Wi-Fi/4G, activat
 
 <br />
 
-## 1.2 System Key Features
+### 1.2 System Key Features
 
 ● Ultra-long range, reliable transmission
 
@@ -109,7 +112,7 @@ Once an alarm occurred, Hub reports the alarm to cloud via LAN/Wi-Fi/4G, activat
 
 <br />
 
-## 1.3 Spec of Hub
+### 1.3 Spec of Hub
 
 Home security Hub has two different models, called **Station** and **Pico**, below form describes the brief comparison between two models.
 
@@ -140,9 +143,9 @@ Home security Hub has two different models, called **Station** and **Pico**, bel
 
 <br />
 
-# **Charter 2. Start Up Hub**
+## **Charter 2. Start Up Hub**
 
-## 2.1 App Installation
+### 2.1 App Installation
 
 1. Scan the QR code below or search "RB Link" in Google Play or App Store to download and install the App.
 
@@ -156,7 +159,7 @@ Home security Hub has two different models, called **Station** and **Pico**, bel
 
 <br />
 
-## 2.2 Add Home Security Hub
+### 2.2 Add Home Security Hub
 
 1. Insert the charging cable into the home security hub and turn on the power switch. Wait a moment until the center indicator starts flashing green continuously.
 
@@ -208,7 +211,7 @@ The Cloud Indicator turns `blue` when the connection is successful.
 
 <br />
 
-## 2.3 Home Page Display
+### 2.3 Home Page Display
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221194703486.png" width="300" />
@@ -222,9 +225,9 @@ The Cloud Indicator turns `blue` when the connection is successful.
 
 <br />
 
-## 2.4 Hub Status Introduction
+### 2.4 Hub Status Introduction
 
-### 2.4.1 Hub icons
+#### 2.4.1 Hub icons
 
 Icons display some of the Hub status.
 
@@ -242,7 +245,7 @@ Icons display some of the Hub status.
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *When multiple networking methods are available at the same time, the priority is as follows:* *`Ethernet` > `Wi-Fi` > `Cellular Network`.* *It will only show the icon of the networking method that is currently in use.*
 
-### 2.4.2 Hub status
+#### 2.4.2 Hub status
 
 Hub states can be viewed in the RB Link (App).
 
@@ -264,11 +267,11 @@ Hub states can be viewed in the RB Link (App).
 
 
 
-## 2.5 Hub Setting
+### 2.5 Hub Setting
 
 You can click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)"  on the top right corner of the hub to configure parameters.
 
-### 2.5.1 Basic Information
+#### 2.5.1 Basic Information
 
 | **Parameter**  | **Meaning**                                                  |
 | -------------- | ------------------------------------------------------------ |
@@ -278,11 +281,11 @@ You can click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker
 | Serial Number  | Display the serial number of the device.                     |
 | Version Number | The current firmware version of the device is displayed here. If a new version is available, you can simply click to upgrade via OTA. |
 
-### 2.5.2 User Management
+#### 2.5.2 User Management
 
 Please turn to [Charter 5. User Management](#charter-5.-user-management) for more details about user management.
 
-### 2.5.3 System
+#### 2.5.3 System
 
 - **Time Zone**
 
@@ -298,7 +301,7 @@ Please turn to [Charter 5. User Management](#charter-5.-user-management) for mor
   - **Monthly data allowance** - You can set a data usage limit here, and the APP will send a notification when that limit is exceeded. 
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Screenshot_2023-12-22-16-01-16-319_com.example.iot_app.png" width="300" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Screenshot_2023-12-22-16-01-16-319_com.example.iot_app.png" width="300" />git 
 </div>
 
 
@@ -326,11 +329,11 @@ Please turn to [Charter 5. User Management](#charter-5.-user-management) for mor
 
 
 
-### 2.5.4 Communication
+#### 2.5.4 Communication
 
 During this period, if your Hub is frequently online and offline, you will not receive any offline notifications. Due to delay or status synchronization, the delay time may be different.
 
-### 2.5.5 Maintenance
+#### 2.5.5 Maintenance
 
 - **Walk Test**
 
@@ -352,7 +355,7 @@ During this period, if your Hub is frequently online and offline, you will not r
 
   When SSH is enabled, our technical support staff can help you troubleshoot issues with your device remotely. SSH is disabled by default and can only be enabled by you and other Admin users.
 
-### 2.5.6 User Guide
+#### 2.5.6 User Guide
 
 You can click to view the Quick Start Guide document of the Hub.
 
@@ -362,9 +365,9 @@ You can click to view the Quick Start Guide document of the Hub.
 
 <br />
 
-# Charter 3. Room Management
+## Charter 3. Room Management
 
-## 3.1 Create and manage rooms
+### 3.1 Create and manage rooms
 
 ● **Definition of Room:** the area where the peripheral is installed in house.
 
@@ -378,7 +381,7 @@ You can click to view the Quick Start Guide document of the Hub.
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *The above recommendations are for reference only and may vary depending on the specific layout and type of home. Adjustments to the room division and hub or peripherals placement may be necessary to suit your specific needs.*
 
-### 3.1.1 Create a room
+#### 3.1.1 Create a room
 
 Click "![room](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/room.png)" on the management page of Hub to view your rooms.
 
@@ -390,7 +393,7 @@ Click `Create a New Room` to add a new room, you can fill in the room name by yo
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *One hub can support up to 64 rooms.*
 
-### 3.1.2 Rename a room
+#### 3.1.2 Rename a room
 
 Click a room whose name you want to modify, then you can edit its name by yourself.
 
@@ -399,8 +402,7 @@ Click a room whose name you want to modify, then you can edit its name by yourse
 </div>
 
 
-
-### 3.1.3 Delete a room
+#### 3.1.3 Delete a room
 
 Deleting a room is a snap. Just swipe left on the room in the list and click `Delete`.
 
@@ -410,7 +412,7 @@ Deleting a room is a snap. Just swipe left on the room in the list and click `De
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *Make sure to remove any devices from the room before deleting it.*
 
-### 3.1.4 View Peripherals in a specific room
+#### 3.1.4 View Peripherals in a specific room
 
 In the Hub management page, click on a specific room to view all the associated peripherals.
 
@@ -423,11 +425,11 @@ In the Hub management page, click on a specific room to view all the associated 
 
 <br />
 
-# **Charter** 4. Peripheral Setting
+## **Charter** 4. Peripheral Setting
 
 
 
-## 4.1. Adding peripherals
+### 4.1. Adding peripherals
 
 Home Security System supports 2 types of wireless peripheral adding:
 
@@ -435,7 +437,7 @@ Home Security System supports 2 types of wireless peripheral adding:
 
 ● **By Enrollment Mode:** adding multiple peripherals `in bulk`.
 
-### Option 1: Adding via QR Code
+#### Option 1: Adding via QR Code
 
 This is a way to add your wireless peripherals (RBF) one by one by scanning device QR Code. And QR Code can be found on device or device package. Please refer to the following guide to add your peripheral via QR Code.
 
@@ -458,7 +460,7 @@ After all above steps, your device will show up on the product list of the assig
 > - Only the RBF peripherals (with "![RBF green (1)](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/RBF%20green%20(1).png)" printed on their packages) support to be added via QR Code, while Bluetooth and Zigbee peripherals doesn't work.
 > - Since wall switch needs to connect to mains power (110V~ / 220V~) as a power supply, it is recommended to use "Adding via Scan QR Code" before cable connection.
 
-### Option 2: Adding via Enrollment Mode
+#### Option 2: Adding via Enrollment Mode
 
 This is a way to add your wireless devices (RBF, Zigbee3.0) in batches by scanning devices over-the-air. Please refer to the following guide to add your devices via Enrollment Mode.
 
@@ -476,7 +478,7 @@ This is a way to add your wireless devices (RBF, Zigbee3.0) in batches by scanni
 
 <br />
 
-## 4.2 Peripheral Icons
+### 4.2 Peripheral Icons
 
 |                             Icon                             | Meaning                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
@@ -490,9 +492,9 @@ This is a way to add your wireless devices (RBF, Zigbee3.0) in batches by scanni
 
 <br />
 
-## 4.3 PIR Sensor
+### 4.3 PIR Sensor
 
-### 4.3.1 Appearance
+#### 4.3.1 Appearance
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/PIR%20front.png" width="300" />
@@ -506,7 +508,7 @@ This is a way to add your wireless devices (RBF, Zigbee3.0) in batches by scanni
 | **PIR Lens**        | Fresnel lens<br />**Used to detect motion within the detection range.* |
 | **Case Lock**       | Rotate to lock / unlock the PIR case.                        |
 
-### 4.3.2 State
+#### 4.3.2 State
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/PIR%20State.png" width="250" />
@@ -522,7 +524,7 @@ This is a way to add your wireless devices (RBF, Zigbee3.0) in batches by scanni
 | **Connection Status** |                       Online / Offline                       | Shows the connection status between the PIR and the Hub.<br />**The PIR will not be functional if the status is offline.* |
 |  **Battery Status**   | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | Shows the battery level of PIR. <br />**If the battery level is low, the icon will turn red and you’ll receiver a malfunction notification in App.* |
 
-### 4.3.3 Setting
+#### 4.3.3 Setting
 
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
@@ -544,9 +546,9 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-## 4.4 Door Magnetic Sensor
+### 4.4 Door Magnetic Sensor
 
-### 4.4.1 Appearance
+#### 4.4.1 Appearance
 
 ![Magnetic](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Magnetic.png)
 
@@ -556,7 +558,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | **Register Button**               | Press and hold for 5s to add the Door Magnetic Sensor to the Hub.<br />**Register Button is only used for re-adding or connecting the peripheral to another hub.* |
 | **Tamper Switch / Tamper Button** | Used to detect the tamper alarm status of the lid.           |
 
-### 4.4.2 State
+#### 4.4.2 State
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/MC%20state.jpg" width="250" />
@@ -572,7 +574,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | **Connection Status** |                       Online / Offline                       | Shows the connection status between the Door Magnetic Sensor and the Hub.<br />**The Door Magnetic Sensor will not be functional if the status is offline.* |
 |  **Battery Status**   | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | Shows the battery level of Door Magnetic Sensor. <br />**If the battery level is low, the icon will turn red and you’ll receive a malfunction notification in App.* |
 
-### 4.4.3 Setting
+#### 4.4.3 Setting
 
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
@@ -595,9 +597,9 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-## 4.5 Panic Button
+### 4.5 Panic Button
 
-### 4.5.1 Appearance
+#### 4.5.1 Appearance
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222102753563.png" width="400" />
@@ -608,7 +610,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | LED Indicator  | Red / Green / Orange<br />**Used to indicate alarm status, signal strength status, and Find Me status.* |
 | Alarm Button   | 1.     Press to trigger panic alarm.<br />2.     Press and hold for 10s to enter paring mode.<br />**Paring mode is only used for re-adding or connecting the Panic Button to another Hub.* |
 
-### 4.5.2 State
+#### 4.5.2 State
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222103019325.png" width="250" />
@@ -623,7 +625,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 
 
-### 4.5.3 Setting
+#### 4.5.3 Setting
 
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
@@ -645,9 +647,9 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-## 4.6 Temperature Humidity Monitor
+### 4.6 Temperature Humidity Monitor
 
-### 4.6.1 Appearance
+#### 4.6.1 Appearance
 
 ![image-20231222104606504](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222104606504.png)
 
@@ -661,7 +663,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | Hanging hole    | Used to hang the Temperature Humidity Monitor to the wall.   |
 | Battery cover   | Slide to open and replace the AA batteries.                  |
 
-### 4.6.2 State
+#### 4.6.2 State
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222104800684.png" width="200" />
@@ -674,7 +676,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | **Connection Status** |                       Online / Offline                       | Shows the connection status between the Temperature&Humidity Monitor and the Hub.<br />*The Temperature *Humidity Monitor will not be functional if the status is offline.* |
 |  **Battery Status**   | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | Shows the battery level of Temperature&Humidity Monitor.<br />**If the battery level is low, the icon will turn red and you’ll receiver a malfunction notification in App.* |
 
-### 4.6.3 Setting
+#### 4.6.3 Setting
 
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
@@ -696,9 +698,9 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-## 4.7 Water Leak Detector
+### 4.7 Water Leak Detector
 
-### 4.7.1 Appearance
+#### 4.7.1 Appearance
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222105919739.png" width="600" />
@@ -713,7 +715,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *After connecting the external probe, the Water Leak Detector will trigger an alarm whenever any one of the built-in probe or external probe detects water leaks.*
 
-### 4.7.2 State
+#### 4.7.2 State
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222110151349.png" width="250" />
@@ -728,7 +730,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | **Connection Status** |                       Online / Offline                       | Shows the connection status between the Water Leak Detector and the Hub.<br />**The Water Leak Detector will not be functional if the status is offline.* |
 |  **Battery Status**   | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | Shows the battery level of Water Leak Detector.<br />**If the battery level is low, the icon will turn red and you’ll receive a malfunction notification in App.* |
 
-### 4.7.3 Setting
+#### 4.7.3 Setting
 
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
@@ -750,9 +752,9 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-## 4.8 Smoke Detector
+### 4.8 Smoke Detector
 
-### 4.8.1 Appearance
+#### 4.8.1 Appearance
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222111015458.png" width="500" />
@@ -765,7 +767,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 |       **Alignment Mark**        | Used to check whether the device is installed properly.<br />**If the semicircles on the device and mounting base are aligned to form a circle, the product is installed properly* |
 |      **Mounting** **Base**      | Can be installed on the ceiling with screws or 3M sticker.   |
 
-### 4.8.2 State
+#### 4.8.2 State
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222111233339.png" width="250" />
@@ -781,7 +783,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | **Connection Status** |                       Online / Offline                       | Shows the connection status between the Smoke Detector and the Hub.<br />**The Smoke Detector will not be functional if the status is offline.* |
 |  **Battery Status**   | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | Shows the battery level of Smoke Detector.<br />**If the battery level is low, the icon will turn red and you’ll receiver a malfunction notification in App.* |
 
-### 4.8.3 Setting
+#### 4.8.3 Setting
 
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
@@ -794,7 +796,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 |     **User Guide**      |                              /                               | Click to check the user guide document of Smoke Detector.    |
 |    **Delete Device**    |                              /                               | Delete the Smoke Detector from your Hub.                     |
 
-### 4.8.4 Test
+#### 4.8.4 Test
 
 When the device detects smoke, it will announce alarm by buzzing and flashing with built-in indicator and buzzer, and could also trigger sirens for alerting instantly if it’s connected to Hub, and the Hub will push alarm notifications to remote terminals via App, SMS, Phone Call, etc.
 
@@ -824,9 +826,9 @@ When alarm triggered, you can also press the Mute/self-checking button to mute t
 
 <br />
 
-## 4.9 Indoor Siren
+### 4.9 Indoor Siren
 
-### 4.9.1 Appearance
+#### 4.9.1 Appearance
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222112355120.png" width="700" />
@@ -843,7 +845,7 @@ When alarm triggered, you can also press the Mute/self-checking button to mute t
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note**: It’s recommended to connect power the indoor siren with adapter all the time to keep continuously charging to ensure a timely response at all times.
 
-### 4.9.2 State
+#### 4.9.2 State
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222112743465.png" width="300" />
@@ -857,7 +859,7 @@ When alarm triggered, you can also press the Mute/self-checking button to mute t
 | **Connection Status** |                       Online / Offline                       | Shows the connection status between the Indoor Siren and the Hub.<br />**The Indoor Siren will not be functional if the status is offline.* |
 |  **Battery Status**   | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | Shows the battery level of Indoor Siren.<br />**If the battery level is low, the icon will turn red and you’ll receiver a malfunction notification in App.* |
 
-### 4.9.3 Setting
+#### 4.9.3 Setting
 
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
@@ -880,9 +882,9 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-## 4.10 Outdoor Siren
+### 4.10 Outdoor Siren
 
-### 4.10.1 Appearance
+#### 4.10.1 Appearance
 
 ![image-20231222113846452](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222113846452.png)
 
@@ -898,7 +900,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *It’s recommended to install the Outdoor Siren in the location where there is sunlight, so that the solar panels can keep charging for the built-in lithium battery intermittently, for long-lasting protection.*
 
-### 4.10.2 State
+#### 4.10.2 State
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222114050650.png" width="250" />
@@ -913,7 +915,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | **Connection Status** |                       Online / Offline                       | Shows the connection status between the Outdoor Siren and the Hub.<br />**The Outdoor Siren will not be functional if the status is offline.* |
 |  **Battery Status**   | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | Shows the battery level of Outdoor Siren.<br />**If the battery level is low, the icon will turn red and you’ll receiver a malfunction notification in App.* |
 
-### 4.10.3 Setting
+#### 4.10.3 Setting
 
 
 
@@ -938,9 +940,9 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-## 4.11 Keypad
+### 4.11 Keypad
 
-### 4.11.1 Appearance
+#### 4.11.1 Appearance
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222115129132.png" width="400" />
@@ -963,7 +965,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | **Register Button**             | Press and hold for 5s to add the Keypa to the Hub.<br />**Register Button is only used for re-adding or connecting the keypad into another Hub.* |
 | **Tamper Switch**               | Used to detect the tamper alarm status of the lid.           |
 
-### 4.11.2 State
+#### 4.11.2 State
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222115604258.png" width="250" />
@@ -978,7 +980,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | **Connection Status** |                       Online / Offline                       | Shows the connection status between the Keypad and the Hub.<br />**The Keypad will not be functional if the status is offline.* |
 |  **Battery Status**   | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | Shows the battery level of Keypad.<br />**If the battery level is low, the icon will turn red and you’ll receiver a malfunction notification in App.* |
 
-### 4.11.3 Setting
+#### 4.11.3 Setting
 
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
@@ -1003,11 +1005,11 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 |        **User Guide**        |                              /                               | Click to check the user guide document of Keypad.            |
 |      **Delete Device**       |                              /                               | Delete the Keypad from your Hub.                             |
 
-### 4.11.4 Operation
+#### 4.11.4 Operation
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *You need to enter the complete a 6-digits code for the following operations if the PIN Code is required. e.g. “01xxxx”.*
 
-#### Arming with PIN Code
+##### Arming with PIN Code
 
 - **Arm Stay**: `PIN Code` + [ ![Arm Stay](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Arm%20Stay.png) ]
 - **Arm Away**: `PIN Code` + [ ![Arm Away](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Arm%20Away.png) ]
@@ -1019,7 +1021,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-#### Arming without PIN Code
+##### Arming without PIN Code
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/note.png)**Note** : Please make sure the function of **Arming Without PIN Code** is ON in advance
 
@@ -1032,7 +1034,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-#### Disarming
+##### Disarming
 
 - Disarm the system: `PIN Code` + [ ![disarm button](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/disarm%20button.png) ]
 
@@ -1043,7 +1045,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-#### Duress Silent Alarm
+##### Duress Silent Alarm
 
 Duress Silent Alarm is designed to protect and even rescue you in critical situations, such as when faced with a burglar demanding disarming, it allows you to disarm the system as usual, and send an alarm message discreetly to the outside terminals, to ask help silently.
 
@@ -1067,7 +1069,7 @@ e.g. Your PIN Code is "**011234**", you can enter "**011233**" or "**011235**" a
 
 <br />
 
-#### Alarm Button
+##### Alarm Button
 
 You can also trigger alarm manually in case of any emergency or dangerous incident, then the sirens will start to announce the alarm in different sounds within 0.5s, and the alarms will be pushed to remote terminals via app notification, SMS, Phone Call and so on.
 
@@ -1083,7 +1085,7 @@ You can also trigger alarm manually in case of any emergency or dangerous incide
 
 <br />
 
-#### Customize Button
+##### Customize Button
 
 - Custom Function: PIN Code + [ ![Custom](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Custom.png) ]
 
@@ -1093,9 +1095,9 @@ You can also trigger alarm manually in case of any emergency or dangerous incide
 
 <br />
 
-## 4.12 Keyfob
+### 4.12 Keyfob
 
-### 4.12.1 Appearance
+#### 4.12.1 Appearance
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222130938966.png" width="350" />
@@ -1108,7 +1110,7 @@ You can also trigger alarm manually in case of any emergency or dangerous incide
 | **Disarm Button**       | Used to disarm the system in one button.                     |
 | **Custom Button Ⅰ / Ⅱ** | Click to trigger the preset function you set and linked before. |
 
-### 4.12.2 State
+#### 4.12.2 State
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222131226189.png" width="250" />
@@ -1123,7 +1125,7 @@ You can also trigger alarm manually in case of any emergency or dangerous incide
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *There may be a delay in updating the status of the keyfob, as it only pushes and updates its status information when it starts to interact with the Hub, e.g. when a button is pressed in the Keyfob.* 
 
-### 4.12.3 Setting
+#### 4.12.3 Setting
 
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
@@ -1138,17 +1140,17 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 |       Key Ⅰ / Ⅱ       | ![image-20231222132047970](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222132047970.png) | After configured, you can press the buttons in keyfob to trigger the specified event you linked with.<br />*Please make sure there is at least one custom scene configured in advance if you need to link with “**Automation**”. You can turn to* [Charter 6. Scene Management](#charter-6.-scene-management) *for details.* |
 |    **User Guide**     |                              /                               | Click to check the user guide document.                      |
 
-### 4.12.4 Operation
+#### 4.12.4 Operation
 
-#### Arm Away
+##### Arm Away
 
 - Press [ ![Arm Away](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Arm%20Away.png) ]
 
-#### Disarm
+##### Disarm
 
 - Press [ ![disarm button](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/disarm%20button.png) ]
 
-#### Custom Button
+##### Custom Button
 
 - Press [ **Ⅰ** ] or [ **Ⅱ** ] to trigger the preset scene you configured before.
 
@@ -1162,9 +1164,9 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-## 4.13 Relay
+### 4.13 Relay
 
-### 4.13.1 Appearance
+#### 4.13.1 Appearance
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222133122878.png" width="600" />
@@ -1178,7 +1180,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | **Power Indicator**     | Used to show the power connection of relay.                  |
 | **Power Switch Button** | Used to turn ON/OFF the Relay manually.                      |
 
-### 4.13.2 State
+#### 4.13.2 State
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222133435049.png" width="250" />
@@ -1193,9 +1195,9 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 |      **Timing**       | ![Timing](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Timing.png) | Trigger the relay execute action when the estimated time is reached |
 |     **Countdown**     | ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Countdown.png) | Trigger the relay execute action after the countdown timer expires |
 
-### 4.13.3 Setting
+#### 4.13.3 Setting
 
-#### Basic Setting
+##### Basic Setting
 
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
@@ -1215,7 +1217,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 |      **User Guide**      |                              /                               | Click to check the user guide document of Relay              |
 |    **Delete Device**     |                              /                               | When enabled, the Relay will show up on homepage  so that you can operate quickly. |
 
-#### Timing Setting
+##### Timing Setting
 
 Step 1: Click the "**Timing** ![Timing](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Timing.png)" and turn to the adding page.
 
@@ -1230,7 +1232,7 @@ Step 2: Click "**+**" on the top right corner and turn to "Timing Configure Page
 
 
 
-#### Countdown Setting
+##### Countdown Setting
 
 Click "**Countdown** ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Countdown.png)" and turn to the adding page.
 
@@ -1243,9 +1245,9 @@ Click "**Countdown** ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/ro
 
 <br />
 
-## 4.14 Wall Switch
+### 4.14 Wall Switch
 
-### 4.14.1 Appearance
+#### 4.14.1 Appearance
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222135046649.png" width="600" />
@@ -1265,7 +1267,7 @@ Click "**Countdown** ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/ro
 
 
 
-### 4.14.2 State
+#### 4.14.2 State
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222135634545.png" width="200" />
@@ -1281,9 +1283,9 @@ Click "**Countdown** ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/ro
 |     **Countdown**     | ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Countdown.png) | Trigger the relay execute action after the countdown timer expires |
 |    **Consumption**    |                              /                               | Show the power consumption details<br />*Click to see more real-time information |
 
-### 4.14.3 Setting
+#### 4.14.3 Setting
 
-#### Basic Setting
+##### Basic Setting
 
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
@@ -1305,7 +1307,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 
 
-#### Timing Setting
+##### Timing Setting
 
 Step 1: Click the "**Timing** ![Timing](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Timing.png)" and turn to the adding page.
 
@@ -1320,7 +1322,7 @@ Step 2: Click "**+**" on the top right corner and turn to "Timing Configure Page
 
 
 
-#### Countdown Setting
+##### Countdown Setting
 
 Click "**Countdown** ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Countdown.png)" and turn to the adding page.
 
@@ -1333,7 +1335,7 @@ Click "**Countdown** ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/ro
 
 
 
-#### Consumption Preview
+##### Consumption Preview
 
 Check the real-time power statistics, including Current power, Current and Voltage.
 
@@ -1351,9 +1353,9 @@ Daily, weekly, monthly and yearly trends in electricity consumption will be show
 
 <br />
 
-## 4.15 Smart Plug
+### 4.15 Smart Plug
 
-### 4.15.1 Appearance
+#### 4.15.1 Appearance
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222140922630.png" width="700" />
@@ -1365,7 +1367,7 @@ Daily, weekly, monthly and yearly trends in electricity consumption will be show
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : there are three models (UK / US / EU standard plug) available, and we only select one of them for the following display and demonstration. You can select the appropriate one according to your requirements.
 
-### 4.15.2 State
+#### 4.15.2 State
 
 |     **Parameter**     |                          **Value**                           | **Meaning**                                                  |
 | :-------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
@@ -1378,9 +1380,9 @@ Daily, weekly, monthly and yearly trends in electricity consumption will be show
 |    **Consumption**    |                              /                               | Show the power consumption details<br />**Click to see more real-time information* |
 |    **Child lock**     |                              /                               | When the child lock is switched on, any key operation loses its control function，you can only control the plug through APP.<br />*Press 4 times within 5 seconds to unlock the child lock. |
 
-### 4.15.3 Setting
+#### 4.15.3 Setting
 
-#### Basic Setting
+##### Basic Setting
 
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
@@ -1401,7 +1403,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 
 
-#### Timing Setting
+##### Timing Setting
 
 Step 1: Click the "**Timing** ![Timing](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Timing.png)" and turn to the adding page.
 
@@ -1414,7 +1416,7 @@ Step 2: Click "**+**" on the top right corner and turn to "Timing Configure Page
 - Select the execution time and which day of the week you want to loop.
 - Execute Action: The Execute Action you want the relay to perform when it reaches the time you have set.
 
-#### Countdown Setting
+##### Countdown Setting
 
 Click "**Countdown** ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Countdown.png)" and turn to the adding page.
 
@@ -1425,7 +1427,7 @@ Click "**Countdown** ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/ro
 - Choose how long after you want to perform the action.
 - Execute Action: The Execute Action you want to perform when it reaches the time you have set.
 
-#### Consumption Preview
+##### Consumption Preview
 
 Check the real-time power statistics, including Current power, Current and Voltage.
 
@@ -1447,13 +1449,13 @@ Daily, weekly, monthly and yearly trends in electricity consumption will be show
 
 <br />
 
-# Charter 5. User Management
+### Charter 5. User Management
 
-## 5.1 User Type
+### 5.1 User Type
 
 There are two types of user in this system, named **APP User** and **Local User**.
 
-### 5.1.1 App User
+#### 5.1.1 App User
 
 Refer to the users who use APP to operate system and receive notifications, these users must be registered in RB Link APP, the APP users are classified into three types:
 
@@ -1461,13 +1463,13 @@ Refer to the users who use APP to operate system and receive notifications, thes
 - **Admin:** Can be invited by super admin from APP, and enabled as an admin.
 - **Regular User:** Invited by super admin or admin from APP, enabled as a regular user
 
-### 5.1.2 Local User
+#### 5.1.2 Local User
 
 Refer to the users do not use APP, but only use keypad and keyfob to operate system.
 
 <br />
 
-## 5.2 User Authority
+### 5.2 User Authority
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222154119637.png" width="600" />
@@ -1486,11 +1488,11 @@ Refer to the users do not use APP, but only use keypad and keyfob to operate sys
 
 <br />
 
-## 5.3 Manage Users
+### 5.3 Manage Users
 
-### 5.3.1 App User Management
+#### 5.3.1 App User Management
 
-#### Share Hub to APP User:
+##### Share Hub to APP User:
 
 Step 1: Enter `My` page on APP, click `Share` and choose the **Hub** that you want to share.
 
@@ -1510,8 +1512,7 @@ Step 5: The invitation will be notified here, and click `Agree` to finish the in
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222000016732.png" width="200" />
 </div>
-
-#### Configure App User:
+##### Configure App User:
 
 1. Once the sharing process has been successfully finished, enter **`User Management`** (Hub → "**Settings**" → "**User Management**"), the new user will be shown in the list.
 2. Click the "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" button on the right side of the user to configure user authorities.
@@ -1531,9 +1532,9 @@ Step 5: The invitation will be notified here, and click `Agree` to finish the in
 > - SMS and Phone Call are only supported by Home Security Hub **Station**, not for **Pico**.
 > - For each notification, the Hub makes Phone Call and SMS to every user only once no matter successful or not.
 
-### 5.3.2 Local User Management
+#### 5.3.2 Local User Management
 
-#### Add a Local User
+##### Add a Local User
 
 Step 1: Enter `Settings` page of Hub, click `User Management`.
 
@@ -1563,9 +1564,9 @@ After adding successfully, click the "![Setting](https://dusunprj.oss-us-west-1.
 
 <br />
 
-# Charter 6. Scene Management
+## Charter 6. Scene Management
 
-## 6.1 Security Scene
+### 6.1 Security Scene
 
 Security Scene allows you to carry out the default arming/disarming operation, as well as to create new custom arming scenes to meet daily safety needs.
 
@@ -1575,11 +1576,11 @@ Security Scene allows you to carry out the default arming/disarming operation, a
 
 
 
-### 6.1.1 Default Arming / Disarming
+#### 6.1.1 Default Arming / Disarming
 
 The app supports three default modes, which are **Arm Stay**, **Arm Away** and **Disarm**. You can also click these buttons in Homepage.
 
-#### Arm Stay
+##### Arm Stay
 
 When you get home, you can press "![Arm Stay](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Arm%20Stay.png)" (Arm Stay) to let the system be armed partly. You can click "**>**" and then go to **Arm Stay setting** page and find two options can be configured:
 
@@ -1605,7 +1606,7 @@ When you get home, you can press "![Arm Stay](https://dusunprj.oss-us-west-1.ali
 
 <br />
 
-#### Arm Away
+##### Arm Away
 
 When you leave home, you can press "![Arm Away](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Arm%20Away.png)" (Arm Away) to let entire system be armed. You can also click "**>**" and then go to **Arm Away Setting** page and find two options can be configured:
 
@@ -1623,7 +1624,7 @@ When you leave home, you can press "![Arm Away](https://dusunprj.oss-us-west-1.a
 
 <br />
 
-#### Disarm
+##### Disarm
 
 When you are at home and want all intrusion sensor disarmed, you can press "![disarm button](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/disarm%20button.png)"(Disarm) button. In Disarm setting page, you can view which sensors will be effective when you press Disarm.
 
@@ -1631,7 +1632,7 @@ After disarming, all the alarm icon will be gone and siren sound will be stopped
 
 <br />
 
-### 6.1.2 Custom Arming
+#### 6.1.2 Custom Arming
 
 In addition to the default armings and disarming, you can also add up to three **Custom Arming Scenes**. 
 
@@ -1653,7 +1654,7 @@ You can press Add Custom Arming or go to Custom Arming setting page and find the
 
 <br />
 
-## 6.2 Custom Scene
+### 6.2 Custom Scene
 
 There are two types of custom scenes:
 
@@ -1669,14 +1670,14 @@ There are two types of custom scenes:
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222144414027.png" width="200" />
 </div>
 
-### 6.2.1 Create a Custom Scene
+#### 6.2.1 Create a Custom Scene
 
 You can create up to **64** Custom Scenes for one Hub.
 
 1. Turn to "![Scene](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Scene.png)" (Scene) page and then press "**+**" to add a custom scene.
 2. Click "![scene icon](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/scene%20icon.png)" to select an icon you prefer and set a scene name.
 
-### 6.2.2 Add a Trigger Condition
+#### 6.2.2 Add a Trigger Condition
 
 There are **3** types of trigger condition:
 
@@ -1713,7 +1714,7 @@ There are **3** types of trigger condition:
 
 
 
-### 6.2.3 Add an Execution Task
+#### 6.2.3 Add an Execution Task
 
 There are **3** types of execution task:
 
@@ -1750,13 +1751,13 @@ There are **3** types of execution task:
 
 <br />
 
-# Charter 7. Notification Management
+## Charter 7. Notification Management
 
-## 7.1 Notification Type
+### 7.1 Notification Type
 
 In `Message` page, the received messages are classified into `Device` and `Share` in general, on the top of the page, by clicking to switch the contents.
 
-### 7.1.1 Device
+#### 7.1.1 Device
 
 It means the notifications are generated if status changed in system devices. It has 5 types, which are listed in below form, each type has an icon design to distinguish.
 
@@ -1768,7 +1769,7 @@ It means the notifications are generated if status changed in system devices. It
 |        **Event**         | ![event](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/event.png) | Regular notifications, such as Hub is online / offline / updating, Scene auto-triggered, and more |
 |      **Operation**       | ![Operation](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Operation.png) | System operation, such as Arm/Disarm, Scene manually-triggered, Automation device manually-triggered, Peripherals enable/disable |
 
-### 7.1.2 Share
+#### 7.1.2 Share
 
 It means the notifications are generated by user invitation process. Only when someone is sharing Hub to you, notifications will be received and agreed there.
 
@@ -1778,7 +1779,7 @@ It means the notifications are generated by user invitation process. Only when s
 
 <br />
 
-## 7.2 Notification Setting
+### 7.2 Notification Setting
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222002949593.png" width="300" />
@@ -1794,19 +1795,18 @@ It means the notifications are generated by user invitation process. Only when s
 
 <br />
 
-# Charter 8. Installation Instruction
+## Charter 8. Installation Instruction
 
-## 8.1 Hub Installation
+### 8.1 Hub Installation
 
-### 8.1.1 Noise Level
+#### 8.1.1 Noise Level
 
 Ensuring the presence of acceptable wireless noise levels, you can check the data in app settings page. Path: Details of the Hub → `>` → `Wireless Noise Level`.
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222003432932.png" width="250" />
 </div>
-
-### 8.1.2 Considerations
+#### 8.1.2 Considerations
 
 **DO NOT** place the hub:
 
@@ -1818,7 +1818,7 @@ Ensuring the presence of acceptable wireless noise levels, you can check the dat
 
 <br />
 
-## 8.2 Peripheral Installation
+### 8.2 Peripheral Installation
 
 1. Check the detector’s installation position (indoor/outdoor)
 2. Check the battery. Please navagate to device's status to check the battery level in app, you will receive a message when battery is low.
@@ -1837,9 +1837,9 @@ Ensuring the presence of acceptable wireless noise levels, you can check the dat
 
 <br />
 
-# Charter 9. Maintenance
+## Charter 9. Maintenance
 
-## 9.1 Battery Replacement
+### 9.1 Battery Replacement
 
 - **Identify the Battery Type**:
 
