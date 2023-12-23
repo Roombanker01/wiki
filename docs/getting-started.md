@@ -28,7 +28,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Home Security Hub (Pico)</h3>
-        <p>This hub functions as a powerful brain of Roombanker security alarm system. It has WiFi and Ethernet options, and support RBF and Zigbee protocols. As a central control unit, it can manage up to 128 wireless peripherals and 64 rooms.</p>
+        <p>This hub functions as a powerful brain of Roombanker security alarm system. It has WiFi and Ethernet options, and support RBF protocol. As a central control unit, it can manage up to 64 wireless peripherals and 64 rooms.</p>
     </div>
 </div>
 <div class="iot-list">
@@ -43,6 +43,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
         </div>
     </div>
 </div>
+
 
 ***
 
@@ -92,7 +93,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
 </div>
 
-*** 
+***
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
@@ -140,7 +141,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
 </div>
 
-*** 
+***
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
@@ -164,7 +165,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
 </div>
 
-***  
+***
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
@@ -188,7 +189,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
 </div>
 
-*** 
+***
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
@@ -212,7 +213,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
 </div>
 
-***  
+***
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
@@ -236,7 +237,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
 </div>
 
-*** 
+***
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
@@ -260,7 +261,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
 </div>
 
-***  
+***
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
@@ -284,7 +285,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
 </div>
 
-*** 
+***
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
@@ -308,7 +309,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
 </div>
 
-***  
+***
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
@@ -332,7 +333,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
 </div>
 
-***  
+***
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
@@ -356,7 +357,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
 </div>
 
-***  
+***
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
@@ -380,7 +381,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
 </div>
 
-***  
+***
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
@@ -428,7 +429,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
 </div>
 
-***  
+***
 
 ## Contact Us  
 
