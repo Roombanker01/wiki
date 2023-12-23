@@ -118,26 +118,87 @@ Once an alarm occurred, Hub reports the alarm to cloud via LAN/Wi-Fi/4G, activat
 
 Home security Hub has two different models, called **Station** and **Pico**, below form describes the brief comparison between two models.
 
-| **Specifications**          |                **Home Hub (Pico)**                |              **Home Hub (Station)**               |
-| --------------------------- | :-----------------------------------------------: | :-----------------------------------------------: |
-| **Transmission Technology** |                        RBF                        |        RBF / **Zigbee 3.0** / **BLE 5.2**         |
-| **Transmission Method**     |              Two-way wireless (RBF)               |              Two-way wireless (RBF)               |
-| **Transmission Frequency**  |                868 / 915MHz (RBF)                 |                868 / 915MHz (RBF)                 |
-| **Transmission Security**   |              AES128 Encryption (RBF)              |              AES128 Encryption (RBF)              |
-| **Peripherals Connected**   |                     Up to 64                      |                   Up to **128**                   |
-| **Users**                   | 1 Super Admin+4 Admin+32 App Users+32 Local Users | 1 Super Admin+4 Admin+32 App Users+32 Local Users |
-| **Cellular**                |                         /                         |                  **1 SIM (4G)**                   |
-| **Wi-Fi**                   |                2.4G，802.11 b/g/n                 |                2.4G，802.11 b/g/n                 |
-| **Ethernet**                |               1 x RJ45, 10/100Mbps                |               1 x RJ45, 10/100Mbps                |
-| **Firmware Upgrade**        |                    OTA via APP                    |                    OTA via APP                    |
-| **Power Supply**            |                  Type-C，5VDC 2A                  |                  Type-C，5VDC 2A                  |
-| **Battery**                 |                         /                         |             **2600mAh 18650 battery**             |
-| **Backup time**             |                         /                         |             **Up to 8h power backup**             |
-| **Weight**                  |                       260g                        |                       320g                        |
-| **Operation Temperature**   |                    -10℃ ~ +45℃                    |                    -10℃ ~ +45℃                    |
-| **Dimension (W×H×D)**       |               150mm x 150mm x 37mm                |               150mm x 150mm x 37mm                |
-
-
+<table class="center">
+  <thead>
+    <tr>
+      <th>Specifications</th>
+      <th>Home Hub (Pico)</th>
+      <th>Home Hub (Station)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Transmission Technology</td>
+      <td>RBF</td>
+      <td>RBF/Zigbee 3.0/BLE 5.2</td>
+    </tr>
+    <tr>
+      <td>Transmission Method</td>
+      <td colspan="2" style={{textAlign: 'center'}}>Two-way wireless (RBF)</td>    
+    </tr>
+    <tr>
+      <td>Transmission Frequency</td>
+      <td colspan="2" style={{textAlign: 'center'}}>868/915MHz (RBF)</td>
+    </tr>
+    <tr>
+      <td>Transmission Security</td>
+      <td colspan="2" style={{textAlign: 'center'}}>AES128 Encryption (RBF)</td>
+    </tr>
+    <tr>
+      <td>Peripherals Connected</td>
+      <td>Up to 64</td>
+      <td>Up to 128</td>
+    </tr>
+    <tr>
+      <td>Users</td>
+      <td colspan="2" style={{textAlign: 'center'}}>1 Super Admin+4 Admin+32 App Users+32 Local Users</td>
+    </tr>
+    <tr>
+      <td>Cellular</td>
+      <td>/</td>
+      <td>1 SIM (4G)</td>
+    </tr>
+    <tr>
+      <td>Wi-Fi</td>
+      <td colspan="2" style={{textAlign: 'center'}}>2.4G，802.11 b/g/n</td>
+    </tr>
+    <tr>
+      <td>Ethernet</td>
+      <td colspan="2" style={{textAlign: 'center'}}>1 x RJ45, 10/100Mbps</td>
+    </tr>
+    <tr>
+      <td>Firmware Upgrade</td>
+      <td colspan="2" style={{textAlign: 'center'}}>OTA via APP</td>
+    </tr>
+    <tr>
+      <td>Power Supply</td>
+      <td colspan="2" style={{textAlign: 'center'}}>Type-C, 5VDC 2A</td>
+    </tr>
+    <tr>
+      <td>Battery</td>
+      <td>/</td>
+      <td>2600mAh 18650 battery</td>
+    </tr>
+    <tr>
+      <td>Backup time</td>
+      <td>/</td>
+      <td>Up to 8h power backup</td>
+    </tr>
+    <tr>
+      <td>Weight</td>
+      <td>260g</td>
+      <td>320g</td>
+    </tr>
+    <tr>
+      <td>Operation Temperature</td>
+      <td colspan="2" style={{textAlign: 'center'}}>-10°C ~ +45°C</td>
+    </tr>
+    <tr>
+      <td>Dimension (WxHxD)</td>
+      <td colspan="2" style={{textAlign: 'center'}}>150mm x 150mm x 37mm</td>
+    </tr>
+  </tbody>
+  </table>
 
 ---
 
@@ -1473,9 +1534,108 @@ Refer to the users do not use APP, but only use keypad and keyfob to operate sys
 
 ### 5.2 User Authority
 
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222154119637.png" width="600" />
-</div>
+<table class="center">
+  <thead>
+    <tr>
+      <th rowSpan={3}>User Types</th>
+      <th colSpan={3}>APP User</th>
+      <th rowSpan={2}>Local User</th>
+    </tr>
+    <tr>
+      <th>Super Admin</th>
+      <th colSpan={1}>Admin</th>
+      <th rowSpan={1}>Regular User</th>
+    </tr>
+    <tr>
+      <th>1</th>
+      <th>Up to 4</th>
+      <th>Up to 32</th>
+      <th>Up to 32</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Add Device</td>
+      <td>√</td>
+      <td>√</td>
+      <td>×</td>
+      <td>×</td>
+    </tr>
+    <tr>
+      <td>Delete Device</td>
+      <td>√</td>
+      <td>×</td>
+      <td>×</td>
+      <td>×</td>
+    </tr>
+    <tr>
+      <td>System Configuration</td>
+      <td>√</td>
+      <td>√</td>
+      <td>×</td>
+      <td>×</td>
+    </tr>
+    <tr>
+      <td>System Operation</td>
+      <td>√</td>
+      <td>√</td>
+      <td>√</td>
+      <td>√</td>
+    </tr>
+    <tr>
+      <td>Create/Del Room</td>
+      <td>√</td>
+      <td>√</td>
+      <td>×</td>
+      <td>×</td>
+    </tr>
+    <tr>
+      <td>Create/Del Scene</td>
+      <td>√</td>
+      <td>√</td>
+      <td>×</td>
+      <td>×</td>
+    </tr>
+    <tr>
+      <td>Operate Scene</td>
+      <td>√</td>
+      <td>√</td>
+      <td>√</td>
+      <td>×</td>
+    </tr>
+    <tr>
+      <td>Message Notification</td>
+      <td>√</td>
+      <td>√</td>
+      <td>√</td>
+      <td>×</td>
+    </tr>
+    <tr>
+      <td>Invite APP user (Admin)</td>
+      <td>√</td>
+      <td>×</td>
+      <td>×</td>
+      <td>×</td>
+    </tr>
+     <tr>
+      <td>Invite APP user (Regular)</td>
+      <td>√</td>
+      <td>√</td>
+      <td>×</td>
+      <td>×</td>
+    </tr>
+    <tr>
+      <td>Add/Del Local User</td>
+      <td>√</td>
+      <td>√</td>
+      <td>×</td>
+      <td>×</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 
 
@@ -1519,12 +1679,58 @@ Step 5: The invitation will be notified here, and click `Agree` to finish the in
 1. Once the sharing process has been successfully finished, enter **`User Management`** (Hub → "**Settings**" → "**User Management**"), the new user will be shown in the list.
 2. Click the "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" button on the right side of the user to configure user authorities.
 
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222000555050.png" width="700" />
-</div>
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222155209989.png" width="600" />
-</div>
+
+
+<table class="center">
+  <thead>
+    <tr>
+      <th colSpan={4}>APP User Settings Explanation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowSpan={5}>Notification Settings</td>
+      <td>Alarm</td>
+      <td>APP/SMS/Phone Call</td>
+      <td>To set the Hub to push notifications via APP, SMS or Phone Call if an alarm occurred.</td>
+    </tr>
+    <tr>
+      <td>Malfunction</td>
+      <td>APP/SMS/Phone Call</td>
+      <td>To set the Hub to push notifications via APP, SMS or Phone Call if a malfunction occurred.</td>
+    </tr>
+    <tr>
+      <td>Event</td>
+      <td>APP</td>
+      <td>To set whether APP should receive event notifications.</td>
+    </tr>
+    <tr>
+      <td>Operation</td>
+      <td>APP</td>
+      <td>To set whether APP should receive operation notifications.</td>
+    </tr>
+    <tr>
+      <td colspan={2}>Add Mobile</td>
+      <td colspan="2">When SMS and Phone Call are selected, the Mobile must be added as a receiver.</td>
+    </tr>
+    <tr>
+      <td colspan={3}>Keypad Code</td>
+      <td>Set a code for the user to operate keypad </td>
+    </tr>
+    <tr>
+      <td colspan={3}>Keyfob</td>
+      <td>Assign a keyfob for the user</td>
+    </tr>
+    <tr>
+      <td colspan={3}>Linked Room</td>
+      <td>Assign room permissions for the user</td>
+    </tr>
+    <tr>
+      <td colspan={4}>Delete User</td>
+      </tr>
+  </tbody>
+</table>
+
 
 
 
