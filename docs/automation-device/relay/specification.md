@@ -8,9 +8,12 @@
 
 RBF Relay is a dry contact relay to control 6-36 V⎓ power supply remotely.
 
-<div style={{textAlign:'center'}}>
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-relay-2.png" alt="1-relay-2"  style={{textAlign:'center',width:'25%'}} /> 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-relay-2.png" width="200" />
 </div>
+
+
+
 
 ------
 

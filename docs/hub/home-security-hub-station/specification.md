@@ -6,11 +6,12 @@
 
 <br />
 
-Smart Hub is the powerful brain of RoomBanker Secuiry & Automation system, enabling you to connect a variety of sensors and peripherals and then DlY your own security solution in a flexible and easy-to-use way.
+Smart Hub is the powerful brain of Roombanker Secuiry & Automation system, enabling you to connect a variety of sensors and peripherals and then DlY your own security solution in a flexible and easy-to-use way.
 
-<div style={{textAlign:'center'}}>
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-6.png" alt="img" style={{textAlign:'center',width:'25%'}} /> 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-6.png" width="300" />
 </div>
+
 
 
 

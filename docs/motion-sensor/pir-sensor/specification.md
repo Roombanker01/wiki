@@ -7,9 +7,12 @@
 
 The passive infrared sensor detects motion by detecting changes in infrared (IR) levels caused by the presence of humans within its range.
 
-<p style={{textAlign:'center'}}>
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/PIR.png" style={{zoom:'15%'}} />
-</p>
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/PIR.png" width="150" />
+</div>
+
+
+
 
 
 ------

@@ -8,9 +8,12 @@
 
 The surface-mounted door magnetic sensor always monitor the opening and closing status of doors, and signals the Smart Hub.
 
-<div style={{textAlign:'center'}}>
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Door%20Magnetic%20Sensor.png" alt="Door Magnetic Sensor" style={{textAlign:'center',width:'25%'}} /> 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Door%20Magnetic%20Sensor.png" width="200" />
 </div>
+
+
+
 
 ------
 

@@ -8,9 +8,12 @@
 
 The wireless alarm sirens with loud sounds and flashing lights are designed to grab attention of your community and scare off any vandals effectively.
 
-<div style={{textAlign:'center'}}>
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Outdoor%20Siren.png" alt="Outdoor Siren" style={{textAlign:'center',width:'25%'}} /> 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Outdoor%20Siren.png" width="300" />
 </div>
+
+
+
 
 ------
 

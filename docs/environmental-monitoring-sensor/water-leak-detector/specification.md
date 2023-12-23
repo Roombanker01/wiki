@@ -8,9 +8,10 @@
 
 The water leak detector with extension cable design for multi-point high-precision leak detection, is ideal for areas prone to leaks, including kitchens, bathrooms, and balconies.
 
-<div style={{textAlign:'center'}}>
-<img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Water%20Leak%20Detector.png" alt="Water Leak Detector" style={{textAlign:'center',width:'25%'}} /> 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Water%20Leak%20Detector.png" width="100" />
 </div>
+
 
 
 ------
