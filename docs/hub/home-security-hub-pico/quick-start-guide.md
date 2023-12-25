@@ -12,7 +12,7 @@
 | ![Icon 14](https://dusunprj.oss-us-west-1.aliyuncs.com/Icon%2014.png) | When the network connection is successful，the blue indicator  keeps ON. |
 | ![Icon 15](https://dusunprj.oss-us-west-1.aliyuncs.com/Icon%2015.png) | When the device experiences a fault， the red indicator keeps ON. |
 
-![Hub-Pico-2](https://dusunprj.oss-us-west-1.aliyuncs.com/Hub-Pico-2.png)
+![Hub-Pico-15](https://dusunprj.oss-us-west-1.aliyuncs.com/Hub-Pico-15.png)
 
 ## 2. Packaging List
 
