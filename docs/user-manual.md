@@ -45,7 +45,6 @@ All the functions described in the manual are based on the products and version 
 |  Smart Plug (US)  |   v1.0.0    |                              |             |
 |  Smart Plug (EU)  |   v1.0.0    |                              |             |
 |  Smart Plug (UK)  |   v1.0.0    |                              |             |
-|  Smart Plug (IT)  |   v1.0.0    |                              |             |
 
 <br />
 
