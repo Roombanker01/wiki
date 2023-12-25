@@ -5,6 +5,12 @@
 </div>
 <br />
 
+<center>
+    Last update: December 23th, 2023.
+</center>
+
+<br />
+
 The wireless smart plug features functions such as power management and child lock safety protection.
 
 <div align="center">

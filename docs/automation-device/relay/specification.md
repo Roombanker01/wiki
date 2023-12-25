@@ -6,6 +6,12 @@
 
 <br />
 
+<center>
+    Last update: December 23th, 2023.
+</center>
+
+<br />
+
 RBF Relay is a dry contact relay to control 6-36 V⎓ power supply remotely.
 
 <div align="center">

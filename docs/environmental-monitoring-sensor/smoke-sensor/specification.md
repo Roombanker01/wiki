@@ -6,6 +6,12 @@
 
 <br />
 
+<center>
+    Last update: December 23th, 2023.
+</center>
+
+<br />
+
 A low-power, long-lasting wireless smoke detector that supports high-precision smoke detection, capable of timely detection and triggering alarms in the early stages of a fire.
 
 <div align="center">

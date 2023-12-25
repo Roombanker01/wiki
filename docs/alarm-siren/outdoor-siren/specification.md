@@ -6,6 +6,12 @@
 
 <br />
 
+<center>
+    Last update: December 23th, 2023.
+</center>
+
+<br />
+
 The wireless alarm sirens with loud sounds and flashing lights are designed to grab attention of your community and scare off any vandals effectively.
 
 <div align="center">

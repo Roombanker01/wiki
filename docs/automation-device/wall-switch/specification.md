@@ -6,6 +6,12 @@
 
 <br />
 
+<center>
+    Last update: December 23th, 2023.
+</center>
+
+<br />
+
 The high-voltage smart wall switch can be installed in a standard 86 box, equipped with various functions such as power management and circuit protection to ensure high degree of safety.
 
 <div align="center">

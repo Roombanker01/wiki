@@ -6,6 +6,12 @@
 
 <br />
 
+<center>
+    Last update: December 23th, 2023.
+</center>
+
+<br />
+
 The water leak detector with extension cable design for multi-point high-precision leak detection, is ideal for areas prone to leaks, including kitchens, bathrooms, and balconies.
 
 <div align="center">

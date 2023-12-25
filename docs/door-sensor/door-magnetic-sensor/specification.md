@@ -6,6 +6,12 @@
 
 <br />
 
+<center>
+    Last update: December 23th, 2023.
+</center>
+
+<br />
+
 The surface-mounted door magnetic sensor always monitor the opening and closing status of doors, and signals the Smart Hub.
 
 <div align="center">

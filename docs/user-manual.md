@@ -5,7 +5,13 @@
 <div style={{textAlign: 'center'}}>
 <button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 40px',cursor:'pointer', textDecoration: 'none', borderRadius: '1px' }}>Download User Manual</button>
 </div>
+<br />
 
+<center>
+    Last update: December 23th, 2023.
+</center>
+
+<br />
 
 ## Overview
 

@@ -5,6 +5,12 @@
 </div>
 <br />
 
+<center>
+    Last update: December 23th, 2023.
+</center>
+
+<br />
+
 The passive infrared sensor detects motion by detecting changes in infrared (IR) levels caused by the presence of humans within its range.
 
 <div align="center">
