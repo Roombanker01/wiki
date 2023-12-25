@@ -17,7 +17,7 @@
 
 ### Purpose of the Manual
 
-The main purpose of the manual contains three parts:
+The main purpose of the manual contains **3** parts:
 
 ● To introduce the features and specifications of Roombanker Security Product System
 
@@ -33,20 +33,20 @@ All the functions described in the manual are based on the products and version 
 
 **Device name and latest available version**
 
-|    **Device**     | **Version** |           **Device**           | **Version** |
-| :---------------: | :---------: | :----------------------------: | :---------: |
-| Gateway (Station) |   v1.0.0    |           PIR Sensor           |   v1.0.0    |
-|  Gateway (Pico)   |   v1.0.0    |          Panic Button          |   v1.0.0    |
-|      Keypad       |   v1.0.0    |      Door Magnetic Sensor      |   v1.0.0    |
-|       Relay       |   v1.0.0    |      Water Leak Detector       |   v1.0.0    |
-|    Wall Switch    |   v1.0.0    | Temperature & Humidity Monitor |   v1.0.0    |
-|   Indoor Siren    |   v1.0.0    |         Smoke Detector         |   v1.0.0    |
-|   Outdoor Siren   |   v1.0.0    |          RB Link APP           |   v1.0.0    |
-|      Keyfob       |   v1.0.0    |                                |             |
-|  Smart Plug (US)  |   v1.0.0    |                                |             |
-|  Smart Plug (EU)  |   v1.0.0    |                                |             |
-|  Smart Plug (UK)  |   v1.0.0    |                                |             |
-|  Smart Plug (IT)  |   v1.0.0    |                                |             |
+|    **Device**     | **Version** |          **Device**          | **Version** |
+| :---------------: | :---------: | :--------------------------: | :---------: |
+| Gateway (Station) |   v1.0.0    |          PIR Sensor          |   v1.0.0    |
+|  Gateway (Pico)   |   v1.0.0    |         Panic Button         |   v1.0.0    |
+|      Keypad       |   v1.0.0    |     Door Magnetic Sensor     |   v1.0.0    |
+|       Relay       |   v1.0.0    |     Water Leak Detector      |   v1.0.0    |
+|    Wall Switch    |   v1.0.0    | Temperature Humidity Monitor |   v1.0.0    |
+|   Indoor Siren    |   v1.0.0    |        Smoke Detector        |   v1.0.0    |
+|   Outdoor Siren   |   v1.0.0    |        RB Link (App)         |   v1.0.0    |
+|      Keyfob       |   v1.0.0    |                              |             |
+|  Smart Plug (US)  |   v1.0.0    |                              |             |
+|  Smart Plug (EU)  |   v1.0.0    |                              |             |
+|  Smart Plug (UK)  |   v1.0.0    |                              |             |
+|  Smart Plug (IT)  |   v1.0.0    |                              |             |
 
 <br />
 
@@ -92,15 +92,15 @@ It has four parts to consist of the whole system, which are Peripherals, Hub, Ro
 
 ● **Working Principle:** 
 
-The Home Security Hub is the brain of the whole system, it communicates with peripherals via RBF/Bluetooth/Zigbee wireless protocol. 
+The Home Security Hub is the brain of the whole system, it communicates with peripherals via **RBF** / **Bluetooth** / **Zigbee** wireless protocol. 
 
-Once an alarm occurred, Hub reports the alarm to cloud via LAN/Wi-Fi/4G, activates the sirens within 0.5 seconds, and notifies the users via APP. Meanwhile, if the users operate the system, such as disarm, Hub will turn siren off and disarm all sensors.
+Once an alarm occurred, Hub reports the alarm to cloud via **LAN** / **Wi-Fi** / **4G**, activates the sirens within 0.5 seconds, and notifies the users via APP. Meanwhile, if the users operate the system, such as disarm, Hub will turn siren off and disarm all sensors.
 
 <br />
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/note.png)**Note**
 >
-> **RBF** is a self-developed encrypted wireless protocol by Roombanker, aim to enhance the communication between devices, the transmission range is up to 3,500m in open area. It contains advanced technologies design, such as TDMA, Frequency Hopping, Power Adjustment, Multi-Band Transmission with Low Power, to guarantee a stable, secure, highly efficient wireless communication.
+> **RBF** is a self-developed encrypted wireless protocol by Roombanker, aim to enhance the communication between devices, the transmission range is up to **3,500m** in open area. It contains advanced technologies design, such as TDMA, Frequency Hopping, Power Adjustment, Multi-Band Transmission with Low Power, to guarantee a stable, secure, highly efficient wireless communication.
 
 <br />
 
@@ -206,6 +206,7 @@ Home security Hub has two different models, called **Station** and **Pico**, bel
   </tbody>
   </table>
 
+
 ---
 
 
@@ -216,7 +217,7 @@ Home security Hub has two different models, called **Station** and **Pico**, bel
 
 ### 2.1 App Installation
 
-1. Scan the QR code below or search "RB Link" in Google Play or App Store to download and install the App.
+1. Scan the QR code below or search "RB Link" in **Google Play** or **App Store** to download and install the App.
 
    <div align="center">
      <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/image-20231221181603900.png" width="200" />

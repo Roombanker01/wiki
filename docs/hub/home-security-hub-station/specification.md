@@ -6,6 +6,12 @@
 
 <br />
 
+<center>
+    Last update: December 23th, 2023.
+</center>
+
+<br />
+
 Smart Hub is the powerful brain of Roombanker Secuiry & Automation system, enabling you to connect a variety of sensors and peripherals and then DlY your own security solution in a flexible and easy-to-use way.
 
 <div align="center">
