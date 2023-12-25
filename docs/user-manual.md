@@ -10,7 +10,6 @@
 <center>
     Last update: December 23th, 2023.
 </center>
-
 <br />
 
 ## Overview
@@ -427,7 +426,7 @@ During this period, if your Hub is frequently online and offline, you will not r
 
 #### 2.5.6 User Guide
 
-You can click to view the Quick Start Guide document of the Hub.
+You can click to view the Quick Start Guide document of the Hub ([Pico](https://wiki.roombanker.com/hub/home-security-hub-pico/quick-start-guide) / [Station](https://wiki.roombanker.com/hub/home-security-hub-station/quick-start-guide)).
 
 ---
 
@@ -437,21 +436,20 @@ You can click to view the Quick Start Guide document of the Hub.
 
 ## Charter 3. Room Management
 
-### 3.1 Create and manage rooms
-
 ● **Definition of Room:** the area where the peripheral is installed in house.
 
 ● **Function of Room:** allow each peripheral to be assigned to just one room. Admins can assign management permissions to different users on different rooms. 
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Room%20management.png" width="600" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Room%20management.png" width="500" />
 </div>
+
 
 
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *The above recommendations are for reference only and may vary depending on the specific layout and type of home. Adjustments to the room division and hub or peripherals placement may be necessary to suit your specific needs.*
 
-#### 3.1.1 Create a room
+### 3.1 Create a room
 
 Click "![room](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/room.png)" on the management page of Hub to view your rooms.
 
@@ -463,7 +461,7 @@ Click `Create a New Room` to add a new room, you can fill in the room name by yo
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *One hub can support up to 64 rooms.*
 
-#### 3.1.2 Rename a room
+### 3.2 Rename a room
 
 Click a room whose name you want to modify, then you can edit its name by yourself.
 
@@ -472,7 +470,7 @@ Click a room whose name you want to modify, then you can edit its name by yourse
 </div>
 
 
-#### 3.1.3 Delete a room
+### 3.3 Delete a room
 
 Deleting a room is a snap. Just swipe left on the room in the list and click `Delete`.
 
@@ -482,13 +480,15 @@ Deleting a room is a snap. Just swipe left on the room in the list and click `De
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *Make sure to remove any devices from the room before deleting it.*
 
-#### 3.1.4 View Peripherals in a specific room
+### 3.4 View Peripherals in a specific room
 
 In the Hub management page, click on a specific room to view all the associated peripherals.
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/peripheral%20list%20in%20room.png" width="250" />
 </div>
+
+
 ---
 
 
@@ -564,6 +564,8 @@ This is a way to add your wireless devices (RBF, Zigbee3.0) in batches by scanni
 
 ### 4.3 PIR Sensor
 
+**You can click [Spec](https://wiki.roombanker.com/motion-sensor/pir-sensor/specification) and [QSG](https://wiki.roombanker.com/motion-sensor/pir-sensor/quick-start-guide)* to check more information about PIR.
+
 #### 4.3.1 Appearance
 
 <div align="center">
@@ -618,6 +620,8 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ### 4.4 Door Magnetic Sensor
 
+**You can click [Spec](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/specification) and [QSG](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/quick-start-guide)* to check more information about Door Magnetic Sensor.
+
 #### 4.4.1 Appearance
 
 ![Magnetic](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Magnetic.png)
@@ -669,6 +673,8 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ### 4.5 Panic Button
 
+**You can click [Spec](http://localhost:3000/panic-button/panic-button/specification) and [QSG](http://localhost:3000/panic-button/panic-button/quick-start-guide)* to check more information about Panic Button.
+
 #### 4.5.1 Appearance
 
 <div align="center">
@@ -718,6 +724,8 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 <br />
 
 ### 4.6 Temperature Humidity Monitor
+
+**You can click [Spec](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/specification) and [QSG](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/quick-start-guide)* to check more information about Temperature Humidity Monitor.
 
 #### 4.6.1 Appearance
 
@@ -769,6 +777,8 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 <br />
 
 ### 4.7 Water Leak Detector
+
+**You can click [Spec](https://wiki.roombanker.com/environmental-monitoring-sensor/water-leak-detector/specification) and [QSG](https://wiki.roombanker.com/environmental-monitoring-sensor/water-leak-detector/quick-start-guide)* to check more information about Water Leak Detector.
 
 #### 4.7.1 Appearance
 
@@ -823,6 +833,8 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 <br />
 
 ### 4.8 Smoke Detector
+
+**You can click [Spec](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/specification) and [QSG](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/quick-start-guide)* to check more information about Smoke Detector.
 
 #### 4.8.1 Appearance
 
@@ -898,6 +910,8 @@ When alarm triggered, you can also press the Mute/self-checking button to mute t
 
 ### 4.9 Indoor Siren
 
+**You can click [Spec](https://wiki.roombanker.com/alarm-siren/indoor-siren/specification) and [QSG](https://wiki.roombanker.com/alarm-siren/indoor-siren/quick-start-guide)* to check more information about Indoor Siren.
+
 #### 4.9.1 Appearance
 
 <div align="center">
@@ -953,6 +967,8 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 <br />
 
 ### 4.10 Outdoor Siren
+
+**You can click [Spec](https://wiki.roombanker.com/alarm-siren/outdoor-siren/specification) and [QSG](https://wiki.roombanker.com/alarm-siren/outdoor-siren/quick-start-guide)* to check more information about Outdoor Siren.
 
 #### 4.10.1 Appearance
 
@@ -1011,6 +1027,8 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 <br />
 
 ### 4.11 Keypad
+
+**You can click [Spec](https://wiki.roombanker.com/control-device/keypad/specification) and [QSG](https://wiki.roombanker.com/control-device/keypad/quick-start-guide)* to check more information about Keypad.
 
 #### 4.11.1 Appearance
 
@@ -1167,6 +1185,8 @@ You can also trigger alarm manually in case of any emergency or dangerous incide
 
 ### 4.12 Keyfob
 
+**You can click [Spec](https://wiki.roombanker.com/control-device/keyfob/specification) and [QSG](https://wiki.roombanker.com/control-device/keyfob/quick-start-guide)* to check more information about Keyfob.
+
 #### 4.12.1 Appearance
 
 <div align="center">
@@ -1235,6 +1255,8 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 <br />
 
 ### 4.13 Relay
+
+**You can click [Spec](https://wiki.roombanker.com/automation-device/relay/specification) and [QSG](https://wiki.roombanker.com/automation-device/relay/quick-start-guide)* to check more information about Relay.
 
 #### 4.13.1 Appearance
 
@@ -1316,6 +1338,8 @@ Click "**Countdown** ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/ro
 <br />
 
 ### 4.14 Wall Switch
+
+**You can click [Spec](https://wiki.roombanker.com/automation-device/wall-switch/specification) and [QSG](https://wiki.roombanker.com/automation-device/wall-switch/quick-start-guide)* to check more information about Wall Switch.
 
 #### 4.14.1 Appearance
 
@@ -1424,6 +1448,8 @@ Daily, weekly, monthly and yearly trends in electricity consumption will be show
 <br />
 
 ### 4.15 Smart Plug
+
+**You can click Spec ([EU](https://wiki.roombanker.com/automation-device/smart-plug-eu/specification) / [US](https://wiki.roombanker.com/automation-device/smart-plug-us/specification) / [UK](https://wiki.roombanker.com/automation-device/smart-plug-uk/specification) )and QSG ([EU](https://wiki.roombanker.com/automation-device/smart-plug-eu/quick-start-guide) / [US](https://wiki.roombanker.com/automation-device/smart-plug-us/quick-start-guide) / [UK](https://wiki.roombanker.com/automation-device/smart-plug-uk/quick-start-guide)) to check more information about Smart Plug.*
 
 #### 4.15.1 Appearance
 
