@@ -32,19 +32,19 @@ All the functions described in the manual are based on the products and version 
 
 **Device name and latest available version**
 
-|    **Device**     | **Version** |          **Device**          | **Version** |
-| :---------------: | :---------: | :--------------------------: | :---------: |
-| Gateway (Station) |   v1.0.0    |          PIR Sensor          |   v1.0.0    |
-|  Gateway (Pico)   |   v1.0.0    |         Panic Button         |   v1.0.0    |
-|      Keypad       |   v1.0.0    |     Door Magnetic Sensor     |   v1.0.0    |
-|       Relay       |   v1.0.0    |     Water Leak Detector      |   v1.0.0    |
-|    Wall Switch    |   v1.0.0    | Temperature Humidity Monitor |   v1.0.0    |
-|   Indoor Siren    |   v1.0.0    |        Smoke Detector        |   v1.0.0    |
-|   Outdoor Siren   |   v1.0.0    |        RB Link (App)         |   v1.0.0    |
-|      Keyfob       |   v1.0.0    |                              |             |
-|  Smart Plug (US)  |   v1.0.0    |                              |             |
-|  Smart Plug (EU)  |   v1.0.0    |                              |             |
-|  Smart Plug (UK)  |   v1.0.0    |                              |             |
+|         **Device**          | **Version** |                             Spec                             |                             QSG                              |          **Device**          | **Version** |                             Spec                             |                             QSG                              |
+| :-------------------------: | :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------: | :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  Home Security Hub (Pico)   |   v1.0.0    | [View](https://wiki.roombanker.com/hub/home-security-hub-pico/specification) | [View](https://wiki.roombanker.com/hub/home-security-hub-pico/quick-start-guide) |          PIR Sensor          |   v1.0.0    | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/specification) | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/quick-start-guide) |
+| Home Security Hub (Station) |   v1.0.0    | [View](https://wiki.roombanker.com/hub/home-security-hub-station/specification) | [View](https://wiki.roombanker.com/hub/home-security-hub-station/quick-start-guide) |         Panic Button         |   v1.0.0    | [View](https://wiki.roombanker.com/panic-button/panic-button/specification) | [View](https://wiki.roombanker.com/panic-button/panic-button/quick-start-guide) |
+|           Keypad            |   v1.0.0    | [View](https://wiki.roombanker.com/control-device/keypad/specification) | [View](https://wiki.roombanker.com/control-device/keypad/quick-start-guide) |     Door Magnetic Sensor     |   v1.0.0    | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/specification) | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/quick-start-guide) |
+|            Relay            |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/relay/specification) | [View](https://wiki.roombanker.com/automation-device/relay/quick-start-guide) |     Water Leak Detector      |   v1.0.0    | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/water-leak-detector/specification) | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/water-leak-detector/quick-start-guide) |
+|         Wall Switch         |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/wall-switch/specification) | [View](https://wiki.roombanker.com/automation-device/wall-switch/quick-start-guide) | Temperature Humidity Monitor |   v1.0.0    | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/specification) | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/quick-start-guide) |
+|        Indoor Siren         |   v1.0.0    | [View](https://wiki.roombanker.com/alarm-siren/indoor-siren/specification) | [View](https://wiki.roombanker.com/alarm-siren/indoor-siren/quick-start-guide) |        Smoke Detector        |   v1.0.0    | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/specification) | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/quick-start-guide) |
+|        Outdoor Siren        |   v1.0.0    | [View](https://wiki.roombanker.com/alarm-siren/outdoor-siren/specification) | [View](https://wiki.roombanker.com/alarm-siren/outdoor-siren/quick-start-guide) |        RB Link (App)         |   v1.0.0    |                              /                               |                              /                               |
+|           Keyfob            |   v1.0.0    | [View](https://wiki.roombanker.com/control-device/keyfob/specification) | [View](https://wiki.roombanker.com/control-device/keyfob/quick-start-guide) |                              |             |                                                              |                                                              |
+|       Smart Plug (US)       |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/smart-plug-us/specification) | [View](https://wiki.roombanker.com/automation-device/smart-plug-us/quick-start-guide) |                              |             |                                                              |                                                              |
+|       Smart Plug (EU)       |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/smart-plug-eu/specification) | [View](https://wiki.roombanker.com/automation-device/smart-plug-eu/quick-start-guide) |                              |             |                                                              |                                                              |
+|       Smart Plug (UK)       |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/smart-plug-uk/specification) | [View](https://wiki.roombanker.com/automation-device/smart-plug-uk/quick-start-guide) |                              |             |                                                              |                                                              |
 
 <br />
 
