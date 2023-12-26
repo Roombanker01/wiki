@@ -8,8 +8,9 @@
 <br />
 
 <center>
-    Last update: December 23th, 2023.
+    Last update: December 26th, 2023.
 </center>
+
 <br />
 
 ## Overview
@@ -335,7 +336,7 @@ Hub states can be viewed in the RB Link (App).
 
 
 
-#### 2.5 Hub Setting
+### 2.5 Hub Setting
 
 You can click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)"  on the top right corner of the hub to configure parameters.
 
@@ -2083,7 +2084,7 @@ Ensuring the presence of acceptable wireless noise levels, you can check the dat
 
 <br />For detailed information, please check the User Guide or please visit the link blow: [Roombanker YouTube Channel](https://www.youtube.com/@Roombanker)
 
-> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *Peripherals installation is recommended to pass the Walk Test. For the operation methods, please refer to [Charter 2.5.5 System Maintenance](#Charter-2.5.5-maintenance) for details.*
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *Peripherals installation is recommended to pass the Walk Test. For the operation methods, please refer to [Charter 2.5.5 System Maintenance](#255-maintenance) for details.*
 
 ---
 
