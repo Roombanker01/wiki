@@ -129,7 +129,7 @@ RBF Relay is a dry contact relay to control 6-36 V⎓ power supply remotely.
 
 ### Weight
 
-* 25. 7 g
+* 25.7 g
 
 ------
 
