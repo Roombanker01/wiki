@@ -6,7 +6,7 @@
 <br />
 
 <center>
-    Last update: December 23th, 2023.
+    Last update: January 2nd, 2024.
 </center>
 
 <br />
@@ -14,9 +14,8 @@
 The 24/7 panic alarm button always ready to assist you. Just press the button to trigger the alarm and send crucial help info when emergencies strike.
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Panic%20Button.png" width="200" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Panic%20Button%20-%20top%20view.png" width="200" />
 </div>
-
 
 
 
@@ -106,7 +105,7 @@ The 24/7 panic alarm button always ready to assist you. Just press the button to
 
 * From -20°C to 60°C (-4°F to 140°F)
 
-### Dimension(WxHxD)
+### Dimension
 
 * R25mm x 16mm
 

@@ -6,8 +6,10 @@
 <br />
 
 <center>
-    Last update: December 23th, 2023.
+    Last update: January 2nd, 2024.
 </center>
+
+
 
 <br />
 
@@ -110,7 +112,7 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 
 ### Power Supply
 
-* 3.7V Lithium battery with external charger
+* 3.7V Lithium battery (470mAh)  with external charger
 * Up to 2 years (standby mode)
 
 ------
@@ -129,13 +131,13 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 
 * From -20°C to 60°C (-4°F to 140°F)
 
-### Dimension(WxHxD)
+### Dimension
 
-* Φ80 × 34mm
+* Φ80 × 34 mm
 
 ### Weight
 
-* 89 g
+* 89.6 g
 
 ------
 
@@ -163,8 +165,17 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 
 ### Available models
 
-* RBAD-SI1-868
+* RBAD-SI1-868 (EU)
+
+  > *with EU Standard Adapter included*
+
+* RBAD-SI1-868 (UK)
+
+  > *with UK Standard Adapter included*
+
 * RBAD-SI1-915
+
+  >  *with US Standard Adapter included*
 
 ### Certifications
 

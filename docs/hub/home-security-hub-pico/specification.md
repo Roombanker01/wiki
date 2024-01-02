@@ -189,7 +189,7 @@ The users  receive notifications in case of jamming or when the hub loses connec
 
 
 
-## 7. Enclosure
+## 7. General
 
 ### Dimensions
 

@@ -127,7 +127,7 @@ The water leak detector with extension cable design for multi-point high-precisi
 
 ### Weight
 
-* Water Leak Detector: 45 g
+* Water Leak Detector: 36.7 g
 * External Strobe: 8.3 g
 
 ------
