@@ -123,7 +123,7 @@ The wireless smart plug features functions such as power management and child lo
 
 ### Weight
 
-* 60.6 g
+* 63.5 g
 
 ------
 

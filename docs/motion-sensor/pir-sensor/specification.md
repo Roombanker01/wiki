@@ -6,7 +6,7 @@
 <br />
 
 <center>
-    Last update: December 23th, 2023.
+    Last update: January 5th, 2024.
 </center>
 
 <br />
@@ -141,7 +141,7 @@ The passive infrared sensor detects motion by detecting changes in infrared (IR)
 
 ### Weight
 
-* 111 g
+* 102 g
 
 ------
 

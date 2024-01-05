@@ -6,7 +6,7 @@
 <br />
 
 <center>
-    Last update: December 23th, 2023.
+    Last update: January 5th, 2024.
 </center>
 
 <br />
@@ -122,7 +122,7 @@ The wireless smart plug features functions such as power management and child lo
 
 ### Weight
 
-* 93.6 g
+* 92 g
 
 ------
 

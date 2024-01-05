@@ -7,8 +7,9 @@
 <br />
 
 <center>
-    Last update: December 23th, 2023.
+    Last update: January 5th, 2024.
 </center>
+
 
 <br />
 
@@ -97,7 +98,7 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 
 ### Weight
 
-* 106 g
+* 103.8 g
 
 ------
 
