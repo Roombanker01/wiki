@@ -181,7 +181,7 @@ Home security Hub has two different models, called **Station** and **Pico**, bel
     <tr>
       <td>Battery</td>
       <td>/</td>
-      <td>2600mAh 18650 battery</td>
+      <td>2500mAh 18650 battery</td>
     </tr>
     <tr>
       <td>Backup time</td>
@@ -203,6 +203,7 @@ Home security Hub has two different models, called **Station** and **Pico**, bel
     </tr>
   </tbody>
   </table>
+
 
 
 ---
