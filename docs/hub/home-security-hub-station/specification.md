@@ -7,7 +7,7 @@
 <br />
 
 <center>
-    Last update: December 23th, 2023.
+    Last update: January 8th, 2024.
 </center>
 
 <br />
@@ -142,7 +142,7 @@ All the data transmitted are protected by AES-CCM encryption with a random key.
 ### External plug
 * Type-C, DC5V, 2A
 ### Backup Battery
-* Built-in backup battery: 1 × 18650 lithium battery，2600mAh  
+* Built-in backup battery: 1 × 18650 lithium battery，2,500mAh  
 *Up to 8 hours backup time*
 
 ------
