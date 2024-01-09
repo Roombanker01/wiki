@@ -8,8 +8,9 @@
 <br />
 
 <center>
-    Last update: December 26th, 2023.
+    Last update: January 9th, 2024.
 </center>
+
 <br />
 
 ## Overview
@@ -41,7 +42,7 @@ All the functions described in the manual are based on the products and version 
 |         Wall Switch         |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/wall-switch/specification) | [View](https://wiki.roombanker.com/automation-device/wall-switch/quick-start-guide) | Temperature Humidity Monitor |   v1.0.0    | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/specification) | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/quick-start-guide) |
 |        Indoor Siren         |   v1.0.0    | [View](https://wiki.roombanker.com/alarm-siren/indoor-siren/specification) | [View](https://wiki.roombanker.com/alarm-siren/indoor-siren/quick-start-guide) |        Smoke Detector        |   v1.0.0    | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/specification) | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/quick-start-guide) |
 |        Outdoor Siren        |   v1.0.0    | [View](https://wiki.roombanker.com/alarm-siren/outdoor-siren/specification) | [View](https://wiki.roombanker.com/alarm-siren/outdoor-siren/quick-start-guide) |        RB Link (App)         |   v1.0.0    |                              /                               |                              /                               |
-|           Keyfob            |   v1.0.0    | [View](https://wiki.roombanker.com/control-device/keyfob/specification) | [View](https://wiki.roombanker.com/control-device/keyfob/quick-start-guide) |                              |             |                                                              |                                                              |
+|           Keyfob            |   v0.0.8    | [View](https://wiki.roombanker.com/control-device/keyfob/specification) | [View](https://wiki.roombanker.com/control-device/keyfob/quick-start-guide) |                              |             |                                                              |                                                              |
 |       Smart Plug (US)       |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/smart-plug-us/specification) | [View](https://wiki.roombanker.com/automation-device/smart-plug-us/quick-start-guide) |                              |             |                                                              |                                                              |
 |       Smart Plug (EU)       |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/smart-plug-eu/specification) | [View](https://wiki.roombanker.com/automation-device/smart-plug-eu/quick-start-guide) |                              |             |                                                              |                                                              |
 |       Smart Plug (UK)       |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/smart-plug-uk/specification) | [View](https://wiki.roombanker.com/automation-device/smart-plug-uk/quick-start-guide) |                              |             |                                                              |                                                              |
@@ -689,8 +690,9 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 #### 4.5.2 State
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222103019325.png" width="250" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20240109095343303.png" width="250" />
 </div>
+
 
 |    **Parameter**     |                          **Value**                           | **Meaning**                                                  |
 | :------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
@@ -713,8 +715,8 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | :----------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
 |  **Basic Information**   |                              /                               | Check the basic information of this device, including MAC Address, Serial Number, etc.<br />And you can also edit the device name here by yourself. |
 |   **Room Belongs to**    | ![image-20231221233352230](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221233352230.png) | You can select one of the rooms created before and then link the Panic Button to.<br />**When linked to a specific room, the Panic Button will be displayed on the product list of the room.* |
-|       **Find Me**        | ![EB Find me-1](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/EB%20Find%20me-1.png) | A function that used to find your Panic Button among numerous devices. <br />When you enable this function, the indicator in Panic Button will flash green to help you find the target device quickly. |
-| **Signal Strength Test** | ![EN SS Test](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/EN%20SS%20Test.png) | A function that used to check the signal strength between Panic Button and hub at the tested place, which is designed to help you choose the right place for installation. |
+|       **Find Me**        | ![EB Find me-1](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20240109095935738.png) | A function that used to find your Panic Button among numerous devices. <br />When you enable this function, the indicator in Panic Button will flash green to help you find the target device quickly. |
+| **Signal Strength Test** | ![EN SS Test](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20240109095837811.png) | A function that used to check the signal strength between Panic Button and hub at the tested place, which is designed to help you choose the right place for installation. |
 |  **Silent Panic Alarm**  |                           ON / OFF                           | When enabled, panic alarm triggered with no alarm sound from the linked siren. |
 |    **Disable Device**    |                           ON / OFF                           | When enabled, the Panic Button will be disabled.             |
 | **Display On Homepage**  |                           ON / OFF                           | When enabled, the Panic Button will show up on homepage.     |
@@ -760,8 +762,8 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222105059452.png" width="250" />
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222105105701.png" width="250" />
 </div>
+
 
 |      **Parameter**       |                          **Value**                           | **Meaning**                                                  |
 | :----------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
@@ -769,7 +771,6 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 |   **Room Belongs to**    | ![image-20231221233352230](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221233352230.png) | You can select one of the rooms created before and then link the Temperature Humidity Monitor to.<br />*When linked to a specific room, the Temperature Humidity Monitor will be displayed on the product list of the room.* |
 |       **Find Me**        | ![image-20231222105302699](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222105302699.png) | A function that used to find your Temperature&Humidity Monitor among numerous devices. |
 | **Signal Strength Test** | ![image-20231222105319971](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222105319971.png) | A function that used to check the signal strength between Temperature Humidity Monitor and hub at the tested place, which is designed to help you choose the right place for installation. |
-| **Reporting frequency**  |  Temp: 0.5 / 1 / 5 / 10 ℃<br />Humidity: 5 / 10 / 15 / 20 %  | Data will be reported to hub according to the data change value chosen. |
 | **Display On Homepage**  |                           ON / OFF                           | When enabled, the Temperature Humidity Monitor will show up on homepage. |
 |      **User Guide**      |                              /                               | Click to check the user guide document of Temperature Humidity Monitor. |
 |    **Delete Device**     |                              /                               | Delete the Temperature Humidity Monitor from your hub.       |
