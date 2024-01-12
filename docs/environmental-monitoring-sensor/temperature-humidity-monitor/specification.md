@@ -6,7 +6,7 @@
 <br />
 
 <center>
-    Last update: December 23th, 2023.
+    Last update: January 12th, 2024.
 </center>
 
 <br />
