@@ -2,29 +2,25 @@
 
 ## 1. Appearance
 
-![wall-switch-1](https://dusunprj.oss-us-west-1.aliyuncs.com/wall-switch-1.png)
+![ws-11](https://dusunprj.oss-us-west-1.aliyuncs.com/ws-11.png)
 
-![wall-switch-2](https://dusunprj.oss-us-west-1.aliyuncs.com/wall-switch-2.png)
+![ws-12](https://dusunprj.oss-us-west-1.aliyuncs.com/ws-12.png)
 
 ## 2. Packaging List
 
-![wall-switch-3](https://dusunprj.oss-us-west-1.aliyuncs.com/wall-switch-3.png)
+![ws-13](https://dusunprj.oss-us-west-1.aliyuncs.com/ws-13.png)
 
 ## 3. Add Wall Switch
 
-Please make sure you have logged into the RB Link App and completed adding the home security hub before adding peripheral.
-
 1. Power up the wall switch by connecting to 110V or 230V AC power supply.
 
-   ![wall-switch-4](https://dusunprj.oss-us-west-1.aliyuncs.com/wall-switch-4.png)
+   ![](https://dusunprj.oss-us-west-1.aliyuncs.com/ws-14.png)
 
-2. Click Home Security Hub to enter peripheral page， then click "+" on the top right corner to add wall switch by scanning the QR codes on device or on the packaging.
+   
 
-   ![wall-switch-5](https://dusunprj.oss-us-west-1.aliyuncs.com/wall-switch-5.png)
+2. Click Home Security Hub , then click "**+**"  to add wall switch by scanning the QR code.
 
-3. The Wall Switch is added successfully ，you can rename and assign room for the device .
-
-   ![wall-switch-6](https://dusunprj.oss-us-west-1.aliyuncs.com/wall-switch-6.png)
+   ![ws-15](https://dusunprj.oss-us-west-1.aliyuncs.com/ws-15.png)
 
    
 
@@ -32,13 +28,9 @@ Please make sure you have logged into the RB Link App and completed adding the h
 
 **Signal Strength Test**
 
-This step checks that the signal strength of the communication between the device at its current location and the Home Security Hub.
+Click  " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2015@4x.png) "→ "**Signal Strength Test**"→  " ![资源 16@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2016@4x.png) "  to check signal strength.
 
-1. Click the " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2015@4x.png) "button in the top right corner of the wall switch details page.
-2. Click on "**Signal Strength Test**".
-3. Click the " ![资源 16@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2016@4x.png) " button to check the result of signal strength test. 
-
-![PIR -singnal](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR%20-singnal.png)
+![](https://dusunprj.oss-us-west-1.aliyuncs.com/MC-3.png)
 
 ## 5. Device Specifications
 
@@ -78,7 +70,7 @@ This step checks that the signal strength of the communication between the devic
 
 This device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions:(1)This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.
 
-This equipment has been tested and found to comply with the limits for a Class B digital device,
+This equipment has been tested and found to comply with the limits for a Class B digital device.
 
 Pursuant to part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures:
 
