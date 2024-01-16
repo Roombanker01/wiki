@@ -36,7 +36,7 @@ Click " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6
 
 
 
-![PIR-3](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-3.png)
+![PIR-13](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-13.png)
 
 ## 5. Installation Instruction
 
