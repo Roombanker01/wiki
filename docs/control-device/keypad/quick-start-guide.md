@@ -2,80 +2,62 @@
 
 ## 1. Appearance
 
-![Keypad-1](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-1.png)
+![KP-1](https://dusunprj.oss-us-west-1.aliyuncs.com/KP-1.png)
 
-![Keypad-2](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-2.png)
+
+
+![KP-2](D:\东胜相关资料\RoomBanker家居安防解决方案发布\产品QSG\本地存档版0115版本\添加子设备的配图\键盘\KP-2.png)
 
 ## 2. Packaging List
 
-![Keypad-3](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-3.png)
+![KP-3](https://dusunprj.oss-us-west-1.aliyuncs.com/KP-3.png)
 
 ## 3. Add Keypad
 
-Please make sure you have logged into the RB Link App and completed adding the home security hub before adding peripheral.
+1. Click Home Security Hub , then click "**+**"  and select "**Add peripheral**" .
 
-1. Click Home Security Hub to enter peripheral page， then click "**+**" on the top right corner and select "**Add peripheral**" to enable enrollment mode.
+2. Switch on to power up the device , the green indicator will flash and the device will show in the App.
 
-2. Power up the keypad by removing the insulator from the device . The green indicator will start flashing continuously and the device will automatically show up in the App interface.
-
-   **Note: if the device does not show up in the App interface until green indicator is off, please press and hold the device register button for 5s to try again.*
+   **Note: If the device does not show in the App and green indicator is off , please press and hold the register button for 5s to try again.*
 
    ![资源 9@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%209@4x.png)
 
-3. Assign room for the keypad and click the "**Done**" button ， the keypad is added successfully.
+3. Assign a room  and click the "**Done**" to finish adding.
 
-![Keypad-tianjiazishebei](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-tianjiazishebei.png)
+![KP-10](https://dusunprj.oss-us-west-1.aliyuncs.com/KP-10.png)
 
 ## 4. Testing Instruction
 
 **Signal Strength Test**
 
-This step checks that the signal strength of the communication between the device at its current location and the Home Security Hub.
+Click  " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2015@4x.png) "→ "**Signal Strength Test**"→  " ![资源 16@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2016@4x.png) "  to check signal strength.
 
-1. Click the " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2015@4x.png) "button in the top right corner of the Keypad details page.
-2. Click on "**Signal Strength Test**".
-3. Click the " ![资源 16@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2016@4x.png) " button to check the result of signal strength test.
-
-![](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR%20-singnal.png)
+![](https://dusunprj.oss-us-west-1.aliyuncs.com/MC-3.png)
 
 ## 5. Installation Instruction
 
 **Mount on the wall by screws**
 
-1. Select the mounting position and drill three holes in the wall，and then insert the expansion bolts into the holes.
-2. Fasten the back panel to the wall with three screws. Snap the keypad onto the back panel and secure it to the back panel with the screws.
-
-![keypad-anzhuang1](https://dusunprj.oss-us-west-1.aliyuncs.com/keypad-anzhuang1.png)
+![KP-6](https://dusunprj.oss-us-west-1.aliyuncs.com/KP-6.png)
 
 **Mount on the wall by 3M  adhesive strip**
 
-![Keypad-anzhuang2](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-anzhuang2.png)
+![KP-5](https://dusunprj.oss-us-west-1.aliyuncs.com/KP-5.png)
 
 ## 6. Basic Operation
 
-PIN code can be configured on the keypad settings page of RB Link.
+| Button                                                       | Operation           | Successful Operation             |
+| ------------------------------------------------------------ | ------------------- | -------------------------------- |
+| PIN code +[![Keypad-tubiao1](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-tubiao1.png) /![资源 2@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%202@4x.png)] | Arm                 | Blue indicator will turn on      |
+| PIN code +[ ![资源 17@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2017@4x.png) ] | Disarm              | Green indicator will flash twice |
+| Duress code +[ ![](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2017@4x.png)] | Duress silent alarm | Green indicator will flash twice |
+| PIN code +[ ![资源 18@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2018@4x.png)] | Custom function     | Buzzer will beep twice           |
 
-**1. Arm with PIN code**
+***Note:***
 
-PIN code +[![Keypad-tubiao1](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-tubiao1.png) /![资源 2@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%202@4x.png) ]. The blue indicator on the keypad turns on when the system is armed . If it fails， the buzzer will beep three times.
+*PIN code can be configured via RB Link.*
 
-![资源 12@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2012@4x.png)
-
-**2. Disarm with PIN code**
-
-PIN code +[ ![资源 17@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2017@4x.png) ] . The green indicator on the keypad flashes twice when the system is disarmed . If it fails，the buzzer will beep three times.
-
-![资源 13@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2013@4x.png)
-
-**3. Duress silent alarm**
-
-Duress code +[ ![](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2017@4x.png) ] . The green indicator on the keypad will flash twice when the operation is successful. If it fails，the buzzer will beep three times.
-
-![](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2013@4x.png)
-
-**4. Custom function**
-
-PIN code +[ ![资源 18@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2018@4x.png) ]. The built-in buzzer on the keypad beeps twice and trigger the custom function .If it fails，the buzzer will beep three times. Custom functions can be configured via RB Link.
+*Failed operation : Buzzer will beep three times*
 
 ## 7. Device Specifications
 
@@ -98,7 +80,7 @@ PIN code +[ ![资源 18@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%8
 
 This device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions:(1)This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.
 
-This equipment has been tested and found to comply with the limits for a Class B digital device,
+This equipment has been tested and found to comply with the limits for a Class B digital device.
 
 Pursuant to part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures:
 
