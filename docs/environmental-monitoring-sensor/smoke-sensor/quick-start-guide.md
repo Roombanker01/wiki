@@ -32,7 +32,7 @@
 
 ![SD-7](https://dusunprj.oss-us-west-1.aliyuncs.com/SD-7.png)
 
-**2. Mount  on the ceiling by 3M adhesive strip    **
+**2. Mount  on the ceiling by 3M adhesive strip**
 
 ![SD-8](https://dusunprj.oss-us-west-1.aliyuncs.com/SD-8.png)
 
