@@ -6,7 +6,7 @@
 
 
 
-![KP-2](D:\东胜相关资料\RoomBanker家居安防解决方案发布\产品QSG\本地存档版0115版本\添加子设备的配图\键盘\KP-2.png)
+![KP-12](https://dusunprj.oss-us-west-1.aliyuncs.com/KP-12.png)
 
 ## 2. Packaging List
 
