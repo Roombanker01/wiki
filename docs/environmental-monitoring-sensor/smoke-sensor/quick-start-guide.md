@@ -24,7 +24,7 @@
 
 4. Assign a room  and click the "**Done**" to finish adding.
 
-   ![SD-12](https://dusunprj.oss-us-west-1.aliyuncs.com/SD-12.png)
+   ![SD-15](https://dusunprj.oss-us-west-1.aliyuncs.com/SD-15.png)
 
 ## 4. Installation Instruction
 
