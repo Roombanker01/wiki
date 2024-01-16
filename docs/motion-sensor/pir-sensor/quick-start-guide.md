@@ -2,71 +2,62 @@
 
 ## 1. Appearance
 
-![PIR-1](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-1.png)
+![PIR-9](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-9.png)
 
 ## 2. Packaging List
 
-![PIR-2](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-2.png)
+![PIR-10](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-10.png)
 
 ## 3. Add PIR Sensor 
 
-Please make sure you have logged into the RB Link App and completed adding the home security hub before adding peripheral.
+1. Click Home Security Hub , then click "**+**"  and select "**Add peripheral**" .
 
-1. Click Home Security Hub to enter peripheral page, then click "**+**" on the top right corner and select "**Add peripheral**" to enable enrollment mode.
+2. Pull out the insulation strip to power up the device , the green indicator will flash and the device will show in the App.
 
-2. Power up the PIR sensor by removing the insulator from the device . The green indicator will start flashing continuously and the device will automatically show up in the App interface.
+   **Note: If the device does not show in the App and green indicator is off , please press and hold the register button for 5s to try again.*
 
-   **Note: if the device does not show up in the App interface until green indicator is off, please press and hold the device register button for 5s to try again.*
+3. Assign a room  and click the "**Done**" to finish adding.
 
-3. Assign room for the PIR sensor and click the "**Done**" button ，the PIR sensor is added successfully.
-
-![Keypad-tianjiazishebei](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-tianjiazishebei.png)
+![pir-1](https://dusunprj.oss-us-west-1.aliyuncs.com/pir-1.png)
 
 ## 4. Testing Instruction
 
 **Signal Strength Test**
 
-This step checks that the signal strength of the communication between the device at its current location and the Home Security Hub.
+Click  " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2015@4x.png) "→ "**Signal Strength Test**"→  " ![资源 16@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2016@4x.png) "  to check signal strength.
 
-1. Click the " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2015@4x.png) "button in the top right corner of the PIR sensor details page.
-2. Click on "**Signal Strength Test**".
-3. Click the " ![资源 16@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2016@4x.png) " button to check the result of signal strength test.
-
-![PIR -singnal](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR%20-singnal.png)
+![](https://dusunprj.oss-us-west-1.aliyuncs.com/MC-3.png)
 
 **Installation test**
 
-This step checks that the detection area of the PIR sensor at its current location.
+Click " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2015@4x.png) "→"**Installation test**" to start testing.
 
-1. Click the " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2015@4x.png) "button in the top right corner of the PIR sensor details page.
+**Note: You can walk around to trigger the PIR，if indicator flashes RED, that means it is working properly.*
 
-2. Click on "**Installation test**".
 
-3. Click the " ![资源 16@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2016@4x.png) " button.
 
-4. You can move around within the detection area. The red indicator starts to flash continuously if it’s detected successfully. You can adjust the installation position and angle based on the detection results. 
-
-   ![PIR-3](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-3.png)
+![PIR-3](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-3.png)
 
 ## 5. Installation Instruction
 
-![PIR-4](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-4.png)
+
 
 **Mount on the wall by bracket**
 
-1. Drill two holes in the wall，and then insert the expansion bolts into the holes.
+![PIR-41](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-41.png)
 
-2. Fasten the back panel to the wall with two screws.
+![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-51.png)
 
-   ![PIR-5](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-5.png)
+![PIR-61](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-61.png)
 
-   3. Snap the cardan shaft onto the back of the PIR sensor.
+![PIR-71](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-71.png)
 
-      ![PIR-6](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-6.png)
+**Mount  by 3M adhesive strip**
 
-   4. Insert the cardan shaft into the back panel.
+![PIR-81](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-81.png)
 
-      ![PIR-7](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-7.png)
+**Note: This installation method does not support tamper detection.*
+
 
 ## 6. Device Specifications
 
@@ -78,7 +69,7 @@ This step checks that the detection area of the PIR sensor at its current locati
 | Pet Immunity                   | 10kg                                                         |
 | White Light Filter             | 2000lux                                                      |
 | Advanced Features              | Digital Processing，Digital Temperature Compensation， Signal Strength Detection，Find me，Dynamic Threshold |
-| Tamper Protection              | Rear                                                         |
+| Tamper Protection              | Rear (Triggered when cardan shaft is removed from the PIR sensor.) |
 | Transmission Technology        | RBF Wireless Transmission                                    |
 | Transmission Frequency         | 868/915 MHz                                                  |
 | Transmission Range(Open Space) | 3100 m                                                       |
