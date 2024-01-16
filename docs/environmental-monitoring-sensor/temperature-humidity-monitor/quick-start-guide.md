@@ -6,7 +6,7 @@
 
 
 
-![wsd-4](https://dusunprj.oss-us-west-1.aliyuncs.com/wsd-4.png)
+![wsd-6](https://dusunprj.oss-us-west-1.aliyuncs.com/wsd-6.png)
 
 ## 2. Packaging List
 
