@@ -16,6 +16,8 @@
 
    ![](https://dusunprj.oss-us-west-1.aliyuncs.com/ws-14.png)
 
+   **Note: Please use the provided terminal block for wiring.*
+
    
 
 2. Click Home Security Hub , then click "**+**"  to add wall switch by scanning the QR code.
