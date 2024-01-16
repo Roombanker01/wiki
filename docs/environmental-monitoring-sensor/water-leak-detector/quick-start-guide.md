@@ -2,61 +2,45 @@
 
 ## 1. Appearance
 
-![water leak detector-1](https://dusunprj.oss-us-west-1.aliyuncs.com/water%20leak%20detector-1.png)
+![sj-11](https://dusunprj.oss-us-west-1.aliyuncs.com/sj-11.png)
 
-![water leak detector-2](https://dusunprj.oss-us-west-1.aliyuncs.com/water%20leak%20detector-2.png)
+![sj-12](https://dusunprj.oss-us-west-1.aliyuncs.com/sj-12.png)
 
 ## 2. Packaging List
 
-![water leak detector-3](https://dusunprj.oss-us-west-1.aliyuncs.com/water%20leak%20detector-3.png)
+![sj-13](https://dusunprj.oss-us-west-1.aliyuncs.com/sj-13.png)
 
-## 3. Add  Water Leak Detector
+## 3. Add Water Leak Detector
 
-Please make sure you have logged into the RB Link App and completed adding the home security hub before adding peripheral.
+1. Click Home Security Hub , then click "**+**"  and select "**Add peripheral**" .
 
-1. Click Home Security Hub to enter peripheral page，then click "**+**" on the top right corner and select "**Add peripheral**" to enable enrollment mode.
+2. Remove the back shell and install the battery , the green indicator will flash and the device will show in the App.
 
-2. Rotate and remove the back shell of water leak detector ， install the button battery . The green indicator will start flashing continuously and the device will automatically show up in the App interface. 
+   **Note: if the device does not show in the App and green indicator is off, please press and hold the register button for 5s to try again.*
 
-   **Note: if the device does not show up in the App interface until green indicator is off, please press and hold the device register button for 5s to try again.*
+3. Assign a room  and click the "**Done**" to finish adding.
 
-3. Assign room for the water leak detector and click the "**Done**" button ， the water leak detector is added successfully.
-
-![Keypad-tianjiazishebei](https://dusunprj.oss-us-west-1.aliyuncs.com/Keypad-tianjiazishebei.png)
+![sj-16](https://dusunprj.oss-us-west-1.aliyuncs.com/sj-16.png)
 
 ## 4. Testing Instruction
 
 **Signal Strength Test**
 
-This step checks that the signal strength of the communication between the device at its current location and the Home Security Hub.
+Click  " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2015@4x.png) "→ "**Signal Strength Test**"→  " ![资源 16@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2016@4x.png) "  to check signal strength.
 
-1. Click the " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2015@4x.png) "button in the top right corner of the water leak detector details page.
-2. Click on "**Signal Strength Test**".
-3. Click the " ![资源 16@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6%BA%90%2016@4x.png) " button to check the result of signal strength test.
-
-![PIR -singnal](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR%20-singnal.png)
+![](https://dusunprj.oss-us-west-1.aliyuncs.com/MC-3.png)
 
 **Trigger Test**
 
-This step checks whether the water leak detector is working properly.
+Insert the device probe into the water (Figure ① or ②). The red indicator starts to flash continuously if it’s triggered successfully.(Figure ③).
 
-Insert the device probe into the water (Figure ① and ②). The red indicator starts to flash continuously if it’s triggered successfully.(Figure ③).
-
-![water leak detector-4](https://dusunprj.oss-us-west-1.aliyuncs.com/water%20leak%20detector-4.png)
+![sj-14](https://dusunprj.oss-us-west-1.aliyuncs.com/sj-14.png)
 
 ## 5. Installation Instruction 
 
 **Mount on the wall by screw**
 
-1. Drill a hole in the wall, and then insert the expansion bolt into the hole.
-
-2. Fasten the back panel to the wall with a screw.
-
-   ![water leak detector-5](https://dusunprj.oss-us-west-1.aliyuncs.com/water%20leak%20detector-5.png)
-
-3. Snap the water leak detector to the back panel with buckles.
-
-   ![water leak detector-6](https://dusunprj.oss-us-west-1.aliyuncs.com/water%20leak%20detector-6.png)
+![sj-15](https://dusunprj.oss-us-west-1.aliyuncs.com/sj-15.png)
 
 **Place the device directly flat on the ground**
 
@@ -80,7 +64,7 @@ Insert the device probe into the water (Figure ① and ②). The red indicator s
 
 This device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions:(1)This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.
 
-This equipment has been tested and found to comply with the limits for a Class B digital device,
+This equipment has been tested and found to comply with the limits for a Class B digital device.
 
 Pursuant to part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures:
 
