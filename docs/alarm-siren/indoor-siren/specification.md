@@ -137,7 +137,7 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 
 ### Weight
 
-* 89.6 g
+* 90 g
 
 ------
 
