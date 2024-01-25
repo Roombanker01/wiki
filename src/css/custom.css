@@ -218,3 +218,9 @@
   .custom-links::before {
     opacity: 0.5;
   }
+  .center{
+    td{
+    text-align:center ;
+    vertical-align: middle;
+    }
+  }
