@@ -53,7 +53,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Home Security Hub (Station)</h3>
-        <p>This hub is an upgraded version of Home Security Hub (Pico), with an extra Zigbee and Bluetooth protocol support, GPRS/4G network options to ensure continuous communication once the WiFi and Ethernet failed. It is also equipped with a 2600 mAh Lithium battery for uninterrupted operation. Besides mobile app operation, it has SMS and phone call buttons.</p>
+        <p>Station is an upgraded version of Home Security Hub, with an extra Zigbee and Bluetooth protocol support, and 4G network option to ensure continuous communication once the WiFi and Ethernet failed. It is also equipped with a 2500 mAh Lithium battery for uninterrupted operation. Besides mobile app operation, it has SMS and phone call function.</p>
     </div>
 </div>
 <div class="iot-list">
@@ -121,7 +121,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/12/panic-button-roombanker-rbss-new.png" alt="Roombanker Panic Button" style={{maxWidth:'70%'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2024/01/panic-button-roombanker-rbss-gray-size.png" alt="Roombanker Panic Button" style={{maxWidth:'70%'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Panic Button</h3>
@@ -227,12 +227,12 @@ In this resource hub you’ll find detailed product specifications, user manuals
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
         <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
-            <a href="https://wiki.roombanker.com/alarm-siren/indoor-alarm-siren/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
+            <a href="https://wiki.roombanker.com/alarm-siren/indoor-siren/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
         </div>
     </div>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
         <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
-            <a href="https://wiki.roombanker.com/alarm-siren/indoor-alarm-siren/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
+            <a href="https://wiki.roombanker.com/alarm-siren/indoor-siren/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
         </div>
     </div>
 </div>
@@ -251,12 +251,12 @@ In this resource hub you’ll find detailed product specifications, user manuals
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
         <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
-            <a href="https://wiki.roombanker.com/alarm-siren/outdoor-alarm-siren/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
+            <a href="https://wiki.roombanker.com/alarm-siren/outdoor-siren/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
         </div>
     </div>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
         <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
-            <a href="https://wiki.roombanker.com/alarm-siren/outdoor-alarm-siren/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
+            <a href="https://wiki.roombanker.com/alarm-siren/outdoor-siren/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
         </div>
     </div>
 </div>
