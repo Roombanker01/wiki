@@ -1,3 +1,10 @@
+---
+description: This page tell you how to add Roombanker digital indoor temperature and humidity monitor to the home automation system and quickly start to use it.
+title: How to Setup Digital Humidity and Temperature Monitor?
+tags:
+- humidity and temp monitor quick start guide
+---
+
 # Temperature & Humidity Monitor
 
 ## 1. Appearance
@@ -14,7 +21,7 @@
 
 ## 3. Add Temperature & Humidity Monitor
 
-1. Click Home Security Hub , then click "**+**"  and select "**Add peripheral**" .
+1. Click [Home Security Hub](https://www.roombanker.com/products/smart-hub/) , then click "**+**"  and select "**Add peripheral**" .
 
 2. Remove the back shell and install the battery to power up the device ，the signal bar will start lighting up one by one and and the device will show in the App.
 
