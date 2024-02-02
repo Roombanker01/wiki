@@ -23,7 +23,7 @@ tags:
 
 <br />
 
-A compact and exquisite temperature and humidity monitor to accurately track your indoor temperature and humidity changes. It supports both Fahrenheit and Celsius versions.
+A compact and exquisite [temperature and humidity monitor](https://www.roombanker.com/products/temperature-humidity-monitor/) to accurately track your indoor temperature and humidity changes. It supports both Fahrenheit and Celsius versions.
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/T&H%20Monitor.png" width="200" />
@@ -143,7 +143,7 @@ A compact and exquisite temperature and humidity monitor to accurately track you
 
 ## 6. Compatibility
 
-* Operates with all Roombanker Home Security Hubs,  RBF repeaters.
+* Operates with all Roombanker [Home Security Hubs](https://www.roombanker.com/products/smart-hub/),  RBF repeaters.
 
 ------
 
