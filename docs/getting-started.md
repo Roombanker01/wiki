@@ -1,8 +1,8 @@
 ---
-description: Roombanker Wiki Platform is a resource hub for its security alarm and automation device users to search for user manuals, device specifications, and quick start guides they need. 
+description: Roombanker Wiki Cebrer includes ser manuals, device specifications, and quick start guides for its security alarm and automation devices, aiming to help users qiickly find the way to get tarted. 
 title: Roombanker Wiki Platform - Getting Started
 keywords:
-- Roombanker wiki center
+- Roombanker Wiki Center - Resrouce Hub
 tags:
 - Getting Started
 ---
