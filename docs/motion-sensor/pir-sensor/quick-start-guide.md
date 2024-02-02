@@ -1,3 +1,10 @@
+---
+description: This page tell you how to install Roombanker Passive Infrared Motion Detector, and how to add it into the security alarm and home automation system in order to quickly use it.
+title: How to Setup Passive Infrared Motion Detector?
+tags:
+- Passive Infrared Motion Detector quick start guide
+---
+
 # PIR Sensor
 
 ## 1. Appearance
@@ -10,7 +17,7 @@
 
 ## 3. Add PIR Sensor 
 
-1. Click Home Security Hub , then click "**+**"  and select "**Add peripheral**" .
+1. Click [Home Security Hub](https://www.roombanker.com/products/smart-hub/) , then click "**+**"  and select "**Add peripheral**" .
 
 2. Pull out the insulation strip to power up the device , the green indicator will flash and the device will show in the App.
 
