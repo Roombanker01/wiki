@@ -1,3 +1,13 @@
+---
+description: This is the user manual of how to use Roombanker's security alarm and home auotmation system, including how to register, configure and operate devices and RB Link app, how to install devices, etc. 
+title: Roombanker Security Alarm & Home Automation System User Manual
+keywords:
+- Security Alarm & Home Automation System User Manual
+tags:
+- User Manual
+---
+
+
 # Roombanker User Manual
 
 
@@ -21,7 +31,7 @@ The main purpose of the manual contains **3** parts:
 
 ● To introduce the features and specifications of Roombanker Security Product System
 
-● To introduce how to register, configure and operate the devices from RB Link APP
+● To introduce how to register, configure and operate the devices from [RB Link APP](https://www.roombanker.com/software/rblink/)
 
 ● To introduce the installation and function test method of the whole system
 
@@ -69,13 +79,13 @@ All the functions described in the manual are based on the products and version 
 
 ● **Product Positioning:** 
 
-Roombanker focus on the smart security solutions centered around wireless intrusion alarm system, and extended business to a multitude of applications such as Energy Management, Environmental Safety, Home Automation, Asset Tracking and Health Monitoring. All of these applications can be conveniently managed via a one-stop mobile app.
+Roombanker focus on the smart security solutions centered around [wireless intrusion alarm system](https://www.roombanker.com/solution/intrusion-detection/), and extended business to a multitude of applications such as [Energy Management](https://www.roombanker.com/solution/energy-management/), [Environmental Safety](https://www.roombanker.com/solution/indoor-environmental-safety/), [Home Automation](https://www.roombanker.com/solution/home-automation/), Asset Tracking and Health Monitoring. All of these applications can be conveniently managed via a one-stop mobile app.
 
 <br />
 
 ● **Application Scenario:** 
 
-Roombanker offers security solutions to Residential and SMB users, such as Apartment, House, Villa, Small Shop, Office Building, Motel, and more.
+Roombanker offers security solutions to Residential and SMB users, such as [Apartment](https://www.roombanker.com/solution/smart-apartment/), [House & Villa](https://www.roombanker.com/solution/smart-house/), [Small Shop](https://www.roombanker.com/solution/smart-shops/), Office Building, Motel, and more.
 
 <br />
 
@@ -91,7 +101,7 @@ It has four parts to consist of the whole system, which are Peripherals, Hub, Ro
 
 ● **Working Principle:** 
 
-The Home Security Hub is the brain of the whole system, it communicates with peripherals via **RBF** / **Bluetooth** / **Zigbee** wireless protocol. 
+The [Home Security Hub](https://www.roombanker.com/products/smart-hub/) is the brain of the whole system, it communicates with peripherals via **RBF** / **Bluetooth** / **Zigbee** wireless protocol. 
 
 Once an alarm occurred, Hub reports the alarm to cloud via **LAN** / **Wi-Fi** / **4G**, activates the sirens within 0.5 seconds, and notifies the users via APP. Meanwhile, if the users operate the system, such as disarm, Hub will turn siren off and disarm all sensors.
 
@@ -99,7 +109,7 @@ Once an alarm occurred, Hub reports the alarm to cloud via **LAN** / **Wi-Fi** /
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/note.png)**Note**
 >
-> **RBF** is a self-developed encrypted wireless protocol by Roombanker, aim to enhance the communication between devices, the transmission range is up to **3,500m** in open area. It contains advanced technologies design, such as TDMA, Frequency Hopping, Power Adjustment, Multi-Band Transmission with Low Power, to guarantee a stable, secure, highly efficient wireless communication.
+> [**RBF**](https://www.roombanker.com/technology/rbf-technology/) is a self-developed encrypted wireless protocol by Roombanker, aim to enhance the communication between devices, the transmission range is up to **3,500m** in open area. It contains advanced technologies design, such as TDMA, Frequency Hopping, Power Adjustment, Multi-Band Transmission with Low Power, to guarantee a stable, secure, highly efficient wireless communication.
 
 <br />
 
@@ -121,7 +131,7 @@ Once an alarm occurred, Hub reports the alarm to cloud via **LAN** / **Wi-Fi** /
 
 ### 1.3 Spec of Hub
 
-Home security Hub has two different models, called **Station** and **Pico**, below form describes the brief comparison between two models.
+Home security Hub has two different models, called [**Station**](https://wiki.roombanker.com/hub/home-security-hub-station/specification) and [**Pico**](https://wiki.roombanker.com/hub/home-security-hub-pico/specification), below form describes the brief comparison between two models.
 
 <table class="center">
   <thead>
@@ -565,7 +575,7 @@ This is a way to add your wireless devices (RBF, Zigbee3.0) in batches by scanni
 
 ### 4.3 PIR Sensor
 
-**You can click [Spec](https://wiki.roombanker.com/motion-sensor/pir-sensor/specification) and [QSG](https://wiki.roombanker.com/motion-sensor/pir-sensor/quick-start-guide)* to check more information about PIR.
+**You can click [Spec](https://wiki.roombanker.com/motion-sensor/pir-sensor/specification) and [QSG](https://wiki.roombanker.com/motion-sensor/pir-sensor/quick-start-guide)* to check more information about [PIR sensors](https://www.roombanker.com/products/pir-sensor/).
 
 #### 4.3.1 Appearance
 
@@ -621,7 +631,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ### 4.4 Door Magnetic Sensor
 
-**You can click [Spec](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/specification) and [QSG](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/quick-start-guide)* to check more information about Door Magnetic Sensor.
+**You can click [Spec](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/specification) and [QSG](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/quick-start-guide)* to check more information about [Door Magnetic Sensor](https://www.roombanker.com/products/door-magnetic-sensor/).
 
 #### 4.4.1 Appearance
 
@@ -674,7 +684,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ### 4.5 Panic Button
 
-**You can click [Spec](http://localhost:3000/panic-button/panic-button/specification) and [QSG](http://localhost:3000/panic-button/panic-button/quick-start-guide)* to check more information about Panic Button.
+**You can click [Spec](http://localhost:3000/panic-button/panic-button/specification) and [QSG](http://localhost:3000/panic-button/panic-button/quick-start-guide)* to check more information about [Panic Button](https://www.roombanker.com/products/panic-button/).
 
 #### 4.5.1 Appearance
 
@@ -727,7 +737,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ### 4.6 Temperature Humidity Monitor
 
-**You can click [Spec](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/specification) and [QSG](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/quick-start-guide)* to check more information about Temperature Humidity Monitor.
+**You can click [Spec](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/specification) and [QSG](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/quick-start-guide)* to check more information about [Temperature Humidity Monitor](https://www.roombanker.com/products/temperature-humidity-monitor/).
 
 #### 4.6.1 Appearance
 
@@ -779,7 +789,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ### 4.7 Water Leak Detector
 
-**You can click [Spec](https://wiki.roombanker.com/environmental-monitoring-sensor/water-leak-detector/specification) and [QSG](https://wiki.roombanker.com/environmental-monitoring-sensor/water-leak-detector/quick-start-guide)* to check more information about Water Leak Detector.
+**You can click [Spec](https://wiki.roombanker.com/environmental-monitoring-sensor/water-leak-detector/specification) and [QSG](https://wiki.roombanker.com/environmental-monitoring-sensor/water-leak-detector/quick-start-guide)* to check more information about [Water Leak Detector](https://www.roombanker.com/products/water-leak-detector/).
 
 #### 4.7.1 Appearance
 
@@ -835,7 +845,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ### 4.8 Smoke Detector
 
-**You can click [Spec](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/specification) and [QSG](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/quick-start-guide)* to check more information about Smoke Detector.
+**You can click [Spec](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/specification) and [QSG](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/quick-start-guide)* to check more information about [Smoke Detector](https://www.roombanker.com/products/smoke-detector/).
 
 #### 4.8.1 Appearance
 
@@ -911,7 +921,7 @@ When alarm triggered, you can also press the Mute/self-checking button to mute t
 
 ### 4.9 Indoor Siren
 
-**You can click [Spec](https://wiki.roombanker.com/alarm-siren/indoor-siren/specification) and [QSG](https://wiki.roombanker.com/alarm-siren/indoor-siren/quick-start-guide)* to check more information about Indoor Siren.
+**You can click [Spec](https://wiki.roombanker.com/alarm-siren/indoor-siren/specification) and [QSG](https://wiki.roombanker.com/alarm-siren/indoor-siren/quick-start-guide)* to check more information about [Indoor Siren](https://www.roombanker.com/products/indoor-siren/).
 
 #### 4.9.1 Appearance
 
@@ -969,7 +979,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ### 4.10 Outdoor Siren
 
-**You can click [Spec](https://wiki.roombanker.com/alarm-siren/outdoor-siren/specification) and [QSG](https://wiki.roombanker.com/alarm-siren/outdoor-siren/quick-start-guide)* to check more information about Outdoor Siren.
+**You can click [Spec](https://wiki.roombanker.com/alarm-siren/outdoor-siren/specification) and [QSG](https://wiki.roombanker.com/alarm-siren/outdoor-siren/quick-start-guide)* to check more information about [Outdoor Siren](https://www.roombanker.com/products/outdoor-siren/).
 
 #### 4.10.1 Appearance
 
@@ -1029,7 +1039,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ### 4.11 Keypad
 
-**You can click [Spec](https://wiki.roombanker.com/control-device/keypad/specification) and [QSG](https://wiki.roombanker.com/control-device/keypad/quick-start-guide)* to check more information about Keypad.
+**You can click [Spec](https://wiki.roombanker.com/control-device/keypad/specification) and [QSG](https://wiki.roombanker.com/control-device/keypad/quick-start-guide)* to check more information about [Keypad](https://www.roombanker.com/products/alarm-keypad/).
 
 #### 4.11.1 Appearance
 
@@ -1186,7 +1196,7 @@ You can also trigger alarm manually in case of any emergency or dangerous incide
 
 ### 4.12 Keyfob
 
-**You can click [Spec](https://wiki.roombanker.com/control-device/keyfob/specification) and [QSG](https://wiki.roombanker.com/control-device/keyfob/quick-start-guide)* to check more information about Keyfob.
+**You can click [Spec](https://wiki.roombanker.com/control-device/keyfob/specification) and [QSG](https://wiki.roombanker.com/control-device/keyfob/quick-start-guide)* to check more information about [Keyfob](https://www.roombanker.com/products/keyfob-for-security-system/).
 
 #### 4.12.1 Appearance
 
@@ -1257,7 +1267,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ### 4.13 Relay
 
-**You can click [Spec](https://wiki.roombanker.com/automation-device/relay/specification) and [QSG](https://wiki.roombanker.com/automation-device/relay/quick-start-guide)* to check more information about Relay.
+**You can click [Spec](https://wiki.roombanker.com/automation-device/relay/specification) and [QSG](https://wiki.roombanker.com/automation-device/relay/quick-start-guide)* to check more information about [Relay](https://www.roombanker.com/products/smart-relay/).
 
 #### 4.13.1 Appearance
 
@@ -1340,7 +1350,7 @@ Click "**Countdown** ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/ro
 
 ### 4.14 Wall Switch
 
-**You can click [Spec](https://wiki.roombanker.com/automation-device/wall-switch/specification) and [QSG](https://wiki.roombanker.com/automation-device/wall-switch/quick-start-guide)* to check more information about Wall Switch.
+**You can click [Spec](https://wiki.roombanker.com/automation-device/wall-switch/specification) and [QSG](https://wiki.roombanker.com/automation-device/wall-switch/quick-start-guide)* to check more information about [Wall Switch](https://www.roombanker.com/products/wall-switch/).
 
 #### 4.14.1 Appearance
 
@@ -1450,7 +1460,7 @@ Daily, weekly, monthly and yearly trends in electricity consumption will be show
 
 ### 4.15 Smart Plug
 
-**You can click Spec ([EU](https://wiki.roombanker.com/automation-device/smart-plug-eu/specification) / [US](https://wiki.roombanker.com/automation-device/smart-plug-us/specification) / [UK](https://wiki.roombanker.com/automation-device/smart-plug-uk/specification) )and QSG ([EU](https://wiki.roombanker.com/automation-device/smart-plug-eu/quick-start-guide) / [US](https://wiki.roombanker.com/automation-device/smart-plug-us/quick-start-guide) / [UK](https://wiki.roombanker.com/automation-device/smart-plug-uk/quick-start-guide)) to check more information about Smart Plug.*
+**You can click Spec ([EU](https://wiki.roombanker.com/automation-device/smart-plug-eu/specification) / [US](https://wiki.roombanker.com/automation-device/smart-plug-us/specification) / [UK](https://wiki.roombanker.com/automation-device/smart-plug-uk/specification) )and QSG ([EU](https://wiki.roombanker.com/automation-device/smart-plug-eu/quick-start-guide) / [US](https://wiki.roombanker.com/automation-device/smart-plug-us/quick-start-guide) / [UK](https://wiki.roombanker.com/automation-device/smart-plug-uk/quick-start-guide)) to check more information about [Smart Plug](https://www.roombanker.com/products/smart-plug/).*
 
 #### 4.15.1 Appearance
 
