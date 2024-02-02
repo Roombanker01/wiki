@@ -1,4 +1,15 @@
-﻿# PIR Sensor
+﻿---
+description: Roombanker offers passive infrared motion detectors to detect motion by sensing changes in infrared (IR) levels caused by the presence of humans within its range.
+title: Custom Passive Infrared Sensor Supplier
+keywords:
+- passive infrared sensor
+- passive infrared motion detector
+- passive infrared motion sensor
+tags:
+- PIR sensor spec
+---
+
+# PIR Sensor
 
 <div style={{textAlign: 'center'}}>
 <button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
@@ -147,7 +158,7 @@ The passive infrared sensor detects motion by detecting changes in infrared (IR)
 
 ## 6. Compatibility
 
-* Operates with all Roombanker Home Security Hubs,  RBF repeaters.
+* Operates with all Roombanker [Home Security Hubs](https://www.roombanker.com/products/smart-hub/),  RBF repeaters.
 
 ------
 
