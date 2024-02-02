@@ -1,4 +1,16 @@
-﻿# Temperature & Humidity Monitor
+﻿---
+description: Roombanker offers OEM digital indoor temperature and humidity monitor with compact and exquisite design. It supports both Fahrenheit and Celsius versions and can accurately track your indoor temperature and humidity changes.
+title: Custom Digital Humidity and Temperature Monitor Supplier
+keywords:
+- digital humidity and temperature comfort monitor
+- digital humidity and temperature monitor
+- digital indoor temperature and humidity monitor
+tags:
+- humidity and temp monitor spec
+---
+
+
+# Temperature & Humidity Monitor
 
 <div style={{textAlign: 'center'}}>
 <button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
