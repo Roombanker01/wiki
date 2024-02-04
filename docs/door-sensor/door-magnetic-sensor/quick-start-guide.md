@@ -1,7 +1,5 @@
 #  Door Magnetic Sensor
 
-### <[How to Set Up and Install Roombanker Door Magnetic Sensor (youtube.com)](https://www.youtube.com/watch?v=w-tesKhvFhk)>
-
 ## 1. Appearance
 
 ![MC-1](https://dusunprj.oss-us-west-1.aliyuncs.com/MC-1.png)
