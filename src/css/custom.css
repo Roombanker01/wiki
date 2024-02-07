@@ -224,3 +224,9 @@
     vertical-align: middle;
     }
   }
+ 
+.centered-video {
+  display: flex;
+  justify-content: center;
+}
+

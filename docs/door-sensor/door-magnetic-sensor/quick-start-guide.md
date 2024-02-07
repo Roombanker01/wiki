@@ -1,4 +1,17 @@
 #  Door Magnetic Sensor
+<div class="centered-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w-tesKhvFhk?si=9JR8kdfY4rJ7HYTJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+import LanguageSelector from '@site/src/components/LanguageSelector';
+
+<LanguageSelector pdfLinks={{
+  English: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Door%20Magnetic%20Sensor.pdf',
+  español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Door%20Magnetic%20Sensor_ES.pdf',
+  Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Door%20Magnetic%20Sensor_FR.pdf',
+  Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Door%20Magnetic%20Sensor_IT.pdf',
+  PortuguêsBrasil: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Door%20Magnetic%20Sensor_PT-BR.pdf',
+}} />
 
 ## 1. Appearance
 

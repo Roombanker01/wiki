@@ -1,4 +1,17 @@
 # Keypad
+<div class="centered-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lAiR_QlXrZw?si=yk-1NNsqvAeR_r4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+import LanguageSelector from '@site/src/components/LanguageSelector';
+
+<LanguageSelector pdfLinks={{
+  English: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Keypad.pdf',
+  español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Keypad_ES.pdf',
+  Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Keypad_FR.pdf',
+  Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Keypad_IT.pdf',
+  PortuguêsBrasil: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Keypad_PT-BR.pdf',
+}} />
 
 ## 1. Appearance
 

@@ -1,5 +1,18 @@
 # Wall Switch
 
+<div class="centered-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sTR1eejzWsk?si=ytDrijssuAqkMDnJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+import LanguageSelector from '@site/src/components/LanguageSelector';
+
+<LanguageSelector pdfLinks={{
+  English: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Wall%20Switch.pdf',
+  español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Wall%20Switch_ES.pdf',
+  Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Wall%20Switch_FR.pdf',
+  Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Wall%20Switch_IT.pdf',
+  PortuguêsBrasil: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Wall%20Switch_PT-BR.pdf',
+}} />
+
 ## 1. Appearance
 
 ![ws-11](https://dusunprj.oss-us-west-1.aliyuncs.com/ws-11.png)

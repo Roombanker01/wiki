@@ -1,4 +1,17 @@
 # Panic Button
+<div class="centered-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BITwPlo_2Vo?si=ztMsTaWo-JR9HxR2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+import LanguageSelector from '@site/src/components/LanguageSelector';
+
+<LanguageSelector pdfLinks={{
+  English: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Panic%20Button.pdf',
+  español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Panic%20Button_ES.pdf',
+  Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Panic%20Button_FR.pdf',
+  Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Panic%20Button_IT.pdf',
+  PortuguêsBrasil: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Panic%20Button_PT-BR.pdf',
+}} />
 
 ## 1. Appearance
 

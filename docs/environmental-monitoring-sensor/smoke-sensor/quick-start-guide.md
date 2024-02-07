@@ -1,4 +1,17 @@
 # Smoke Detector
+<div class="centered-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ox4fAQ98Pj0?si=D6IHIiKlv4aZm0By" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+import LanguageSelector from '@site/src/components/LanguageSelector';
+
+<LanguageSelector pdfLinks={{
+  English: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Smoke%20Detector.pdf',
+  español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Smoke%20Detector_ES.pdf',
+  Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Smoke%20Detector_FR.pdf',
+  Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Smoke%20Detector_IT.pdf',
+  PortuguêsBrasil: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Smoke%20Detector_PT-BR.pdf',
+}} />
 
 ## 1. Appearance
 

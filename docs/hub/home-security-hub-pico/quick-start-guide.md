@@ -1,5 +1,20 @@
 # Home Security Hub (Pico) 
 
+<div class="centered-video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LxyFju8yxYk?si=x7whkdLd_TmrqY7j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+import LanguageSelector from '@site/src/components/LanguageSelector';
+
+<LanguageSelector pdfLinks={{
+  English: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Hub-Pico.pdf',
+  español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Hub-Pico_ES.pdf',
+  Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Hub-Pico_FR.pdf',
+  Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Hub-Pico_IT.pdf',
+  PortuguêsBrasil: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Hub-Pico_PT-BR.pdf',
+}} />
+
 ## 1. Appearance
 
 ![PICO-1](https://dusunprj.oss-us-west-1.aliyuncs.com/PICO-1.png)

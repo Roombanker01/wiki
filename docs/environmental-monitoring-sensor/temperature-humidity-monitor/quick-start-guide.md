@@ -6,6 +6,19 @@ tags:
 ---
 
 # Temperature & Humidity Monitor
+<div class="centered-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ouEPtu4Dhn8?si=8OBXh78GiUt5SdW1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+import LanguageSelector from '@site/src/components/LanguageSelector';
+
+<LanguageSelector pdfLinks={{
+  English: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Temperature%26Humidity%20Monitor.pdf',
+  español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Temperature%26Humidity%20Monitor_ES.pdf',
+  Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Temperature%26Humidity%20Monitor_FR.pdf',
+  Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Temperature%26Humidity%20Monitor_IT.pdf',
+  PortuguêsBrasil: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Temperature%26Humidity%20Monitor_PT-BR.pdf',
+}} />
 
 ## 1. Appearance
 

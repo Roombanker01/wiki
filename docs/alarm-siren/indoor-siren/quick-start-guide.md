@@ -1,5 +1,19 @@
 # Indoor Siren
 
+<div class="centered-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TknO-Lt3nIo?si=GD6Gbgn9ySgAlR1t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+import LanguageSelector from '@site/src/components/LanguageSelector';
+
+<LanguageSelector pdfLinks={{
+  English: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Indoor%20Siren.pdf',
+  español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Indoor%20Siren_ES.pdf',
+  Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Indoor%20Siren_FR.pdf',
+  Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Indoor%20Siren_IT.pdf',
+  PortuguêsBrasil: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Indoor%20Siren_PT-BR.pdf',
+}} />
+
 ## 1. Appearance 
 
 ![IS-1](https://dusunprj.oss-us-west-1.aliyuncs.com/IS-1.png)

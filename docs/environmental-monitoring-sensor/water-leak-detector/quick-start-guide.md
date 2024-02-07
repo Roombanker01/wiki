@@ -1,4 +1,17 @@
 # Water Leak Detector
+<div class="centered-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nNvbfvN7yAw?si=MKRXGKpgVa-2ll9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+import LanguageSelector from '@site/src/components/LanguageSelector';
+
+<LanguageSelector pdfLinks={{
+  English: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Water%20Leak%20Detector.pdf',
+  español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Water%20Leak%20Detector_ES.pdf',
+  Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Water%20Leak%20Detector_FR.pdf',
+  Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Water%20Leak%20Detector_IT.pdf',
+  PortuguêsBrasil: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Water%20Leak%20Detector_PT-BR.pdf',
+}} />
 
 ## 1. Appearance
 

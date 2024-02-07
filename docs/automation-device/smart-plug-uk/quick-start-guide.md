@@ -1,5 +1,18 @@
 # Smart Plug (UK)
 
+<div class="centered-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O_SmqaMc6y4?si=RwbMZM2F0pQNypZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+import LanguageSelector from '@site/src/components/LanguageSelector';
+
+<LanguageSelector pdfLinks={{
+  English: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Smart%20Plug%20(UK).pdf',
+  español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Smart%20Plug%20(UK)_ES.pdf',
+  Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Smart%20Plug%20(UK)_FR.pdf',
+  Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Smart%20Plug%20(UK)_IT.pdf',
+  PortuguêsBrasil: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Smart%20Plug%20(UK)_PT-BR.pdf',
+}} />
+
 ## 1. Appearance
 
 ![SP-21](https://dusunprj.oss-us-west-1.aliyuncs.com/SP-21.png)
