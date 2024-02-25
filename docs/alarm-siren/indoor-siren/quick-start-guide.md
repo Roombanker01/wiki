@@ -11,7 +11,7 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
   español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Indoor%20Siren_ES.pdf',
   Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Indoor%20Siren_FR.pdf',
   Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Indoor%20Siren_IT.pdf',
-  Português%28Brasil%29: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Indoor%20Siren_PT-BR.pdf',
+  PortuguêsBrasil: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Indoor%20Siren_PT-BR.pdf',
 }} />
 
 ## 1. Appearance 
