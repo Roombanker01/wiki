@@ -49,7 +49,7 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
 
    ![Hub-Pico-6](https://dusunprj.oss-us-west-1.aliyuncs.com/Hub-Pico-6.png)
 
-   *Tips: Before inserting the SIM card, please Ensure SIM card PIN is disabled on your phone and you have enough balance in your SIM card account.*
+   *Tips: Before inserting the SIM card, please ensure SIM card PIN is disabled on your phone and you have enough balance in your SIM card account.*
 
 ![station-8](https://dusunprj.oss-us-west-1.aliyuncs.com/station-8.png)
 
