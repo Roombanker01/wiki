@@ -6,7 +6,7 @@
 import LanguageSelector from '@site/src/components/LanguageSelector';
 
 <LanguageSelector pdfLinks={{
-  English: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Hub-Station.pdf',
+  English: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Hub-Station_EN.pdf',
   español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Hub-Station_ES.pdf',
   Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Hub-Station_FR.pdf',
   Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Hub-Station_IT.pdf',
