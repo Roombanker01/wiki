@@ -98,7 +98,8 @@ The high-voltage smart wall switch can be installed in a standard 86 box, equipp
 
 ### Power Supply
 
-* 110 V~ / 230 V~, ±10% 50/60 Hz, Max 3000W
+* 110 V~ / 230 V~, ±10% 50/60 Hz
+* Max 3000W
 
 ### Maximum load current
 
