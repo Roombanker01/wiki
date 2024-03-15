@@ -10,7 +10,7 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
   español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Hub-Station_ES.pdf',
   Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Hub-Station_FR.pdf',
   Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Hub-Station_IT.pdf',
-  PortuguêsBrasil: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Hub-Station_PT-BR.pdf',
+  BrasilPortuguês: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Hub-Station_PT-BR.pdf',
 }} />
 
 ## 1. Appearance
