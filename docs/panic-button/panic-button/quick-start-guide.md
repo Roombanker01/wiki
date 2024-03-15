@@ -10,7 +10,7 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
   español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Panic%20Button_ES.pdf',
   Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Panic%20Button_FR.pdf',
   Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Panic%20Button_IT.pdf',
-  PortuguêsBrasil: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Panic%20Button_PT-BR.pdf',
+  BrasilPortuguês: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Panic%20Button_PT-BR.pdf',
 }} />
 
 ## 1. Appearance
