@@ -10,7 +10,7 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
   español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Keypad_ES.pdf',
   Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Keypad_FR.pdf',
   Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Keypad_IT.pdf',
-  PortuguêsBrasil: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Keypad_PT-BR.pdf',
+  BrasilPortuguês: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Keypad_PT-BR.pdf',
 }} />
 
 ## 1. Appearance
