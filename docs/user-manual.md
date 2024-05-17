@@ -30,7 +30,7 @@ tags:
 | Rev.  | Date       | Update Description                                           |
 | ----- | ---------- | ------------------------------------------------------------ |
 | 1.0   | 2024-01-24 | 1. New version release                                       |
-| 1.0.1 | 2024-03-20 | 1. Bug fixed                                                 |
+| 1.0.1 | 2024-03-18 | 1. Bug fixed                                                 |
 | 1.0.2 | 2024-05-14 | **New function：**<br />1. Daylight Saving Time function<br />2. SIM Card PIN Code unlock function<br />3. Temperature and humidity sensor Fahrenheit and Celsius switching function<br />4. German language supported<br /><br />**Optimization: **<br />1. PIR Sensor, Siren function optimized<br />2. Bug fixed |
 
 
