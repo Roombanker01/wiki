@@ -447,58 +447,6 @@ Please turn to [Charter 5. User Management](#charter-5-user-management) for more
 
   This feature is enabled by default, detecting hub tampering and triggering an alarm if disassembly is detected. It can be used in both armed and disarmed states.
 
-#### 2.5.3 System
-
-- **Time Zone**
-
-  Click "**>**" and then select your time zone, then the time will be updated automatically.
-
-  ![xialingshi](https://dusunprj.oss-us-west-1.aliyuncs.com/xialingshi.png)
-
-  Click"DST", you can enable or disable Daylight Saving Time, set start and end times, and save the settings, the time will update accordingly.
-
-  ![xinlingshipeizhi](https://dusunprj.oss-us-west-1.aliyuncs.com/xinlingshipeizhi.png)
-
-
-- **Cellular Network**
-
-  - **Username**, **Password** and **APN** - After inserting the SIM card, the Hub automatically obtains the necessary information and connects to the network. If you are unable to connect, please contact your network operator to obtain these information and perform manual configuration.
-
-    ![image-20240517160138035](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517160138035.png)
-
-  - **SIM PIN** -  If the system prompts that the PIN is not configured, contact your network operator to obtain and enter the PIN to use the SIM card.
-
-  - **Used Data (This month)** - Show current data usage.
-
-  - **Monthly data allowance** - You can set a data usage limit here, and the APP will send a notification when that limit is exceeded. 
-
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Screenshot_2023-12-22-16-01-16-319_com.example.iot_app.png" width="300" />git 
-</div>
-
-
-
-
-> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *The calculation standard for device data usage might different from telecom operators. Please refer to the actual bill for accurate data usage.*
-
-
-
-- **Fault Check**
-
-  You can configure fault detection rules. After you enable it, the Hub performs periodic detection and uploads relevant information according to the configured rules.
-
-|     **Parameter**     | **Meaning**                                                  |
-| :-------------------: | ------------------------------------------------------------ |
-|     Battery Loss      | Monitors battery connection status to ensure it's functioning normally.<br />**Open** **-** Monitoring function is active<br />**Close** - Monitoring function is disabled |
-|      Low Battery      | Monitors low battery levels (below 20%) <br />**Open** **-** Monitoring function is active<br />**Close** - Monitoring function is disabled |
-|     Ethernet Lost     | Monitors ethernet connectivity, and sends an alert to the APP if an ethernet outage lasts longer than a predefined threshold. |
-|      Wi-Fi Lost       | Monitors Wi-Fi connectivity, and sends an alert to the APP if Wi-Fi outage lasts longer than a predefined threshold. |
-| Cellular Network Lost | Monitors Cellular Network connectivity, and sends an alert to the APP if Cellular Network outage lasts longer than a predefined threshold. |
-|  External Power Lost  | Monitors external power supply connection status <br />**Open** - Monitoring function is active<br />**Close** - Monitoring function is disabled |
-
-- **24H Lid Detection**
-
-  This feature is enabled by default, detecting hub tampering and triggering an alarm if disassembly is detected. It can be used in both armed and disarmed states.
 
 
 #### 2.5.4 Communication
