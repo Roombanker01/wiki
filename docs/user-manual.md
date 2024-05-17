@@ -384,18 +384,29 @@ Please turn to [Charter 5. User Management](#charter-5-user-management) for more
 
   Click "**>**" and then select your time zone, then the time will be updated automatically.
 
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Time%20Zone.png" width="500" />
-</div>
+  ![xialingshi](https://dusunprj.oss-us-west-1.aliyuncs.com/xialingshi.png)
+
+  Click"DST", you can enable or disable Daylight Saving Time, set start and end times, and save the settings, the time will update accordingly.
+
+  ![xinlingshipeizhi](https://dusunprj.oss-us-west-1.aliyuncs.com/xinlingshipeizhi.png)
+
 
 - **Cellular Network**
+
   - **Username**, **Password** and **APN** - After inserting the SIM card, the Hub automatically obtains the necessary information and connects to the network. If you are unable to connect, please contact your network operator to obtain these information and perform manual configuration.
+
+    ![image-20240517160138035](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517160138035.png)
+
+  - **SIM PIN** -  If the system prompts that the PIN is not configured, contact your network operator to obtain and enter the PIN to use the SIM card normally.
+
   - **Used Data (This month)** - Show current data usage.
+
   - **Monthly data allowance** - You can set a data usage limit here, and the APP will send a notification when that limit is exceeded. 
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Screenshot_2023-12-22-16-01-16-319_com.example.iot_app.png" width="300" />git 
 </div>
+
 
 
 
@@ -419,7 +430,6 @@ Please turn to [Charter 5. User Management](#charter-5-user-management) for more
 - **24H Lid Detection**
 
   This feature is enabled by default, detecting hub tampering and triggering an alarm if disassembly is detected. It can be used in both armed and disarmed states.
-
 
 
 #### 2.5.4 Communication
@@ -783,15 +793,13 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222105059452.png" width="250" />
-</div>
-
+![T&H for change](https://dusunprj.oss-us-west-1.aliyuncs.com/T&H%20for%20change.png)
 
 |      **Parameter**       |                          **Value**                           | **Meaning**                                                  |
 | :----------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
 |  **Basic Information**   |                              /                               | Check the basic information of this device, including MAC Address, Serial Number, etc.<br />And you can also edit the device name here by yourself. |
-|   **Room Belongs to**    | ![image-20231221233352230](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221233352230.png) | You can select one of the rooms created before and then link the Temperature Humidity Monitor to.<br />*When linked to a specific room, the Temperature Humidity Monitor will be displayed on the product list of the room.* |
+|       **Add Room**       | ![image-20231221233352230](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221233352230.png) | You can select one of the rooms created before and then link the Temperature Humidity Monitor to.<br />*When linked to a specific room, the Temperature Humidity Monitor will be displayed on the product list of the room.* |
+|         **℃/℉**          | ![企业微信截图_1715933927967](https://dusunprj.oss-us-west-1.aliyuncs.com/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_1715933927967.png) | A function that used to toggle between Celsius and Fahrenheit displays. |
 |       **Find Me**        | ![image-20231222105302699](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222105302699.png) | A function that used to find your Temperature&Humidity Monitor among numerous devices. |
 | **Signal Strength Test** | ![image-20231222105319971](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222105319971.png) | A function that used to check the signal strength between Temperature Humidity Monitor and hub at the tested place, which is designed to help you choose the right place for installation. |
 | **Display On Homepage**  |                           ON / OFF                           | When enabled, the Temperature Humidity Monitor will show up on homepage. |
@@ -799,6 +807,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 |    **Delete Device**     |                              /                               | Delete the Temperature Humidity Monitor from your hub.       |
 
 <br />
+
 
 ### 4.7 Water Leak Detector
 
