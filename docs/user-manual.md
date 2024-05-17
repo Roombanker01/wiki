@@ -406,18 +406,15 @@ Please turn to [Charter 5. User Management](#charter-5-user-management) for more
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517160138035.png" width="300" />
 </div>
-
-
-   - **SIM PIN** -  If the system prompts that the SIM PIN is not configured,  enter the SIM PIN to use the SIM card. If your SIM card is locked, please try to contact your telecom operator to unlock it.
+  - **SIM PIN** -  If the system prompts that the SIM PIN is not configured,  enter the SIM PIN to use the SIM card. If your SIM card is locked, please try to contact your telecom operator to unlock it.
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517172955973.png" width="300" />
 </div>
 
-
-   - **Used Data (This month)** - Show current data usage.
-
-   - **Monthly data allowance** - You can set a data usage limit here, and the App will send a notification when that limit is exceeded. 
+  - **Used Data (This month)** - Show current data usage.
+  - **Monthly data allowance** - You can set a data usage limit here, and the App will send a notification when that limit is exceeded.
+  
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Screenshot_2023-12-22-16-01-16-319_com.example.iot_app.png" width="300" />git 
