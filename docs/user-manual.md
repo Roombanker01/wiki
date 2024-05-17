@@ -31,7 +31,7 @@ tags:
 | ----- | ---------- | ------------------------------------------------------------ |
 | 1.0   | 2024-01-24 | 1. New version release                                       |
 | 1.0.1 | 2024-03-18 | 1. Bug fixed                                                 |
-| 1.0.2 | 2024-05-14 | **New function：**<br />1. Daylight Saving Time function<br />2. SIM Card PIN Code unlock function<br />3. Temperature and humidity sensor Fahrenheit and Celsius switching function<br />4. German language supported<br /><br />**Optimization: **<br />1. PIR Sensor, Siren function optimized<br />2. Bug fixed |
+| 1.0.2 | 2024-05-14 | **New function：**<br />1. Daylight Saving Time function<br />2. SIM Card PIN Code unlock function<br />3. Temperature and humidity sensor Fahrenheit and Celsius switching function<br />4. German language supported<br />**Optimization: **<br />1. PIR Sensor, Siren function optimized<br />2. Bug fixed |
 
 
 ## 
@@ -397,7 +397,7 @@ Please turn to [Charter 5. User Management](#charter-5-user-management) for more
 
     ![image-20240517160138035](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517160138035.png)
 
-  - **SIM PIN** -  If the system prompts that the PIN is not configured, contact your network operator to obtain and enter the PIN to use the SIM card normally.
+  - **SIM PIN** -  If the system prompts that the PIN is not configured, contact your network operator to obtain and enter the PIN to use the SIM card.
 
   - **Used Data (This month)** - Show current data usage.
 
