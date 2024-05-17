@@ -383,28 +383,37 @@ Please turn to [Charter 5. User Management](#charter-5-user-management) for more
 - **Time Zone**
 
   Click "**>**" and then select your time zone, then the time will be updated automatically.
+  
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/xialingshi.png" width="300" />
 </div>
 
-  ![xialingshi](https://dusunprj.oss-us-west-1.aliyuncs.com/xialingshi.png)
   
  - **DST**
 
   Click"DST", you can enable or disable Daylight Saving Time, set start and end times, and save the settings, the time will update accordingly.
 
-  ![xinlingshipeizhi](https://dusunprj.oss-us-west-1.aliyuncs.com/xinlingshipeizhi.png)
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/xinlingshipeizhi.png" width="300" />
+</div>
+
 
 
 - **Cellular Network**
 
   - **Username**, **Password** and **APN** - After inserting the SIM card, the Hub automatically obtains the necessary information and connects to the network. If you are unable to connect, please contact your telecom operator to obtain these information and perform manual configuration.
+ 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517160138035.png" width="300" />
+</div>
 
-    ![image-20240517160138035](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517160138035.png)
 
   - **SIM PIN** -  If the system prompts that the SIM PIN is not configured,  enter the SIM PIN to use the SIM card. If your SIM card is locked, please try to contact your telecom operator to unlock it.
 
-    ![image-20240517172955973](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517172955973.png)
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517172955973.png" width="300" />
+</div>
+
 
   - **Used Data (This month)** - Show current data usage.
 
