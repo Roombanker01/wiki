@@ -25,6 +25,8 @@ tags:
 <br />
 <br />
 
+**Revision History**
+
 | Rev.  | Date       | Update Description                                           |
 | ----- | ---------- | ------------------------------------------------------------ |
 | 1.0   | 2024-01-09 | 1. New version release                                       |
