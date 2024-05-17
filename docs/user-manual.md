@@ -383,6 +383,9 @@ Please turn to [Charter 5. User Management](#charter-5-user-management) for more
 - **Time Zone**
 
   Click "**>**" and then select your time zone, then the time will be updated automatically.
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/xialingshi.png" width="300" />
+</div>
 
   ![xialingshi](https://dusunprj.oss-us-west-1.aliyuncs.com/xialingshi.png)
   
