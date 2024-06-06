@@ -99,6 +99,13 @@ const config = {
             className: 'navbar_doc_items',
           },
           {
+            to: 'https://docs.google.com/forms/d/e/1FAIpQLSeeSv5VR42MGoAU8d-X9ifmR5iVBR11sLnqLxeu3ikDG_UAAQ/viewform?usp=sf_link',
+            position: 'right',
+            className: 'navbar_doc_items',
+            // className: 'header-shop-link',
+            label: 'Contact Us',
+          },
+          {
             to: 'https://www.roombanker.com/',
             position: 'right',
             className: 'navbar_doc_right_items',
