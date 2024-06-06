@@ -100,7 +100,7 @@ const config = {
           },
           {
             to: 'https://docs.google.com/forms/d/e/1FAIpQLSeeSv5VR42MGoAU8d-X9ifmR5iVBR11sLnqLxeu3ikDG_UAAQ/viewform?usp=sf_link',
-            position: 'right',
+            position: 'left',
             className: 'navbar_doc_items',
             // className: 'header-shop-link',
             label: 'Contact Us',
