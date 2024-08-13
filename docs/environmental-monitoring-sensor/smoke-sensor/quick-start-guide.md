@@ -51,19 +51,19 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
 
 ## 5. Device Specifications
 
-| Parameter              | Value                                    |
-| :--------------------- | ---------------------------------------- |
-| Model                  | MIR-SM100-TY                             |
-| Alarm Buzzer           | 80 dB                                    |
-| LED Indicator          | 1                                        |
-| Tamper Protection      | Rear                                     |
-| Transmission Method    | Zigbee 3.0                               |
-| Transmission Frequency | 2.4GHz                                   |
-| Standard Battery Life  | CR123A × 1，Up to 3 years (standby mode) |
-| Operation Temperature  | -10°C to 55°C (14 °F  to 131 °F)         |
-| Dimensions (W x H x D) | ∅90 x 37 mm                              |
-| Mounting Method        | Ceiling                                  |
-| Application Scenario   | Indoor                                   |
-| Weight                 | 103.6 g                                  |
-|                        |                                          |
+| Parameter              | Value                                    | Value                                    |
+| :--------------------- | ---------------------------------------- | ---------------------------------------- |
+| Model                  | MIR-SM100-TY                             | RBSS-SM1-868/915                         |
+| Alarm Buzzer           | 80 dB                                    | 80 dB                                    |
+| LED Indicator          | 1                                        | 1                                        |
+| Tamper Protection      | Rear                                     | Rear                                     |
+| Transmission Method    | Zigbee 3.0                               | RBF                                      |
+| Transmission Frequency | 2.4GHz                                   | 868MHz / 915MHz                          |
+| Standard Battery Life  | CR123A × 1，Up to 3 years (standby mode) | CR123A × 1，Up to 3 years (standby mode) |
+| Operation Temperature  | -10°C to 55°C (14 °F  to 131 °F)         | -10°C to 55°C (14 °F  to 131 °F)         |
+| Dimensions (W x H x D) | ∅90 x 37 mm                              | ∅90 x 37 mm                              |
+| Mounting Method        | Ceiling                                  | Ceiling                                  |
+| Application Scenario   | Indoor                                   | Indoor                                   |
+| Weight                 | 103.6 g                                  | 103.6 g                                  |
+|                        |                                          |                                          |
 
