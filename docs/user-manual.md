@@ -494,7 +494,7 @@ During this period, if your Hub is frequently online and offline, you will not r
 * **Alarm Receiving Center**
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808104537338.png" width="300" />git 
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808104537338.png" width="300" /> 
 </div>
 
 
