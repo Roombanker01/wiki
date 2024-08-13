@@ -6,11 +6,11 @@
 import LanguageSelector from '@site/src/components/LanguageSelector';
 
 <LanguageSelector pdfLinks={{
-  English: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Smoke%20Detector.pdf',
-  español: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Smoke%20Detector_ES.pdf',
-  Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Smoke%20Detector_FR.pdf',
-  Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Smoke%20Detector_IT.pdf',
-  BrasilPortuguês: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Smoke%20Detector_PT-BR.pdf',
+  English: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Smoke%20Detector%20-%20Both.pdf',
+  español: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Smoke%20Detector_ES-Both.pdf',
+  Français: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Smoke%20Detector_FR%20-Both.pdf',
+  Italiano: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Smoke%20Detector_IT%20-%20Both.pdf',
+  BrasilPortuguês: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Smoke%20Detector_PT-BR%20-Both.pdf',
 }} />
 
 ## 1. Appearance
