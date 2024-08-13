@@ -20,7 +20,7 @@ tags:
 <br />
 
 <center>
-    Last update: Aug 12th, 2024.
+    Last update: Aug 13th, 2024.
 </center>
 
 
@@ -450,7 +450,7 @@ After Setting the language, SMS will be displayed in this language.
   - **Monthly data allowance** - You can set a data usage limit here, and the App will send a notification when that limit is exceeded.
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Screenshot_2023-12-22-16-01-16-319_com.example.iot_app.png" width="300" />git 
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Screenshot_2023-12-22-16-01-16-319_com.example.iot_app.png" width="300" />
 </div>
 
 
@@ -483,7 +483,7 @@ After Setting the language, SMS will be displayed in this language.
 #### 2.5.4 Communication
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808103558177.png" width="300" />git 
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808103558177.png" width="300" />
 </div>
 
 
@@ -494,7 +494,7 @@ During this period, if your Hub is frequently online and offline, you will not r
 * **Alarm Receiving Center**
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808104537338.png" width="300" /> 
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808104537338.png" width="300" />
 </div>
 
 
@@ -1423,7 +1423,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 #### 4.13.2 State
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808134055502.png" width="300" />git 
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808134055502.png" width="300" />
 </div>
 
 
@@ -1444,7 +1444,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808135141119.png" width="300" />git 
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808135141119.png" width="300" />
 </div>
 
 
@@ -1469,7 +1469,7 @@ Step 1: Click the "**Schedule** ![Timing](https://dusunprj.oss-us-west-1.aliyunc
 Step 2: Click "**+**" on the top right corner and turn to "Schedule Configure Page"
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808135823958.png" width="300" />git 
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808135823958.png" width="300" />
 </div>
 
 
