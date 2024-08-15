@@ -12,6 +12,7 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
   Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Keyfob_FR.pdf',
   Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Keyfob_IT.pdf',
   BrasilPortuguês: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Keyfob_PT-BR.pdf',
+  Brasis: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Keyfob_PT-BR.pdf', 
 }} />
 
 ## 1. Appearance
