@@ -11,6 +11,8 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
   Français: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Smoke%20Detector_FR%20-Both.pdf',
   Italiano: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Smoke%20Detector_IT%20-%20Both.pdf',
   BrasilPortuguês: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Smoke%20Detector_PT-BR%20-Both.pdf',
+  Deutsch: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_DE/Smoke%20Detector_DE-Both.pdf',
+  Türkçe: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_TU/Smoke%20Detector_Tu-Both.pdf',
 }} />
 
 ## 1. Appearance
