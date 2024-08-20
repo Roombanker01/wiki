@@ -11,6 +11,8 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
   Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Door%20Magnetic%20Sensor_FR.pdf',
   Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Door%20Magnetic%20Sensor_IT.pdf',
   BrasilPortuguês: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Door%20Magnetic%20Sensor_PT-BR.pdf',
+  Deutsch: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_DE/Door%20Magnetic%20Sensor_DE.pdf',
+  Türkçe: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_TU/Door%20Magnetic%20Sensor_Tu.pdf',
 }} />
 
 ## 1. Appearance
