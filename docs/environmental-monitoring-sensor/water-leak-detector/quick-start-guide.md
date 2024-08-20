@@ -11,6 +11,8 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
   Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Water%20Leak%20Detector_FR.pdf',
   Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Water%20Leak%20Detector_IT.pdf',
   BrasilPortuguês: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Water%20Leak%20Detector_PT-BR.pdf',
+  Deutsch: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_DE/Water%20Leak%20Detector_DE.pdf',
+  Türkçe: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_TU/Water%20Leak%20Detector_Tu.pdf',
 }} />
 
 ## 1. Appearance
