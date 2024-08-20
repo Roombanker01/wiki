@@ -18,6 +18,8 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
   Français: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_FR/Temperature%26Humidity%20Monitor_FR.pdf',
   Italiano: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_IT/Temperature%26Humidity%20Monitor_IT.pdf',
   BrasilPortuguês: 'http://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_PT/Temperature%26Humidity%20Monitor_PT-BR.pdf',
+  Deutsch: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_DE/Temperature%26Humidity%20Monitor_DE.pdf',
+  Türkçe: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_TU/Temperature%26Humidity%20Monitor_Tu.pdf',
 }} />
 
 ## 1. Appearance
