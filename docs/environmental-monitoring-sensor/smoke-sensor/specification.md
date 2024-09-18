@@ -63,7 +63,7 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 
 #### Wireless signal range
 
-* Up to **1,900 m** in an open space with hub
+* Up to **1,600 m** in an open space with hub
 * Two-way communication with hub
 
 #### Frequency bands
