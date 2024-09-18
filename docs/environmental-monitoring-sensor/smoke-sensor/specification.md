@@ -57,13 +57,47 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 
 ------
 
-## 3. Zigbee wireless technology
+## 3.  wireless technology
 
-### Wireless signal range
+### RBF
+
+#### Wireless signal range
+
+* Up to **1,900 m** in an open space with hub
+* Two-way communication with hub
+
+#### Frequency bands
+
+* 868 MHz Monitor: 863 ~ 870 MHz
+* 915 MHz Monitor: 902 ~ 928 MHz  
+  
+  > *Depends on sales region.*
+
+#### Wireless signal modulation
+
+* FSK / DSSS
+
+### Encrypted communication
+
+* All the data transmitted are protected by AES-CCM encryption with a random key.
+
+#### Frequency hopping (FHSS)
+
+* To prevent radio interference and radio signal interception.
+
+#### Time division multiple access (TDMA)
+
+* With the help of clock synchronization technology, hub will slice time into different division for different RBF wireless devices. In this way, all devices will communicate with hub in a sequence.
+
+------
+
+### Zigbee 
+
+#### Wireless signal range
 
 * Up to 80 m in an open space with hub
 
-### Frequency bands
+#### Frequency bands
 
 * 2.4 GHz
 
