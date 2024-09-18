@@ -77,7 +77,7 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 
 * FSK / DSSS
 
-### Encrypted communication
+#### Encrypted communication
 
 * All the data transmitted are protected by AES-CCM encryption with a random key.
 
@@ -87,9 +87,7 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 
 #### Time division multiple access (TDMA)
 
-* With the help of clock synchronization technology, hub will slice time into different division for different RBF wireless devices. In this way, all devices will communicate with hub in a sequence.
-
-------
+* With the help of clock synchronization technology, hub will slice time into different division for different RBF wireless devices. In this way, all devices will communicate with hub in a sequence
 
 ### Zigbee 
 
