@@ -49,36 +49,134 @@ https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/RBF%20Module/2.png
 https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/RBF%20Module/3.png
 
 ## 3. Specification
-
-| Model                           | DSM-140-868<br />For Gateway | DSM-141-868<br />For IOT Nodes | DSM-140-915<br />For Gateway | DSM-141-915<br />For IOT Nodes |
-| ------------------------------- | ---------------------------- | ------------------------------ | ---------------------------- | ------------------------------ |
-| Processor                       |                              |                                |                              |                                |
-| Frequency Band                  |                              |                                |                              |                                |
-| Antenna Option                  |                              |                                |                              |                                |
-| RAM                             |                              |                                |                              |                                |
-| Flash                           |                              |                                |                              |                                |
-| RF Date Rate                    |                              |                                |                              |                                |
-| Transmit Range<br />(Open Area) |                              |                                |                              |                                |
-| Transmit Power                  |                              |                                |                              |                                |
-| Receiver Sensitivity            |                              |                                |                              |                                |
-| Spectrum Utilization            |                              |                                |                              |                                |
-| Modulation                      |                              |                                |                              |                                |
-| Digital I/O                     |                              |                                |                              |                                |
-| Analog Input                    |                              |                                |                              |                                |
-| Networking Topology             |                              |                                |                              |                                |
-| Encryption                      |                              |                                |                              |                                |
-| Image Transmit                  |                              |                                |                              |                                |
-| OTA                             |                              |                                |                              |                                |
-| Supply Voltage                  |                              |                                |                              |                                |
-| Transmit Current                |                              |                                |                              |                                |
-| Receive Current                 |                              |                                |                              |                                |
-| Sleep Current                   |                              |                                |                              |                                |
-| Dimension                       |                              |                                |                              |                                |
-| Weight                          |                              |                                |                              |                                |
-| Operating Temperature           |                              |                                |                              |                                |
-| Storage Temperature             |                              |                                |                              |                                |
-| ETSI                            |                              |                                |                              |                                |
-|                                 |                              |                                |                              |                                |
+<table class="center">
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>DSM-140-868<br />For Gateway</th>
+      <th>DSM-141-868<br />For IOT Nodes</th>
+      <th>DSM-140-915<br />For Gateway</th>
+      <th>DSM-141-195<br />For IOT Nodes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Processor</td>
+      <td colspan="4" style={{textAlign: 'center'}}>Silicon Labs EFR32</td>    
+    </tr>
+    <tr>
+      <td>Frequency Band</td>
+      <td colspan="2" style={{textAlign: 'center'}}>863 MHz ~ 870 MHz</td>    
+      <td colspan="2" style={{textAlign: 'center'}}>902 MHz ~ 928 MHz</td> 
+    </tr>
+    <tr>
+      <td>Antenna Option</td>
+      <td colspan="4" style={{textAlign: 'center'}}>U.FL, RF pad</td>    
+    </tr>
+    <tr>
+      <th>RAM</th>
+      <th>64KB</th>
+      <th>32KB</th>
+      <th>64KB</th>
+      <th>32KB</th>
+    </tr>
+    <tr>
+      <th>Flash</th>
+      <th>512KB</th>
+      <th>256KB</th>
+      <th>512KB</th>
+      <th>256KB</th>
+    </tr>
+    <tr>
+      <td>RF Data Rate</td>
+      <td colspan="4" style={{textAlign: 'center'}}>2 kbps ~ 100 kbps</td>    
+    </tr>
+    <tr>
+      <td>Transmit Range (Open Area)</td>
+      <td colspan="4" style={{textAlign: 'center'}}>Up to 3.5 km with -1.92 dBi antenna</td>    
+    </tr>
+    <tr>
+      <td>Transmit Power</td>
+      <td colspan="4" style={{textAlign: 'center'}}>Max. 20dBm</td>    
+    </tr>
+    <tr>
+      <td>Receiver Sensitivity</td>
+      <td colspan="4" style={{textAlign: 'center'}}>-113.3 dBm @ 38.4 kbps</td>    
+    </tr>
+    <tr>
+      <td>Spectrum Utilization</td>
+      <td colspan="4" style={{textAlign: 'center'}}>FHSS</td>    
+    </tr>
+    <tr>
+      <td>Modulation</td>
+      <td colspan="4" style={{textAlign: 'center'}}>FSK Narrowband / DSSS Spreading</td>    
+    </tr>
+    <tr>
+      <td>Digital I/O</td>
+      <td colspan="4" style={{textAlign: 'center'}}>21-ch Digital I/O</td>    
+    </tr>
+    <tr>
+      <td>Analog Input</td>
+      <td colspan="4" style={{textAlign: 'center'}}>21-ch Analog Inputs</td>    
+    </tr>
+    <tr>
+      <td>Networking Topology</td>
+      <td colspan="4" style={{textAlign: 'center'}}>Star Connection / Mesh Connection</td>    
+    </tr>
+    <tr>
+      <td>Encryption</td>
+      <td colspan="4" style={{textAlign: 'center'}}>AES-CCM+Random Number Key</td>    
+    </tr>
+    <tr>
+      <td>Image Transmit</td>
+      <td colspan="4" style={{textAlign: 'center'}}>Support</td>    
+    </tr>
+    <tr>
+      <td>OTA</td>
+      <td colspan="4" style={{textAlign: 'center'}}>Multicast OTA, Background Upgrading</td>    
+    </tr>
+    <tr>
+      <td>Supply Voltage</td>
+      <td colspan="4" style={{textAlign: 'center'}}>1.7 V ~ 3.8V</td>    
+    </tr>
+    <tr>
+      <td>Transmit Current</td>
+      <td colspan="4" style={{textAlign: 'center'}}>Max. 85.5 mA</td>    
+    </tr>
+    <tr>
+      <td>Receive Current</td>
+      <td colspan="4" style={{textAlign: 'center'}}>< 3.7 mA</td>    
+    </tr>
+    <tr>
+      <td>Sleep Current</td>
+      <td colspan="4" style={{textAlign: 'center'}}>< 2 μA</td>    
+    </tr>
+    <tr>
+      <td>Dimension Current</td>
+      <td colspan="4" style={{textAlign: 'center'}}>17 mm (W) × 22 mm (H) × 4 mm (D)</td>    
+    </tr>
+    <tr>
+      <td>Weight</td>
+      <td colspan="4" style={{textAlign: 'center'}}>DSM-140: 1.7g/DSM-141: 1.8g</td>    
+    </tr>
+    <tr>
+      <td>Operating Temperature</td>
+      <td colspan="4" style={{textAlign: 'center'}}>-40 °C ~ 85 °C (-40 ℉ ~ 185 ℉)</td>    
+    </tr>
+    <tr>
+      <td>Storage Temperature</td>
+      <td colspan="4" style={{textAlign: 'center'}}>-40℃ ~ 125℃ (-40 ℉ ~ 257 ℉)</td>    
+    </tr>
+    <tr>
+      <td>ETSI (Europe)</td>
+      <td colspan="4" style={{textAlign: 'center'}}>CE/RED</td>    
+    </tr>
+    <tr>
+      <td>RoHS</td>
+      <td colspan="4" style={{textAlign: 'center'}}>Compliant</td>    
+    </tr>     
+  </tbody>
+  </table>
 
 ## 4. QA Requirement
 
