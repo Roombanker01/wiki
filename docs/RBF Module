@@ -1,0 +1,107 @@
+# RBF Wireless Communication Module
+
+## Product Model: DSM-140/141
+
+**Revision History**
+
+| Rev. | Date       | Update Description  |
+| ---- | ---------- | ------------------- |
+| 1.0  | 2024-09-27 | New version release |
+|      |            |                     |
+|      |            |                     |
+
+## 1. Product Description
+
+### 1.1 Purpose and Description
+
+The RBF wireless module is a high-performance wireless data transmission module for IOT applications based on the EFR32 chip from Silicon Labs. It features compact size, low power consumption, ultra-long communication range, high security, anti-interference performance, etc. It can be used in all kinds of long-range applications through secondary development and various application scenarios with high requirements for data transmission security and stability.
+
+Excellent RF communication distance and low power consumption to meet a variety of customer needs, complete integrated RF solutions for customers to shorten the development cycle, customers can devote more time to the development of terminal applications.
+
+In addition, RBF provides multiple options in frequency (433 / 868 / 915 MHz) for more than 90% of the countries and regions around the world.
+
+https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/RBF%20Module/1.png
+
+### 1.2 Product Feature Summary
+
+* Low-power CE/RED approved wireless module with ultra-low power consumption, support to be powered by battery easily.
+* Up to 3.5km communication range (in open space), supporting both Star Connection and Mesh Connection for networking, with a huge capacity of up to 10,000 peripherals.
+* Safer and more reliable data transmission with the edge-cutting technologies (FHSS, TDMA, and AES-CCM+Encryption, etc).
+* Low-code Development with encapsulated protocol stack and easy-to-use APIs, help accelerate the process of production rapidly.
+* OTA Multicast technology supports to transfer firmware to multiple peripherals simultaneously.
+
+### 1.3 Typical Application
+
+* Wireless Meter Reading System (Water meter, gas meter, heat meter, electricity meter, etc)
+* Wireless Security System in House/Villa, Office, Retail and other SMB scenarios
+* Electric Vehicles and Charging Points
+* Smart Apartment (Express Cabinet, Smart Lock, etc)
+* Industrial Automation
+
+## 2. Product Detail
+
+### 2.1 Interface and Dimension
+
+https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/RBF%20Module/2.png
+
+### 2.2 Topology & Usage
+
+https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/RBF%20Module/3.png
+
+## 3. Specification
+
+| Model                           | DSM-140-868<br />For Gateway | DSM-141-868<br />For IOT Nodes | DSM-140-915<br />For Gateway | DSM-141-915<br />For IOT Nodes |
+| ------------------------------- | ---------------------------- | ------------------------------ | ---------------------------- | ------------------------------ |
+| Processor                       |                              |                                |                              |                                |
+| Frequency Band                  |                              |                                |                              |                                |
+| Antenna Option                  |                              |                                |                              |                                |
+| RAM                             |                              |                                |                              |                                |
+| Flash                           |                              |                                |                              |                                |
+| RF Date Rate                    |                              |                                |                              |                                |
+| Transmit Range<br />(Open Area) |                              |                                |                              |                                |
+| Transmit Power                  |                              |                                |                              |                                |
+| Receiver Sensitivity            |                              |                                |                              |                                |
+| Spectrum Utilization            |                              |                                |                              |                                |
+| Modulation                      |                              |                                |                              |                                |
+| Digital I/O                     |                              |                                |                              |                                |
+| Analog Input                    |                              |                                |                              |                                |
+| Networking Topology             |                              |                                |                              |                                |
+| Encryption                      |                              |                                |                              |                                |
+| Image Transmit                  |                              |                                |                              |                                |
+| OTA                             |                              |                                |                              |                                |
+| Supply Voltage                  |                              |                                |                              |                                |
+| Transmit Current                |                              |                                |                              |                                |
+| Receive Current                 |                              |                                |                              |                                |
+| Sleep Current                   |                              |                                |                              |                                |
+| Dimension                       |                              |                                |                              |                                |
+| Weight                          |                              |                                |                              |                                |
+| Operating Temperature           |                              |                                |                              |                                |
+| Storage Temperature             |                              |                                |                              |                                |
+| ETSI                            |                              |                                |                              |                                |
+|                                 |                              |                                |                              |                                |
+
+## 4. QA Requirement
+
+| Information Description | Standard(Yes) Custom(No) |
+| ----------------------- | ------------------------ |
+| ESD Testing             | Yes                      |
+| RF Antenna Analysis     | Yes                      |
+| Environmental Testing   | Yes                      |
+| Reliability Testing     | Yes                      |
+| Certification           | FCC,CE, RoHS             |
+
+
+
+## 5. Package Information
+
+| Parameter        | Value         |
+| ---------------- | ------------- |
+| Packing Type     | Tape Reel     |
+| Packing Quantity | 100 pcs/ tape |
+
+
+
+
+
+
+
