@@ -402,6 +402,25 @@ const sidebars = {
       //  },
      ],
    },
+   {
+      type: "category",
+      label: "Module",
+      className:'bolder',
+      collapsed: true,
+      items: [
+        {
+          type: "category",
+          label: "RBF Module",
+          items: [
+            {
+              type: "doc",
+              id: "Module/RBF-Module",
+              label: "RBF Module",
+            },
+          ]
+        },
+     ],
+   },
   ],
 };
 
