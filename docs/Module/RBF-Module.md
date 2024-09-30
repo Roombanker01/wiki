@@ -145,11 +145,11 @@ https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/RBF%20Module/3.png
     </tr>
     <tr>
       <td>Receive Current</td>
-      <td colspan="4" style={{textAlign: 'center'}}>< 3.7 mA</td>    
+      <td colspan="4" style={{textAlign: 'center'}}> 3.7 mA</td>    
     </tr>
     <tr>
       <td>Sleep Current</td>
-      <td colspan="4" style={{textAlign: 'center'}}>< 2 μA</td>    
+      <td colspan="4" style={{textAlign: 'center'}}> 2 μA</td>    
     </tr>
     <tr>
       <td>Dimension Current</td>
