@@ -42,7 +42,7 @@ RBF Relay is a dry contact relay to control 6-36 V⎓ power supply remotely.
   > *When sensor is powered up, it will automatically start paring to the hub nearby*
 * Find me  
   
-  > *When enabled, the device starts flashing green, which can help identify the sensor from numerous door magnetic sensors.*
+  > *When enabled, the device starts flashing green, which can help identify the sensor from numerous devices.*
 * Signal strength detection  
   
   > *When enabled, relay starts flashing green/orange/red showing the wireless signal strength between the hub at current installation place.* 
