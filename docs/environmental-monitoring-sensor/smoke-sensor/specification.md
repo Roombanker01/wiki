@@ -1,14 +1,16 @@
-﻿# Smoke Detector
+# Smoke Detector
 
 <div style={{textAlign: 'center'}}>
 <button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
 </div>
+
 
 <br />
 
 <center>
     Last update: January 5th, 2024.
 </center>
+
 
 
 <br />
@@ -18,6 +20,7 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Smoke%20Detector.png" width="250" />
 </div>
+
 
 
 
@@ -36,6 +39,7 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 * Sound
 
 ### Volume of built-in siren
+
 * 80 dB @ 3 m
 
 ------
@@ -52,7 +56,6 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 
 ### Advanced features
 
-* Signal Strength detection
 * Low battery notification
 
 ------
@@ -69,8 +72,9 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 #### Frequency bands
 
 * 868 MHz Monitor: 863 ~ 870 MHz
+
 * 915 MHz Monitor: 902 ~ 928 MHz  
-  
+
   > *Depends on sales region.*
 
 #### Wireless signal modulation
@@ -88,16 +92,6 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 #### Time division multiple access (TDMA)
 
 * With the help of clock synchronization technology, hub will slice time into different division for different RBF wireless devices. In this way, all devices will communicate with hub in a sequence
-
-### Zigbee 
-
-#### Wireless signal range
-
-* Up to 80 m in an open space with hub
-
-#### Frequency bands
-
-* 2.4 GHz
 
 ------
 
@@ -136,7 +130,7 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 
 ## 6. Compatibility
 
-* Operates with Roombanker Home Security Hub-Station.
+* Operates with Roombanker Home Security Hub.
 
 ------
 
@@ -155,7 +149,8 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 
 ### Available models
 
-* MIR-SM100-TY
+* RBSS-SM1-868
+* RBSS-SM1-915
 
 ### Certifications
 
