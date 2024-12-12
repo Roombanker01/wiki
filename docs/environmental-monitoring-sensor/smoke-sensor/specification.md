@@ -93,6 +93,16 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 
 * With the help of clock synchronization technology, hub will slice time into different division for different RBF wireless devices. In this way, all devices will communicate with hub in a sequence
 
+### Zigbee 
+
+#### Wireless signal range
+
+* Up to 80 m in an open space with hub
+
+#### Frequency bands
+
+* 2.4 GHz
+
 ------
 
 ## 4. Electrical Characteristics
@@ -151,6 +161,7 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 
 * RBSS-SM1-868
 * RBSS-SM1-915
+* MIR-SM100-TY
 
 ### Certifications
 
