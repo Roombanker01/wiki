@@ -5,6 +5,7 @@
 </div>
 
 
+
 <br />
 
 <center>
@@ -13,13 +14,15 @@
 
 
 
+
 <br />
 
-A low-power, long-lasting wireless smoke detector that supports high-precision smoke detection, capable of timely detection and triggering alarms in the early stages of a fire.
+This is a low - power - consumption and long - battery - life wireless smoke detector. It features high - precision smoke detection and can quickly detect and trigger an alarm in the early stage of a fire. Currently, there are two models, supporting **RBF** and **Zigbee** protocols respectively, which can meet the actual installation and usage needs of different users.
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Smoke%20Detector.png" width="250" />
 </div>
+
 
 
 
@@ -62,7 +65,7 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 
 ## 3.  wireless technology
 
-### RBF
+### RBF(Model：RBSS-SM1-868/915)
 
 #### Wireless signal range
 
@@ -93,7 +96,7 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 
 * With the help of clock synchronization technology, hub will slice time into different division for different RBF wireless devices. In this way, all devices will communicate with hub in a sequence
 
-### Zigbee 
+### Zigbee (Model：MIR-SM100-TY)
 
 #### Wireless signal range
 
@@ -156,12 +159,6 @@ A low-power, long-lasting wireless smoke detector that supports high-precision s
 ------
 
 ## 8. Additional information
-
-### Available models
-
-* RBSS-SM1-868
-* RBSS-SM1-915
-* MIR-SM100-TY
 
 ### Certifications
 
