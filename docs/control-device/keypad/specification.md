@@ -172,12 +172,8 @@ The wireless keypad streamlines user interactions with one-click arming, passwor
 
 ### Certifications
 
-* CE, CB
+* CE
 * FCC
-* ICASA
-* RCM
-* NOM
-* Anatel
 
 ### Warranty
 
