@@ -142,12 +142,9 @@ The 24/7 panic alarm button always ready to assist you. Just press the button to
 
 ### Certifications
 
-* CE, CB
+* CE
 * FCC
-* ICASA
-* RCM
-* NOM
-* Anatel
+
 
 ### Warranty
 
