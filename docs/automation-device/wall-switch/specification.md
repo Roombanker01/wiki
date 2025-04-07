@@ -162,13 +162,9 @@ The high-voltage smart wall switch can be installed in a standard 86 box, equipp
 
 ### Certifications
 
-* CE, CB
+* CE
 * FCC
-* ICASA
-* LOA
-* RCM
-* NOM
-* Anatel
+
 
 ### Warranty
 
