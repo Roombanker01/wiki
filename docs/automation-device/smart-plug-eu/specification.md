@@ -156,13 +156,8 @@ The wireless smart plug features functions such as power management and child lo
 
 ### Certifications
 
-* CE, CB
+* CE
 * FCC
-* ICASA
-* LOA
-* RCM
-* NOM
-* Anatel
 
 ### Warranty
 
