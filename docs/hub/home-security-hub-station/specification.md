@@ -4,11 +4,13 @@
 <button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
 </div>
 
+
 <br />
 
 <center>
     Last update: January 8th, 2024.
 </center>
+
 
 <br />
 
@@ -17,6 +19,7 @@ Smart Hub is the powerful brain of Roombanker Secuiry & Automation system, enabl
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/1-%E9%80%8F%E8%A7%86%E5%9B%BE-6.png" width="300" />
 </div>
+
 
 
 
@@ -43,7 +46,7 @@ Smart Hub is the powerful brain of Roombanker Secuiry & Automation system, enabl
   | Admin       | × 4      |
   | App User    | × 32     |
   | Local User  | × 32     |
-  
+
   
 
 ### Automation scenes
@@ -58,32 +61,42 @@ Smart Hub is the powerful brain of Roombanker Secuiry & Automation system, enabl
 ------
 
 ## 2. Wireless communication
+
 ### RBF communication technology
 
 Innovative and Proprietary wireless communication technology to transmit information.
 
 Key features:
+
 * Ultra-long communication range.(Up to 3.5km@open area)
 * Two-way communication.
 * AES-CCM encryption featuring a random key.
 * OTA by wireless.
 * Instant notifications.
 * Remote control via RB Link App.
+
 ### Frequency bands
+
 * **868 MHz version**: 863 ~ 870 MHz
 * **915 MHz version**: 902 ~ 928 MHz  
-*Depends on sales region.*
+  *Depends on sales region.*
+
 ### Wireless signal modulation
+
 * FSK / DSSS
 
 ### Wireless signal range
 
 * Up to **3,500m** in open space  
-Between the hub and connected devices.  
-*Maximum range depends on the connected device.*
+  Between the hub and connected devices.  
+  *Maximum range depends on the connected device.*
+
 ### Encrypted communication
+
 All the data transmitted are protected by AES-CCM encryption with a random key.
+
 ### Frequency hopping (FHSS)
+
 * up to 50 channels available to prevent radio interference and radio signal interception.
 
 ### Time division multiple access (TDMA)
@@ -98,6 +111,7 @@ All the data transmitted are protected by AES-CCM encryption with a random key.
 ### Ethernet
 
 * 1 × RJ45 Ethernet connector: 10/100 Mbps.
+
 ### Cellular
 
 * 1 × Standard SIM slot
@@ -110,7 +124,6 @@ All the data transmitted are protected by AES-CCM encryption with a random key.
   | USA                                   | B2/B4/B5/B12/B13/B14/B66/B71 | -                   |             |
   | Latin America                         | B2/ 3/ 4/ 5/ 7/ 8/ 28/ 66    | -                   | B2/ 3/ 5/ 8 |
   | China                                 | B1/ 3/ 5/ 8                  | B34/ 38/ 39/ 40/ 41 | B3/ 8       |
-  
 
 > Note: 
 >
@@ -121,7 +134,9 @@ All the data transmitted are protected by AES-CCM encryption with a random key.
 ### Wi-Fi
 
 * 2.4G, 802.11 b/g/n
+
 ### Communication channels prioritization
+
 1. Ethernet
 
 2. Wi-Fi
@@ -133,24 +148,34 @@ All the data transmitted are protected by AES-CCM encryption with a random key.
 ------
 
 ## 4. Notifications
+
 ### Supported notification types
+
 * App notification Push / SMS / Phone Calls
 
 ------
 
 ## 5. Power Supply
+
 ### External plug
+
 * Type-C, DC5V, 2A
+
 ### Backup Battery
+
 * Built-in backup battery: 1 × 18650 lithium battery，2,500mAh  
-*Up to 8 hours backup time*
+  *Up to 8 hours backup time*
 
 ------
 
 ## 6. Anti-sabotage
+
 ### Tamper alarm
+
 The system receives notifications about attempts to detach the device from the surface or remove it from the mounting panel.
+
 ### Anti-jamming
+
 The users  receive notifications in case of jamming or when the hub loses connection with the devices.
 
 ------
@@ -189,12 +214,12 @@ The users  receive notifications in case of jamming or when the hub loses connec
 
 ### Available models
 
-|     Hub      |  Model Name  | RBF  | Zigbee | Ethernet | Wi-Fi | GPRS | LTE  |
-| :----------: | :----------: | :--: | :----: | :------: | :---: | :--: | :--: |
-| Station-GPRS | RBGW-201-868 |  √   |   √    |    √     |   √   |  √   |  ×   |
-| Station-GPRS | RBGW-201-915 |  √   |   √    |    √     |   √   |  √   |  ×   |
-| Station-LTE  | RBGW-202-868 |  √   |   √    |    √     |   √   |  ×   |  √   |
-| Station-LTE  | RBGW-202-915 |  √   |   √    |    √     |   √   |  ×   |  √   |
+|     Hub     |   Model Name   | RBF  | Zigbee | Ethernet | Wi-Fi | LTE  |
+| :---------: | :------------: | :--: | :----: | :------: | :---: | :--: |
+|  Station-B  | RBGW-201-868-B |  √   |   ×    |    √     |   √   |  ×   |
+|  Station-B  | RBGW-201-915-B |  √   |   ×    |    √     |   √   |  ×   |
+| Station-LTE |  RBGW-202-868  |  √   |   √    |    √     |   √   |  √   |
+| Station-LTE |  RBGW-202-915  |  √   |   √    |    √     |   √   |  √   |
 
 > Note：Station-LTE needs to select LTE region. 
 >
@@ -204,6 +229,7 @@ The users  receive notifications in case of jamming or when the hub loses connec
 > * Region 4: China
 
 ### Certifications
+
 * CE
 * FCC
 
