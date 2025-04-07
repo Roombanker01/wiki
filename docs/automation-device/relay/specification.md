@@ -159,12 +159,9 @@ RBF Relay is a dry contact relay to control 6-36 V⎓ power supply remotely.
 
 ### Certifications
 
-* CE, CB
+* CE
 * FCC
-* ICASA
-* RCM
-* NOM
-* Anatel
+
 
 ### Warranty
 
