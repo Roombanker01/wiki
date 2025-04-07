@@ -148,12 +148,8 @@ The surface-mounted door magnetic sensor always monitor the opening and closing 
 
 ### Certifications
 
-* CE, CB
+* CE
 * FCC
-* ICASA
-* LOA
-* RCM
-* NOM
-* Anatel
+
 ### Warranty
 * Replacement and repair within 24 months of the date of sale. Batteries are not covered under warranty.
