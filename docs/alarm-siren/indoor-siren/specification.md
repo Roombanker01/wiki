@@ -179,13 +179,8 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 
 ### Certifications
 
-* CE, CB
+* CE
 * FCC
-* ICASA
-* LOA
-* RCM
-* NOM
-* Anatel
 
 ### Warranty
 
