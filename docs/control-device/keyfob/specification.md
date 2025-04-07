@@ -148,12 +148,9 @@ The portable wireless keyfob simplifies control operations with one-click arming
 
 ### Certifications
 
-* CE, CB
+* CE
 * FCC
-* ICASA
-* RCM
-* NOM
-* Anatel
+
 
 ### Warranty
 
