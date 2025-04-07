@@ -162,12 +162,9 @@ The water leak detector with extension cable design for multi-point high-precisi
 
 ### Certifications
 
-* CE, CB
+* CE
 * FCC
-* ICASA
-* RCM
-* NOM
-* Anatel
+
 
 ### Warranty
 
