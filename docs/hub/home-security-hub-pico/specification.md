@@ -241,13 +241,9 @@ The users  receive notifications in case of jamming or when the hub loses connec
 
 ### Certifications
 
-* CE, CB
+* CE
 * FCC
-* ICASA
-* LOA
-* RCM
-* NOM
-* Anatel
+
 
 
 
