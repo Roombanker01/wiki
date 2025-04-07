@@ -168,12 +168,8 @@ A compact and exquisite [temperature and humidity monitor](https://www.roombanke
 
 ### Certifications
 
-* CE, CB
+* CE
 * FCC
-* ICASA
-* RCM
-* NOM
-* Anatel
 
 ### Warranty
 
