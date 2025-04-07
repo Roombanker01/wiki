@@ -218,8 +218,8 @@ The users  receive notifications in case of jamming or when the hub loses connec
 | :---------: | :------------: | :--: | :----: | :------: | :---: | :--: |
 |  Station-B  | RBGW-201-868-B |  √   |   ×    |    √     |   √   |  ×   |
 |  Station-B  | RBGW-201-915-B |  √   |   ×    |    √     |   √   |  ×   |
-| Station-LTE |  RBGW-202-868  |  √   |   √    |    √     |   √   |  √   |
-| Station-LTE |  RBGW-202-915  |  √   |   √    |    √     |   √   |  √   |
+|  Station    |  RBGW-202-868  |  √   |   √    |    √     |   √   |  √   |
+|  Station    |  RBGW-202-915  |  √   |   √    |    √     |   √   |  √   |
 
 > Note：Station-LTE needs to select LTE region. 
 >
