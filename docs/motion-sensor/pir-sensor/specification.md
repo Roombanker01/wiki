@@ -184,12 +184,9 @@ The passive infrared sensor detects motion by detecting changes in infrared (IR)
 
 ### Certifications
 
-* CE, CB
+* CE
 * FCC
-* ICASA
-* RCM
-* NOM
-* Anatel
+
 
 
 
