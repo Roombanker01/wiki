@@ -404,18 +404,18 @@ const sidebars = {
    },
    {
       type: "category",
-      label: "Module",
+      label: "Chip",
       className:'bolder',
       collapsed: true,
       items: [
         {
           type: "category",
-          label: "RBF Module",
+          label: "RBF Chip",
           items: [
             {
               type: "doc",
               id: "Module/RBF-Module",
-              label: "RBF Module",
+              label: "RBF Chip",
             },
           ]
         },
