@@ -141,39 +141,33 @@ Mark depth：±50um
 
 ### 3.1  Technical Specification
 
-| Model                   | RB4331                     | RB8681                      | RB9151                    |
-| ----------------------- | -------------------------- | --------------------------- | ------------------------- |
-| **Hardware**            |                            |                             |                           |
-| Frequency Band          | 433.12MHz~435.12MHz        | 863 MHz ~ 870 MHz           | 902 MHz ~ 928 MHz         |
-| Antenna Option          | U.FL, RF pad               | U.FL, RF pad                | U.FL, RF pad              |
-| RAM                     | 64 KB                      | 64 KB                       | 64 KB                     |
-| Flash                   | 512 KB                     | 512 KB                      | 512 KB                    |
-| **Performance**         |                            |                             |                           |
-| RF Data Rate            | 2 kbps ~ 100 kbps          | 2 kbps ~ 100 kbps           | 2 kbps ~ 100 kbps         |
-| Transmit  Range         | Up to 3.5  km(Open Area)   | Up to 3.5  km(Open Area)    | Up to 3.5  km(Open Area)  |
-| Transmit Power          | Max. 20dBm                 | Max. 20dBm                  | Max. 20dBm                |
-| Receiver ensitivity     | -110.7 dBm  @50kbps(2GFSK) | -113.3 dBm @38.4kbps(2GFSK) | -96.9 dBm @2Mbps(2GFSK)   |
-| Modulation              | FSK  / DSSS                | FSK  / DSSS                 | FSK  / DSSS               |
-| **Feature**             |                            |                             |                           |
-| Digital I/O             | 21-ch Digital I/O          | 21-ch Digital I/O           | 21-ch Digital I/O         |
-| Analog Input            | 21-ch Analog Inputs        | 21-ch Analog Inputs         | 21-ch Analog Inputs       |
-| Networking Topology     | Star                       | Star                        | Star                      |
-| Encryption              | AES-CCM+Random Number Key  | AES-CCM+Random Number Key   | AES-CCM+Random Number Key |
-| Image Transmit          | Support                    | Support                     | Support                   |
-| OTA                     | Support                    | Support                     | Support                   |
-| **Power**               |                            |                             |                           |
-| Supply Voltage          | 1.7 V ~ 3.8V               | 1.7 V ~ 3.8V                | 1.7 V ~ 3.8V              |
-| Transmit Current        | Max 76.8 mA(20dBm)         | Max 90.6 mA(20dBm)          | Max 92 mA(20dBm)          |
-| Receive Current         | 6.7@ (2-GFSK, 100kbps)     | 6.3@ (2-GFSK, 38.4kbps)     | 8.5@ (2-GFSK, 2 Mbps)     |
-| Sleep Current           | < 2 μA                     | < 2 μA                      | < 2 μA                    |
-| **General**             |                            |                             |                           |
-| Dimension               | 10mm × 10mm  × 1.72mm      | 10mm × 10mm  × 1.72mm       | 10mm × 10mm  × 1.72mm     |
-| Weight                  | 1.8g                       | 1.8g                        | 1.8g                      |
-| Operating Temperature   | -40 °C  ~ 85 °C            | -40 °C  ~ 85 °C             | -40 °C  ~ 85 °C           |
-| Storage Temperature     | -40℃ ~ 125℃                | -40℃ ~ 125℃                 | -40℃ ~ 125℃               |
-| **Regulatory Approval** |                            |                             |                           |
-| ETSI (Europe)           | CE/RED                     | CE/RED                      | CE/RED                    |
-| RoHS                    | Compliant                  | Compliant                   | Compliant                 |
+| Model                 | RB4331                     | RB8681                      | RB9151                    |
+| --------------------- | -------------------------- | --------------------------- | ------------------------- |
+| Frequency Band        | 433.12MHz~435.12MHz        | 863 MHz ~ 870 MHz           | 902 MHz ~ 928 MHz         |
+| Antenna Option        | U.FL, RF pad               | U.FL, RF pad                | U.FL, RF pad              |
+| RAM                   | 64 KB                      | 64 KB                       | 64 KB                     |
+| Flash                 | 512 KB                     | 512 KB                      | 512 KB                    |
+| RF Data Rate          | 2 kbps ~ 100 kbps          | 2 kbps ~ 100 kbps           | 2 kbps ~ 100 kbps         |
+| Transmit  Range       | Up to 3.5  km(Open Area)   | Up to 3.5  km(Open Area)    | Up to 3.5  km(Open Area)  |
+| Transmit Power        | Max. 20dBm                 | Max. 20dBm                  | Max. 20dBm                |
+| Receiver ensitivity   | -110.7 dBm  @50kbps(2GFSK) | -113.3 dBm @38.4kbps(2GFSK) | -96.9 dBm @2Mbps(2GFSK)   |
+| Modulation            | FSK  / DSSS                | FSK  / DSSS                 | FSK  / DSSS               |
+| Digital I/O           | 21-ch Digital I/O          | 21-ch Digital I/O           | 21-ch Digital I/O         |
+| Analog Input          | 21-ch Analog Inputs        | 21-ch Analog Inputs         | 21-ch Analog Inputs       |
+| Networking Topology   | Star                       | Star                        | Star                      |
+| Encryption            | AES-CCM+Random Number Key  | AES-CCM+Random Number Key   | AES-CCM+Random Number Key |
+| Image Transmit        | Support                    | Support                     | Support                   |
+| OTA                   | Support                    | Support                     | Support                   |
+| Supply Voltage        | 1.7 V ~ 3.8V               | 1.7 V ~ 3.8V                | 1.7 V ~ 3.8V              |
+| Transmit Current      | Max 76.8 mA(20dBm)         | Max 90.6 mA(20dBm)          | Max 92 mA(20dBm)          |
+| Receive Current       | 6.7@ (2-GFSK, 100kbps)     | 6.3@ (2-GFSK, 38.4kbps)     | 8.5@ (2-GFSK, 2 Mbps)     |
+| Sleep Current         | < 2 μA                     | < 2 μA                      | < 2 μA                    |
+| Dimension             | 10mm × 10mm  × 1.72mm      | 10mm × 10mm  × 1.72mm       | 10mm × 10mm  × 1.72mm     |
+| Weight                | 1.8g                       | 1.8g                        | 1.8g                      |
+| Operating Temperature | -40 °C  ~ 85 °C            | -40 °C  ~ 85 °C             | -40 °C  ~ 85 °C           |
+| Storage Temperature   | -40℃ ~ 125℃                | -40℃ ~ 125℃                 | -40℃ ~ 125℃               |
+| ETSI (Europe)         | CE/RED                     | CE/RED                      | CE/RED                    |
+| RoHS                  | Compliant                  | Compliant                   | Compliant                 |
 
 ### 3.2  Absolute Maximum Ratings
 
