@@ -115,23 +115,23 @@ Mark depth：±50um
 
 ​                                  
 
-| **GPIO** | **Alternate Functions**                           |      |
-| -------- | ------------------------------------------------- | ---- |
-| PA00     | IADC0.VREFP                                       |      |
-| PA01     | GPIO.SWCLK                                        |      |
-| PA02     | GPIO.SWDIO                                        |      |
-| PA03     | GPIO.SWV，GPIO.TDO，GPIO.TRACEDATA0，LESENSE.EN_0 |      |
-| PA04     | GPIO.TDI，GPIO.TRACECLK，LESENSE.EN_1             |      |
-| PA05     | GPIO.TRACEDATA1，GPIO.EM4WU0，LESENSE.EN_2        |      |
-| PA06     | GPIO.TRACEDATA2                                   |      |
-| PA07     | GPIO.TRACEDATA3                                   |      |
-| PB00     | VDAC0.CH0_MAIN_OUT                                |      |
-| PB01     | GPIO.EM4WU3，VDAC0.CH1_MAIN_OUT                   |      |
-| GPIO     | Alternate  Functions                              |      |
-| PC0      | GPIO.EM4WU6                                       |      |
-| PC05     | GPIO.EM4WU7                                       |      |
-| PC0      | GPIO.EM4WU8，GPIO.THMSW_EN                        |      |
-| PD02     | GPIO.EM4WU9                                       |      |
+| **GPIO** | **Alternate Functions**                           |
+| -------- | ------------------------------------------------- |
+| PA00     | IADC0.VREFP                                       |
+| PA01     | GPIO.SWCLK                                        |
+| PA02     | GPIO.SWDIO                                        |
+| PA03     | GPIO.SWV，GPIO.TDO，GPIO.TRACEDATA0，LESENSE.EN_0 |
+| PA04     | GPIO.TDI，GPIO.TRACECLK，LESENSE.EN_1             |
+| PA05     | GPIO.TRACEDATA1，GPIO.EM4WU0，LESENSE.EN_2        |
+| PA06     | GPIO.TRACEDATA2                                   |
+| PA07     | GPIO.TRACEDATA3                                   |
+| PB00     | VDAC0.CH0_MAIN_OUT                                |
+| PB01     | GPIO.EM4WU3，VDAC0.CH1_MAIN_OUT                   |
+| GPIO     | Alternate  Functions                              |
+| PC0      | GPIO.EM4WU6                                       |
+| PC05     | GPIO.EM4WU7                                       |
+| PC0      | GPIO.EM4WU8，GPIO.THMSW_EN                        |
+| PD02     | GPIO.EM4WU9                                       |
 
 ### 2.4  Topology & Usage
 
@@ -141,41 +141,39 @@ Mark depth：±50um
 
 ### 3.1  Technical Specification
 
-| **Technical Specification** |                                        |                             |                         |
-| --------------------------- | -------------------------------------- | --------------------------- | ----------------------- |
-| Model                       | RB4331                                 | RB8681                      | RB9151                  |
-| **Hardware**                |                                        |                             |                         |
-| Frequency Band              | 433.12MHz~435.12MHz                    | 863 MHz ~ 870 MHz           | 902 MHz ~ 928 MHz       |
-| Antenna Option              | U.FL, RF pad                           | U.FL, RF pad                | U.FL, RF pad            |
-| RAM                         | 64 KB                                  | 64 KB                       | 64 KB                   |
-| Flash                       | 512 KB                                 | 512 KB                      | 512 KB                  |
-| **Performance**             |                                        |                             |                         |
-| RF Data Rate                | 2 kbps ~ 100 kbps                      |                             |                         |
-| Transmit  Range             | Up to 3.5  km(Open Area)               |                             |                         |
-| Transmit Power              | Max. 20dBm                             |                             |                         |
-| Receiver ensitivity         | -110.7 dBm              @50kbps(2GFSK) | -113.3 dBm @38.4kbps(2GFSK) | -96.9 dBm @2Mbps(2GFSK) |
-| Spectrum Utilization        | FHSS                                   |                             |                         |
-| Modulation                  | FSK  / DSSS                            |                             |                         |
-| **Feature**                 |                                        |                             |                         |
-| Digital I/O                 | 21-ch Digital I/O                      |                             |                         |
-| Analog Input                | 21-ch Analog Inputs                    |                             |                         |
-| Networking Topology         | Star                                   |                             |                         |
-| Encryption                  | AES-CCM+Random Number Key              |                             |                         |
-| Image Transmit              | Support                                |                             |                         |
-| OTA                         | Support                                |                             |                         |
-| **Power**                   |                                        |                             |                         |
-| Supply Voltage              | 1.7 V ~ 3.8V                           |                             |                         |
-| Transmit Current            | Max 76.8 mA(20dBm)                     | Max 90.6 mA(20dBm)          | Max 92 mA(20dBm)        |
-| Receive Current             | 6.7@ (2-GFSK, 100kbps)                 | 6.3@ (2-GFSK, 38.4kbps)     | 8.5@ (2-GFSK, 2 Mbps)   |
-| Sleep Current               | < 2 μA                                 |                             |                         |
-| **General**                 |                                        |                             |                         |
-| Dimension                   | 10mm × 10mm  × 1.72 mm                 |                             |                         |
-| Weight                      | 1.8g                                   |                             |                         |
-| Operating Temperature       | -40 °C  ~ 85 °C                        |                             |                         |
-| Storage Temperature         | -40℃ ~ 125℃                            |                             |                         |
-| **Regulatory Approval**     |                                        |                             |                         |
-| ETSI (Europe)               | CE/RED                                 |                             |                         |
-| RoHS                        | Compliant                              |                             |                         |
+| Model                   | RB4331                     | RB8681                      | RB9151                    |
+| ----------------------- | -------------------------- | --------------------------- | ------------------------- |
+| **Hardware**            |                            |                             |                           |
+| Frequency Band          | 433.12MHz~435.12MHz        | 863 MHz ~ 870 MHz           | 902 MHz ~ 928 MHz         |
+| Antenna Option          | U.FL, RF pad               | U.FL, RF pad                | U.FL, RF pad              |
+| RAM                     | 64 KB                      | 64 KB                       | 64 KB                     |
+| Flash                   | 512 KB                     | 512 KB                      | 512 KB                    |
+| **Performance**         |                            |                             |                           |
+| RF Data Rate            | 2 kbps ~ 100 kbps          | 2 kbps ~ 100 kbps           | 2 kbps ~ 100 kbps         |
+| Transmit  Range         | Up to 3.5  km(Open Area)   | Up to 3.5  km(Open Area)    | Up to 3.5  km(Open Area)  |
+| Transmit Power          | Max. 20dBm                 | Max. 20dBm                  | Max. 20dBm                |
+| Receiver ensitivity     | -110.7 dBm  @50kbps(2GFSK) | -113.3 dBm @38.4kbps(2GFSK) | -96.9 dBm @2Mbps(2GFSK)   |
+| Modulation              | FSK  / DSSS                | FSK  / DSSS                 | FSK  / DSSS               |
+| **Feature**             |                            |                             |                           |
+| Digital I/O             | 21-ch Digital I/O          | 21-ch Digital I/O           | 21-ch Digital I/O         |
+| Analog Input            | 21-ch Analog Inputs        | 21-ch Analog Inputs         | 21-ch Analog Inputs       |
+| Networking Topology     | Star                       | Star                        | Star                      |
+| Encryption              | AES-CCM+Random Number Key  | AES-CCM+Random Number Key   | AES-CCM+Random Number Key |
+| Image Transmit          | Support                    | Support                     | Support                   |
+| OTA                     | Support                    | Support                     | Support                   |
+| **Power**               |                            |                             |                           |
+| Supply Voltage          | 1.7 V ~ 3.8V               | 1.7 V ~ 3.8V                | 1.7 V ~ 3.8V              |
+| Transmit Current        | Max 76.8 mA(20dBm)         | Max 90.6 mA(20dBm)          | Max 92 mA(20dBm)          |
+| Receive Current         | 6.7@ (2-GFSK, 100kbps)     | 6.3@ (2-GFSK, 38.4kbps)     | 8.5@ (2-GFSK, 2 Mbps)     |
+| Sleep Current           | < 2 μA                     | < 2 μA                      | < 2 μA                    |
+| **General**             |                            |                             |                           |
+| Dimension               | 10mm × 10mm  × 1.72mm      | 10mm × 10mm  × 1.72mm       | 10mm × 10mm  × 1.72mm     |
+| Weight                  | 1.8g                       | 1.8g                        | 1.8g                      |
+| Operating Temperature   | -40 °C  ~ 85 °C            | -40 °C  ~ 85 °C             | -40 °C  ~ 85 °C           |
+| Storage Temperature     | -40℃ ~ 125℃                | -40℃ ~ 125℃                 | -40℃ ~ 125℃               |
+| **Regulatory Approval** |                            |                             |                           |
+| ETSI (Europe)           | CE/RED                     | CE/RED                      | CE/RED                    |
+| RoHS                    | Compliant                  | Compliant                   | Compliant                 |
 
 ### 3.2  Absolute Maximum Ratings
 
@@ -261,7 +259,7 @@ Internal Low Frequency Clock for BLE Synchronization: 32.768 kHz Crystal Frequen
 
 ## 5.  Sub-GHz RF Transceiver Characteristics
 
-### 5.1  915 MHz Band +20 dBm RF Characteristics
+### 5.1    915 MHz Band +20 dBm RF Characteristics
 
 Conditions: 25ºC, VCC=3.3V, RF center frequency 915 MHz.
 
@@ -281,7 +279,7 @@ Conditions: 25ºC, VCC=3.3V, RF center frequency 915 MHz.
 |                                  | Desired is reference 250 kbps O QPSK DSSS  signal, PER<1%    | -    | -103.5 | -    | dBm  |
 |                                  | Desired is reference 120 kbps OOK signal8,  PER<20%          | -    | -102.6 | -    | dBm  |
 
-### 5.2  868 MHz Band +20 dBm RF Characteristics
+### 5.2    868 MHz Band +20 dBm RF Characteristics
 
 Conditions: 25ºC, VCC=3.3V, RF center frequency 868 MHz.
 
@@ -299,7 +297,7 @@ Conditions: 25ºC, VCC=3.3V, RF center frequency 868 MHz.
 |                                  | Desired is reference 500 kbps 2GMSK signal, Δf =  ± 125 kHz1, BER<0.1% | -    | -103.2  | -     | dBm  |
 |                                  | Desired is reference 100 kbps O QPSK DSSS signal,  PER<1%    | -    | --110.9 | -     | dBm  |
 
-### 5.3  433 MHz Band +20 dBm RF Characteristics
+### 5.3    433 MHz Band +20 dBm RF Characteristics
 
 Conditions: 25ºC, VCC=3.3V, RF center frequency 433 MHz.
 
