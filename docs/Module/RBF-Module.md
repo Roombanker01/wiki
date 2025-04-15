@@ -34,7 +34,7 @@
 ### 1.2 Product Feature Summary
 
 * Low-power CE/RED certified chip with ultra-low energy consumption, enabling easy battery operation.
-* Communication range of up to 3.5 kilometers (in open space), supporting star and mesh network configurations with a capacity of up to 10,000 devices.
+* Communication range of up to 3.5 kilometers (in open space), supporting star network configurations with a capacity of up to 10,000 devices.
 * Utilizes advanced technologies such as FHSS, TDMA, and AES-CCM+ encryption for secure and reliable data transmission.
 * Low-code development with a packaged protocol stack and user-friendly API accelerates the production process.
 * OTA multicast technology allows simultaneous firmware updates to multiple devices.
