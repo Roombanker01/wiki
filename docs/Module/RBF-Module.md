@@ -65,7 +65,7 @@
 
 ### 2.2 Mark Specification Range
 
-![image-20250417134801293](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20250417134801293.png)
+![图片](https://dusunprj.oss-us-west-1.aliyuncs.com/%E5%9B%BE%E7%89%87.png)
 
 | Code            | Bx                | YY   | MM    | DD   |
 | --------------- | ----------------- | ---- | ----- | ---- |
