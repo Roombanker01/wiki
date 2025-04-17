@@ -115,7 +115,7 @@ It has four parts to consist of the whole system, which are Peripherals, Hub, Ro
 
 ● **Working Principle:** 
 
-The [Home Security Hub](https://www.roombanker.com/products/smart-hub/) is the brain of the whole system, it communicates with peripherals via **RBF** / **Bluetooth** / **Zigbee** wireless protocol. 
+The [Home Security Hub](https://www.roombanker.com/products/smart-hub/) is the brain of the whole system, it communicates with peripherals via **RBF** / **Zigbee** wireless protocol. 
 
 Once an alarm occurred, Hub reports the alarm to cloud via **LAN** / **Wi-Fi** / **4G**, activates the sirens within 0.5 seconds, and notifies the users via APP. Meanwhile, if the users operate the system, such as disarm, Hub will turn siren off and disarm all sensors.
 
