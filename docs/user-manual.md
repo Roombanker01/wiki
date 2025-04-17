@@ -159,7 +159,7 @@ Home security Hub has two different models, called [**Station**](https://wiki.ro
     <tr>
       <td>Transmission Technology</td>
       <td>RBF</td>
-      <td>RBF/Zigbee 3.0/BLE 5.2</td>
+      <td>RBF/Zigbee 3.0</td>
     </tr>
     <tr>
       <td>Transmission Method</td>
