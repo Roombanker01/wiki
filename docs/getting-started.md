@@ -53,7 +53,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Home Security Hub (Station)</h3>
-        <p>Station is an upgraded version of Home Security Hub, with an extra Zigbee and Bluetooth protocol support, and 4G network option to ensure continuous communication once the WiFi and Ethernet failed. It is also equipped with a 2500 mAh Lithium battery for uninterrupted operation. Besides mobile app operation, it has SMS and phone call function.</p>
+        <p>Station is an upgraded version of Home Security Hub, and 4G network option to ensure continuous communication once the WiFi and Ethernet failed. It is also equipped with a 2500 mAh Lithium battery for uninterrupted operation. Besides mobile app operation, it has SMS and phone call function.</p>
     </div>
 </div>
 <div class="iot-list">
