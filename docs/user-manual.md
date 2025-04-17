@@ -92,7 +92,7 @@ All the functions described in the manual are based on the products and version 
 
 ● **Product Positioning:** 
 
-Roombanker focus on the smart security solutions centered around [wireless intrusion alarm system](https://www.roombanker.com/solution/intrusion-detection/), and extended business to a multitude of applications such as [Energy Management](https://www.roombanker.com/solution/energy-management/), [Environmental Safety](https://www.roombanker.com/solution/indoor-environmental-safety/), [Home Automation](https://www.roombanker.com/solution/home-automation/), Asset Tracking and Health Monitoring. All of these applications can be conveniently managed via a one-stop mobile app.
+Roombanker focus on the smart security solutions centered around [wireless intrusion alarm system](https://www.roombanker.com/solution/intrusion-detection/), and extended business to a multitude of applications such as [Energy Management](https://www.roombanker.com/solution/energy-management/), [Environmental Safety](https://www.roombanker.com/solution/indoor-environmental-safety/), [Home Automation](https://www.roombanker.com/solution/home-automation/). All of these applications can be conveniently managed via a one-stop mobile app.
 
 <br />
 
