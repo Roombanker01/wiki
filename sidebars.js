@@ -414,7 +414,7 @@ const sidebars = {
           items: [
             {
               type: "doc",
-              id: "Module/RBF-Module",
+              id: "Chip/RBF-Chip",
               label: "RBF Chip",
             },
           ]
