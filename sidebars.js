@@ -414,13 +414,37 @@ const sidebars = {
           items: [
             {
               type: "doc",
-              id: "Chip/RBF-Chip",
-              label: "RBF Chip",
+              id: "Chip/Introduction",
+              label: "Introduction",
+            },
+            {
+              type: "doc",
+              id: "Chip/Specification",
+              label: "Specification",
             },
           ]
         },
      ],
    },
+   {
+    type: "category",
+    label: "RBF Protocol",
+    className:'bolder',
+    collapsed: true,
+    items: [
+      {
+        type: "category",
+        label: "RBF Protocol",
+        items: [
+          {
+            type: "doc",
+            id: "RBF-Protocol/RBF-Protocol",
+            label: "RBF Protocol",
+          },
+        ]
+      },
+   ],
+ },
   ],
 };
 
