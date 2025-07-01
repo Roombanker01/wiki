@@ -73,6 +73,31 @@ const sidebars = {
     },
     {
       type: "category",
+      label: "Video Alarm Device",
+      className:'bolder',
+      collapsed: true,
+      items: [
+      // ============Smart Hub===============
+        {
+          type: "category",
+          label: "Indoor IPC",
+          items: [
+            {
+              type: "doc",
+              id: "video-alarm-device/indoor-ipc/specification",
+              label: "Specification",
+            },
+            {
+              type: "doc",
+              id: "video-alarm-device/indoor-ipc/quick-start-guide",
+              label: "Quick Start Guide",
+            },
+          ]
+        }
+      ],
+    },    
+    {
+      type: "category",
       label: "Motion Sensor",
       className:'bolder',
       collapsed: true,
