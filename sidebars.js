@@ -93,6 +93,22 @@ const sidebars = {
               label: "Quick Start Guide",
             },
           ]
+        },
+        {
+          type: "category",
+          label: "Outdoor IPC",
+          items: [
+            {
+              type: "doc",
+              id: "video-alarm-device/outdoor-ipc/specification",
+              label: "Specification",
+            },
+            {
+              type: "doc",
+              id: "video-alarm-device/outdoor-ipc/quick-start-guide",
+              label: "Quick Start Guide",
+            },
+          ]
         }
       ],
     },    
