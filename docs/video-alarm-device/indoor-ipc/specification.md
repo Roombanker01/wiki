@@ -1,13 +1,10 @@
 ﻿---
-description: Roombanker offers passive infrared motion detectors to detect motion by sensing changes in infrared (IR) levels caused by the presence of humans within its range.
-title: Custom Passive Infrared Sensor Supplier
-keywords:
-- passive infrared sensor
-- passive infrared motion detector
-- passive infrared motion sensor
+description: Roombanker Indoor IPC.
+title: Indoor IPC
 tags:
-- PIR sensor spec
+- Indoor IPC spec
 ---
 
+![indoor-qsg-0](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/spec/indoor-spec-1.png)
 
 **Note: Stay tuned for our new product launch next month!*
