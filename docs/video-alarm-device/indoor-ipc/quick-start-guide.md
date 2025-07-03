@@ -5,6 +5,11 @@ tags:
 - Indoor IPC quick start guide
 ---
 
+import LanguageSelector from '@site/src/components/LanguageSelector';
+
+<LanguageSelector pdfLinks={{
+  English: 'https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/docs/indoor-ipc/IndoorIPC-RBVD-IC1-M4-QuickStartGuide-250703-V1.pdf',
+}} />
 
 ## 1. Appearance
 ![indoor-qsg-1](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-1.png)
