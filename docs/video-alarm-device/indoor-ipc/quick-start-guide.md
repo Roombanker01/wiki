@@ -1,5 +1,5 @@
 ---
-description: This page tell you how to install Roombanker Passive Infrared Motion Detector, and how to add it into the security alarm and home automation system in order to quickly use it.
+description: This page tell you how to install Roombanker Indoor IPC, and how to add it into the security alarm and home automation system in order to quickly use it.
 title: Indoor IPC
 tags:
 - Indoor IPC quick start guide
