@@ -62,5 +62,13 @@ b.Fix the included mounting bracket to the clean surface.
 c.Insert the camera to the bracket.  
 
 ## 7. Device Specifications
+| Parameter                      | Value                                                        |
+| :----------------------------- | ------------------------------------------------------------ |
+| Model                          | RBSS-MC1                                                     |
+| Detection Method               | Opening Contact                                              |
+| Detection Gap                  | >17 mm                                                       |
+| Advanced Features              | Digital Processing， Signal Strength detection， Find me     |
+| Tamper Protection              | Rear                                                         |
+| Transmission Technology        | RBF Wireless Transmission                                    |
 
 
