@@ -1,8 +1,8 @@
 ---
-description: This page tell you how to install Roombanker Passive Infrared Motion Detector, and how to add it into the security alarm and home automation system in order to quickly use it.
-title: How to Setup Passive Infrared Motion Detector?
+description: This page tell you how to install Roombanker Outdoor IPC, and how to add it into the security alarm and home automation system in order to quickly use it.
+title: Outdoor IPC
 tags:
-- Passive Infrared Motion Detector quick start guide
+- Outdoor IPC quick start guide
 ---
 
 
