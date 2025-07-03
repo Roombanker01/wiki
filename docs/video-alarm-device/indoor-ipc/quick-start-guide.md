@@ -62,26 +62,4 @@ c.Insert the camera to the bracket.<br>
 
 ## 7. Device Specifications
 
-### 7.1 Feature
-| Parameter                                        | Value                                         |
-| :----------------------------------------------- | ----------------------------------------------|
-| Pixel                                            | 4 million pixels                              |
-| Effective Pixels                                 | 2560(H) x 1440(V)                             |
-| Lens&FOV(Horizontal/Vertical/Diagonal)           | 85°/45°/95°                                   |
-| Pan/Tilt                                         | Pan: 0° ~ 350°, tilt: 50° ~ -45°                  |
-| IR Distance                                      | Night visibility up to 10m                    |
-| Voice Type                                       | Two-way audio                                 |
-| Mobile Phone OS                                  | iOS 9 or later, Android 5 or later            |
-
-
-### 7.2 General
-| Parameter                                        | Value                                         |
-| :----------------------------------------------- | ----------------------------------------------|
-| Storage                                          | TF card (Up to 256GB)                         |
-| Operation temperature                            | -20°C to 50°C                                 |
-| Power Supply                                     | DC 5V/1A (Type-C)                             |
-| Power Consumption                                | Up to 4.5W                                    |
-| Dimensions                                       | φ82 x 106mm                                   |
-| Net Weight                                       | 188g                                          |
-
 
