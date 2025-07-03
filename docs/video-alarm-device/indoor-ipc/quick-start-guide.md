@@ -1,16 +1,17 @@
 ---
 description: This page tell you how to install Roombanker Passive Infrared Motion Detector, and how to add it into the security alarm and home automation system in order to quickly use it.
 title: Indoor IPC
+title: Indoor IPC
 tags:
 - Indoor IPC quick start guide
 ---
-
+<!--
 import LanguageSelector from '@site/src/components/LanguageSelector';
 
 <LanguageSelector pdfLinks={{
   English: 'https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/docs/indoor-ipc/Indoor%20IPC%20RBVD-IC1-M4%20Quick%20Start%20Guide-250703-V1.pdf',
 }} />
-
+-->
 ## 1. Appearance
 ![indoor-qsg-1](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-1.png)
 
