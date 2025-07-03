@@ -1,10 +1,6 @@
 ﻿---
 description: Roombanker Outdoor IPC.
 title: Outdoor IPC
-keywords:
-- passive infrared sensor
-- passive infrared motion detector
-- passive infrared motion sensor
 tags:
 - Outdoor IPC spec
 ---
