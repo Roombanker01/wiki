@@ -8,6 +8,8 @@ tags:
 ## 1. Appearance
 ![indoor-qsg-1](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-1.png)
 
+![indoor-qsg-3](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-2.png)
+
 ## 2. Packaging List
 
 ![indoor-qsg-3](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-3.png)
