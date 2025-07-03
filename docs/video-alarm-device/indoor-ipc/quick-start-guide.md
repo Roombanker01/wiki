@@ -62,13 +62,17 @@ b.Fix the included mounting bracket to the clean surface.
 c.Insert the camera to the bracket.  
 
 ## 7. Device Specifications
-| Parameter                      | Value                                                        |
-| :----------------------------- | ------------------------------------------------------------ |
-| Model                          | RBSS-MC1                                                     |
-| Detection Method               | Opening Contact                                              |
-| Detection Gap                  | >17 mm                                                       |
-| Advanced Features              | Digital Processing， Signal Strength detection， Find me     |
-| Tamper Protection              | Rear                                                         |
-| Transmission Technology        | RBF Wireless Transmission                                    |
+### 7.1 Feature
+
+| Parameter                                | Value                                              |
+| :--------------------------------------- | -------------------------------------------------- |
+| Pixel                                    | 4 million pixels                                   |
+| Effective Pixels                         | 2560(H) x 1440(V)                                  |
+| Lens&FOV(Horizontal /Vertical/Diagonal)  | 85°/45°/95°                                        |
+| Pan/Tilt                                 | Pan:0° ~ 350°, tilt: 50° ~ -45°                    |
+| IR Distance                              | Night visibility up to 10m                         |
+| Mobile Phone OS                          | iOS 9 or later, Android 5 or later                 |
+
+### 7.2 General
 
 
