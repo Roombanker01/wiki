@@ -16,7 +16,8 @@ tags:
 
 
 ## 3. Guidance on setting the network
-"RB Link" App Installation：
+"RB Link" App Installation：  
+
 ![app-downloads-QRCode](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/app-downloads-QRCode.png)
 
 ## 4. Set up router
@@ -27,38 +28,38 @@ Ensure you have the SSID and password.
 
 **Note:** 
 The length of the Wi-Fi SSID and password should not exceed 24 characters.
-If your device has trouble connecting to the Wi-Fi network, or if you wish to switch networks, press and hold the RESET button for 5 seconds to reset the device.<br>
+If your device has trouble connecting to the Wi-Fi network, or if you wish to switch networks, press and hold the RESET button for 5 seconds to reset the device.  
 
 ## 5. Add Indoor Camera
 
-1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.<br>
-2.Click " + --> Scan " to add Camera by scanning the QR code.<br>
-3.Connect to the internet via Wi-Fi, the blue indicator turns on when the connection is successful.<br>
-![indoor-qsg-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-6.png)<br>
+1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.  
+2.Click " + --> Scan " to add Camera by scanning the QR code.  
+3.Connect to the internet via Wi-Fi, the blue indicator turns on when the connection is successful.  
+![indoor-qsg-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-6.png)  
 
 ## 6. Installation Instruction
 ### 6.1 TF card installation (optional)
 
-a.Push the camera upwards to reveal the TF card slot.<br>
-![indoor-qsg-7](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-7.png)<br>
-b.Insert the TF card (sold separately) into the TF card slot.<br>
-![indoor-qsg-8](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-8.png)<br>
+a.Push the camera upwards to reveal the TF card slot.  
+![indoor-qsg-7](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-7.png)  
+b.Insert the TF card (sold separately) into the TF card slot.  
+![indoor-qsg-8](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-8.png)  
 
 ### 6.2 Installation
 
-- Method 1<br>
-Place the camera on a horizontal surface where Wi-Fi singal is strong.<br>
-![indoor-qsg-9](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-9.png)<br>
+- Method 1  
+Place the camera on a horizontal surface where Wi-Fi singal is strong.  
+![indoor-qsg-9](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-9.png)  
 
-- Method 2<br>
-Install the device to ceiling.<br>
+- Method 2  
+Install the device to ceiling.  
 
-**Note:** Make sure the wall is strong enough to withstand 3 times the weight of the device.<br>
-Do not stick the adhesive tape on the limewashed walls.<br>
-a.Pick a clean and flat surface.<br>
-b.Fix the included mounting bracket to the clean surface.<br>
-![indoor-qsg-10](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-10.png)<br>
-c.Insert the camera to the bracket.<br>
+**Note:** Make sure the wall is strong enough to withstand 3 times the weight of the device.  
+Do not stick the adhesive tape on the limewashed walls.  
+a.Pick a clean and flat surface.  
+b.Fix the included mounting bracket to the clean surface.  
+![indoor-qsg-10](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-10.png)  
+c.Insert the camera to the bracket.  
 
 ## 7. Device Specifications
 
