@@ -55,7 +55,7 @@ const sidebars = {
         },
         {
           type: "category",
-          label: "Home Security Hub (Station)",
+          label: "Home Security Hub (R2 PRO)",
           items: [
             {
               type: "doc",
