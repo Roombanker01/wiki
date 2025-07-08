@@ -27,7 +27,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
         <img src="https://www.roombanker.com/wp-content/uploads/2023/12/smart-hub-roombanker-rbgw-big.png" style={{maxWidth:'70%'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
-        <h3>Home Security Hub (Pico)</h3>
+        <h3>Home Security Hub (R2)</h3>
         <p>This hub functions as a powerful brain of Roombanker security alarm system. It has WiFi and Ethernet options, and support RBF protocol. As a central control unit, it can manage up to 64 wireless peripherals and 64 rooms.</p>
     </div>
 </div>
@@ -52,7 +52,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
         <img src="https://www.roombanker.com/wp-content/uploads/2023/12/smart-hub-roombanker-rbgw-big.png" alt="Roombanker Smart Alarm Hub" style={{maxWidth:'70%'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
-        <h3>Home Security Hub (Station)</h3>
+        <h3>Home Security Hub (R2 PRO)</h3>
         <p>Station is an upgraded version of Home Security Hub, and 4G network option to ensure continuous communication once the WiFi and Ethernet failed. It is also equipped with a 2500 mAh Lithium battery for uninterrupted operation. Besides mobile app operation, it has SMS and phone call function.</p>
     </div>
 </div>
