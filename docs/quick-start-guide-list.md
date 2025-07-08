@@ -2,8 +2,10 @@
 
 | Device Name | Quick Start Guide  |
 |-----|-----|
-| Home Security Hub `Pico` | [View](https://wiki.roombanker.com/hub/home-security-hub-pico/quick-start-guide) |
-| Home Security Hub `Station` | [View](https://wiki.roombanker.com/hub/home-security-hub-station/quick-start-guide) |
+| Home Security Hub `R2` | [View](https://wiki.roombanker.com/hub/home-security-hub-pico/quick-start-guide) |
+| Home Security Hub `R2 PRO` | [View](https://wiki.roombanker.com/hub/home-security-hub-station/quick-start-guide) |
+| Indoor IPC | [View](https://wiki.roombanker.com/video-alarm-device/indoor-ipc/quick-start-guide) |
+| Outdoor IPC | [View](https://wiki.roombanker.com/video-alarm-device/outdoor-ipc/quick-start-guide) |
 | PIR Sensor | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/quick-start-guide) |
 | Door Magnetic Sensor | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/quick-start-guide) |
 | Panic Button | [View](https://wiki.roombanker.com/panic-button/panic-button/quick-start-guide) |
