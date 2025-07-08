@@ -39,7 +39,7 @@ const sidebars = {
        // ============Smart Hub===============
         {
           type: "category",
-          label: "Home Security Hub (Pico)",
+          label: "Home Security Hub (R2)",
           items: [
             {
               type: "doc",
