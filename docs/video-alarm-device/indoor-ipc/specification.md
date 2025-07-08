@@ -28,3 +28,41 @@ The RBVD-IC1-M4 is an indoor 4MP Wi-Fi camera developed by Roombanker, featuring
 - Support WebRTC
 - Mode（Hidden lens to protect privacy）
 - Support OTA
+
+# 2. Specification
+Technical Specification
+## 2.1. Camera
+## 2.2. Video&Audio
+## 2.3. Network
+## 2.4. General
+
+# 3. Compatibility
+Operates with all Roombanker Home Security Hubs, Can also work independently
+
+# 4. Complete set
+
+| :-------------------------- | :-----|
+| Camera                      | 1     |
+| Mounting bracket+Screw      | 1     |
+| Charging cable              | 1     |
+| QSG                         | 1     |
+
+
+# 5. Additional information
+## 5.1. Available models
+- RBVD-IC1-M4(US)
+- RBVD-IC1-M4(EU)
+
+## 5.2. Certifications and test standard
+
+| Information Description        | Standard(Yes) custom(No)    |
+| :----------------------------- | :---------------------------|
+| ESD Testing                    | Yes                         |
+| Environmental Testing          | Yes                         |
+| Reliability Testing            | Yes                         | 
+| Factory certifications         | ISO9001/IOS14001/BSCI       |
+| Device certifications          | FCC/CE/RoHS                 |
+
+# 6. Warranty
+Replacement and repair within 24 months of the date of sale. 
+
