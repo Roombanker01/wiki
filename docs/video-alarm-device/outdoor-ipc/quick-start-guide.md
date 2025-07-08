@@ -5,9 +5,9 @@ tags:
 - Outdoor IPC quick start guide
 ---
 
-
-  
-![outdoor-qsg-0](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/spec/outdoor-spec-1.png)
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/spec/outdoor-spec-1.png" width="150" />
+</div>
 
 import LanguageSelector from '@site/src/components/LanguageSelector';
 
