@@ -4,6 +4,8 @@
 |-----|-----|
 | Home Security Hub (R2) | [View](https://wiki.roombanker.com/hub/home-security-hub-pico/specification) |
 | Home Security Hub (R2 PRO) | [View](https://wiki.roombanker.com/hub/home-security-hub-station/specification) |
+| Indoor IPC | [View](https://wiki.roombanker.com/video-alarm-device/indoor-ipc/specification) |
+| Outdoor IPC | [View](https://wiki.roombanker.com/video-alarm-device/outdoor-ipc/specification) |
 | PIR Sensor | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/specification) |
 | Door Magnetic Sensor | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/specification) |
 | Panic Button | [View](https://wiki.roombanker.com/panic-button/panic-button/specification) |
