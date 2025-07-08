@@ -5,8 +5,9 @@ tags:
 - Indoor IPC quick start guide
 ---
 
-  
-![indoor-qsg-0](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/spec/indoor-spec-1.png)
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/spec/indoor-spec-1.png" width="150" />
+</div>
 
 import LanguageSelector from '@site/src/components/LanguageSelector';
 
