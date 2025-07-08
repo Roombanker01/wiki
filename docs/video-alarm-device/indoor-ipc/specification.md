@@ -5,15 +5,22 @@ tags:
 - Indoor IPC spec
 ---
 
-![indoor-qsg-0](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/spec/indoor-spec-1.png)
-
-import LanguageSelector from '@site/src/components/LanguageSelector';
-
-<LanguageSelector pdfLinks={{
-  English: 'https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/docs/indoor-ipc/Roombanker-IndoorCamera-RBVD-IC1-M4-Spec.pdf',
-}} />
-
 # 1. Product Description
+
+<div style={{textAlign: 'center'}}>
+<button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
+</div>
+<br />
+
+<center>
+    Last update: July 8th, 2025.
+</center>
+
+<br />
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/spec/indoor-spec-1.png" width="150" />
+</div>
+
 ## 1.1. Purpose and Description
 The RBVD-IC1-M4 is an indoor 4MP Wi-Fi camera developed by Roombanker, featuring two-way communication and human detection tracking capabilities. When used with the Roombanker Smart Security System, it enables alarm video verification and various video linkage functions.
 
