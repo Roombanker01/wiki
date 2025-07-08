@@ -37,7 +37,7 @@ Technical Specification
 | :----------------------------- | :--------------------------------------------|
 | Image Sensor                   | 1/3.0'' 4Megapixel CMOS                      |
 | Effective Pixels               | 2560(H)  x  1440(V)                          |
-| Shutter                        | 1/20~1/10,000s                               | 
+| Shutter                        | 1/20 ~ 1/10,000s                               | 
 | Min. Illumination              | Color 0.1Lux@F2.0, Black/White 0.01Lux@F2.0  |
 | IR Distance                    | Night visibility up to 10m                   |
 | Day/Night                      | Auto(ICR)/Color/B&W                          |
@@ -48,7 +48,7 @@ Technical Specification
 | Parameter                      | Value                                        |
 | :----------------------------- | :--------------------------------------------|
 | Compression                    | H.265                                        |
-| Bit Rate                       | 32Kbps~2Mbps                                 |
+| Bit Rate                       | 32Kbps ~ 2Mbps                                 |
 | Frame Rate                     | 1~20fps                                      | 
 | Dual Stream                    | Yes                                          |
 | Audio Input/Output             | Built-in mic/speaker                         |
@@ -67,7 +67,7 @@ Technical Specification
 ## 2.4. General
 | Parameter                      | Value                                        |
 | :----------------------------- | :--------------------------------------------|
-| Pan/Tilt                       | Pan: 0°~350°, tilt: 50°~-45°                 |
+| Pan/Tilt                       | Pan: 0° ~ 350°, tilt: 50° ~ -45°                 |
 | Operating Temperature          | -20 °C to 50 °C                              |
 | Power Supply                   | DC 5V/1A                                     | 
 | Power Consumption              | Up to 4.5W                                   |
