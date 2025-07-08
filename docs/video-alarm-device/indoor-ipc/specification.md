@@ -40,12 +40,12 @@ Technical Specification
 Operates with all Roombanker Home Security Hubs, Can also work independently
 
 # 4. Complete set
-
-| :-------------------------- | :-----|
-| Camera                      | 1     |
-| Mounting bracket+Screw      | 1     |
-| Charging cable              | 1     |
-| QSG                         | 1     |
+| Name                        | Quantity |
+| :-------------------------- | :--------|
+| Camera                      | 1        |
+| Mounting bracket+Screw      | 1        |
+| Charging cable              | 1        |
+| QSG                         | 1        |
 
 
 # 5. Additional information
