@@ -1,4 +1,4 @@
-# Home Security Hub (Station) 
+# Home Security Hub (R2 PRO) 
 <div class="centered-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LxyFju8yxYk?si=Esfy3QSL_6OLpu0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -81,7 +81,7 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
 | Ethernet                | 1 x RJ45， 10/100Mbps                             |
 | Cellular                | 1 SIM（ 4G）                                      |
 | Power Supply            | Type-C，5VDC 2A                                   |
-| Transmission Technology | RBF/Zigbee 3.0/BLE                                |
+| Transmission Technology | RBF/BLE                                |
 | Transmission Method     | Two-way wireless (RBF)                            |
 | Transmission Frequency  | 868/915 MHz (RBF)                                 |
 | Transmission Security   | AES-128 Encryption (RBF)                          |
