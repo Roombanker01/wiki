@@ -2,8 +2,8 @@
 
 | Device Name | Specification  |
 |-----|-----|
-| Home Security Hub (Pico) | [View](https://wiki.roombanker.com/hub/home-security-hub-pico/specification) |
-| Home Security Hub (Station) | [View](https://wiki.roombanker.com/hub/home-security-hub-station/specification) |
+| Home Security Hub (R2) | [View](https://wiki.roombanker.com/hub/home-security-hub-pico/specification) |
+| Home Security Hub (R2 PRO) | [View](https://wiki.roombanker.com/hub/home-security-hub-station/specification) |
 | PIR Sensor | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/specification) |
 | Door Magnetic Sensor | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/specification) |
 | Panic Button | [View](https://wiki.roombanker.com/panic-button/panic-button/specification) |
