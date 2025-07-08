@@ -1,4 +1,4 @@
-﻿# Home Security Hub (Pico)
+﻿# Home Security Hub (R2)
 
 
 <div style={{textAlign: 'center'}}>
@@ -232,10 +232,10 @@ The users  receive notifications in case of jamming or when the hub loses connec
 
 ### Available models
 
-| Hub  | Model Name   | RBF  | Zigbee | Ethernet | Wi-Fi | GPRS | LTE  |
-| ---- | ------------ | ---- | ------ | -------- | ----- | ---- | ---- |
-| Pico | RBGW-101-868 | √    | ×      | √        | √     | ×    | ×    |
-| Pico | RBGW-101-915 | √    | ×      | √        | √     | ×    | ×    |
+| Hub  | Model Name   | RBF  | Ethernet | Wi-Fi | GPRS | LTE  |
+| ---- | ------------ | ---- | -------- | ----- | ---- | ---- |
+| R2   | RBGW-101-868 | √    | √        | √     | ×    | ×    |
+| R2   | RBGW-101-915 | √    | √        | √     | ×    | ×    |
 
 
 
