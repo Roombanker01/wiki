@@ -60,14 +60,14 @@ Technical Specification
 | Wireless Security              | 64/128-bit WPA/WPA2, WPA-PSK/WPA2-PSK, WPS   |
 | Communication Protocol         | HTTP, DHCP, DNS, TCP/IP, RTSP                | 
 | Interface Protocol             | Private                                      |
-| Wireless	                     | 2.4GHz Wi-Fi (IEEE802.11b/g/n/ax)            |
+| Wireless	                     | 2.4GHz&5GHz Wi-Fi (IEEE802.11b/g/n/ax)       |
 | Mobile Phone OS                | iOS 9 or later, Android 5 or later           |
 | Security                       | AES128                                       |
 
 ## 2.4. General
 | Parameter                      | Value                                        |
 | :----------------------------- | :--------------------------------------------|
-| Pan/Tilt                       | Pan: 0° ~ 350°, tilt: 50° ~ -45°                 |
+| Pan/Tilt                       | Pan: 0° ~ 350°, tilt: 50° ~ -45°             |
 | Operating Temperature          | -20 °C to 50 °C                              |
 | Power Supply                   | DC 5V/1A                                     | 
 | Power Consumption              | Up to 4.5W                                   |
