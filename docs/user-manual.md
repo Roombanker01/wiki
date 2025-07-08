@@ -58,15 +58,15 @@ All the functions described in the manual are based on the products and version 
 
 |         **Device**          | **Version** |                             Spec                             |                             QSG                              |          **Device**          | **Version** |                             Spec                             |                             QSG                              |
 | :-------------------------: | :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------: | :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  Home Security Hub (Pico)   |   v1.0.0    | [View](https://wiki.roombanker.com/hub/home-security-hub-pico/specification) | [View](https://wiki.roombanker.com/hub/home-security-hub-pico/quick-start-guide) |          PIR Sensor          |   v1.0.0    | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/specification) | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/quick-start-guide) |
-| Home Security Hub (Station) |   v1.0.0    | [View](https://wiki.roombanker.com/hub/home-security-hub-station/specification) | [View](https://wiki.roombanker.com/hub/home-security-hub-station/quick-start-guide) |         Panic Button         |   v1.0.0    | [View](https://wiki.roombanker.com/panic-button/panic-button/specification) | [View](https://wiki.roombanker.com/panic-button/panic-button/quick-start-guide) |
+|  Home Security Hub (R2)  |   v1.0.0    | [View](https://wiki.roombanker.com/hub/home-security-hub-pico/specification) | [View](https://wiki.roombanker.com/hub/home-security-hub-pico/quick-start-guide) |          PIR Sensor          |   v1.0.0    | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/specification) | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/quick-start-guide) |
+| Home Security Hub (R2 PRO) |   v1.0.0    | [View](https://wiki.roombanker.com/hub/home-security-hub-station/specification) | [View](https://wiki.roombanker.com/hub/home-security-hub-station/quick-start-guide) |         Panic Button         |   v1.0.0    | [View](https://wiki.roombanker.com/panic-button/panic-button/specification) | [View](https://wiki.roombanker.com/panic-button/panic-button/quick-start-guide) |
 |           Keypad            |   v1.0.0    | [View](https://wiki.roombanker.com/control-device/keypad/specification) | [View](https://wiki.roombanker.com/control-device/keypad/quick-start-guide) |     Door Magnetic Sensor     |   v1.0.0    | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/specification) | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/quick-start-guide) |
 |            Relay            |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/relay/specification) | [View](https://wiki.roombanker.com/automation-device/relay/quick-start-guide) |     Water Leak Detector      |   v1.0.0    | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/water-leak-detector/specification) | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/water-leak-detector/quick-start-guide) |
 |         Wall Switch         |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/wall-switch/specification) | [View](https://wiki.roombanker.com/automation-device/wall-switch/quick-start-guide) | Temperature Humidity Monitor |   v1.0.0    | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/specification) | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/quick-start-guide) |
 |        Indoor Siren         |   v1.0.0    | [View](https://wiki.roombanker.com/alarm-siren/indoor-siren/specification) | [View](https://wiki.roombanker.com/alarm-siren/indoor-siren/quick-start-guide) |        Smoke Detector        |   v1.0.0    | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/specification) | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/quick-start-guide) |
 |        Outdoor Siren        |   v1.0.0    | [View](https://wiki.roombanker.com/alarm-siren/outdoor-siren/specification) | [View](https://wiki.roombanker.com/alarm-siren/outdoor-siren/quick-start-guide) |        RB Link (App)         |   v1.0.0    |                              /                               |                              /                               |
-|           Keyfob            |   v0.0.8    | [View](https://wiki.roombanker.com/control-device/keyfob/specification) | [View](https://wiki.roombanker.com/control-device/keyfob/quick-start-guide) |                              |             |                                                              |                                                              |
-|       Smart Plug (US)       |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/smart-plug-us/specification) | [View](https://wiki.roombanker.com/automation-device/smart-plug-us/quick-start-guide) |                              |             |                                                              |                                                              |
+|           Keyfob            |   v0.0.8    | [View](https://wiki.roombanker.com/control-device/keyfob/specification) | [View](https://wiki.roombanker.com/control-device/keyfob/quick-start-guide) |        Indoor IPC                      |  v1.0.0           |            [View](https://wiki.roombanker.com/video-alarm-device/indoor-ipc/specification) | [View](https://wiki.roombanker.com/video-alarm-device/indoor-ipc/quick-start-guide)   |
+|       Smart Plug (US)       |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/smart-plug-us/specification) | [View](https://wiki.roombanker.com/automation-device/smart-plug-us/quick-start-guide) |   Outdoor IPC      |    v1.0.0    |                 [View](https://wiki.roombanker.com/video-alarm-device/outdoor-ipc/specification) | [View](https://wiki.roombanker.com/video-alarm-device/outdoor-ipc/quick-start-guide) |
 |       Smart Plug (EU)       |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/smart-plug-eu/specification) | [View](https://wiki.roombanker.com/automation-device/smart-plug-eu/quick-start-guide) |                              |             |                                                              |                                                              |
 |       Smart Plug (UK)       |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/smart-plug-uk/specification) | [View](https://wiki.roombanker.com/automation-device/smart-plug-uk/quick-start-guide) |                              |             |                                                              |                                                              |
 
@@ -145,21 +145,21 @@ Once an alarm occurred, Hub reports the alarm to cloud via **LAN** / **Wi-Fi** /
 
 ### 1.3 Spec of Hub
 
-Home security Hub has two different models, called [**Station**](https://wiki.roombanker.com/hub/home-security-hub-station/specification) and [**Pico**](https://wiki.roombanker.com/hub/home-security-hub-pico/specification), below form describes the brief comparison between two models.
+Home security Hub has two different models, called [**R2 PRO**](https://wiki.roombanker.com/hub/home-security-hub-station/specification) and [**R2**](https://wiki.roombanker.com/hub/home-security-hub-pico/specification), below form describes the brief comparison between two models.
 
 <table class="center">
   <thead>
     <tr>
       <th>Specifications</th>
-      <th>Home Hub (Pico)</th>
-      <th>Home Hub (Station)</th>
+      <th>Home Hub (R2)</th>
+      <th>Home Hub (R2 PRO)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Transmission Technology</td>
       <td>RBF</td>
-      <td>RBF/Zigbee 3.0</td>
+      <td>RBF</td>
     </tr>
     <tr>
       <td>Transmission Method</td>
@@ -265,7 +265,7 @@ Home security Hub has two different models, called [**Station**](https://wiki.ro
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/note.png)**Note** : 
 >
-> - *The Home Security Hub `Pico` does not have an on/off switch, so it starts automatically when powered on*
+> - *The Home Security Hub `R2` does not have an on/off switch, so it starts automatically when powered on*
 > - *If the green indicator does not begin to flash within two minutes, please press and hold the "Cloud" button on the top of Home Security Hub for 5 seconds until the indicator begins flashing.*
 
 <div align="center">
@@ -536,7 +536,7 @@ Once you subscribe to the Alarm Receiving Center (ARC) service, your installer o
 
 #### 2.5.6 User Guide
 
-You can click to view the Quick Start Guide document of the Hub ([Pico](https://wiki.roombanker.com/hub/home-security-hub-pico/quick-start-guide) / [Station](https://wiki.roombanker.com/hub/home-security-hub-station/quick-start-guide)).
+You can click to view the Quick Start Guide document of the Hub ([R2](https://wiki.roombanker.com/hub/home-security-hub-pico/quick-start-guide) / [R2 PRO](https://wiki.roombanker.com/hub/home-security-hub-station/quick-start-guide)).
 
 ---
 
@@ -1942,7 +1942,7 @@ Step 5: The invitation will be notified here, and click `Agree` to finish the in
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : 
 >
 > - The detailed definition of notification **Alarm**, **Malfunction**, **Event**, **Operation**, will be elaborated in [Charter 7. Notification Management](#charter-7-notification-management) later.
-> - SMS and Phone Call are only supported by Home Security Hub **Station**, not for **Pico**.
+> - SMS and Phone Call are only supported by Home Security Hub **R2 PRO**, not for **R2**.
 > - For each notification, the Hub makes Phone Call and SMS to every user only once no matter successful or not.
 
 #### 5.3.2 Local User Management
