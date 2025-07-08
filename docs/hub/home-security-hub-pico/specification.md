@@ -232,10 +232,10 @@ The users  receive notifications in case of jamming or when the hub loses connec
 
 ### Available models
 
-| Hub  | Model Name   | RBF  | Ethernet | Wi-Fi | GPRS | LTE  |
-| ---- | ------------ | ---- | -------- | ----- | ---- | ---- |
-| R2   | RBGW-101-868 | √    | √        | √     | ×    | ×    |
-| R2   | RBGW-101-915 | √    | √        | √     | ×    | ×    |
+| Hub  | Model Name     | RBF  | Ethernet | Wi-Fi | GPRS | LTE  |
+| ---- | -------------- | ---- | -------- | ----- | ---- | ---- |
+| R2   | RBGW-101-868/B | √    | √        | √     | ×    | ×    |
+| R2   | RBGW-101-915/B | √    | √        | √     | ×    | ×    |
 
 
 
