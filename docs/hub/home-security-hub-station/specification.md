@@ -1,4 +1,4 @@
-# Home Security Hub (Station)
+# Home Security Hub (R2 PRO)
 
 <div style={{textAlign: 'center'}}>
 <button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
@@ -214,12 +214,10 @@ The users  receive notifications in case of jamming or when the hub loses connec
 
 ### Available models
 
-|     Hub     |   Model Name   | RBF  | Zigbee | Ethernet | Wi-Fi | LTE  |
-| :---------: | :------------: | :--: | :----: | :------: | :---: | :--: |
-|  Station-B  | RBGW-201-868-B |  √   |   ×    |    √     |   √   |  ×   |
-|  Station-B  | RBGW-201-915-B |  √   |   ×    |    √     |   √   |  ×   |
-|  Station    |  RBGW-202-868  |  √   |   √    |    √     |   √   |  √   |
-|  Station    |  RBGW-202-915  |  √   |   √    |    √     |   √   |  √   |
+|     Hub     |   Model Name     | RBF  |  Ethernet | Wi-Fi | LTE  |
+| :---------: | :--------------: | :--: |  :------: | :---: | :--: |
+|  R2 PRO     |  RBGW-202-868/A  |  √   |      √    |   √   |  √   |
+|  R2 PRO     |  RBGW-202-915/A  |  √   |      √    |   √   |  √   |
 
 > Note：Station-LTE needs to select LTE region. 
 >
