@@ -219,7 +219,7 @@ The users  receive notifications in case of jamming or when the hub loses connec
 |  R2 PRO     |  RBGW-202-868/A  |  √   |      √    |   √   |  √   |
 |  R2 PRO     |  RBGW-202-915/A  |  √   |      √    |   √   |  √   |
 
-> Note：Station-LTE needs to select LTE region. 
+> Note：R2 PRO LTE needs to select LTE region. 
 >
 > * Region 1: EMEA / ASIA / Australia / New Zealand
 > * Region 2: USA
