@@ -95,9 +95,9 @@ Technical Specification
 | Power Consumption              | Up to 4.0W                                   |
 | Power Consumption              | Up to 4.0W                                   |
 | Optional Accessory             | Solar panel                                  |
-| Storage	                       | TF card(Up to 256GB), Cloud storage          |
-| Dimensions	                   | φ158 × 103 × 200mm                           |
-| Net Weight	                   | 730g                                         |
+| Storage	                     | TF card(Up to 256GB)                         |
+| Dimensions	                 | φ158 × 103 × 200mm                           |
+| Net Weight	                 | 730g                                         |
 
 
 # 3. Compatibility
