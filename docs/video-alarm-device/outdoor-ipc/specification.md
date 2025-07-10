@@ -36,7 +36,7 @@ The RBVD-OC1-M5 is an outdoor 5MP Wi-Fi camera developed by Roombanker, featurin
 - Pan/Tilt rotation
 - PIR with AI human-body detection
 - IP65 weatherproof
-- Support TF card (up to 128GB) / Cloud storage
+- Support TF card (up to 128GB)
 - Support OTA
 
 # 2. Specification
