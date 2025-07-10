@@ -12,7 +12,7 @@ tags:
 import LanguageSelector from '@site/src/components/LanguageSelector';
 
 <LanguageSelector pdfLinks={{
-  English: 'https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/docs/outdoor-ipc/OutdoorIPC-RBVD-OC1-M5-QuickStartGuide-250702-V1.pdf',
+  English: 'https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/docs/outdoor-ipc/QSG-OutdoorIPC-RBVD-OC1-M5-QuickStartGuide-250702-V1.pdf',
 }} />
 
 ## 1. Appearance
