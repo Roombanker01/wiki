@@ -31,7 +31,7 @@ The RBVD-IC1-M4 is an indoor 4MP Wi-Fi camera developed by Roombanker, featuring
 - Motion zone selection
 - Two-way audio (half duplex)
 - Night visibility up to 10m
-- Support TF card (up to 256GB) / Cloud storage
+- Support TF card (up to 256GB)
 - Support WebRTC
 - Mode（Hidden lens to protect privacy）
 - Support OTA
@@ -78,9 +78,9 @@ Technical Specification
 | Operating Temperature          | -20 °C to 50 °C                              |
 | Power Supply                   | DC 5V/1A                                     | 
 | Power Consumption              | Up to 4.5W                                   |
-| Storage	                       | TF card(Up to 256GB), Cloud storage, NVR     |
-| Dimensions	                   | φ82x106mm                                    |
-| Net Weight	                   | 188g                                         |
+| Storage	                     | TF card(Up to 256GB)                         |
+| Dimensions	                 | φ82x106mm                                    |
+| Net Weight	                 | 188g                                         |
 
 
 # 3. Compatibility
