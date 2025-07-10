@@ -90,7 +90,9 @@ Operates with all Roombanker Home Security Hubs, Can also work independently
 | Name                        | Quantity |
 | :-------------------------- | :--------|
 | Camera                      | 1        |
-| Mounting bracket+Screw      | 1        |
+| Bracket                     | 1        |
+| Mounting bracket+Screw      | 3        |
+| Power Adapter               | 1        |
 | Charging cable              | 1        |
 | QSG                         | 1        |
 
