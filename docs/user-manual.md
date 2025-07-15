@@ -1724,6 +1724,22 @@ Daily, weekly, monthly and yearly trends in electricity consumption will be show
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-2.png" width="700" />
 </div>
 
+#### 4.16.2 Set up router
+
+The device supports the 2.4GHz &5GHz WiFi.
+Ensure you have the SSID and password.
+![indoor-qsg-5](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-5.png)
+
+**Note:** 
+The length of the Wi-Fi SSID and password should not exceed 24 characters.
+If your device has trouble connecting to the Wi-Fi network, or if you wish to switch networks, press and hold the RESET button for 5 seconds to reset the device.  
+
+#### 4.16.3 Add Indoor Camera
+
+1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.  
+2.Click " + --> Scan " to add Camera by scanning the QR code.  
+3.Connect to the internet via Wi-Fi, the blue indicator turns on when the connection is successful.  
+![indoor-qsg-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-6.png) 
 
 ### 4.17 Outdoor IPC
 
@@ -1737,6 +1753,29 @@ Daily, weekly, monthly and yearly trends in electricity consumption will be show
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-2.png" width="700" />
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-3.png" width="700" />
 </div>
+
+#### 4.17.2 Set up router
+
+The device supports 2.4GHz WiFi (does not support 5GHz).   
+Please set the router parameters and record your WiFi SSID and password before connecting to the WiFi network.
+![outdoor-qsg-5](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-6.png)
+
+
+## 4.17.3 Add Outdoor Camera
+
+1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.  
+2.Click " + --> Scan " to add Camera by scanning the QR code.  
+3.Connect to the internet via Wi-Fi, the blue indicator turns on when the connection is successful.  
+![outdoor-qsg-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-7.png)  
+
+## 4.17.4 Installation Instruction
+1.Mark the screw positions with the bracket;  
+2.Use a power drill to drill the screw holes;
+3.Install the expansion screws (use a hammer);
+4.Fix the bracket to the wall with screws.
+![outdoor-qsg-8](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-8.png)  
+
+
 
 
 ## Charter 5. User Management
