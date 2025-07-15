@@ -1712,6 +1712,33 @@ Daily, weekly, monthly and yearly trends in electricity consumption will be show
 
 <br />
 
+### 4.16 Indoor IPC
+
+**You can click [Spec](https://wiki.roombanker.com/video-alarm-device/indoor-ipc/specification) and [QSG](https://wiki.roombanker.com/video-alarm-device/indoor-ipc/quick-start-guide)* to check more information about [Indoor IPC](https://www.roombanker.com/products/indoor-security-camera/).
+
+
+#### 4.16.1 Appearance
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-1.png" width="700" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-2.png" width="700" />
+</div>
+
+
+### 4.17 Outdoor IPC
+
+**You can click [Spec](https://wiki.roombanker.com/video-alarm-device/outdoor-ipc/specification) and [QSG](https://wiki.roombanker.com/video-alarm-device/outdoor-ipc/quick-start-guide)* to check more information about [Outdoor IPC](https://www.roombanker.com/products/outdoor-security-camera/).
+
+
+#### 4.17.1 Appearance
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-1.png" width="700" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-2.png" width="700" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-3.png" width="700" />
+</div>
+
+
 ## Charter 5. User Management
 
 ### 5.1 User Type
