@@ -1787,6 +1787,10 @@ Please set the router parameters and record your WiFi SSID and password before c
 |      **Parameter**         |    **Setting**                   | **Meaning**                                                                                                            |
 | :------------------------: | :------------------------------: | ---------------------------------------------------------------------------------------------------------------------- |
 | **Screenshot**             | /                                | Supports taking screenshots of the camera's shooting area, and the screenshots are stored locally on the mobile phone. |
+| **Alarm**                  | ON / OFF                         | The camera plays an alarm sound.Default is off. |
+| **Recording**              | /                                | Can record the current video and store it locally on the mobile phone. |
+| **Camera Light**           | ON / OFF                         | Control the on/off of the camera light.Default is off. |
+| **Voice Communication**    | /                                | Supports instant voice communication: Press and hold the voice button to send voice in real-time; release the button to immediately receive the other party's response. The entire process requires no waiting, making it as smooth as a face-to-face conversation. |
 
 <br />
 
