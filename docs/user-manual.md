@@ -1737,7 +1737,7 @@ If your device has trouble connecting to the Wi-Fi network, or if you wish to sw
 #### 4.16.3 Add Indoor Camera
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-0.png" width="500" height="100" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-0.png" width="350" height="70" />
 </div>
 
 1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.  
@@ -1770,7 +1770,7 @@ Please set the router parameters and record your WiFi SSID and password before c
 #### 4.17.3 Add Outdoor Camera
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-0.png" width="600" height="100" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-0.png" width="350" height="70" />
 </div>
 1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.  
 2.Click " + --> Scan " to add Camera by scanning the QR code.  
