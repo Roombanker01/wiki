@@ -1735,7 +1735,10 @@ The length of the Wi-Fi SSID and password should not exceed 24 characters.
 If your device has trouble connecting to the Wi-Fi network, or if you wish to switch networks, press and hold the RESET button for 5 seconds to reset the device.  
 
 #### 4.16.3 Add Indoor Camera
-![outdoor-um-0](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-0.png)  
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-0.png" width="700" height="200" />
+</div>
 
 1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.  
 2.Click " + --> Scan " to add Camera by scanning the QR code.  
