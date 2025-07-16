@@ -1,4 +1,4 @@
----
+<img width="946" height="655" alt="企业微信截图_1752657243295" src="https://github.com/user-attachments/assets/880c69fa-4206-4d79-a48e-1eef233b76bf" /><img width="946" height="655" alt="企业微信截图_1752657243295" src="https://github.com/user-attachments/assets/dd6a8775-ea4d-458c-b73a-4488fd2fb6f8" />---
 description: This is the user manual of how to use Roombanker's security alarm and home auotmation system, including how to register, configure and operate devices and RB Link app, how to install devices, etc. 
 title: Roombanker Security Alarm & Home Automation System User Manual
 keywords:
@@ -1741,11 +1741,12 @@ If your device has trouble connecting to the Wi-Fi network, or if you wish to sw
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-0.png" width="350" height="70" />
 </div>
 
-1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.  
-2.Click " + --> Scan " to add Camera by scanning the QR code.  
-3.Connect to the internet via Wi-Fi, the blue indicator turns on when the connection is successful.  
-<br />
+1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.  <br />
+2.Click " + --> Scan " to add Camera by scanning the QR code.  <br />
+3.Connect to the internet via Wi-Fi, the blue indicator turns on when the connection is successful.  <br />
+
 ![indoor-qsg-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-6.png) 
+
 <br />
 
 ### 4.17 Outdoor IPC
@@ -1764,26 +1765,32 @@ If your device has trouble connecting to the Wi-Fi network, or if you wish to sw
 
 #### 4.17.2 Set up router
 
-The device supports 2.4GHz WiFi (does not support 5GHz).   
-Please set the router parameters and record your WiFi SSID and password before connecting to the WiFi network.
-![outdoor-qsg-5](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-6.png)
+The device supports 2.4GHz WiFi (does not support 5GHz). <br />  
+Please set the router parameters and record your WiFi SSID and password before connecting to the WiFi network.<br />
 
+![outdoor-qsg-5](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-6.png)
+<br />
 
 #### 4.17.3 Add Outdoor Camera
 
 <div align="left">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-0.png" width="350" height="70" />
 </div>
-1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.  
-2.Click " + --> Scan " to add Camera by scanning the QR code.  
-3.Connect to the internet via Wi-Fi, the blue indicator turns on when the connection is successful.  
+<br />
+
+1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.<br />  
+2.Click " + --> Scan " to add Camera by scanning the QR code.<br />  
+3.Connect to the internet via Wi-Fi, the blue indicator turns on when the connection is successful.<br />  
+
 ![outdoor-qsg-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-7.png)  
 
+<br />
+
 #### 4.17.4 Installation Instruction
-1.Mark the screw positions with the bracket;  
-2.Use a power drill to drill the screw holes;
-3.Install the expansion screws (use a hammer);
-4.Fix the bracket to the wall with screws.
+1.Mark the screw positions with the bracket;  <br />
+2.Use a power drill to drill the screw holes;<br />
+3.Install the expansion screws (use a hammer);<br />
+4.Fix the bracket to the wall with screws.<br />
 
 <br />
 ![outdoor-qsg-8](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-8.png)  
