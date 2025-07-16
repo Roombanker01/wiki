@@ -1721,9 +1721,10 @@ Daily, weekly, monthly and yearly trends in electricity consumption will be show
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-1.png" width="700" />
+</div>
+<div align="left">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-2.png" width="700" />
 </div>
-
 #### 4.16.2 Set up router
 
 The device supports the 2.4GHz &5GHz WiFi.
@@ -1755,8 +1756,8 @@ If your device has trouble connecting to the Wi-Fi network, or if you wish to sw
 #### 4.17.1 Appearance
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-1.png" width="300" height="100"/>
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-2.png" width="300" height="100"/>
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-1.png" width="500" height="200"/>
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-2.png" width="500" height="200"/>
 </div>
 <div align="left">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-3.png" width="700" />
