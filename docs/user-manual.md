@@ -1794,7 +1794,9 @@ Please set the router parameters and record your WiFi SSID and password before c
 3.Install the expansion screws (use a hammer);<br />
 4.Fix the bracket to the wall with screws.<br />
 
-![outdoor-qsg-8](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-8.png)  
+<div align="left">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-8.png" width="700" height="400" />
+</div>
 <br />
 
 #### 4.17.5 Console
