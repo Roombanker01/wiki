@@ -1735,6 +1735,7 @@ The length of the Wi-Fi SSID and password should not exceed 24 characters.
 If your device has trouble connecting to the Wi-Fi network, or if you wish to switch networks, press and hold the RESET button for 5 seconds to reset the device.  
 
 #### 4.16.3 Add Indoor Camera
+![outdoor-um-0](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-0.png)  
 
 1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.  
 2.Click " + --> Scan " to add Camera by scanning the QR code.  
@@ -1762,6 +1763,7 @@ Please set the router parameters and record your WiFi SSID and password before c
 
 
 ## 4.17.3 Add Outdoor Camera
+![outdoor-um-0](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-0.png)  
 
 1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.  
 2.Click " + --> Scan " to add Camera by scanning the QR code.  
@@ -1775,7 +1777,39 @@ Please set the router parameters and record your WiFi SSID and password before c
 4.Fix the bracket to the wall with screws.
 ![outdoor-qsg-8](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-8.png)  
 
+## 4.17.5 Console
 
+
+|      **Parameter**         |    **Setting**                   | **Meaning**                                                                                                            |
+| :------------------------: | :------------------------------: | ---------------------------------------------------------------------------------------------------------------------- |
+| **Screenshot**             | /                                | Supports taking screenshots of the camera's shooting area, and the screenshots are stored locally on the mobile phone. |
+| **Alarm**                  | ON / OFF                         | The camera plays an alarm sound.Default is off. |
+| **Recording**              | /                                | Can record the current video and store it locally on the mobile phone. |
+| **Camera Light**           | ON / OFF                         | Control the on/off of the camera light.Default is off. |
+| **Voice Communication**    | /                                | Supports instant voice communication: Press and hold the voice button to send voice in real-time; release the button to immediately receive the other party's response. The entire process requires no waiting, making it as smooth as a face-to-face conversation. |
+| **Lens Rotation**          | Pan: 0~350° </br> Tilt: -90°~30° | The camera's monitoring angle can be adjusted via the up, down, left, and right buttons.  |
+| **Sound**                  | ON / OF                          | You can turn the camera sound on or off in the video preview page. |
+| **Video Resolution**       | 2K / 480p / auto                 | Switch video resolution.Default is auto. |
+| **Select playback time**   | /                                | Supports selecting a specific time for video playback. |
+| **Delete playback video**  | /                                | Supports deleting specified playback videos. |
+| **Memory Card Capacity**   | /                                | Supports checking the TF card status, along with its total capacity and remaining capacity. |
+| **Event Recording Switch** | ON / OF                          | On: Record when an event is detected </br> Off: Do not record |
+
+
+## 4.17.6 Settings
+
+|      **Parameter**      |                          **Value**                           | **Meaning**                                                  |
+| :---------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| **Basic Information**   | ![Outdoor Info](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-1.png)     | Check the basic information of this device, including MAC Address, Serial Number, etc. <br />And you can also edit the device name here by yourself. <br /> View device version info; upgrade if a new version is available.|
+| **Location**            | ![Location](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-2.png) | Choose camera installation location; support custom naming.|
+| **User Management**     | ![User](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-3.png)     | Share Camera to APP User:<br />Step 1: Enter "Outdoor Camera Settings/User Management" on APP.<br />Step 2: Click Invite User and select the user role from Administrator and Regular User.<br />Step 3: Enter the Email address of the user you want to share with.<br />Step 4: The invited user need to enter Message page, and switch to Camera Share on the top.<br />Step 5: The invitation will be notified here, and click Agree to finish the invitation.<br /> |
+| **Motion Detection**    | ![Motion](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-4.png)   | **Motion Detection:** When enabled, it will detect movements in the live view in real-time and trigger the set operations.<br /> **Human Shape Filter:** It only reacts to the movement of people, reducing false alarms.<br />**Detection Configuration:**<br />1.Detection Sensitivity:<br />Sensitivity can be adjusted as needed.Larger value means more sensitivity.Value[1–10]<br />2.Human shape detection sensitivity:<br />Sensitivity can be adjusted as needed.Larger value means more sensitivity.Value[1–5]<br />3.Detection Effective Time:<br />Supports all-day or specific time period monitoring.repeat support everyday and customize.<br />4.Detection Area:<br />Customize the monitoring area, such as the door or the living room, and ignore irrelevant areas.<br />**Detection Alarm:**<br />1.Alarm Interval:<br />Set the alarm interval to avoid repeated alarms and storage waste.Value[2min \ 5min \ 10min \ Close]<br />2.Recording Duration:<br />The duration of the video recording triggered by movement.value[10s \ 20s \ 30s]<br />3.Sound & Light:<br />You can configure the method of the acoustic-optic alarm and the acoustic-optic alarm plan.<br />3.1 acoustic-optic alarm: supports sound only, light only, sound and sound-light.<br />3.2 acoustic-optic alarm plan:Scheduled start and end times can be set, with repeat frequency configurable as required. If the set start time is earlier than the current time, the schedule runs the same day; if later, it runs the following day.<br /> |
+| **Camera Settings**     | ![Settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-5.png) | **Night Vision Mode:** <br />You can customize the color of the image in night vision mode.<br />**Device Volume:** <br />You can control the on/off status of the device speaker or adjust the volume through the switch.<br />**Image Flip:** <br />When the switch is turned on, the image on the camera preview page will be flipped.<br />**Camera Restart:**<br />Restart the camera. |
+| **Storage Management**  | ![Storage](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-6.png)  | Supports checking the TF card status, along with its total capacity and remaining capacity.<br />On/off switch for event-detection recording. |
+| **User Guide**          | /    | Click to check the user guide document of Outdoor IPC.               |
+| **Delete Device**       | / | Delete the Outdoor from your hub.                                |
+
+<br />
 
 
 ## Charter 5. User Management
