@@ -1781,23 +1781,7 @@ Please set the router parameters and record your WiFi SSID and password before c
 ![outdoor-qsg-8](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-8.png)  
 <br />
 
-## 4.17.5 Console
 
-
-|      **Parameter**         |    **Setting**                   | **Meaning**                                                                                                            |
-| :------------------------: | :------------------------------: | ---------------------------------------------------------------------------------------------------------------------- |
-| **Screenshot**             | /                                | Supports taking screenshots of the camera's shooting area, and the screenshots are stored locally on the mobile phone. |
-| **Alarm**                  | ON / OFF                         | The camera plays an alarm sound.Default is off. |
-| **Recording**              | /                                | Can record the current video and store it locally on the mobile phone. |
-| **Camera Light**           | ON / OFF                         | Control the on/off of the camera light.Default is off. |
-| **Voice Communication**    | /                                | Supports instant voice communication: Press and hold the voice button to send voice in real-time; release the button to immediately receive the other party's response. The entire process requires no waiting, making it as smooth as a face-to-face conversation. |
-| **Lens Rotation**          | Pan: 0 ~ 350° </br> Tilt: -90° ~ 30° | The camera's monitoring angle can be adjusted via the up, down, left, and right buttons.  |
-| **Sound**                  | ON / OF                          | You can turn the camera sound on or off in the video preview page. |
-| **Video Resolution**       | 2K / 480p / auto                 | Switch video resolution.Default is auto. |
-| **Select playback time**   | /                                | Supports selecting a specific time for video playback. |
-| **Delete playback video**  | /                                | Supports deleting specified playback videos. |
-| **Memory Card Capacity**   | /                                | Supports checking the TF card status, along with its total capacity and remaining capacity. |
-| **Event Recording Switch** | ON / OF                          | On: Record when an event is detected </br> Off: Do not record |
 
 
 
