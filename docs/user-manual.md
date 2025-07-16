@@ -1,4 +1,4 @@
-<img width="946" height="655" alt="企业微信截图_1752657243295" src="https://github.com/user-attachments/assets/880c69fa-4206-4d79-a48e-1eef233b76bf" /><img width="946" height="655" alt="企业微信截图_1752657243295" src="https://github.com/user-attachments/assets/dd6a8775-ea4d-458c-b73a-4488fd2fb6f8" />---
+---
 description: This is the user manual of how to use Roombanker's security alarm and home auotmation system, including how to register, configure and operate devices and RB Link app, how to install devices, etc. 
 title: Roombanker Security Alarm & Home Automation System User Manual
 keywords:
