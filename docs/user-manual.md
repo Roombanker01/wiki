@@ -1740,8 +1740,9 @@ If your device has trouble connecting to the Wi-Fi network, or if you wish to sw
 1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.  
 2.Click " + --> Scan " to add Camera by scanning the QR code.  
 3.Connect to the internet via Wi-Fi, the blue indicator turns on when the connection is successful.  
+<br />
 ![indoor-qsg-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-6.png) 
-
+<br />
 ### 4.17 Outdoor IPC
 
 **You can click [Spec](https://wiki.roombanker.com/video-alarm-device/outdoor-ipc/specification) and [QSG](https://wiki.roombanker.com/video-alarm-device/outdoor-ipc/quick-start-guide)* to check more information about [Outdoor IPC](https://www.roombanker.com/products/outdoor-security-camera/).
@@ -1775,7 +1776,10 @@ Please set the router parameters and record your WiFi SSID and password before c
 2.Use a power drill to drill the screw holes;
 3.Install the expansion screws (use a hammer);
 4.Fix the bracket to the wall with screws.
+
+<br />
 ![outdoor-qsg-8](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-8.png)  
+<br />
 
 ## 4.17.5 Console
 
