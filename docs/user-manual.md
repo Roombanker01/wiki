@@ -1801,8 +1801,8 @@ Please set the router parameters and record your WiFi SSID and password before c
 
 #### 4.17.5 Console
 
-|      **Parameter**         |    **Setting**                   | **Meaning**                                                                                                            |
-| :------------------------: | :------------------------------: | ---------------------------------------------------------------------------------------------------------------------- |
+|      **Parameter**         |    **Setting**                                                          | **Meaning**                                                                                                            |
+| :------------------------: | :---------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------- |
 | **Screenshot**             | /                                | Supports taking screenshots of the camera's shooting area, and the screenshots are stored locally on the mobile phone. |
 | **Alarm**                  | ON / OFF                         | The camera plays an alarm sound.Default is off. |
 | **Recording**              | /                                | Can record the current video and store it locally on the mobile phone. |
