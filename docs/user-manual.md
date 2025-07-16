@@ -1755,8 +1755,8 @@ If your device has trouble connecting to the Wi-Fi network, or if you wish to sw
 #### 4.17.1 Appearance
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-1.png" width="700" />
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-2.png" width="700" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-1.png" width="700" height="300"/>
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-2.png" width="700" height="300"/>
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-3.png" width="700" />
 </div>
 
