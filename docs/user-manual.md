@@ -1719,7 +1719,7 @@ Daily, weekly, monthly and yearly trends in electricity consumption will be show
 
 #### 4.16.1 Appearance
 
-<div align="center">
+<div align="left">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-1.png" width="700" />
 </div>
 <div align="left">
@@ -1755,7 +1755,7 @@ If your device has trouble connecting to the Wi-Fi network, or if you wish to sw
 
 #### 4.17.1 Appearance
 
-<div align="center">
+<div align="left">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-2.png" width="500" height="200"/>
 </div>
 <div align="left">
