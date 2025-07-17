@@ -1751,6 +1751,38 @@ If your device has trouble connecting to the Wi-Fi network, or if you wish to sw
 
 <br />
 
+#### 4.16.4 Console
+
+|      **Parameter**         |    **Setting**                                                          | **Meaning**                                                                                                            |
+| :------------------------: | :---------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------- |
+| **Screenshot**             | /                                | Supports taking screenshots of the camera's shooting area, and the screenshots are stored locally on the mobile phone. |
+| **Lens Switch**            | ON / OFF                         | You can manually turn the lens switch, which will take effect immediately.Default is off. |
+| **Recording**              | /                                | Can record the current video and store it locally on the mobile phone. |
+| **Video Resolution**       | 2K / 480p / auto                 | Switch video resolution.Default is auto. |
+| **Sound**                  | ON / OF                          | You can turn the camera sound on or off in the video preview page. |
+| **Voice Communication**    | /                                | Supports instant voice communication: Press and hold the voice button to send voice in real-time; release the button to immediately receive the other party's response. The entire process requires no waiting, making it as smooth as a face-to-face conversation. |
+| **Pan/Tilt**               | Pan: 0 ~ 350°,Tilt: 50° ~ -45°   | The camera's monitoring angle can be adjusted via the up, down, left, and right buttons.  |
+| **Sound**                  | ON / OF                          | You can turn the camera sound on or off in the video preview page. |
+| **Select playback time**   | /                                | Supports selecting a specific time for video playback. |
+| **Delete playback video**  | /                                | Supports deleting specified playback videos. |
+| **Memory Card Capacity**   | /                                | Supports checking the TF card status, along with its total capacity and remaining capacity. |
+| **Playback History**       | ON / OF                          | **Recording switch:** ON/OFF.<br /> **All-Day Recording:** 24-hour recording<br /> **Event Recording:** Record when an event is detected. |
+
+<br />
+
+#### 4.16.5 Settings
+
+|      **Parameter**      |                          **Value**                           | **Meaning**                                                  |
+| :---------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| **Basic Information**   | ![Outdoor Info](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/um/indoor-ipc-5.png)     | Check the basic information of this device, including MAC Address, Serial Number, etc. <br />And you can also edit the device name here by yourself. <br /> View device version info; upgrade if a new version is available.|
+| **Location**            | ![Location](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-2.png) | Choose camera installation location; support custom naming.|
+| **User Management**     | ![User](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-3.png)     | Share Camera to APP User:<br />Step 1: Enter "Outdoor Camera Settings/User Management" on APP.<br />Step 2: Click Invite User and select the user role from Administrator and Regular User.<br />Step 3: Enter the Email address of the user you want to share with.<br />Step 4: The invited user need to enter Message page, and switch to Camera Share on the top.<br />Step 5: The invitation will be notified here, and click Agree to finish the invitation.<br /> |
+| **User Guide**          | /    | Click to check the user guide document of indoor IPC.               |
+| **Delete Device**       | /    | Delete the indoor from your hub.                                |
+
+
+<br />
+
 ### 4.17 Outdoor IPC
 
 **You can click [Spec](https://wiki.roombanker.com/video-alarm-device/outdoor-ipc/specification) and [QSG](https://wiki.roombanker.com/video-alarm-device/outdoor-ipc/quick-start-guide)* to check more information about [Outdoor IPC](https://www.roombanker.com/products/outdoor-security-camera/).
@@ -1787,19 +1819,8 @@ Please set the router parameters and record your WiFi SSID and password before c
 ![outdoor-qsg-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-7.png)  
 <br />
 
-#### 4.17.4 Installation Instruction
 
-1.Mark the screw positions with the bracket;  <br />
-2.Use a power drill to drill the screw holes;<br />
-3.Install the expansion screws (use a hammer);<br />
-4.Fix the bracket to the wall with screws.<br />
-
-<div align="left">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-8.png" width="700" height="400" />
-</div>
-<br />
-
-#### 4.17.5 Console
+#### 4.17.4 Console
 
 |      **Parameter**         |    **Setting**                                                          | **Meaning**                                                                                                            |
 | :------------------------: | :---------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------- |
@@ -1817,7 +1838,7 @@ Please set the router parameters and record your WiFi SSID and password before c
 | **Event Recording Switch** | ON / OF                          | On: Record when an event is detected <br /> Off: Do not record |
 <br />
 
-#### 4.17.6 Settings
+#### 4.17.5 Settings
 
 |      **Parameter**      |                          **Value**                           | **Meaning**                                                  |
 | :---------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
