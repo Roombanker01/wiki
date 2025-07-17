@@ -35,6 +35,10 @@ tags:
 | 1.0.1 | 2024-03-18 | 1. Bug fixed                                                 |
 | 1.0.2 | 2024-05-14 | **New function：**<br />1. Daylight Saving Time function<br />2. SIM Card PIN Code unlock function<br />3. Temperature and humidity sensor Fahrenheit and Celsius switching function<br />4. German language supported<br />**Optimization: **<br />1. PIR Sensor, Siren function optimized<br />2. Bug fixed |
 | 1.1.0 | 2024-08-13 | **New function：**<br />1. Added DC 09 protocol alarm reporting.<br />2. Added relay pulse control mode. <br />3. Added Wi-Fi network modification capability. <br />4. Added hub IP address display. <br />5. Added "Hardware Version" to the device's basic information page. <br />6. Added hub fault status and fault list viewing. <br />7. Added status light for outdoor siren operation. <br />8. Added RBF smoke detector. <br />9. Added keypad unlock feature. <br />10. Added video guide for batch adding peripherals.<br />**Optimization: **<br />1. Optimized issue where peripherals appeared online after going offline.<br />2. Optimized peripheral alarm icons to differentiate between tamper, intrusion, water leak, emergency, smoke, fire, and medical alarms.<br /> |
+| 1.1.1 | 2024-09-27 | **New function：** <br />1. Added Turkish language.<br /> **Optimization:** <br /> Bug fixed. |
+| 1.1.2 | 2025-01-20 | **New function：** <br />1. Independent sensor delay config for away - defense.<br />2.LTE external antenna switch.<br /> 3.APP emergency alarm.<br /> 4.Peripheral device firmware update. <br />**Optimization:** <br />  Bug fixed. |
+| 1.1.3 | 2024-03-06 | **Optimization:** <br /> 1. Added outdoor siren status light config.<br /> 2. Added PIR Sensor sensitivity config.<br />3. Optimized user experience.<br />|
+
 
 ## Overview
 
