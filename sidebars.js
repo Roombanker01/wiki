@@ -121,6 +121,22 @@ const sidebars = {
        // ============Smart Hub===============
         {
           type: "category",
+          label: "Outdoor PIR Sensor(IR+MW)",
+          items: [
+            {
+              type: "doc",
+              id: "motion-sensor/outdoor-pir-sensor/specification",
+              label: "Specification",
+            },
+            {
+              type: "doc",
+              id: "motion-sensor/outdoor-pir-sensor/quick-start-guide",
+              label: "Quick Start Guide",
+            },
+          ]
+        },
+        {
+          type: "category",
           label: "PIR Sensor",
           items: [
             {
