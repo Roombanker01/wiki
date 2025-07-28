@@ -7,6 +7,7 @@
 | Indoor IPC | [View](https://wiki.roombanker.com/video-alarm-device/indoor-ipc/specification) |
 | Outdoor IPC | [View](https://wiki.roombanker.com/video-alarm-device/outdoor-ipc/specification) |
 | PIR Sensor | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/specification) |
+| Outdoor PIR Sensor(IR+MW) | [View](https://wiki.roombanker.com/motion-sensor/outdoor-pir-sensor/specification) |
 | Door Magnetic Sensor | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/specification) |
 | Panic Button | [View](https://wiki.roombanker.com/panic-button/panic-button/specification) |
 | Temperature and Humidity Monitor | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/specification) |
