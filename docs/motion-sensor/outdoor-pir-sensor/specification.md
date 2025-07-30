@@ -16,3 +16,99 @@ tags:
 </center>
 
 <br />
+
+
+------
+
+# 1. Product Description
+## 1.1. Purpose and Description
+
+The RBSS-PS2 is an outdoor motion detection sensor developed by Roombanker, utilizing advanced dual detection technology with passive infrared and microwave. It features high precision and strong interference resistance, providing comprehensive protection for your safety.
+
+<br />
+
+## 1.2. Product Feature Summary
+
+* High-precision motion detection 
+* Tamper protection 
+* Extended battery life 
+* Installation testing support 
+* Instant message notifications 
+* Long-range communication 
+* Sensitivity configuration 
+* Pet-proofing features 
+* OTA upgrades
+
+<br />
+
+# 2. Technical Specification
+## 2.1. Feature
+
+| Parameter                        | Value                           |
+| :------------------------------- | :-------------------------------|
+| Auto paring                      | Support                         |
+| Detection method                 | Passive infrared；Microwave     |
+| Detection Range                  | 12m                             |
+| Detection Angle                  | 110°                            |
+| Pet immunity                     | 10kg                            |
+| White light filter               | 6500Lux                         |
+| Digital temperature compensation | Support                         |
+| Wireless transmission            | RBF Technology                  |
+| RF Frequency                     | 868/915Mhz                      |
+| RF method                        | Two-way communication           |
+| RF distance                      | 3100m                           |
+| RF Security                      | AES-128                         |
+| Find me                          | Support                         |
+| Tamper protection                | Support                         |
+| Sensitivity settings             | Low, Medium, High, Auto         |
+| DigSensitivity settingsital      | Support                         |
+| Battery life span                | Up to 5 years (standby mode)    | 
+| Operation temperature            | -20℃ ~ 65℃                     |
+| Operation humidity               | 10% ~ 95%                       |
+| Mounting method                  | Wall mounting                   |
+| Mounting Height                  | 2.4m                            |
+
+
+<br />
+
+## 2.2. General
+
+| Parameter                  | Value                       |
+| :------------------------- | :---------------------------|
+| Indicator light            | 1                           |
+| Battery                    | 1 x CR123A                  |
+| Reset Button               | 1                           | 
+| Tamper Button              | 1                           |
+
+<br />
+
+# 3. QA Requirement
+
+| Information Description    | Standard(Yes) custom(No)    |
+| :------------------------- | :-------------------------- |
+| ESD Testing                |  Yes                        |
+| Environmental Testing      |  Yes                        |
+| Reliability Testing        |  Yes                        |
+| Factory certifications     |  ISO9001/IOS14001/BSCI      |
+| Device certifications      |  FCC/CE/RoHS is in progress |
+
+<br />
+
+# 4. Packing List
+
+| Name                  | Quantity |
+| :-------------------- | :------: |
+| Dual-tech Sensor      |  1       |
+| Mounting bracket      |  1       |
+| Quick Start Guide     |  1       |
+
+<br />
+
+# 5. Additional information
+
+## 5.1. Available models
+* RBSS-PS2-868
+* RBSS-PS2-915
+
+
+<br />
