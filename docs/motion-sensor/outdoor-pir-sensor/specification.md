@@ -12,7 +12,7 @@ tags:
 # Outdoor PIR Sensor(IR+MW)
 
 <center>
-    Expected to be released by the end of September 2025. Stay tuned for more updates!
+Expected to be released by the end of September 2025. Stay tuned for more updates!
 </center>
 
 <br />
@@ -24,8 +24,6 @@ tags:
 ## 1.1. Purpose and Description
 
 The RBSS-PS2 is an outdoor motion detection sensor developed by Roombanker, utilizing advanced dual detection technology with passive infrared and microwave. It features high precision and strong interference resistance, providing comprehensive protection for your safety.
-
-<br />
 
 ## 1.2. Product Feature Summary
 
