@@ -45,7 +45,7 @@ Click " ![common-settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/
 
 * **Side View**<br />
 ![pir-4](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-4.png)<br />
-**The installation height is 1.8m ~ 2.2m.<br />
+**The installation height is 1.8m ~ 2.2m.**<br />
 ![pir-5](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-5.png)<br />
 * **Note**<br />
 1. This product is only for indoor use. Please follow the instructions to install and use the product correctly. Do not touch the lens to avoid affecting the sensitivity of the product, if cleaning the lens, please disconnect the power and use a soft cloth dipped in a little alcohol then wipe. Please avoid using it in environments with significant temperature changes.
@@ -66,10 +66,10 @@ Click " ![common-settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/
 
 ## 6. Device Specifications
 
-| Parameter                        | Value                           |
-| :------------------------------- | :-------------------------------|
+| Parameter                        | Value                                                      |
+| :------------------------------- | :----------------------------------------------------------|
 | Auto paring                      | Support                         |
-| Detection method                 | Passive infrared;Microwave     |
+| Detection method                 | Passive infrared;Microwave      |
 | Detection Range                  | 12m                             |
 | Detection Angle                  | 110°                            |
 | Pet immunity                     | 10kg                            |
