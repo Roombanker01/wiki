@@ -87,7 +87,7 @@ The RBSS-PS2 is an outdoor motion detection sensor developed by Roombanker, util
 | ESD Testing                |  Yes                        |
 | Environmental Testing      |  Yes                        |
 | Reliability Testing        |  Yes                        |
-| Factory certifications     |  ISO9001/IOS14001/BSCI      |
+| Factory certifications     |  ISO9001/ISO14001/BSCI      |
 | Device certifications      |  FCC/CE/RoHS is in progress |
 
 <br />
