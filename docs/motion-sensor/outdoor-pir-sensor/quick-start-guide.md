@@ -40,13 +40,17 @@ Click  " ![common-settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic
 
 Click " ![common-settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/common-settings.png) "→"**Installation test**" to start testing.
 **Note:** You can walk around to trigger the PIR，if indicator flashes RED, that means it is working properly.
-* **Vertical View**<br />
+**Vertical View**
+
 ![pir-3](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-3.png)<br />
 
-* **Side View**<br />
+**Side View**
+
 ![pir-4](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-4.png)<br />
 **The installation height is 1.8m ~ 2.2m.**<br />
+
 ![pir-5](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-5.png)<br />
+
 * **Note**<br />
 1. This product is only for indoor use. Please follow the instructions to install and use the product correctly. Do not touch the lens to avoid affecting the sensitivity of the product, if cleaning the lens, please disconnect the power and use a soft cloth dipped in a little alcohol then wipe. Please avoid using it in environments with significant temperature changes.
 2. The installation location should avoid being close to air conditioners,electric fans, refrigerators, ovens, and those that can cause temperature changes, avoid directsunlighton the product.
