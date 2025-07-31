@@ -25,21 +25,15 @@ tags:
 ## 3. Add PIR Sensor 
 
 1. Click [Home Security Hub](https://www.roombanker.com/products/smart-hub/) , then click "**+**"  and select "**Add peripheral**" .
-
 2. Pull out the insulation strip to power up the device , the green indicator will flash and the device will show in the App.
-
-   **Note: If the device does not show in the App and green indicator is off , please press and hold the register button for 5s to try again.*
-
+**Note: If the device does not show in the App and green indicator is off , please press and hold the register button for 5s to try again.*
 3. Assign a room  and click the "**Done**" to finish adding.
-
 ![pir-1](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-1.png)
 
 ## 4. Testing Instruction
-
 ### 4.1. Signal Strength Test
 
 Click  " ![common-settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/common-settings.png) "→ "**Signal Strength Test**"→  " ![common-play](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/common-play.png) "  to check signal strength.
-
 ![pir-2](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-2.png)
 
 ### 4.2. Installation test
@@ -48,11 +42,12 @@ Click " ![common-settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/
 **Note:** You can walk around to trigger the PIR，if indicator flashes RED, that means it is working properly.
 * **Vertical View**
 ![pir-3](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-3.png)
-* **Side View**
-![pir-4](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-4.png)
-**The installation height is 1.8m ~ 2.2m.**
-![pir-5](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-5.png)
-* **Note**
+
+* **Side View**<br />
+![pir-4](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-4.png)<br />
+**The installation height is 1.8m ~ 2.2m.<br />
+![pir-5](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-5.png)<br />
+* **Note**<br />
 1. This product is only for indoor use. Please follow the instructions to install and use the product correctly. Do not touch the lens to avoid affecting the sensitivity of the product, if cleaning the lens, please disconnect the power and use a soft cloth dipped in a little alcohol then wipe. Please avoid using it in environments with significant temperature changes.
 2. The installation location should avoid being close to air conditioners,electric fans, refrigerators, ovens, and those that can cause temperature changes, avoid directsunlighton the product.
 3. This product can prevent accidents from occurring, but it cannot guarantee safety. For safety reasons, except using this product properly,please be vigilant and strengthen safety prevention awareness in daily life.
