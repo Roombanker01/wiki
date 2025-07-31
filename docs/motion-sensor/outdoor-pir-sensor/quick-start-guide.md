@@ -39,7 +39,7 @@ Click  " ![common-settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic
 ### 4.2. Installation test
 
 Click " ![common-settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/common-settings.png) "→"**Installation test**" to start testing.
-**Note:** You can walk around to trigger the PIR，if indicator flashes RED, that means it is working properly.
+**Note:** You can walk around to trigger the PIR，if indicator flashes RED, that means it is working properly.<br />
 **Vertical View**
 
 ![pir-3](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-3.png)<br />
