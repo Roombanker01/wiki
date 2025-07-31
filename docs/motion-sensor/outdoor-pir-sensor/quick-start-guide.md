@@ -16,6 +16,13 @@ tags:
 
 ![pir-0](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-0.png)
 
+| Name                      | Description                                                                        |
+| :------------------------ | :----------------------------------------------------------------------------------|
+| Registration Mode         | Green light flashes (250ms on / 750ms off) when powered on or network button held. |
+| Find Me                   | Green light flashes (1s on / 1s off).      |
+| Signal Strength Detection | Auto-off after 2 min. <br /> **Strong:** Green (3s on / 3s off) <br /> **Medium:** Orange (3s on / 3s off) <br /> **Weak:** Red (3s on / 3s off) <br /> **Lost:** Red (250ms on / 250ms off) <br /> |
+| Motion Detected           | Red light flashes once every 500ms.                                                |
+
 
 ## 2. Packaging List
 
