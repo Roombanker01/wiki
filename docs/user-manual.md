@@ -726,7 +726,7 @@ To batch add devices, tap "Add Peripheral" on the home page, follow the video in
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222095404778.png" width="250" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-11.png" width="250" />
 </div>
 
 
@@ -1906,7 +1906,7 @@ You can click [Spec](https://wiki.roombanker.com/motion-sensor/outdoor-pir-senso
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222095404778.png" width="250" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-11.png" width="250" />
 </div>
 
 
