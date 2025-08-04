@@ -41,6 +41,11 @@ If your device has trouble connecting to the Wi-Fi network, or if you wish to sw
 
 ## 5. Add Indoor Camera
 
+<div align="left">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-0.png" width="350" height="70" />
+</div>
+<br />
+
 1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.  
 2.Click " + --> Scan " to add Camera by scanning the QR code.  
 3.Connect to the internet via Wi-Fi, the blue indicator turns on when the connection is successful.  
