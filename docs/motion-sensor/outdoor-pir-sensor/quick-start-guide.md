@@ -30,11 +30,6 @@ tags:
 
 ## 3. Add PIR Sensor 
 
-<div align="left">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-0.png" width="350" height="70" />
-</div>
-<br />
-
 1. Click [Home Security Hub](https://www.roombanker.com/products/smart-hub/) , then click "**+**"  and select "**Add peripheral**" .
 2. Pull out the insulation strip to power up the device , the green indicator will flash and the device will show in the App.
 **Note: If the device does not show in the App and green indicator is off , please press and hold the register button for 5s to try again.*
