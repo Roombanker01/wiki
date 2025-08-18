@@ -230,6 +230,7 @@ The users  receive notifications in case of jamming or when the hub loses connec
 
 * CE
 * FCC
+* EN18031-1
 
 ### User manual
 
