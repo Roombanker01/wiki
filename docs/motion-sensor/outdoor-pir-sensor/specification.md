@@ -51,10 +51,9 @@ The RBSS-PS2 is an outdoor motion detection sensor developed by Roombanker, util
 | :------------------------------- | :-------------------------------|
 | Auto paring                      | Support                         |
 | Detection method                 | Passive infrared;Microwave     |
-| Detection Range                  | 12m                             |
-| Detection Angle                  | 110°                            |
-| Pet immunity                     | 10kg                            |
-| White light filter               | 6500Lux                         |
+| Detection Range                  | 16m                             |
+| Detection Angle                  | 90°                            |
+| Pet immunity                     | 35kg                            |
 | Digital temperature compensation | Support                         |
 | Wireless transmission            | RBF Technology                  |
 | RF Frequency                     | 868/915Mhz                      |
@@ -66,10 +65,10 @@ The RBSS-PS2 is an outdoor motion detection sensor developed by Roombanker, util
 | Sensitivity settings             | Low, Medium, High, Auto         |
 | DigSensitivity settingsital      | Support                         |
 | Battery life span                | Up to 5 years (standby mode)    | 
-| Operation temperature            | -20℃ ~ 65℃                     |
+| Operation temperature            | -10℃ ~ 60℃                    |
 | Operation humidity               | 10% ~ 95%                       |
 | Mounting method                  | Wall mounting                   |
-| Mounting Height                  | 2.4m                            |
+| Mounting Height                  | 1.8 ~ 2.2m                      |
 
 
 <br />
