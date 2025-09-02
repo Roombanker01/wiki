@@ -58,7 +58,7 @@ Click " ![common-settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/
 ![pir-5](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir-5.png)<br />
 
 * **Note**<br />
-1. This product is only for indoor use. Please follow the instructions to install and use the product correctly. Do not touch the lens to avoid affecting the sensitivity of the product, if cleaning the lens, please disconnect the power and use a soft cloth dipped in a little alcohol then wipe. Please avoid using it in environments with significant temperature changes.
+1. Please follow the instructions to install and use the product correctly. Do not touch the lens to avoid affecting the sensitivity of the product, if cleaning the lens, please disconnect the power and use a soft cloth dipped in a little alcohol then wipe. Please avoid using it in environments with significant temperature changes.
 2. The installation location should avoid being close to air conditioners,electric fans, refrigerators, ovens, and those that can cause temperature changes, avoid directsunlighton the product.
 3. This product can prevent accidents from occurring, but it cannot guarantee safety. For safety reasons, except using this product properly,please be vigilant and strengthen safety prevention awareness in daily life.
 <br />
