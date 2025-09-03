@@ -59,7 +59,7 @@ The RBSS-PS2 is an outdoor motion detection sensor developed by Roombanker, util
 | RF Frequency                     | 868/915Mhz                      |
 | RF method                        | Two-way communication           |
 | RF distance                      | 3100m                           |
-| RF Security                      | AES-128                         |
+| RF Security                      | AES-128 Encryption,FHSS,TDMA    |
 | Find me                          | Support                         |
 | Tamper protection                | Support                         |
 | Sensitivity settings             | Low, Medium, High, Auto         |
