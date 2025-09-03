@@ -101,8 +101,9 @@ The RBSS-PS2 is an outdoor motion detection sensor developed by Roombanker, util
 
 | Name                  | Quantity |
 | :-------------------- | :------: |
-| Dual-tech Sensor      |  1       |
-| Mounting bracket      |  1       |
+| Outdoor PIR Sensor    |  1       |
+| Mounting screw        |  2       |
+| Plastic expansion tube|  2       |
 | Quick Start Guide     |  1       |
 
 <br />
