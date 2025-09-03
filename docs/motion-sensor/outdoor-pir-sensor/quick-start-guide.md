@@ -80,23 +80,23 @@ Click " ![common-settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/
 | :------------------------------- | :----------------------------------------------------------|
 | Auto paring                      | Support                         |
 | Detection method                 | Passive infrared;Microwave      |
-| Detection Range                  | 12m                             |
-| Detection Angle                  | 110°                            |
-| Pet immunity                     | 10kg                            |
-| White light filter               | 6500Lux                         |
+| Detection Range                  | 16m                             |
+| Detection Angle                  | 90°                             |
+| Pet immunity                     | 35kg                            |
 | Digital temperature compensation | Support                         |
 | Wireless transmission            | RBF Technology                  |
 | RF Frequency                     | 868/915Mhz                      |
 | RF method                        | Two-way communication           |
 | RF distance                      | 3100m                           |
-| RF Security                      | AES-128                         |
+| RF Security                      | AES-128 Encryption,FHSS,TDMA    |
 | Find me                          | Support                         |
 | Tamper protection                | Support                         |
 | Sensitivity settings             | Low, Medium, High, Auto         |
 | DigSensitivity settingsital      | Support                         |
 | Battery life span                | Up to 5 years (standby mode)    | 
-| Operation temperature            | -20℃ ~ 65℃                     |
+| Operation temperature            | -10℃ ~ 60℃                    |
 | Operation humidity               | 10% ~ 95%                       |
 | Mounting method                  | Wall mounting                   |
-| Mounting Height                  | 2.4m                            |
-
+| Mounting Height                  | 1.8 ~ 2.2 m                     |
+| Dimension(W x H x D)             | 153mm x 80mm x 58mm             |
+| Weight                           | 286g                            |
