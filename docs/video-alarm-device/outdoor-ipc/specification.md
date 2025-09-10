@@ -104,13 +104,13 @@ Technical Specification
 Operates with all Roombanker Home Security Hubs, Can also work independently
 
 # 4. Complete set
-| Name                                 | Quantity |
-| :----------------------------------- | :--------|
-| Camera                               | 1        |
-| Mounting Screw +Plastic expansion    | 3        |
-| Charging cable                       | 1        |
-| QSG                                  | 1        |
-| Solar Panel                          | 1        |
+| Name                                          | Quantity |
+| :-------------------------------------------- | :--------|
+| Camera                                        | 1        |
+| Camera Mounting Screw +Plastic expansion      | 4        |
+| Charging cable                                | 1        |
+| QSG                                           | 1        |
+| Solar Panel Mounting Screw +Plastic expansion | 3        |
 
 
 # 5. Additional information
