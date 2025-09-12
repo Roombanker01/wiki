@@ -81,9 +81,8 @@ Key features:
 
 
 ### Frequency bands
-* RBGW-202-868/B: 863 ~ 870 MHz
-
-* RBGW-202-915/B: 902 ~ 928 MHz  
+* 868 MHz version: 863 ~ 870 MHz
+* 915 MHz version: 902 ~ 928 MHz  
   *Depends on sales region.*
 
   
