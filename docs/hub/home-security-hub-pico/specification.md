@@ -81,9 +81,9 @@ Key features:
 
 
 ### Frequency bands
-* RBGW-101-868: 863 ~ 870 MHz
+* RBGW-202-868/B: 863 ~ 870 MHz
 
-* RBGW-101-915: 902 ~ 928 MHz  
+* RBGW-202-915/B: 902 ~ 928 MHz  
   *Depends on sales region.*
 
   
@@ -234,8 +234,8 @@ The users  receive notifications in case of jamming or when the hub loses connec
 
 | Hub  | Model Name     | RBF  | Ethernet | Wi-Fi | GPRS | LTE  |
 | ---- | -------------- | ---- | -------- | ----- | ---- | ---- |
-| R2   | RBGW-101-868/B | √    | √        | √     | ×    | ×    |
-| R2   | RBGW-101-915/B | √    | √        | √     | ×    | ×    |
+| R2   | RBGW-202-868/B | √    | √        | √     | ×    | ×    |
+| R2   | RBGW-202-915/B | √    | √        | √     | ×    | ×    |
 
 
 
