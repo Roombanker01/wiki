@@ -39,7 +39,7 @@ tags:
 | 1.1.2 | 2025-01-20 | **New function：** <br />1. Independent sensor delay config for away - defense.<br />2.LTE external antenna switch.<br /> 3.APP emergency alarm.<br /> 4.Peripheral device firmware update. <br />**Optimization:** <br />  Bug fixed. |
 | 1.1.3 | 2024-03-06 | **Optimization:** <br /> 1. Added outdoor siren status light config.<br /> 2. Added PIR Sensor sensitivity config.<br />3. Optimized user experience.<br />|
 | 1.2.0 | 2025-07-23 | **New function:** <br />1.Added Outdoor Camera and Indoor Camera.<br />2.Added Support Romanian, Macedonian, Croatian, Greek and Dutch.<br /> 3.It supports the super administrator to transfer their own user permissions to other users.<br />4.Add settings for important alarm message reminders.<br /> **Optimization:** <br />1.Custom arming/scene allows users to upload local photos by themselves.<br />2.Optimize the arming and disarming prompt information.<br />3.Optimized user experience.<br />|
-
+| 1.2.1 | 2025-09-25 | **New function:** <br />1.Added Outdoor PIR Sensor.<br />2.Wall Switch support pulse mode.<br />3.ARC has added Periodic Report Test.<br />4.Indoor IPC supports audio alarms, including noise detection and unusual sound patrol.<br />5.Indoor IPC has added a scheduled patrol function. <br />**Optimization:** <br />Optimize message push logic.<br />2.Optimize arming and disarming alarm logic.<br />|
 
 ## Overview
 
@@ -499,22 +499,22 @@ During this period, if your Hub is frequently online and offline, you will not r
 * **Alarm Receiving Center**
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808104537338.png" width="300" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/um-alarm-receiving-center.png" width="300" />
 </div>
 
 
 Once you subscribe to the Alarm Receiving Center (ARC) service, your installer or the ARC will provide you with the necessary information, as shown in the image. After entering and saving this information, your ARC service will be activated. Any alarm triggered in your home will be immediately reported to the ARC.
 
-| **Parameter**     | **Meaning**                                                  |
-| ----------------- | ------------------------------------------------------------ |
-| Protocol  Type    | SIA or CID                                                   |
-| Main  Address     | Primary IP Address & Port: (Required)                        |
-| Backup  Address   | Secondary IP Address & Port: (Optional)                      |
-| Transmission Mode | TCP or UDP                                                   |
-| Ping Interval     | Heartbeat Interval: (Optional, configurable if enabled)      |
-| Account Number    | Assigned by ARC                                              |
-| Encryption        | AES-128, AES-192, or AES-256 with corresponding key(Optional) |
-
+| **Parameter**        | **Meaning**                                                                                           |
+| -------------------- | ----------------------------------------------------------------------------------------------------- |
+| Protocol  Type       | SIA or CID                                                                                            |
+| Main  Address        | Primary IP Address & Port: (Required)                                                                 |
+| Backup  Address      | Secondary IP Address & Port: (Optional)                                                               |
+| Transmission Mode    | TCP or UDP                                                                                            |
+| Ping Interval        | Heartbeat Interval: (Optional, configurable if enabled)                                               |
+| Periodic Report Test | support for configuring duration:1min ~ 23h59min,default value 1h. (Optional, configurable if enabled)|
+| Account Number       | Assigned by ARC                                                                                       |
+| Encryption           | AES-128, AES-192, or AES-256 with corresponding key(Optional)                                         |
 
 
 #### 2.5.5 Maintenance
@@ -1540,6 +1540,7 @@ Click "**Countdown** ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/ro
 |      **Timing**       | ![Timing](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Timing.png) | Trigger the relay execute action when the estimated time is reached |
 |     **Countdown**     | ![Countdown](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Countdown.png) | Trigger the relay execute action after the countdown timer expires |
 |    **Consumption**    |                              /                               | Show the power consumption details<br />*Click to see more real-time information |
+|    **Mode**           |                 Switching Mode / Pulse Mode                  | Set to either "Switch " or "Pulse " mode within the Wall Switch's device settings. |
 
 #### 4.14.3 Setting
 
@@ -1563,7 +1564,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 |  **Display On Homepage**   |                           ON / OFF                           | When enabled, the Wall Switch will show up on homepage so that you can operate quickly. |
 |       **User Guide**       |                              /                               | Click to check the user guide document of Wall Switch        |
 |     **Delete Device**      |                              /                               | When enabled, the Wall Switch will show up on homepage so that you can operate quickly. |
-
+|     **Output Mode**        |                 Switching Mode / Pulse Mode                  | Customize the default power-on state for both "Switch" and "Pulse" modes. <br />For "Pulse" mode, configure the desired pulse duration. |
 
 
 ##### Timing Setting
@@ -1785,8 +1786,10 @@ If your device has trouble connecting to the Wi-Fi network, or if you wish to sw
 | **Basic Information**   | ![Outdoor Info](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/um/indoor-ipc-5.png)     | Check the basic information of this device, including MAC Address, Serial Number, etc. <br />And you can also edit the device name here by yourself. <br /> View device version info; upgrade if a new version is available.|
 | **Location**            | ![Location](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-2.png) | Choose camera installation location; support custom naming.|
 | **User Management**     | ![User](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-3.png)     | Share Camera to APP User:<br />Step 1: Enter "Indoor Camera Settings/User Management" on APP.<br />Step 2: Click Invite User and select the user role from Administrator and Regular User.<br />Step 3: Enter the Email address of the user you want to share with.<br />Step 4: The invited user need to enter Message page, and switch to Camera Share on the top.<br />Step 5: The invitation will be notified here, and click Agree to finish the invitation.<br /> |
-| **Motion Detection**    | ![Motion](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/um/indoor-ipc-6.png)   | **Motion Detection:** When enabled, it will detect movements in the live view in real-time and trigger the set operations.<br /> **Human Shape Filter:** It only reacts to the movement of people, reducing false alarms.<br />**Detection Configuration:**<br />1.Detection Sensitivity:<br />Sensitivity can be adjusted as needed.<br />2.Detection Effective Time:<br />Supports all-day or specific time period monitoring.repeat support everyday and customize.<br />3.Detection Area:<br />Customize the monitoring area, such as the door or the living room, and ignore irrelevant areas.<br />**Detection Alarm:**<br />1.Alarm Interval:<br />Set the alarm interval to avoid repeated alarms and storage waste.Value[30s \ 1min \ 3min \ 5min]<br />2.Recording Duration:<br />The duration of the video recording triggered by movement.value[1min \ 2min \ 3min]<br />3.Motion Tracking:<br />Automatically track the target when an abnormality is detected and continuously capture its trajectory.<br />|
-| **Camera Settings**     | ![Settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/um/indoor-ipc-7.png) | **Wi-Fi:** <br />You can switch Wi-Fi networks,connection status, signal strength, and IP address.<br />**Privacy Mode:** <br />You can manually turn the lens switch on/off on the settings page, which will take effect immediately. You can also customize the timed tasks for turning the lens switch on/off.<br />**Device Volume:** <br />You can control the on/off status of the device speaker or adjust the volume through the switch.<br />**Image Flip:** <br />When the switch is turned on, the image on the camera preview page will be flipped.<br />**Camera Restart:**<br />Restart the camera. |
+| **Sound**               | /    | Supports noise detection and abnormal sound patrol, disabled by default.                  |
+| **Motion Detection**    | ![Motion](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/um/indoor-ipc-6.png)   | **Motion Detection:** When enabled, it will detect movements in the live view in real-time and trigger the set operations.<br /> **Human Shape Filter:** It only reacts to the movement of people, reducing false alarms.<br />**Detection Configuration:**<br />1.Detection Sensitivity:<br />Sensitivity can be adjusted as needed.<br />2.Detection Effective Time:<br />Supports all-day or specific time period monitoring.repeat support everyday and customize.<br />3.Detection Area:<br />Customize the monitoring area, such as the door or the living room, and ignore irrelevant areas.<br />**Detection Alarm:**<br />1.Alarm Interval:<br />Set the alarm interval to avoid repeated alarms and storage waste.Value[30s \ 1min \ 3min \ 5min]<br />2.Recording Duration:<br />The duration of the video recording triggered by movement.value[1min \ 2min \ 3min]<br />|
+| **Camera Settings**     | ![Settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/um/indoor-ipc-7.png) | **Wi-Fi:** <br />You can switch Wi-Fi networks,connection status, signal strength, and IP address.<br />**Message Notifications:**<br />After enabling, you will receive important alerts from the camera.<br />**Motion Tracking:**<br />Automatically track the target when an abnormality is detected and continuously capture its trajector<br />**Image Flip:** <br />When the switch is turned on, the image on the camera preview page will be flipped.<br />**Privacy Mode:** <br />You can manually turn the lens switch on/off on the settings page, which will take effect immediately. You can also customize the timed tasks for turning the lens switch on/off.<br />**Device Volume:** <br />You can control the on/off status of the device speaker or adjust the volume through the switch.<br />**Scheduled Patrol:**<br />After setting up scheduled patrol, the camera will complete one full patrol cycle at the designated time. When a new scheduled patrol is added, this patrol is enabled by default.Do not set duplicate times.Up to 10 can be added.<br />**ONVIF Settings:**<br />After enabling ONVIF, display the device's SN, IP address, username, and password.Password Requirements: 4–16 characters, using only letters (a–z, A–Z) and numbers (0–9).<br />**Camera Restart:**<br />Restart the camera. |
+| **Storage Management**  | ![Settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/um/indoor-ipc-storage.png) | Supports checking the TF card status, along with its total capacity and remaining capacity.On/off switch for recording. |
 | **User Guide**          | /    | Click to check the user guide document of indoor IPC.               |
 | **Delete Device**       | /    | Delete the indoor from your hub.                                |
 
@@ -1856,9 +1859,9 @@ Please set the router parameters and record your WiFi SSID and password before c
 | **Location**            | ![Location](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-2.png) | Choose camera installation location; support custom naming.|
 | **User Management**     | ![User](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-3.png)     | Share Camera to APP User:<br />Step 1: Enter "Outdoor Camera Settings/User Management" on APP.<br />Step 2: Click Invite User and select the user role from Administrator and Regular User.<br />Step 3: Enter the Email address of the user you want to share with.<br />Step 4: The invited user need to enter Message page, and switch to Camera Share on the top.<br />Step 5: The invitation will be notified here, and click Agree to finish the invitation.<br /> |
 | **Motion Detection**    | ![Motion](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-4.png)   | **Motion Detection:** When enabled, it will detect movements in the live view in real-time and trigger the set operations.<br /> **Human Shape Filter:** It only reacts to the movement of people, reducing false alarms.<br />**Detection Configuration:**<br />1.Detection Sensitivity:<br />Sensitivity can be adjusted as needed.Larger value means more sensitivity.Value[1–10]<br />2.Human shape detection sensitivity:<br />Sensitivity can be adjusted as needed.Larger value means more sensitivity.Value[1–5]<br />3.Detection Effective Time:<br />Supports all-day or specific time period monitoring.repeat support everyday and customize.<br />4.Detection Area:<br />Customize the monitoring area, such as the door or the living room, and ignore irrelevant areas.<br />**Detection Alarm:**<br />1.Alarm Interval:<br />Set the alarm interval to avoid repeated alarms and storage waste.Value[2min \ 5min \ 10min \ Close]<br />2.Recording Duration:<br />The duration of the video recording triggered by movement.value[10s \ 20s \ 30s]<br />3.Sound & Light:<br />You can configure the method of the acoustic-optic alarm and the acoustic-optic alarm plan.<br />3.1 acoustic-optic alarm: supports sound only, light only, sound and sound-light.<br />3.2 acoustic-optic alarm plan:Scheduled start and end times can be set, with repeat frequency configurable as required. If the set start time is earlier than the current time, the schedule runs the same day; if later, it runs the following day.<br /> |
-| **Camera Settings**     | ![Settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-5.png) | **Night Vision Mode:** <br />You can customize the color of the image in night vision mode.<br />**Device Volume:** <br />You can control the on/off status of the device speaker or adjust the volume through the switch.<br />**Image Flip:** <br />When the switch is turned on, the image on the camera preview page will be flipped.<br />**Camera Restart:**<br />Restart the camera. |
+| **Camera Settings**     | ![Settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-5.png) | **Message Notifications:**<br />After enabling, you will receive important alerts from the camera.<br />**Night Vision Mode:** <br />You can customize the color of the image in night vision mode.<br />**Device Volume:** <br />You can control the on/off status of the device speaker or adjust the volume through the switch.<br />**Image Flip:** <br />When the switch is turned on, the image on the camera preview page will be flipped.<br />**Camera Restart:**<br />Restart the camera. |
 | **Storage Management**  | ![Storage](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-6.png)  | Supports checking the TF card status, along with its total capacity and remaining capacity.<br />On/off switch for event-detection recording. |
-| **User Guide**          | /    | Click to check the user guide document of Outdoor IPC.               |
+| **User Guide**          | / | Click to check the user guide document of Outdoor IPC.               |
 | **Delete Device**       | / | Delete the Outdoor from your hub.                                |
 
 <br />
