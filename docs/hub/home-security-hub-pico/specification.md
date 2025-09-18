@@ -165,7 +165,8 @@ Between the hub and connected devices.
 
 * Type-C, DC5V, 2A
 
-
+### Backup Battery
+* Built-in backup battery: 1 × 18650 lithium battery，2,500mAh Up to 8 hours backup time
 
 ------
 

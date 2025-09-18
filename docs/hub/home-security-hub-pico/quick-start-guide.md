@@ -71,8 +71,9 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
 
 | Parameter               | Value                                             |
 | :---------------------- | ------------------------------------------------- |
-| Model                   | RBGW-101                                          |
-| Weight                  | 260 g                                             |
+| Model                   | RBGW-202/B                                          |
+| Weight                  | 320 g                                             |
+| Battery                 | 2500 mAh 18650 battery，Up to 8 h power backup    |
 | Peripherals Connected   | Up to 64                                          |
 | Firmware Upgrade        | OTA via App                                       |
 | Users                   | 1 Super Admin+4 Admin+32 App Users+32 Local Users |
@@ -83,6 +84,6 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
 | Transmission Method     | Two-way wireless                                  |
 | Transmission Frequency  | 868/915 MHz                                       |
 | Transmission Security   | AES-128 Encryption                                |
-| Operation Temperature   | -10℃~+45℃                                         |
+| Operation Temperature   | -10℃~+45℃                                       |
 | Dimension(W x H x D)    | 150 mm x 150 mm x 37 mm                           |
 

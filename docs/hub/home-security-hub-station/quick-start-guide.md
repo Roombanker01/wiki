@@ -71,7 +71,7 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
 
 | Parameter               | Value                                             |
 | :---------------------- | ------------------------------------------------- |
-| Model                   | RBGW-202                                          |
+| Model                   | RBGW-202/A                                         |
 | Weight                  | 320 g                                             |
 | Battery                 | 2500 mAh 18650 battery，Up to 8 h power backup    |
 | Peripherals Connected   | Up to 128                                         |

@@ -110,6 +110,7 @@ Operates with all Roombanker Home Security Hubs, Can also work independently
 | Camera Mounting Screw +Plastic expansion      | 4        |
 | Charging cable                                | 1        |
 | QSG                                           | 1        |
+| Solar Panel                                   | 1        |
 | Solar Panel Mounting Screw +Plastic expansion | 3        |
 
 
