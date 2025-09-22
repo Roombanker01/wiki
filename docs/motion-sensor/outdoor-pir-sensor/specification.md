@@ -71,7 +71,7 @@ The RBSS-PS2 is an outdoor motion detection sensor developed by Roombanker, util
 | Mounting Height                  | 1.8 ~ 2.2m                      |
 | Dimension(W x H x D)             | 153mm x 80mm x 58mm             |
 | Weight                           | 286g                            |
-| IP Rating	                       | IP65                            |
+| IP Rating	                       | IP54                            |
 
 <br />
 
