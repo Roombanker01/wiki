@@ -100,3 +100,4 @@ Click " ![common-settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/
 | Mounting Height                  | 1.8 ~ 2.2 m                     |
 | Dimension(W x H x D)             | 153mm x 80mm x 58mm             |
 | Weight                           | 286g                            |
+| IP Rating                        | IP54                            |
