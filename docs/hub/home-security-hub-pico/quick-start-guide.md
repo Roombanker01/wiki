@@ -80,7 +80,7 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
 | Wi-Fi                   | 2.4G，802.11 b/g/n                                |
 | Ethernet                | 1 x RJ45， 10/100Mbps                             |
 | Power Supply            | Type-C，5VDC 2A                                   |
-| Transmission Technology | RBF                                               |
+| Transmission Technology | RBF/BLE                                               |
 | Transmission Method     | Two-way wireless                                  |
 | Transmission Frequency  | 868/915 MHz                                       |
 | Transmission Security   | AES-128 Encryption                                |

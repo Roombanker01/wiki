@@ -200,7 +200,7 @@ The users  receive notifications in case of jamming or when the hub loses connec
 
 ### Weight
 
-* 260 g
+* 302 g
 
 
 
