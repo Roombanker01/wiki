@@ -72,7 +72,7 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
 | Parameter               | Value                                             |
 | :---------------------- | ------------------------------------------------- |
 | Model                   | RBGW-202/B                                          |
-| Weight                  | 320 g                                             |
+| Weight                  | 302 g                                             |
 | Battery                 | 2500 mAh 18650 battery，Up to 8 h power backup    |
 | Peripherals Connected   | Up to 64                                          |
 | Firmware Upgrade        | OTA via App                                       |

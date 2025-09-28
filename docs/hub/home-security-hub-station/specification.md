@@ -188,7 +188,7 @@ The users  receive notifications in case of jamming or when the hub loses connec
 
 ### Weight
 
-* 320 g
+* 315 g
 
 ### Operating temperature range
 
