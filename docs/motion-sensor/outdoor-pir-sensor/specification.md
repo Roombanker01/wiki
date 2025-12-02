@@ -80,7 +80,7 @@ The RBSS-PS2 is an outdoor motion detection sensor developed by Roombanker, util
 | Parameter                  | Value                       |
 | :------------------------- | :---------------------------|
 | Indicator light            | 1                           |
-| Battery                    | 1 x CR123A                  |
+| Battery                    | 2 x CR123A                  |
 | Reset Button               | 1                           | 
 | Tamper Button              | 1                           |
 
