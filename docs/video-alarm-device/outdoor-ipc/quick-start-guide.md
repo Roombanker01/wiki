@@ -80,7 +80,7 @@ Please set the router parameters and record your WiFi SSID and password before c
 | Waterproof                               | IP65                                               |
 | Operation temperature                    | -10°C to 50°C                                      |
 | Capacity                                 | 9600mAh rechargeable Li batteries                  |
-| Optional Accessory                       | Solar Panel                                        |
+| Accessory                       | Solar Panel                                        |
 | PIR Detection Range/Angle                | 10m/120°                                           |
 | Dimensions                               | 158 x 103 x200mm                                   |
 | Net Weight                               | 730g                  |
