@@ -94,7 +94,7 @@ Technical Specification
 | Power Supply                   | DC 5V/1A(Type-C)                             | 
 | Power Consumption              | Up to 4.0W                                   |
 | Power Consumption              | Up to 4.0W                                   |
-| Optional Accessory             | Solar panel                                  |
+| Accessory             | Solar panel                                  |
 | Storage	                     | TF card(Up to 256GB)                         |
 | Dimensions	                 | φ158 × 103 × 200mm                           |
 | Net Weight	                 | 730g                                         |
