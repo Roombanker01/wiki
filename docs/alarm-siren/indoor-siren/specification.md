@@ -181,6 +181,7 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 
 * CE
 * FCC
+* ROHS
 
 ### Warranty
 
