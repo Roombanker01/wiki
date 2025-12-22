@@ -162,6 +162,7 @@ The wireless smart plug features functions such as power management and child lo
 
 * CE
 * FCC
+* ROHS
 
 
 ### Warranty
