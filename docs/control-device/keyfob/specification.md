@@ -150,8 +150,10 @@ The portable wireless keyfob simplifies control operations with one-click arming
 
 * CE
 * FCC
+* ROHS
 
 
 ### Warranty
 
 * Replacement and repair within 24 months of the date of sale. Batteries are not covered under warranty.
+
