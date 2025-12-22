@@ -144,6 +144,7 @@ The 24/7 panic alarm button always ready to assist you. Just press the button to
 
 * CE
 * FCC
+* ROHS
 
 
 ### Warranty
