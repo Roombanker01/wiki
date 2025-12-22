@@ -186,6 +186,7 @@ The passive infrared sensor detects motion by detecting changes in infrared (IR)
 
 * CE
 * FCC
+* ROHS
 
 
 
@@ -199,3 +200,4 @@ The passive infrared sensor detects motion by detecting changes in infrared (IR)
 ### Warranty
 
 * Replacement and repair within 24 months of the date of sale. Batteries are not covered under warranty.
+
