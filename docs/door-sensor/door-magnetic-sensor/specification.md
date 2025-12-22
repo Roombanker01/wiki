@@ -150,6 +150,8 @@ The surface-mounted door magnetic sensor always monitor the opening and closing 
 
 * CE
 * FCC
+* ROHS
 
 ### Warranty
 * Replacement and repair within 24 months of the date of sale. Batteries are not covered under warranty.
+
