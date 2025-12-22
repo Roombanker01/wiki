@@ -164,8 +164,10 @@ The water leak detector with extension cable design for multi-point high-precisi
 
 * CE
 * FCC
+* ROHS
 
 
 ### Warranty
 
 * Replacement and repair within 24 months of the date of sale. Batteries are not covered under warranty.
+
