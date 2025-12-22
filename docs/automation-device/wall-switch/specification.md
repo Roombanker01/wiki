@@ -164,8 +164,10 @@ The high-voltage smart wall switch can be installed in a standard 86 box, equipp
 
 * CE
 * FCC
+* ROHS
 
 
 ### Warranty
 
 * Replacement and repair within 24 months of the date of sale. 
+
