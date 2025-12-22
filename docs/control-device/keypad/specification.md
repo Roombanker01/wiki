@@ -174,7 +174,9 @@ The wireless keypad streamlines user interactions with one-click arming, passwor
 
 * CE
 * FCC
+* ROHS
 
 ### Warranty
 
 * Replacement and repair within 24 months of the date of sale. Batteries are not covered under warranty.
+
