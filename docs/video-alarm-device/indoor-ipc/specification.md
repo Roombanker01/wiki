@@ -110,7 +110,7 @@ Operates with all Roombanker Home Security Hubs, Can also work independently
 | Environmental Testing          | Yes                         |
 | Reliability Testing            | Yes                         | 
 | Factory certifications         | ISO9001/IOS14001/BSCI       |
-| Device certifications          | FCC/CE/RoHS                 |
+| Device certifications          | FCC/CE/RoHS/EN 18031-1/EN 18031-2 |
 
 # 6. Warranty
 Replacement and repair within 24 months of the date of sale. 
