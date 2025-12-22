@@ -161,8 +161,10 @@ RBF Relay is a dry contact relay to control 6-36 V⎓ power supply remotely.
 
 * CE
 * FCC
+* ROHS
 
 
 ### Warranty
 
 * Replacement and repair within 24 months of the date of sale. Batteries are not covered under warranty.
+
