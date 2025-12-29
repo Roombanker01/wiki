@@ -271,7 +271,6 @@ Home security Hub has two different models, called [**R2 PRO**](https://wiki.roo
 
 > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/note.png)**Note** : 
 >
-> - *The Home Security Hub `R2` does not have an on/off switch, so it starts automatically when powered on*
 > - *If the green indicator does not begin to flash within two minutes, please press and hold the "Cloud" button on the top of Home Security Hub for 5 seconds until the indicator begins flashing.*
 
 <div align="center">
