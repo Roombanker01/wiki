@@ -211,12 +211,12 @@ Home security Hub has two different models, called [**R2 PRO**](https://wiki.roo
     </tr>
     <tr>
       <td>Battery</td>
-      <td>/</td>
+      <td>2500mAh 18650 battery</td>
       <td>2500mAh 18650 battery</td>
     </tr>
     <tr>
       <td>Backup time</td>
-      <td>/</td>
+      <td>Up to 8h power backup</td>
       <td>Up to 8h power backup</td>
     </tr>
     <tr>
