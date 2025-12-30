@@ -162,7 +162,7 @@ const sidebars = {
        // ============Smart Hub===============
         {
           type: "category",
-          label: "Door Magnetic Sensor",
+          label: "Door Window Sensor",
           items: [
             {
               type: "doc",
