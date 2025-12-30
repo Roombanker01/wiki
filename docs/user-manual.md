@@ -66,7 +66,7 @@ All the functions described in the manual are based on the products and version 
 | :-------------------------: | :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------: | :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  Home Security Hub (R2)  |   v1.0.0    | [View](https://wiki.roombanker.com/hub/home-security-hub-pico/specification) | [View](https://wiki.roombanker.com/hub/home-security-hub-pico/quick-start-guide) |          PIR Sensor          |   v1.0.0    | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/specification) | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/quick-start-guide) |
 | Home Security Hub (R2 PRO) |   v1.0.0    | [View](https://wiki.roombanker.com/hub/home-security-hub-station/specification) | [View](https://wiki.roombanker.com/hub/home-security-hub-station/quick-start-guide) |         Panic Button         |   v1.0.0    | [View](https://wiki.roombanker.com/panic-button/panic-button/specification) | [View](https://wiki.roombanker.com/panic-button/panic-button/quick-start-guide) |
-|           Keypad            |   v1.0.0    | [View](https://wiki.roombanker.com/control-device/keypad/specification) | [View](https://wiki.roombanker.com/control-device/keypad/quick-start-guide) |     Door Magnetic Sensor     |   v1.0.0    | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/specification) | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/quick-start-guide) |
+|           Keypad            |   v1.0.0    | [View](https://wiki.roombanker.com/control-device/keypad/specification) | [View](https://wiki.roombanker.com/control-device/keypad/quick-start-guide) |     Door Window Sensor     |   v1.0.0    | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/specification) | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/quick-start-guide) |
 |            Relay            |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/relay/specification) | [View](https://wiki.roombanker.com/automation-device/relay/quick-start-guide) |     Water Leak Detector      |   v1.0.0    | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/water-leak-detector/specification) | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/water-leak-detector/quick-start-guide) |
 |         Wall Switch         |   v1.0.0    | [View](https://wiki.roombanker.com/automation-device/wall-switch/specification) | [View](https://wiki.roombanker.com/automation-device/wall-switch/quick-start-guide) | Temperature Humidity Monitor |   v1.0.0    | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/specification) | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/quick-start-guide) |
 |        Indoor Siren         |   v1.0.0    | [View](https://wiki.roombanker.com/alarm-siren/indoor-siren/specification) | [View](https://wiki.roombanker.com/alarm-siren/indoor-siren/quick-start-guide) |        Smoke Detector        |   v1.0.0    | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/specification) | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/smoke-sensor/quick-start-guide) |
@@ -747,18 +747,18 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-### 4.4 Door Magnetic Sensor
+### 4.4 Door Window Sensor
 
-**You can click [Spec](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/specification) and [QSG](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/quick-start-guide)* to check more information about [Door Magnetic Sensor](https://www.roombanker.com/products/door-magnetic-sensor/).
+**You can click [Spec](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/specification) and [QSG](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/quick-start-guide)* to check more information about [Door Window Sensor](https://www.roombanker.com/products/door-magnetic-sensor/).
 
 #### 4.4.1 Appearance
 
-![Magnetic](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Magnetic.png)
+![Window](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Magnetic.png)
 
 | **Appearance**                    | **Description**                                              |
 | --------------------------------- | ------------------------------------------------------------ |
 | **LED Indicator**                 | Red / Green / Orange<br />**Used to indicate alarm status, signal strength status, and Find Me status.* |
-| **Register Button**               | Press and hold for 5s to add the Door Magnetic Sensor to the Hub.<br />**Register Button is only used for re-adding or connecting the peripheral to another hub.* |
+| **Register Button**               | Press and hold for 5s to add the Door Window Sensor to the Hub.<br />**Register Button is only used for re-adding or connecting the peripheral to another hub.* |
 | **Tamper Switch / Tamper Button** | Used to detect the tamper alarm status of the lid.           |
 
 #### 4.4.2 State
@@ -770,13 +770,13 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 |     **Parameter**     |                          **Value**                           | **Meaning**                                                  |
 | :-------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| **Associated scene**  |                            0 ~ 64                            | Shows the number of custom scenes associated with this Door Magnetic Sensor. You can also click to view and configure the scenes.<br />**Please turn to [Charter 6. Scene Management](#charter-6-scene-management) for more details.* |
-|    **Arm Status**     |                         Arm / Disarm                         | Shows the arm status of the Door Magnetic Sensor. When it’s armed, the Door Magnetic Sensor could detect open/close events and then report alarm to Hub immediately. |
-|   **Alarm Status**    |                        Normal / Alarm                        | Shows whether the Door Magnetic Sensor is triggered.         |
-|    **Lid Status**     |                      Normal / Triggered                      | Shows whether the Door Magnetic Sensor’s lid is opened or not. |
-|  **Signal Strength**  | ![signal blue](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/signal%20blue.png) | Shows the signal strength between the Door Magnetic Sensor and the Hub. |
-| **Connection Status** |                       Online / Offline                       | Shows the connection status between the Door Magnetic Sensor and the Hub.<br />**The Door Magnetic Sensor will not be functional if the status is offline.* |
-|  **Battery Status**   | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | Shows the battery level of Door Magnetic Sensor. <br />**If the battery level is low, the icon will turn red and you’ll receive a malfunction notification in App.* |
+| **Associated scene**  |                            0 ~ 64                            | Shows the number of custom scenes associated with this Door Window Sensor. You can also click to view and configure the scenes.<br />**Please turn to [Charter 6. Scene Management](#charter-6-scene-management) for more details.* |
+|    **Arm Status**     |                         Arm / Disarm                         | Shows the arm status of the Door Window Sensor. When it’s armed, the Door Window Sensor could detect open/close events and then report alarm to Hub immediately. |
+|   **Alarm Status**    |                        Normal / Alarm                        | Shows whether the Door Window Sensor is triggered.         |
+|    **Lid Status**     |                      Normal / Triggered                      | Shows whether the Door Window Sensor’s lid is opened or not. |
+|  **Signal Strength**  | ![signal blue](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/signal%20blue.png) | Shows the signal strength between the Door Window Sensor and the Hub. |
+| **Connection Status** |                       Online / Offline                       | Shows the connection status between the Door Window Sensor and the Hub.<br />**The Door Window Sensor will not be functional if the status is offline.* |
+|  **Battery Status**   | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | Shows the battery level of Door Window Sensor. <br />**If the battery level is low, the icon will turn red and you’ll receive a malfunction notification in App.* |
 
 #### 4.4.3 Setting
 
@@ -791,14 +791,14 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 |      **Parameter**       |                          **Value**                           | **Meaning**                                                  |
 | :----------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
 |  **Basic Information**   |                              /                               | Check the basic information of this device, including MAC Address, Serial Number, etc.And you can also edit the device name here by yourself. |
-|   **Room Belongs to**    | ![image-20231222100954161](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222100954161.png) | You can select one of the rooms created before and then link the Door Magnetic Sensor to.<br />**When linked to a specific room, the Door Magnetic Sensor will be displayed on the product list of the room, and the alarm will be triggered only when the room is armed.* |
-|       **Find Me**        | ![MC Find me](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/MC%20Find%20me.png) | A function that used to find your Door Magnetic Sensor among numerous devices.<br />When you enable this function, the indicator in Door Magnetic Sensor will flash green to help you find the target device quickly. |
-| **Signal Strength Test** | ![image-20231222101005495](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222101005495.png) | A function that used to check the signal strength between Door Magnetic Sensor and hub at the tested place, which is designed to help you choose the right place for installation.<br />When you enable this function, you can check the signal strength by watching the indicators in Door Magnetic Sensor and the feedback in app. |
-|  **Installation Test**   | ![MC Test](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/MC%20Test.png) | A function that used to test whether the Door Magnetic Sensor is installed properly.<br />When you enable this function, you can open the door or window to test if the Door Magnetic Sensor can detect and trigger an alarm properly. The indicator will flash red when it detects successfully. |
-|    **Disable Device**    |                           ON / OFF                           | If this button is ON, the alarm  and malfunctions generated by this Door Magnetic Sensor will no longer be uploaded to the Hub and App.<br />**It is recommended that you disable the device only if  it’s defective. Before turning on this function, please ensure that you are  aware of the situation to avoid possible personal injury or property damage that  may result from the device not detecting and triggering an alarm.* |
-| **Display On Homepage**  |                           ON / OFF                           | When enabled, the Door Magnetic Sensor will show up on homepage so that you can operate quickly. |
-|      **User Guide**      |                              /                               | Click to check the user guide document of Door Magnetic Sensor. |
-|    **Delete Device**     |                              /                               | Delete the Door Magnetic Sensor from your hub.               |
+|   **Room Belongs to**    | ![image-20231222100954161](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222100954161.png) | You can select one of the rooms created before and then link the Door Window Sensor to.<br />**When linked to a specific room, the Door Window Sensor will be displayed on the product list of the room, and the alarm will be triggered only when the room is armed.* |
+|       **Find Me**        | ![MC Find me](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/MC%20Find%20me.png) | A function that used to find your Door Window Sensor among numerous devices.<br />When you enable this function, the indicator in Door Window Sensor will flash green to help you find the target device quickly. |
+| **Signal Strength Test** | ![image-20231222101005495](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222101005495.png) | A function that used to check the signal strength between Door Window Sensor and hub at the tested place, which is designed to help you choose the right place for installation.<br />When you enable this function, you can check the signal strength by watching the indicators in Door Window Sensor and the feedback in app. |
+|  **Installation Test**   | ![MC Test](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/MC%20Test.png) | A function that used to test whether the Door Window Sensor is installed properly.<br />When you enable this function, you can open the door or window to test if the Door Window Sensor can detect and trigger an alarm properly. The indicator will flash red when it detects successfully. |
+|    **Disable Device**    |                           ON / OFF                           | If this button is ON, the alarm  and malfunctions generated by this Door Window Sensor will no longer be uploaded to the Hub and App.<br />**It is recommended that you disable the device only if  it’s defective. Before turning on this function, please ensure that you are  aware of the situation to avoid possible personal injury or property damage that  may result from the device not detecting and triggering an alarm.* |
+| **Display On Homepage**  |                           ON / OFF                           | When enabled, the Door Window Sensor will show up on homepage so that you can operate quickly. |
+|      **User Guide**      |                              /                               | Click to check the user guide document of Door Window Sensor. |
+|    **Delete Device**     |                              /                               | Delete the Door Window Sensor from your hub.               |
 
 <br />
 
@@ -2228,7 +2228,7 @@ When you get home, you can press "![Arm Stay](https://dusunprj.oss-us-west-1.ali
 </div>
 
 
->  ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : Effective device only contains normal intrusion sensors, such as door magnetic sensor, PIR sensor, etc. The detectors such as water leak detector and smoke detector are 24-hour protection sensor and arming/disarming operation will not affect these devices.
+>  ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : Effective device only contains normal intrusion sensors, such as door window sensor, PIR sensor, etc. The detectors such as water leak detector and smoke detector are 24-hour protection sensor and arming/disarming operation will not affect these devices.
 
 
 
@@ -2340,7 +2340,7 @@ There are **3** types of trigger condition:
   | **Device Type**                | **Supported Trigger Condition**                              |
   | ------------------------------ | ------------------------------------------------------------ |
   | Smoke Detector                 | ● Smoke alarm triggered <br />● Smoke alarm restored         |
-  | Door Magnetic Sensor           | ● Door opened<br />● Door closed                             |
+  | Door Window Sensor             | ● Door opened<br />● Door closed                             |
   | PIR Sensor                     | ● PIR Sensor triggered<br />● PIR Sensor restored            |
   | Panic Button                   | ● Panic Button pressed                                       |
   | Water Leak Detector            | ● Water Leak detected<br />● Water Leak restored             |
