@@ -97,11 +97,11 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/12/door-magnetic-sensor-roombanker-rbss-new.png" alt="Roombanker Door Magnetic Sensor" style={{maxWidth:'70%'}}/>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/12/door-magnetic-sensor-roombanker-rbss-new.png" alt="Roombanker Door Window Sensor" style={{maxWidth:'70%'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
-        <h3>Door Magnetic Sensor</h3>
-        <p>The door magnetic sensor continuously oversees the state of door movements and remains vigilant in detecting openings and closings. It dutifully communicates these status changes to the central control units, ensuring a seamless flow of information and robust monitoring.</p>
+        <h3>Door Window Sensor</h3>
+        <p>The door window sensor continuously oversees the state of door movements and remains vigilant in detecting openings and closings. It dutifully communicates these status changes to the central control units, ensuring a seamless flow of information and robust monitoring.</p>
     </div>
 </div>
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
