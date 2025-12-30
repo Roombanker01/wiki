@@ -1,4 +1,4 @@
-#  Door Magnetic Sensor
+#  Door Window Sensor
 <div class="centered-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-tesKhvFhk?si=9JR8kdfY4rJ7HYTJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -23,7 +23,7 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
 
 ![MC-5](https://dusunprj.oss-us-west-1.aliyuncs.com/MC-5.png)
 
-## 3. Add Door Magnetic Sensor
+## 3. Add Door Window Sensor
 
 1. Click Home Security Hub , then click "**+**"  and select "**Add peripheral**" .
 
@@ -68,4 +68,5 @@ Click  " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E
 | Weight                         | 55.6 g                                                       |
 | Application Scenario           | Indoor                                                       |
 | Installation Method            | Adhesive                                                     |
+
 
