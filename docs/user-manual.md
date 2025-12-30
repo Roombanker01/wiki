@@ -221,7 +221,7 @@ Home security Hub has two different models, called [**R2 PRO**](https://wiki.roo
     </tr>
     <tr>
       <td>Weight</td>
-      <td>260g</td>
+      <td>302g</td>
       <td>320g</td>
     </tr>
     <tr>
