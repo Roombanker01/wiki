@@ -8,7 +8,7 @@
 | Outdoor IPC | [View](https://wiki.roombanker.com/video-alarm-device/outdoor-ipc/quick-start-guide) |
 | PIR Sensor | [View](https://wiki.roombanker.com/motion-sensor/pir-sensor/quick-start-guide) |
 | Outdoor PIR Sensor(IR+MW) | [View](https://wiki.roombanker.com/motion-sensor/outdoor-pir-sensor/quick-start-guide) |
-| Door Magnetic Sensor | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/quick-start-guide) |
+| Door Window Sensor | [View](https://wiki.roombanker.com/door-sensor/door-magnetic-sensor/quick-start-guide) |
 | Panic Button | [View](https://wiki.roombanker.com/panic-button/panic-button/quick-start-guide) |
 | Temperature and Humidity Monitor | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/temperature-humidity-monitor/quick-start-guide) |
 | Water Leak Detector | [View](https://wiki.roombanker.com/environmental-monitoring-sensor/water-leak-detector/quick-start-guide) |
