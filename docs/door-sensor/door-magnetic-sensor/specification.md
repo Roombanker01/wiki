@@ -1,4 +1,4 @@
-﻿# Door Magnetic Sensor
+﻿# Door Window Sensor
 
 <div style={{textAlign: 'center'}}>
 <button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
@@ -12,7 +12,7 @@
 
 <br />
 
-The surface-mounted door magnetic sensor always monitor the opening and closing status of doors, and signals the Smart Hub.
+The surface-mounted Door Window Sensor always monitor the opening and closing status of doors, and signals the Smart Hub.
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/Door%20Magnetic%20Sensor.png" width="200" />
@@ -58,7 +58,7 @@ The surface-mounted door magnetic sensor always monitor the opening and closing 
   > *When sensor is powered up, it will automatically start paring to the hub nearby*
 * Find me  
 
-  > *When enabled, the sensor starts flashing green, which can help identify the sensor from numerous door magnetic sensors.*
+  > *When enabled, the sensor starts flashing green, which can help identify the sensor from numerous Door Window Sensors.*
 * Signal strength detection  
 
   > *When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
@@ -132,7 +132,7 @@ The surface-mounted door magnetic sensor always monitor the opening and closing 
 
 | Product                              | Quantity |
 | ------------------------------------ | -------- |
-| Door Magnetic Sensor (Body & Magnet) | × 1      |
+| Door Window Sensor (Body & Magnet) | × 1      |
 | Quick Start Guide                    | × 1      |
 
 
@@ -154,4 +154,5 @@ The surface-mounted door magnetic sensor always monitor the opening and closing 
 
 ### Warranty
 * Replacement and repair within 24 months of the date of sale. Batteries are not covered under warranty.
+
 
