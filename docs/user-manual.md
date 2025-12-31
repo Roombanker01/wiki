@@ -481,7 +481,7 @@ After Setting the language, SMS will be displayed in this language.
 
 - **24H Lid Detection**
 
-  This feature is enabled by default, detecting hub tampering and triggering an alarm if disassembly is detected. It can be used in both armed and disarmed states.
+  This feature is disabled by default, detecting hub tampering and triggering an alarm if disassembly is detected. It can be used in both armed and disarmed states.
 
 
 
