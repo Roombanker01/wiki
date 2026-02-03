@@ -484,7 +484,7 @@ After Setting the language, SMS will be displayed in this language.
   This feature is disabled by default, detecting hub tampering and triggering an alarm if disassembly is detected. It can be used in both armed and disarmed states.
 
 
-- **Arming Check**</br>
+- **Arming Check**
 
 After turning on, when performing arming, if a sub-device has a fault, a confirmation reminder will pop up.Please note that when arming via keyfob or keypad, if any sensor malfunctions, you need to press the arming button on the keyfob or keypad again for secondary confirmation.</br>
 
