@@ -1818,6 +1818,32 @@ If your device has trouble connecting to the Wi-Fi network, or if you wish to sw
 
 <br />
 
+#### 4.16.6 Key Features
+
+- **Quad View**
+  
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/quad-title.png" width="300" />
+</div>
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/qual-screen.png" width="300" />
+</div>
+
+Display live feeds from up to four cameras simultaneously on a single screen.<br />
+
+- **Digital Zoom**
+
+Smoothly zoom in and out with up to 16x magnification for enhanced detail.<br />
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/pic-small.png" width="300" />
+</div>
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/pic-big.png" width="300" />
+</div>
+
 ### 4.17 Outdoor IPC
 
 **You can click [Spec](https://wiki.roombanker.com/video-alarm-device/outdoor-ipc/specification) and [QSG](https://wiki.roombanker.com/video-alarm-device/outdoor-ipc/quick-start-guide)* to check more information about [Outdoor IPC](https://www.roombanker.com/products/outdoor-security-camera/).
@@ -1888,6 +1914,32 @@ Please set the router parameters and record your WiFi SSID and password before c
 
 <br />
 
+
+#### 4.17.6 Key Features
+
+- **Quad View**
+  
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/quad-title.png" width="300" />
+</div>
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/qual-screen.png" width="300" />
+</div>
+
+Display live feeds from up to four cameras simultaneously on a single screen.<br />
+
+- **Digital Zoom**
+
+Smoothly zoom in and out with up to 16x magnification for enhanced detail.<br />
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/pic-small.png" width="300" />
+</div>
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/pic-big.png" width="300" />
+</div>
 
 ### 4.18 Outdoor PIR Sensor(IR+MW)
 
