@@ -2276,12 +2276,12 @@ In addition to the default armings and disarming, you can also add up to three *
 
 For example, you can configure a **Night Mode** to make entrance and your yard monitored but bedroom not armed. After configuration, you can just one click in Homepage or Scene page to enable Night Mode.
 
-You can press Add Custom Arming or go to Custom Arming setting page and find these options:
+You can press Add Custom Arming or go to Custom Arming setting page and find these options:<br />
 
-​            1.     **Effective Device.** Please refer to Arm Stay. (refer to [Effective Device](#arm-stay))
-​            2.     **Delay Setting.** Please refer to Arm Away. (refer to [Delay Setting](#arm-away))
-​            3.     **Siren.** Please refer to Arm Stay. (refer to [Siren ON/OFF](#arm-stay))
-​            4.     **Homepage Display.** When enabled, the scene will be shown in Homepage, so that you can press the button easily. 
+​            1.     **Effective Device.** Please refer to Arm Stay. (refer to [Effective Device](#arm-stay))<br />
+​            2.     **Delay Setting.** Please refer to Arm Away. (refer to [Delay Setting](#arm-away))<br />
+​            3.     **Siren.** Please refer to Arm Stay. (refer to [Siren ON/OFF](#arm-stay))<br />
+​            4.     **Homepage Display.** When enabled, the scene will be shown in Homepage, so that you can press the button easily. <br />
 
 Rule Description:<br />
 1.Custom Arming modes cannot share sensors with each other, but they may share sensors with the "Arm Stay" or "Arm Away" modes.<br />
