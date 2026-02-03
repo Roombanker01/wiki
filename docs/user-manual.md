@@ -2279,12 +2279,14 @@ For example, you can configure a **Night Mode** to make entrance and your yard m
 You can press Add Custom Arming or go to Custom Arming setting page and find these options:
 
 ​            1.     **Effective Device.** Please refer to Arm Stay. (refer to [Effective Device](#arm-stay))
-
 ​            2.     **Delay Setting.** Please refer to Arm Away. (refer to [Delay Setting](#arm-away))
-
 ​            3.     **Siren.** Please refer to Arm Stay. (refer to [Siren ON/OFF](#arm-stay))
-
 ​            4.     **Homepage Display.** When enabled, the scene will be shown in Homepage, so that you can press the button easily. 
+
+Rule Description:<br />
+1.Custom Arming modes cannot share sensors with each other, but they may share sensors with the "Arm Stay" or "Arm Away" modes.<br />
+2.Multiple custom arming can be armed simultaneously.tap to arm, and tap again to disarm.<br />
+3.The "Disarm" button on the APP home screen disarms all zones.<br />
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222144105101.png" width="400" />
