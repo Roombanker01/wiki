@@ -2272,7 +2272,7 @@ After disarming, all the alarm icon will be gone and siren sound will be stopped
 
 #### 6.1.2 Custom Arming
 
-In addition to the default armings and disarming, you can also add up to three **Custom Arming Scenes**. 
+In addition to the default armings and disarming, you can also add up to eight **Custom Arming Scenes**. 
 
 For example, you can configure a **Night Mode** to make entrance and your yard monitored but bedroom not armed. After configuration, you can just one click in Homepage or Scene page to enable Night Mode.
 
