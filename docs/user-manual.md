@@ -483,7 +483,29 @@ After Setting the language, SMS will be displayed in this language.
 
   This feature is disabled by default, detecting hub tampering and triggering an alarm if disassembly is detected. It can be used in both armed and disarmed states.
 
+- **Wire Network Configuration**</br>
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/StaticIP.png" width="300" />
+</div>
+Static IP Settings </br>
+When using a static IP (instead of DHCP), manually enter:</br>
 
+|     **Parameter**         | **Meaning**                                                                                                                                                         |
+| :-----------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     IP Address            | The unique identifier of the device on the network (e.g., 192.168.1.100). It must be in the same subnet as your router/gateway and not conflict with other devices. |
+|     Subnet Mask           | Defines the network and host portions of the IP address. Common value: 255.255.255.0 (equivalent to /24 subnet).                                                    |
+|     Default Gateway       | Typically the router’s IP address (e.g., 192.168.1.1), used for accessing external networks such as the internet.                                                   |
+|     DNS Server Address    | The Domain Name System (DNS) server address for resolving domain names (e.g., 8.8.8.8 or 114.114.114.114).                                                          |
+
+</br>
+
+- **Arming Check**</br>
+
+After turning on, when performing arming, if a sub-device has a fault, a confirmation reminder will pop up.\nPlease note that when arming via keyfob or keypad, if any sensor malfunctions, you need to press the arming button on the keyfob or keypad again for secondary confirmation.</br>
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/force_arming.png" width="300" />
+</div>
 
 #### 2.5.4 Communication
 
