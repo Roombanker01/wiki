@@ -486,7 +486,7 @@ After Setting the language, SMS will be displayed in this language.
 
 - **Arming Check**
 
-After turning on, when performing arming, if a sub-device has a fault, a confirmation reminder will pop up.Please note that when arming via keyfob or keypad, if any sensor malfunctions, you need to press the arming button on the keyfob or keypad again for secondary confirmation.</br>
+After turning on, when performing arming, if a sub-device has a fault, a confirmation reminder will pop up.Please note that when arming via keyfob or keypad, if any sensor malfunctions, you need to press the arming button on the keyfob or keypad again for secondary confirmation.<br />
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/force_arming.png" width="300" />
