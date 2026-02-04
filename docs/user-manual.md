@@ -766,6 +766,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | **Display On Homepage**   |                           ON / OF                            | When enabled, the PIR will show up on homepage so that you can operate quickly. |
 |      **User Guide**       |                              /                               | Click to check the user guide document of PIR.               |
 |    **Delete Device**      |                              /                               | Delete the PIR from your hub.                                |
+|    **24-hour Alarm**      |                           ON / OF                            | Enable the PIR Sensor to be armed 24h，it will trigger an alarm whenever activated. |
 
 <br />
 
@@ -821,6 +822,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | **Display On Homepage**  |                           ON / OFF                           | When enabled, the Door Window Sensor will show up on homepage so that you can operate quickly. |
 |      **User Guide**      |                              /                               | Click to check the user guide document of Door Window Sensor. |
 |    **Delete Device**     |                              /                               | Delete the Door Window Sensor from your hub.               |
+|    **24-hour Alarm**      |                           ON / OF                           | Enable the Door Window Sensor to be armed 24h，it will trigger an alarm whenever activated. |
 
 <br />
 
@@ -2007,6 +2009,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | **Display On Homepage**   |                           ON / OF                            | When enabled, the PIR will show up on homepage so that you can operate quickly. |
 |      **User Guide**       |                              /                               | Click to check the user guide document of PIR.               |
 |    **Delete Device**      |                              /                               | Delete the PIR from your hub.                                |
+|    **24-hour Alarm**      |                           ON / OF                            | Enable the PIR Sensor to be armed 24h，it will trigger an alarm whenever activated. |
 
 
 <br />
