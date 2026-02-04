@@ -934,6 +934,12 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
+#### 4.6.4 Key Features
+
+Temperature and humidity sensors can display data in four dimensions: daily, week, month and year.
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/thdata.png" width="250" />
+</div>
 
 ### 4.7 Water Leak Detector
 
