@@ -502,7 +502,9 @@ When using a static IP (instead of DHCP), manually enter:<br />
 - **Arming Check**
 
 After turning on, when performing arming, if a sub-device has a fault, a confirmation reminder will pop up.Please note that when arming via keyfob or keypad, if any sensor malfunctions, you need to press the arming button on the keyfob or keypad again for secondary confirmation.<br />
-
+1.When arming via the mobile app, a secondary confirmation dialog pops up; arming only succeeds after the user confirms and dismisses this prompt.<br />
+2.When arming with the keyfob, the keyfob’s LED flashes red for 10 seconds. If you press the Arm button again within 10 seconds, arming is successful; otherwise, it fails.<br />
+3.When arming with the keypad, the keypad’s LED flashes red for 10 seconds. If you press the Arm button again within 10 seconds, arming is successful; otherwise, it fails.<br />
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/force_arming.png" width="300" />
 </div>
