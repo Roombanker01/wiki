@@ -2345,6 +2345,21 @@ When you leave home, you can press "![Arm Away](https://dusunprj.oss-us-west-1.a
 
 <br />
 
+- **Delay Rule Description**
+1. Delay Time Range: Configurable from 10 seconds to 300 seconds, or Close
+2. Overall Delay Settings: All sensors under the arming mode use the same delay time, as defined in the main setting.
+3. Independent Delay:
+- Available only in Away Arming mode.
+- When Independent Delay" is enabled, all sensors default to having delay disabled.
+- You must then go to "Away Arming Setting → Effective Device → Sensor" configure the delay time Independent for each sensor.
+4. Both Away Arming and Custom Arming support delay settings. The effective delay time for a sensor is determined by the most recent configuration applied.
+Prerequisite for the example: PIR1 is included in both Away Arming and Custom Arming scenes.
+
+| Scenario       | Step 1                                                             | Step 2                                                             | Result             |
+| ---------------| -------------------------------------------------------------------| -------------------------------------------------------------------| -------------------|
+| Scenario1      | Set Entry Delay to 10s in Custom Arming.                           | In Away Arming, select Independent Delay and set PIR1 delay to 20s.|PIR1 delay is 20s . |
+| Scenario2      | In Away Arming, select Independent Delay and set PIR1 delay to 10s.| Set Entry Delay to 30s in Custom Arming.                           | PIR1 delay is 30s .|
+
 ##### Disarm
 
 When you are at home and want all intrusion sensor disarmed, you can press "![disarm button](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/disarm%20button.png)"(Disarm) button. In Disarm setting page, you can view which sensors will be effective when you press Disarm.
