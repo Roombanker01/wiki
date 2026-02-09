@@ -93,7 +93,7 @@ Click " ![common-settings](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/
 | Tamper protection                | Support                         |
 | Sensitivity settings             | Low, Medium, High, Auto         |
 | DigSensitivity settingsital      | Support                         |
-| Battery life span                | Up to 5 years (standby mode)    | 
+| Battery life span                | Up to 3 years (standby mode)    | 
 | Operation temperature            | -10℃ ~ 60℃                    |
 | Operation humidity               | 10% ~ 95%                       |
 | Mounting method                  | Wall mounting                   |
