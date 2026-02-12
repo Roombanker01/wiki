@@ -30,9 +30,9 @@ Smart Hub is the powerful brain of Roombanker Secuiry & Automation system, enabl
 
 ## 1. Capacity
 
-### Wireless  peripheral (including  RBF, Zigbee 3.0)
+### Wireless  peripheral (including  RBF)
 
-* Supports up to **128** peripherals (RBF, Zigbee, BLE devices) 
+* Supports up to **128** peripherals (RBF, BLE devices) 
 
   *Specifically, up to 8 alarm keypad, 12 sirens, 32 keyfobs*
 
