@@ -84,8 +84,9 @@ Mark depth：±50um
 
 | Pin number | symbol | IO type | function                                                     |
 | ---------- | ------ | ------- | ------------------------------------------------------------ |
-| 1          | GND    | P       | Chip power reference ground                                  |
-| 2          | VCC    | P       | Power supply pins of the chip (typical supply voltage:  3.3V) |
+| 0          | GND    | P       | Chip Thermal Pad                                  |
+| 1          | VCC    | P       | Power supply pins of the chip (typical supply voltage:  3.3V) |
+| 2          | GND    | P       | Chip power reference ground                                  |
 | 3          | PD3    | I/O     | general I/O （Configurable features）                        |
 | 4          | PD2    | I/O     | general I/O （Configurable features）                        |
 | 5          | GND    | P       | Chip power reference ground                                  |
