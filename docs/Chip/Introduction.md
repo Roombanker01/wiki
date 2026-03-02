@@ -40,7 +40,7 @@ The pin definition of the RBF SIP chip is as follows: it supports 1.71V~ 3.8VDC 
 
 ![image-20250507135649461](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20250507135649461.png)
 
-<center>**Top View**</center>
+**Top View**
 
 | Pin  Number | Pin  Name | I/O  Type | Function                                |
 | ----------- | --------- | --------- | --------------------------------------- |
@@ -111,6 +111,7 @@ The RBF HUB SDK interface has various functions. In terms of initialization and 
 ### 5.2 Complete Development Support System
 
 Roombanker provides comprehensive development support for developers. The online document (HTTP://111.229.174.251/RBFSDK/HTML/INDEX.HTML) details the usage, interface parameters, application examples, etc. of the SDK, which is convenient for developers to check at any time; the offline document (currently inaccessible due to overseas web page restrictions, you can follow the official channels to obtain the latest information later) provides convenience for developers in an offline environment. In addition, the SDK also provides sample codes based on the ESP32 microcontroller (MAIN.C, RBFTEST.C). Developers can quickly master the use of the SDK by referring to these sample codes.Use methods to shorten the development cycle and accelerate the product launch process. In the actual development process, developers can contact us at any time if they encounter any problems. ROOMBANKER's technical support team provides professional technical guidance and solutions.
+
 
 
 
