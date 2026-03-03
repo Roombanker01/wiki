@@ -78,9 +78,8 @@ Mark depth：±50um
 
 ### 2.3  Pin Definition
 
-![image-20250403173858342](https://dusunprj.oss-us-west-1.aliyuncs.com/image-20250403173858342.png)
+![image-20250403173858342](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/RBF-Chip/top_view.png)
 
-**Top View**
 
 | Pin number | symbol | IO type | function                                                     |
 | ---------- | ------ | ------- | ------------------------------------------------------------ |
