@@ -73,7 +73,7 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
 | Mounting Method        | Ceiling                                  |
 | Application Scenario   | Indoor                                   |
 | Weight                 | 103.8 g                                  |
-|                        |                                          |
+
 
 
 
