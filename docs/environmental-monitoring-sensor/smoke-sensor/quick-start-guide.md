@@ -5,6 +5,7 @@
 
 import LanguageSelector from '@site/src/components/LanguageSelector';
 
+<!--
 <LanguageSelector pdfLinks={{
   English: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_EN/Smoke%20Detector%20-%20Both.pdf',
   español: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_ES/Smoke%20Detector_ES-Both.pdf',
@@ -14,6 +15,11 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
   Deutsch: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_DE/Smoke%20Detector_DE-Both.pdf',
   Türkçe: 'https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/QSG_TU/Smoke%20Detector_Tu-Both.pdf',
 }} />
+-->
+
+<div style={{textAlign: 'center'}}>
+<button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download QSG</button>
+</div>
 
 ## 1. Appearance
 
@@ -68,5 +74,6 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
 | Application Scenario   | Indoor                                   |
 | Weight                 | 103.8 g                                  |
 |                        |                                          |
+
 
 
