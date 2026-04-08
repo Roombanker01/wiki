@@ -471,7 +471,7 @@ const sidebars = {
           items: [
             {
               type: "doc",
-              id: "integration/wireless-transmitter/Specification",
+              id: "integration/wireless-transmitter/specification",
               label: "Specification",
             },
             {
