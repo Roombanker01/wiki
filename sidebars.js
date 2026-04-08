@@ -461,6 +461,30 @@ const sidebars = {
    },
    {
       type: "category",
+      label: "Integration",
+      className:'bolder',
+      collapsed: true,
+      items: [
+        {
+          type: "category",
+          label: "Wireless Transmitter",
+          items: [
+            {
+              type: "doc",
+              id: "integration/wireless-transmitter/Specification",
+              label: "Specification",
+            },
+            {
+              type: "doc",
+              id: "integration/wireless-transmitter/quick-start-guide",
+              label: "Quick Start Guide",
+            },
+          ]
+        },
+     ],
+   },
+   {
+      type: "category",
       label: "Chip",
       className:'bolder',
       collapsed: true,
