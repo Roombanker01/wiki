@@ -8,6 +8,12 @@
 
 The surface-mounted Door Window Sensor always monitor the opening and closing status of doors, and signals the Smart Hub.
 
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/RBSS-MC2/RBSS-MC2-spec.png" width="200" />
+</div>
+
+
 ------
 
 ## 1. Detection Performance
