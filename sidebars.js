@@ -68,6 +68,22 @@ const sidebars = {
               label: "Quick Start Guide",
             },
           ]
+        },
+        {
+          type: "category",
+          label: "Home Security Repeater",
+          items: [
+            {
+              type: "doc",
+              id: "hub/home-security-repeater/specification",
+              label: "Specification",
+            },
+            {
+              type: "doc",
+              id: "hub/home-security-repeater/quick-start-guide",
+              label: "Quick Start Guide",
+            },
+          ]
         }
       ],
     },
