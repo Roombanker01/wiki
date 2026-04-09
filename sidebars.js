@@ -175,6 +175,22 @@ const sidebars = {
               label: "Quick Start Guide",
             },
           ]
+        },
+        {
+          type: "category",
+          label: "Door Window Sensor(Anti-masking)",
+          items: [
+            {
+              type: "doc",
+              id: "door-sensor/door-window-masking-sensor/specification",
+              label: "Specification",
+            },
+            {
+              type: "doc",
+              id: "door-sensor/door-window-masking-sensor/quick-start-guide",
+              label: "Quick Start Guide",
+            },
+          ]
         }
       ],
     },
