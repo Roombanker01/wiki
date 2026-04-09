@@ -32,12 +32,23 @@ The surface-mounted Door Window Sensor always monitor the opening and closing st
   > *Alarm will be triggered when system is armed.*
 * Door Closed
 
+### Anti-masking
+
+* Magnetic masking sensor    
+
+  > *Alarm will be triggered when system is armed.*
+
+### Anti-masking testing
+
+* Keep the magnetic door sensor in a closed state and test for 20 seconds to obtain the normal magnetic attraction range.
+
 ### Tamper Protection
 
 * Rear
 ### Remote setting and testing
 
-* Setting and testing from RB Link App
+* It can be turned on or off from RB Link App, it is enabled by default.
+
 ### Advanced features
 
 * Power up enrolling  
