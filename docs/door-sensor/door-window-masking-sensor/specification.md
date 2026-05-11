@@ -112,19 +112,15 @@ The surface-mounted Door Window Sensor always monitor the opening and closing st
 
 ## 5. General
 ### Operation Temperature
-* From -10°С to +55°С (14°F to 131°F)
-
+* From -20°C to 65°C (-4 °F to 149 °F) 
 ### Operation Humidity
-
 * From 10% to 90%
 ### Storage Temperature
 * From -20°C to 60°C (-4°F to 140°F)
 ### Dimension(WxHxD)
 * Body: 90mm x 21mm x 21mm
 * Magnet: 90mm x 21mm x 21mm
-
 ### Weight
-
 * 55g(No battery)
 
 ------
