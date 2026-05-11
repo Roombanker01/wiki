@@ -48,7 +48,7 @@ Launching shortly. Anticipation awaits!
 | Transmission Range(Open Space) | 1400 m                                                       |
 | Advanced Tech                  | AES-128 Encryption，FHSS，TDMA                               |
 | Standard Battery Life          | CR123A Battery x 1， Up to 5 years (standby mode)            |
-| Operation Temperature          | -10°C to 55°C (14 °F to 131 °F)                              |
+| Operation Temperature          | -20°C to 65°C (-4 °F to 149 °F)                              |
 | Dimension(W x H x D)           | 90 mm x 21 mm x 21 mm(Body) 90 mm x 21 mm x 21 mm(Magnet)    |
 | Weight                         | 55 g (No battery)                                            |
 | Application Scenario           | Indoor                                                       |
