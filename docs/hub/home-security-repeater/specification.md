@@ -6,12 +6,12 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
 ## 1. Capacity
 **Wireless peripheral (including RBF)**  
 
-  128
+- 128
 
 ## 2. Features
 ### **Remote setting and testing**  
 
-  Setting and testing from RB Link App
+- Setting and testing from RB Link App
 
 ### Advanced features**  
 - Power up enrolling
@@ -46,79 +46,79 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
   
 ### **Wireless signal modulation** 
 
-  FSK/DSSS <br />
+- FSK/DSSS <br />
   
 ### **Encrypted communication** 
 
-  All the data transmitted are protected by AES-CCM encryption with a random key.<br />
+- All the data transmitted are protected by AES-CCM encryption with a random key.<br />
   
 ### **Frequency hopping (FHSS)** 
 
-  To prevent radio interference and radio signal interception.<br />
+- To prevent radio interference and radio signal interception.<br />
   
 ### **Time division multiple access (TDMA)** 
 
-  With the help of clock synchronization technology, hub will slice time into different division for different RBF wireless devices. In this way, all devices will communicate with hub in a sequence.<br />
+- With the help of clock synchronization technology, hub will slice time into different division for different RBF wireless devices. In this way, all devices will communicate with hub in a sequence.<br />
 
 
 ## 4. Electrical characteristic
 ### **Power Supply** 
 
-  USB type-C 5V/2A <br /> 
+- USB type-C 5V/2A <br /> 
   
 ### **Backup power Supply**  
 
-  2500mAh Li-ion battery<br />
+- 2500mAh Li-ion battery<br />
   
 ### **Calculated backup battery life** 
 
-  35 hours<br />
+- 35 hours<br />
   
 ### **Nominal Operating Voltage**  
 
-  3.7V  <br />
+- 3.7V  <br />
   
 ### **Quiescent current consumption at nominal voltage** 
 
-  TBD  <br />
+- TBD  <br />
   
 ### **Maximum current consumption at nominal voltage**  
 
-  TBD  <br />
+- TBD  <br />
   
 ### **Operating Voltage** 
 
-  From 3.5V to 4.2V  <br />
+- From 3.5V to 4.2V  <br />
   
 ### **Low battery recovery voltage**  
 
-  3.9V  <br />
+- 3.9V  <br />
 
 
 ## 5. General
 ### **Operating Temperature** 
 
-  From -10°C to + 45°C(14°F to 113°F)<br /> 
+- From -10°C to + 45°C(14°F to 113°F)<br /> 
   
 ### **Operating Humidity** 
 
-  Up to 90%  <br />
+- Up to 90%  <br />
   
 ### **Storage Temperature**  
 
-  From -20°C to + 60°C(-4°F to 140°F) <br /> 
+- From -20°C to + 60°C(-4°F to 140°F) <br /> 
   
 ### **Dimensions** 
 
-  150 x 150 x 37 mm  <br />
+- 150 x 150 x 37 mm  <br />
   
 ### **Weight** 
 
-  300g  <br />
+- 300g  <br />
 
 ## 6. Compatibility
 
-  Operates with all Roombanker Home Security Hubs, RBF repeaters.  
+- Operates with all Roombanker Home Security Hubs, RBF repeaters.  
   
 ## 7. Complete set
 
