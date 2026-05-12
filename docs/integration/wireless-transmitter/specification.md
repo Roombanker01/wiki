@@ -39,19 +39,19 @@ Tramsmitter is a module for integrating a third-party wired device into the Room
 | TAMP    | Inputs for connecting a tamper of a wired device.          |
 
 ### Output contact states
-NO, NC<br />
+- NO, NC<br />
 
 ### Third-party device contact states
-NO, NC<br />
+- NO, NC<br />
 
 ### Tamper contact states
-NO, NC<br />
+- NO, NC<br />
 
 ### Cable length
-Up to 130 m<br />
+- Up to 130 m<br />
 
 ### Operating modes
-Bistable, Pulse<br />
+- Bistable, Pulse<br />
 
 ### Event types
 |No.|Type     |Name                             |
@@ -106,39 +106,39 @@ When enabled, senor starts flashing green/orange/red showing the wirelesssignal 
 - Depends on sales region.
 
 ### Wireless signal modulation
-FSK/DSSS
+- FSK/DSSS
 
 ### Encrypted communication
-All the data transmitted are protected by AES-CCM encryption with a random key.<br />
+- All the data transmitted are protected by AES-CCM encryption with a random key.<br />
 
 ### Frequency hopping (FHSS)
-To prevent radio interference and radio signal interception.<br />
+- To prevent radio interference and radio signal interception.<br />
 
 ### Time division multiple access (TDMA)
-With the help of clock synchronization technology, hub will slice time into differentdivision for different RBF wireless devices. In this way, all devices will communicatewith hub in a sequence.<br />
+- With the help of clock synchronization technology, hub will slice time into differentdivision for different RBF wireless devices. In this way, all devices will communicatewith hub in a sequence.<br />
 
 ## 4. Electrical characteristic
 ### Power Supply
-CR123A Battery x 3<br />
+- CR123A Battery x 3<br />
 
 ## 5. General
 ### Operation Temperature
-From-20°Cto +65°C(-4°F to 149°F)<br />
+- From-20°Cto +65°C(-4°F to 149°F)<br />
 
 ### Operation Humidity
-up to 90%<br />
+- up to 90%<br />
 
 ### Storage Temperature
-From -20°C to 65°C (-4°F to 149°F)<br />
+- From -20°C to 65°C (-4°F to 149°F)<br />
 
 ### Dimensions
-100mm x 41mm x 23mm<br />
+- 100mm x 41mm x 23mm<br />
 
 ### Weight
-33g(No battery)<br />
+- 33g(No battery)<br />
 
 ## 6. Compatibility
-Operates with all Roombanker Home Security Hubs, RBF repeaters.<br />
+- Operates with all Roombanker Home Security Hubs, RBF repeaters.<br />
 
 ## 7. Complete set
 |Product            |Quantity  |
@@ -155,7 +155,6 @@ Operates with all Roombanker Home Security Hubs, RBF repeaters.<br />
 - CE
 - FCC
 - ROHS
-- EN50131
 
 ## Warranty
 Replacement and repair within 24 months of the date of sale. Batteries are not covered under warranty.<br />
