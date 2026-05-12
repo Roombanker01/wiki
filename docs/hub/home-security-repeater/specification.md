@@ -140,7 +140,6 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
 - CE
 - FCC
 - ROHS
-- EN50131
 
 ## Warranty
 
