@@ -1,4 +1,9 @@
-## Repeater
+# Repeater
+
+<div style={{textAlign: 'center'}}>
+<button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
+</div>
+<br />
 
 Repeater is a wireless radio signal range extender that boosts the range of all RBF system devices and manages their communication with the hub.<br />
 Repeater makes it possible for users to place RBF devices at a considerable distance from the hub, thereby achieving protection for multi-story office buildings, stand-alone structures, and even production plant.<br />
