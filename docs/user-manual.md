@@ -2023,6 +2023,72 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
+### 4.19 Door Window Sensor(Anti-masking)
+
+**You can click [Spec](https://wiki.roombanker.com/door-sensor/door-window-masking-sensor/specification) and [QSG](https://wiki.roombanker.com/door-sensor/door-window-masking-sensor/quick-start-guide)* to check more information about [Door Window Sensor(Anti-masking)](https://www.roombanker.com/products/door-window-masking-sensor/).
+
+#### 4.19.1 Appearance
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/RBSS-MC2/RBSS-MC2-spec.png" width="200" />
+</div>
+
+| **Appearance**                    | **Description**                                              |
+| --------------------------------- | ------------------------------------------------------------ |
+| **LED Indicator**                 | Red / Green / Orange<br />**Used to indicate alarm status, signal strength status, and Find Me status.* |
+| **Register Button**               | Press and hold for 5s to add the Door Window Sensor to the Hub.<br />**Register Button is only used for re-adding or connecting the peripheral to another hub.* |
+| **Tamper Switch / Tamper Button** | Used to detect the tamper alarm status of the lid.           |
+
+#### 4.19.2 State
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/MC%20state.jpg" width="250" />
+</div>
+
+
+|     **Parameter**     |                          **Value**                           | **Meaning**                                                  |
+| :-------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| **Associated scene**  |                            0 ~ 64                            | Shows the number of custom scenes associated with this Door Window Sensor. You can also click to view and configure the scenes.<br />**Please turn to [Charter 6. Scene Management](#charter-6-scene-management) for more details.* |
+|    **Arm Status**     |                         Arm / Disarm                         | Shows the arm status of the Door Window Sensor. When it’s armed, the Door Window Sensor could detect open/close events and then report alarm to Hub immediately. |
+|   **Alarm Status**    |                        Normal / Alarm                        | Shows whether the Door Window Sensor is triggered.         |
+|    **Lid Status**     |                      Normal / Triggered                      | Shows whether the Door Window Sensor’s lid is opened or not. |
+|  **Signal Strength**  | ![signal blue](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/signal%20blue.png) | Shows the signal strength between the Door Window Sensor and the Hub. |
+| **Connection Status** |                       Online / Offline                       | Shows the connection status between the Door Window Sensor and the Hub.<br />**The Door Window Sensor will not be functional if the status is offline.* |
+|  **Battery Status**   | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | Shows the battery level of Door Window Sensor. <br />**If the battery level is low, the icon will turn red and you’ll receive a malfunction notification in App.* |
+
+#### 4.19.3 Setting
+
+Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221233126628.png" width="250" />
+</div>
+
+
+|      **Parameter**       |                          **Value**                           | **Meaning**                                                  |
+| :----------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+|  **Basic Information**   |                              /                               | Check the basic information of this device, including MAC Address, Serial Number, etc.And you can also edit the device name here by yourself. |
+|   **Room Belongs to**    | ![image-20231222100954161](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222100954161.png) | You can select one of the rooms created before and then link the Door Window Sensor to.<br />**When linked to a specific room, the Door Window Sensor will be displayed on the product list of the room, and the alarm will be triggered only when the room is armed.* |
+|       **Find Me**        | ![MC Find me](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/MC%20Find%20me.png) | A function that used to find your Door Window Sensor among numerous devices.<br />When you enable this function, the indicator in Door Window Sensor will flash green to help you find the target device quickly. |
+| **Signal Strength Test** | ![image-20231222101005495](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222101005495.png) | A function that used to check the signal strength between Door Window Sensor and hub at the tested place, which is designed to help you choose the right place for installation.<br />When you enable this function, you can check the signal strength by watching the indicators in Door Window Sensor and the feedback in app. |
+|  **Installation Test**   | ![MC Test](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/MC%20Test.png) | A function that used to test whether the Door Window Sensor is installed properly.<br />When you enable this function, you can open the door or window to test if the Door Window Sensor can detect and trigger an alarm properly. The indicator will flash red when it detects successfully. |
+|    **Disable Device**    |                           ON / OFF                           | If this button is ON, the alarm  and malfunctions generated by this Door Window Sensor will no longer be uploaded to the Hub and App.<br />**It is recommended that you disable the device only if  it’s defective. Before turning on this function, please ensure that you are  aware of the situation to avoid possible personal injury or property damage that  may result from the device not detecting and triggering an alarm.* |
+| **Display On Homepage**  |                           ON / OFF                           | When enabled, the Door Window Sensor will show up on homepage so that you can operate quickly. |
+|      **User Guide**      |                              /                               | Click to check the user guide document of Door Window Sensor. |
+|    **Delete Device**     |                              /                               | Delete the Door Window Sensor from your hub.               |
+|    **24-hour Alarm**      |                           ON / OF                           | Enable the Door Window Sensor to be armed 24h，it will trigger an alarm whenever activated. |
+
+<br />
+
+### 4.20 Transmitter
+
+<br />
+
+### 4.21 Repeater
+
+<br />
+
+
 ## Charter 5. User Management
 
 ### 5.1 User Type
