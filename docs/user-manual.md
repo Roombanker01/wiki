@@ -2042,7 +2042,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 #### 4.19.2 State
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/MC%20state.jpg" width="250" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/RBSS-MC2/mc2-detail.jpg" width="250" />
 </div>
 
 
