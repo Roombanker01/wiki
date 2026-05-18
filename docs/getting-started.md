@@ -145,7 +145,7 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/12/door-magnetic-sensor-roombanker-rbss-new.png" alt="Roombanker Door Window Sensor" style={{maxWidth:'70%'}}/>
+        <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/RBSS-MC2/RBSS-MC2-spec.png" alt="Roombanker Door Window Sensor" style={{maxWidth:'70%'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
         <h3>Door Window Sensor(Anti-masking)</h3>
