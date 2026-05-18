@@ -21,11 +21,11 @@ tags:
 
 Tramsmitter is a module for integrating a third-party wired device into the Roombanker system. Transmitter allows you to connect the detectors, keypad, panic button, or any other device with the NC/NO contact type to Roombanker. Tramsmitter can output the NC/NO signal to the third-party device.<br />
 
-<!--
+
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/PIR.png" width="150" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmitter-front.png" width="150" />
 </div>
--->
+
 
 ## 1. Terminals for wired device connection
 
