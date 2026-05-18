@@ -71,6 +71,30 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 ***
 
+<div class="iot-list">
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/12/smart-hub-roombanker-rbgw-big.png" alt="Roombanker Smart Alarm Hub" style={{maxWidth:'70%'}}/>
+    </div>
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
+        <h3>Repeater</h3>
+        <p>Repeater is a wireless radio signal range extender that boosts the range of all RBF system devices and manages their communication with the hub.Repeater makes it possible for users to place RBF devices at a considerable distance from the hub, thereby achieving protection for multi-story office buildings, stand-alone structures, and even production plant.</p>
+    </div>
+</div>
+<div class="iot-list">
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
+            <a href="https://wiki.roombanker.com/hub/home-security-repeater/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
+        </div>
+    </div>
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
+            <a href="https://wiki.roombanker.com/hub/home-security-repeater/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
+        </div>
+    </div>
+</div>
+
+***
+
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
         <img src="https://www.roombanker.com/wp-content/uploads/2023/12/pir-sensor-roombanker-rbss-new.png" alt="Roombanker PIR motion sensor" style={{maxWidth:'70%'}}/>
@@ -119,6 +143,29 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 ***
 
+<div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <img src="https://www.roombanker.com/wp-content/uploads/2023/12/door-magnetic-sensor-roombanker-rbss-new.png" alt="Roombanker Door Window Sensor" style={{maxWidth:'70%'}}/>
+    </div>
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
+        <h3>Door Window Sensor(Anti-masking)</h3>
+        <p>The door window sensor continuously oversees the state of door movements and remains vigilant in detecting openings and closings. It dutifully communicates these status changes to the central control units, ensuring a seamless flow of information and robust monitoring. Additionally, this sensor is equipped with an Anti-masking function, which effectively prevents intentional or unintentional blocking, covering, or tampering with the sensor’s detection area—thus maintaining reliable operation and eliminating blind spots in monitoring, even in scenarios where the sensor might be targeted for interference.</p>
+    </div>
+</div>
+<div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
+            <a href="https://wiki.roombanker.com/door-sensor/door-window-masking-sensor/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
+        </div>
+    </div>
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
+            <a href="https://wiki.roombanker.com/door-sensor/door-window-masking-sensor/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
+        </div>
+    </div>
+</div>
+
+***
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
         <img src="https://www.roombanker.com/wp-content/uploads/2024/01/panic-button-roombanker-rbss-gray-size.png" alt="Roombanker Panic Button" style={{maxWidth:'70%'}}/>
