@@ -2084,6 +2084,68 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 ### 4.20 Transmitter
 
+
+**You can click [Spec](https://wiki.roombanker.com/integration/wireless-transmitter/specification) and [QSG](https://wiki.roombanker.com/integration/wireless-transmitter/quick-start-guide)* to check more information about [Transmitter](https://www.roombanker.com/products/transmitter/).
+
+#### 4.20.1 Appearance
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmitter-front.png" width="200" />
+</div>
+
+| **Appearance**                    | **Description**                                              |
+| --------------------------------- | ------------------------------------------------------------ |
+| **LED Indicator**                 | Red / Green / Orange<br />**Used to indicate alarm status, signal strength status, and Find Me status.* |
+| **Register Button**               | Press and hold for 5s to add transmitter to the Hub.<br />**Register Button is only used for re-adding or connecting the peripheral to another hub.* |
+| **AO+ AO-**                       |Outputs for connecting a wired device.                        |
+| **ALARM**                         |Inputs for connecting a wired device.                         |
+| **TAMP**                          |Inputs for connecting a tamper of a wired device.             |
+
+#### 4.20.2 State
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmit-detail.jpg" width="250" />
+</div>
+
+
+|     **Parameter**     |                          **Value**                           | **Meaning**                                                  |
+| :-------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| **Associated scene**  |                            0 ~ 64                            | Shows the number of custom scenes associated with this transmitter. You can also click to view and configure the scenes.<br />**Please turn to [Charter 6. Scene Management](#charter-6-scene-management) for more details.* |
+|    **Arm Status**     |                         Arm / Disarm                         | Shows the arm status of the Transmitter. When it’s armed, the Transmitter could detect open/close events and then report alarm to Hub immediately. |
+|   **Alarm Status**    |                        Normal / Alarm                        | Shows whether the Transmitter is triggered.         |
+|    **Lid Status**     |                      Normal / Triggered                      | Shows whether the Transmitter’s lid is opened or not. |
+|  **Signal Strength**  | ![signal blue](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/signal%20blue.png) | Shows the signal strength between the Transmitter and the Hub. |
+| **Connection Status** |                       Online / Offline                       | Shows the connection status between the Transmitter and the Hub.<br />**The Transmitter will not be functional if the status is offline.* |
+|  **Battery Status**   | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | Shows the battery level of Transmitter. <br />**If the battery level is low, the icon will turn red and you’ll receive a malfunction notification in App.* |
+
+#### 4.20.3 Setting
+
+Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmit-setting-list.jpg" width="250" />
+</div>
+
+
+|      **Parameter**       |                          **Value**                           | **Meaning**                                                  |
+| :----------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+|  **Basic Information**   |                              /                               | Check the basic information of this device, including MAC Address, Serial Number, etc.And you can also edit the device name here by yourself. |
+|   **Add Room**           | ![image-20231222100954161](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222100954161.png) | You can select one of the rooms created before and then link the Transmitter to.<br />**When linked to a specific room, the Transmitter will be displayed on the product list of the room, and the alarm will be triggered only when the room is armed.* |
+|       **Find Me**        | ![MC Find me](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmitter-flashing.png) | A function that used to find your Transmitter among numerous devices.<br />When you enable this function, the indicator in Transmitter will flash green to help you find the target device quickly. |
+|    **Sub-Device Type**          |![transmit-setting-type](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmit-setting-type.jpg) | **Bistable**, **Pulse**   |
+|    **External Detector Type**   |![transmit-setting-external-detector-type](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmit-setting-external-detector-type.png) |**Bistable**, **Pulse**   |
+|    **Power Output**             |![transmit-setting-power-output](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmit-setting-power-output.png) |1. **Always enabled**(Keep output under any circumstances)<br/>2.**Disabled if disarmed** (Cut off power output in disarmed state)<br/>3.**Always Disabled**(Cut off output under any circumstances)|
+|    **External Device Mode**     |![transmit-setting-external-device-mode](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmit-setting-external-device-mode.png) |1.**Normal Close: NC** (A normally - closed signal input indicates a normal state; an alarm is triggered otherwise.)<br/>2.**Normal Open: NO** (A normally - open signal input indicates a normal state; an alarm is triggered otherwise. This is the default mode.)|
+|    **Alarm signal Output**      |![transmit-setting-alarm-signal-output](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmit-setting-alarm-signal-output.jpg.png) |1.**Normal Close:NC** (Under normal circumstances, a low - level output is provided. In case of an alarm, a high - level output is provided for x seconds. This is the default mode.)<br/>2.**Normal Open:NO** (Under normal circumstances, a high - level output is provided. In case of an alarm, a low - level output is provided for x seconds.)<br/>3.**DISABLE** (Turn off this function. A low - level output is provided under any circumstances. The lid status on the Individual Device Status Page shows 'off'.)<br/>Remarks: <br/>**x value**：0 represents continuous output, and 1 - 255s indicates the duration of continuous output. |
+|    **Tamper Settings**          |![transmit-setting-tamper](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmit-setting-tamper.png) |1.**Normal Close: NC**(A normally - closed signal input indicates a normal condition; an alarm is triggered otherwise. This is the default mode.)<br/>2.**Normal Open: NO**(A normally - open signal input indicates a normal condition; an alarm is triggered otherwise.)<br/>3.**DISABLE**: (Turn off this function. Any changes in the input signal will not be reported, and the lid status on the Individual Device Status Page will show "disabled".) |
+| **Signal Strength Test** | ![image-20231222101005495](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmitter-flashing.png) | A function that used to check the signal strength between Transmitter and hub at the tested place, which is designed to help you choose the right place for installation.<br />When you enable this function, you can check the signal strength by watching the indicators in Transmitter and the feedback in app. |
+|    **Firmware Upgrade**  |                              /                               | The device supports firmware upgrade functionality and can be updated remotely over the air. The system periodically checks for version updates, allowing users to download and install firmware updates via the mobile app when the Hub is connected to the internet. |
+|    **Disable Device**    |                           ON / OFF                           | If this button is ON, the alarm  and malfunctions generated by this Transmitter will no longer be uploaded to the Hub and App.<br />**It is recommended that you disable the device only if  it’s defective. Before turning on this function, please ensure that you are  aware of the situation to avoid possible personal injury or property damage that  may result from the device not detecting and triggering an alarm.* |
+| **Display On Homepage**  |                           ON / OFF                           | When enabled, the Transmitter will show up on homepage so that you can operate quickly. |
+|    **24-hour Alarm**     |                           ON / OF                            | Enable the Transmitter to be armed 24h，it will trigger an alarm whenever activated. |
+|      **User Guide**      |                              /                               | Click to check the user guide document of Transmitter. |
+|    **Delete Device**     |                              /                               | Delete the Transmitter from your hub.               |
+
 <br />
 
 ### 4.21 Repeater
