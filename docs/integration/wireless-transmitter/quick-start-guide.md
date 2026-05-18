@@ -42,9 +42,9 @@ Transmitter is a module for integrating a third-party wired device into the Room
 
 |Parameter                             |Value             |
 |--------------------------------------|------------------|
-|    **External detector type**          |**Bistable**, **Pulse**   |
-|    **Power output**  |1. **Always enabled**(Keep output under any circumstances)<br/>2.**Disabled if disarmed** (Cut off power output in disarmed state)<br/>3.**Always Disabled**(Cut off output under any circumstances)|
-|    **External device mode**  |1.**Normal Close: NC** (A normally - closed signal input indicates a normal state; an alarm is triggered otherwise.)<br/>2.**Normal Open: NO** (A normally - open signal input indicates a normal state; an alarm is triggered otherwise. This is the default mode.)|
+|    **External Detector Type**          |**Bistable**, **Pulse**   |
+|    **Power Output**  |1. **Always enabled**(Keep output under any circumstances)<br/>2.**Disabled if disarmed** (Cut off power output in disarmed state)<br/>3.**Always Disabled**(Cut off output under any circumstances)|
+|    **External Device Mode**  |1.**Normal Close: NC** (A normally - closed signal input indicates a normal state; an alarm is triggered otherwise.)<br/>2.**Normal Open: NO** (A normally - open signal input indicates a normal state; an alarm is triggered otherwise. This is the default mode.)|
 |    **Alarm signal Output**           |1.**Normal Close:NC** (Under normal circumstances, a low - level output is provided. In case of an alarm, a high - level output is provided for x seconds. This is the default mode.)<br/>2.**Normal Open:NO** (Under normal circumstances, a high - level output is provided. In case of an alarm, a low - level output is provided for x seconds.)<br/>3.**DISABLE** (Turn off this function. A low - level output is provided under any circumstances. The lid status on the Individual Device Status Page shows 'off'.)<br/>Remarks: <br/>**x value**：0 represents continuous output, and 1 - 255s indicates the duration of continuous output. |
 |    **Tamper Settings**                   |1.**Normal Close: NC**(A normally - closed signal input indicates a normal condition; an alarm is triggered otherwise. This is the default mode.)<br/>2.**Normal Open: NO**(A normally - open signal input indicates a normal condition; an alarm is triggered otherwise.)<br/>3.**DISABLE**: (Turn off this function. Any changes in the input signal will not be reported, and the lid status on the Individual Device Status Page will show "disabled".) |
 
