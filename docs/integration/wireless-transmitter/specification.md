@@ -23,7 +23,7 @@ Tramsmitter is a module for integrating a third-party wired device into the Room
 
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmitter-front.png" width="150" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmitter-front.png" width="250" />
 </div>
 
 
