@@ -244,6 +244,7 @@ The users  receive notifications in case of jamming or when the hub loses connec
 * CE
 * FCC
 * ROHS
+* EN18031-1
 * EN 50131-3:2009
 * EN 50131-1:2006 + A1:2009 + A2:2017 + A3:2020
 
