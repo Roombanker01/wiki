@@ -90,7 +90,7 @@ Click " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6
 | Detection Performance          | 12m， 110°                                                   |
 | Pet Immunity                   | 10kg                                                         |
 | White Light Filter             | 2000lux                                                      |
-| Advanced Features              | Digital Processing，Digital Temperature Compensation， Signal Strength Detection，Find me，Dynamic Threshold |
+| Advanced Features              | Digital Processing，Analog Temperature Compensation， Signal Strength Detection，Find me，Dynamic Threshold |
 | Tamper Protection              | Rear (Triggered when cardan shaft is removed from the PIR sensor.) |
 | Transmission Technology        | RBF Wireless Transmission                                    |
 | Transmission Frequency         | 868/915 MHz                                                  |
