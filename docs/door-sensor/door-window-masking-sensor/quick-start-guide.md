@@ -50,7 +50,7 @@ Launching shortly. Anticipation awaits!
 | Standard Battery Life          | CR123A Battery x 1， Up to 5 years (standby mode)            |
 | Operation Temperature          | -20°C to 65°C (-4 °F to 149 °F)                              |
 | Dimension(W x H x D)           | 90 mm x 21 mm x 21 mm(Body) 90 mm x 21 mm x 21 mm(Magnet)    |
-| Weight                         | 55 g (No battery)                                            |
+| Weight                         | 71 g                                             |
 | Application Scenario           | Indoor                                                       |
 | Minimum Working Voltage        | 2.6V                                                         |
 
