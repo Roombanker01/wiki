@@ -121,7 +121,7 @@ The surface-mounted Door Window Sensor always monitor the opening and closing st
 * Body: 90mm x 21mm x 21mm
 * Magnet: 90mm x 21mm x 21mm
 ### Weight
-* 55g(No battery)
+* 71g
 
 ------
 
