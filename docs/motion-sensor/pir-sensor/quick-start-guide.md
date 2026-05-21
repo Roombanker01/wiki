@@ -28,7 +28,8 @@ import LanguageSelector from '@site/src/components/LanguageSelector';
 
 ## 2. Packaging List
 
-![PIR-10](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/PIR-packaging.png)
+![PIR-9](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/PIR-packaging.png)  
+
 
 ## 3. Add PIR Sensor 
 
@@ -62,29 +63,38 @@ Click " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E6
 
 ## 5. Installation Instruction
 
-![PIR-41](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-41.png)
+![PIR-41](https://dusunprj.oss-us-west-1.aliyuncs.com/PIR-41.png)  
+
 
 **1 Mount on the wall by bracket A**
 
-![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/install-1.png)
+![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/install-1.png)  
 
-![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/install-2.png)
 
-![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/install-4.png)
+![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/install-2.png)  
+
+
+
+![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/install-4.png)  
+
 
 
 **2 Mount on the wall by bracket B**
 
 
-![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/install-5.png)
+![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/install-5.png)  
 
-![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/install-6.png)
 
-![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/install-7.png)
+![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/install-6.png)  
+
+
+![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/install-7.png)  
+
 
 **Mount by 3M adhesive strip**
 
-![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/install-8.png)
+![PIR-51](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Indoor-PIR/install-8.png)  
+
 
 **Note: This installation method does not support tamper detection.*
 
