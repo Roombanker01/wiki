@@ -82,8 +82,8 @@ Transmitter is a module for integrating a third-party wired device into the Room
 |Operation Temperature      |From-20°Cto +65°C(-4°F to 149°F)                 |
 |Operation Humidity         |Up to 90%                                        |
 |Storage Temperature        |From -20°C to 65°C (-4°F to 149°F)               |
-|Maximum Operating Current  |<br/>                                            |
-|Quiescent Current          |<br/>                                            |
+|Maximum Operating Current  | 72mA                                            |
+|Quiescent Current          | 11mA                                            |
 |Dimension (W x H x D)      |100mm x 41mm x 23mm                              |
 |Weight                     |33g(No battery)                                  |
 |Power Supply               |CR123A Battery x 3                               |
