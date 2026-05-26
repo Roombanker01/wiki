@@ -144,6 +144,9 @@ When enabled, senor starts flashing green/orange/red showing the wirelesssignal 
 |-------------------|----------|
 |Transmitter        |  x1      |
 |Quick Start Guide  |  x1      |
+|CR123A Battery     |  x3      |
+|PCB standoff       |  x4      |
+
 
 ## 8. Additional information
 ### Available models
