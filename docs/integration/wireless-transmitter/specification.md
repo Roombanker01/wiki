@@ -54,22 +54,21 @@ Tramsmitter is a module for integrating a third-party wired device into the Room
 - Bistable, Pulse<br />
 
 ### Event types
-|No.|Type     |Name                             |
-|---|---------|---------------------------------|
-|1  |Event    |Tamper                           |
-|2  |Device   |Intrusion                        |
-|3  |Device   |Fire                             |
-|4  |Device   |Auxiliary alarm                  |
-|5  |Device   |Panic button                     |
-|6  |Device   |Gas alarm                        |
-|7  |Device   |Leakage                          |
-|8  |Device   |Glass break                      |
-|9  |Device   |High temperature                 |
-|10 |Device   |Low temperature                  |
-|11 |Device   |Masking                          |
-|12 |Device   |Duress code (opening)            |
-|13 |Device   |Vibration (seismic sensor)       |
-|14 |Device   |Custom                           |
+|NO.|Type      |Value                     | Meaning                                                       |
+|---|----------|--------------------------|---------------------------------------------------------------|
+|1  |Device    |Intrusion                 |Trigger an alarm on motion, door/window opening, or activation of other detectors.|
+|2  |Device    |Fire                      |Generate an alarm when fire detectors are activated.|
+|3  |Device    |Auxiliary alarm           |Trigger an alarm when the auxiliary request button is pressed.|
+|4  |Device    |Panic button              |Activate an alarm upon pressing the panic button.|
+|5  |Device    |Gas alarm                 |Generate an alarm when the glass break sensor is activated.|
+|6  |Device    |Leakage                   |Alarm triggered by water leakage detectors.|
+|7  |Device    |Glass break               |Alarm triggered by the glass break sensor.|
+|8  |Device    |High temperature          |Trigger an alarm when the upper temperature limit is exceeded.|
+|9  |Device    |Low temperature           |Activate an alarm when the lower temperature limit is breached.|
+|10 |Device    |Masking                   |Alarm triggered when device masking is detected.|
+|11 |Device    |Duress code (opening)     |Alarm upon entry of duress code.|
+|12 |Device    |Vibration                 |Alarm when the vibration sensor is activated.This event type is only available under Pulse mode.|
+|13 |Device    |Custom                    |User-configurable event type. This event is not transmitted to the security company’s monitoring station.|
 
 ## 2. Features
 ### Remote setting and testing
