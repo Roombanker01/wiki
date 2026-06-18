@@ -145,7 +145,12 @@ The 24/7 panic alarm button always ready to assist you. Just press the button to
 * CE
 * FCC
 * ROHS
+* EN 50131-3:2009,
+* EN 50131-1:2006 + A1:2009 + A2:2017 + A3:2020
 
+### Security Grade
+
+* Security Grade 2
 
 ### Warranty
 
