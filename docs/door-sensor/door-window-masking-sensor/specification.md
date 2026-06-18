@@ -6,7 +6,7 @@
 
 <br />
 
-The surface-mounted Door Window Sensor always monitor the opening and closing status of doors, and signals the Smart Hub.
+Door window detector is designed to detect intrusion, offering comprehensive coverage for doors, windows, skylights. The detector has two reed switches as opening sensors and a magnetometer that recognizes magnet spoofing. The device also detects shock and tilt with a built-in accelerometer.
 
 
 <div align="center">
@@ -21,6 +21,8 @@ The surface-mounted Door Window Sensor always monitor the opening and closing st
 ### Detection method
 
 * Reed switch*2
+* Accelerometer
+* Magnetic sensor
 
 
 ### Detection Gap
@@ -33,10 +35,21 @@ The surface-mounted Door Window Sensor always monitor the opening and closing st
 
 ### Door Status detection
 
-* Door Open   
+* Door open
+  > *Alarm will be triggered when system is armed, ignores vibrations lasting up to 0.15 s.*
+* Shock
+  > *3 levels, Low/Normal/High, alarm will be triggered when detects a shock.*
+* Tilt
+  > *Tile threshold can be set from 5° to 25°, once angle exceeds the threshold, alarm will be triggered when system is armed.*
 
-  > *Alarm will be triggered when system is armed.*
-* Door Closed
+### Indicators
+
+* Alarm: Flashing `Red`
+* Find me: Flashing `Green`
+* Signal strength: 
+  * Flashing `Green`: signal strength is strong, and is recommended to install device here
+  * Flashing `Orange`: signal strength is medium and device can be installed here
+  * Flashing `Red`: signal strength is bad or no signal, and device can not be installed here
 
 ### Anti-masking
 
@@ -51,6 +64,8 @@ The surface-mounted Door Window Sensor always monitor the opening and closing st
 ### Tamper Protection
 
 * Rear
+
+
 ### Remote setting and testing
 
 * It can be turned on or off from RB Link App, it is enabled by default.
@@ -67,54 +82,71 @@ The surface-mounted Door Window Sensor always monitor the opening and closing st
 
   > *When enabled, senor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.* 
 * Low battery notification
-### Indicators
 
-* Alarm: Flashing `Red`
-* Find me: Flashing `Green`
-* Signal strength: 
-  * Flashing `Green`: signal strength is strong, and is recommended to install device here
-  * Flashing `Orange`: signal strength is medium and device can be installed here
-  * Flashing `Red`: signal strength is bad or no signal, and device can not be installed here
-
-
-------
 
 ## 3. RBF wireless technology
+
 ### Wireless signal range
+
 * Up to **1,400 m** in an open space with hub
 * Two-way communication with hub
+  
 ### Frequency bands
 
 * 868MHz version: 863 ~ 870 MHz
 * 915MHz version: 902 ~ 928 MHz  
 
   > *Depends on sales region.*
+
 ### Wireless signal modulation
+
 * FSK / DSSS
+
 ### Encrypted communication
+
 * All the data transmitted are protected by AES-CCM encryption with a random key.
 
 ### Frequency hopping (FHSS)
+
 * To prevent radio interference and radio signal interception.
 
 ### Time division multiple access (TDMA)
+
 * With the help of clock synchronization technology, hub will slice time into different division for different RBF wireless devices. In this way, all devices will communicate with hub in a sequence.
 
-------
+
 
 ## 4. Electrical Characteristic
 
 ### Power Supply
+
 * CR123A Battery x 1
+
+### Calculated battery life
+
 * Up to 5 years (standby mode)
 
-------
+### Nrominal Operating Voltage
+
+* 3V
+
+### Quiescent current consumption at nominal voltage
+
+* 35uA
+
+### Maximum current consumption at nominal voltage
+
+* 73mA
+
+### Operating Voltage
+* From 2.5V to 3.3V
 
 ## 5. General
+
 ### Operation Temperature
-* From -20°C to 65°C (-4 °F to 149 °F) 
+* From -10°Cto +55°C(14°F to 131°F) 
 ### Operation Humidity
-* From 10% to 90%
+* Up to 90%
 ### Storage Temperature
 * From -20°C to 60°C (-4°F to 140°F)
 ### Dimension(WxHxD)
@@ -123,21 +155,22 @@ The surface-mounted Door Window Sensor always monitor the opening and closing st
 ### Weight
 * 71g
 
-------
 
 ## 6. Compatibility
 * Operates with all Roombanker Home Security Hubs,  RBF repeaters.
 
 ## 7. Complete set
 
-| Product                              | Quantity |
-| ------------------------------------ | -------- |
-| Door Window Sensor (Body & Magnet)   | × 1      |
-| Quick Start Guide                    | × 1      |
+| Product                                    | Quantity |
+| ------------------------------------------ | -------- |
+| Door Window detector                       | × 1      |
+| Magnet                                     | × 1      |
+| Mounting screw                             | × 4      |
+| Plastic wall plug                          | × 4      |
+| 3M adhesive tape                           | × 2      |
+| Terminal to connect a third-party detector | × 1      |
+| Quick Start Guide                          | × 1      |
 
-
-
-------
 
 ## 8. Additional information
 
@@ -151,7 +184,6 @@ The surface-mounted Door Window Sensor always monitor the opening and closing st
 * CE
 * FCC
 * ROHS
-* EN50131
 
 ### Warranty
 * Replacement and repair within 24 months of the date of sale. Batteries are not covered under warranty.
