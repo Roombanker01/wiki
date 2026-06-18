@@ -187,9 +187,12 @@ The passive infrared sensor detects motion by detecting changes in infrared (IR)
 * CE
 * FCC
 * ROHS
+* EN 50131-2-2: 2021
+* EN 50131-1: 2006+A1: 2009+A2: 2017+A3: 2020
 
+### Security Grade
 
-
+* Security Grade 2
 
 ### User Manual
 
