@@ -48,10 +48,13 @@ Launching shortly. Anticipation awaits!
 | Transmission Range(Open Space) | 1400 m                                                       |
 | Advanced Tech                  | AES-128 Encryption，FHSS，TDMA                               |
 | Standard Battery Life          | CR123A Battery x 1， Up to 5 years (standby mode)            |
-| Operation Temperature          | -20°C to 65°C (-4 °F to 149 °F)                              |
+| Operation Temperature          | From -10°Cto +55°C(14°F to 131°F)                            |
 | Dimension(W x H x D)           | 90 mm x 21 mm x 21 mm(Body) 90 mm x 21 mm x 21 mm(Magnet)    |
-| Weight                         | 71 g                                             |
+| Weight                         | 71 g                                                         |
 | Application Scenario           | Indoor                                                       |
-| Minimum Working Voltage        | 2.6V                                                         |
+| Operating Voltage              | From 2.5V to 3.3V                                            |
+| Minimum Working Voltage        | 2.5V                                                         |
+| Quiescent current consumption at nominal voltage  | 35uA                                      |
+| Maximum current consumption at nominal voltage    | 73mA                                      |
 
 
