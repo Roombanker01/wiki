@@ -182,6 +182,12 @@ The wireless alarm sirens with loud sounds and flashing lights are designed to g
 * CE
 * FCC
 * ROHS
+* EN 50131-4: 2019,
+* EN 50131-1: 2006 + A1: 2009+ A2: 2017+ A3: 2020
+
+### Security Grade
+
+* Security Grade: 2
 
 ### Warranty
 
