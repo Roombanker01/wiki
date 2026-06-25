@@ -27,15 +27,13 @@ Click“Settings->Signal Strength Test”to check signal strength.<br />
 Click“Settings->Find me”to check.<br />
 The device indicator flashes green (1 second on / 1 second off) until the 30-second timeout expires.<br />
 
-## 5. Installation Instruction
-
-## 6. Working Principle
+## 5. Working Principle
 
 Transmitter is a module for integrating a third-party wired device into the Roombanker system. Transmitter allows you to connect the detectors, keypad, panic button, or any other device with the NC/NO contact type to Roombanker. Transmitter can output the NC/NO signal to the third-party device.<br />
 
-## 7. Base Operation
+## 6. Base Operation
 
-### 7.1. Terminals for wired device connection
+### 6.1. Terminals for wired device connection
 
 |Parameter    |Value                                                    |
 |-------------|---------------------------------------------------------|
@@ -44,7 +42,7 @@ Transmitter is a module for integrating a third-party wired device into the Room
 |**ALARM**    |Inputs for connecting a wired device.                    |
 |**TAMP**     |Inputs for connecting a tamper of a wired device.        |
 
-### 7.2. Device configuration
+### 6.2. Device configuration
 
 |Parameter                             |Value             |
 |--------------------------------------|------------------|
@@ -54,7 +52,7 @@ Transmitter is a module for integrating a third-party wired device into the Room
 |    **Alarm Signal Output**           |1.**Normal Close:NC** (Under normal circumstances, a low - level output is provided. In case of an alarm, a high - level output is provided for x seconds. This is the default mode.)<br/>2.**Normal Open:NO** (Under normal circumstances, a high - level output is provided. In case of an alarm, a low - level output is provided for x seconds.)<br/>3.**DISABLE** (Disable this function, no signal output)<br/>Remarks: <br/>**x value**：0 represents continuous output, and 1 - 255s indicates the duration of continuous output. |
 |    **Tamper Settings**                   |1.**Normal Close: NC**(A normally - closed signal input indicates a normal condition; an alarm is triggered otherwise. This is the default mode.)<br/>2.**Normal Open: NO**(A normally - open signal input indicates a normal condition; an alarm is triggered otherwise.)<br/>3.**DISABLE**: (Disable this function and do not detect signal input.) |
 
-### 7.3. Event types
+### 6.3. Event types
 
 |NO.|Type      |Value                     | Meaning                                                       |
 |---|----------|--------------------------|---------------------------------------------------------------|
@@ -72,7 +70,7 @@ Transmitter is a module for integrating a third-party wired device into the Room
 |12 |Device    |Vibration                 |Alarm when the vibration sensor is activated.This event type is only available under Pulse mode.|
 |13 |Device    |Custom                    |User-configurable event type. This event is not transmitted to the security company’s monitoring station.|
 
-## 8. Device Specifications
+## 7. Device Specifications
 |Parameter                  |Value                                            |
 |---------------------------|-------------------------------------------------|
 |Model                      |RBAD-TR1-868\RBAD-TR1-915                        |
