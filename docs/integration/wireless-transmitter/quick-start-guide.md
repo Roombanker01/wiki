@@ -2,7 +2,12 @@
 
 ## 1. Appearance
 
+
+![MC-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/Appearance.png)
+
 ## 2. Packaging List
+![MC-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/PackagingList.png)
+
 
 ## 3. Add Device
 
@@ -10,12 +15,13 @@
 2. Pull out the insulation strip to power up the device, the green indicator will flash and the device will show in the App.<br />
 > Note: If the device does not show in the App and green indicator is off, please press and hold the register button for 5s to try again.<br />
 3. Assign a room and click the "Done" to finish adding.<br />
-
+![MC-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/add.png)
 
 ## 4. Testing Instruction
 
 - **Signal Strength Test** <br />
 Click“Settings->Signal Strength Test”to check signal strength.<br />
+![MC-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/test.png)
 
 - **Find me** <br />
 Click“Settings->Find me”to check.<br />
