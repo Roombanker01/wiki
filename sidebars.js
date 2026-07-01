@@ -275,7 +275,7 @@ const sidebars = {
         },
         {
           type: "category",
-          label: "Smoke Sensor",
+          label: "Smoke Detector",
           items: [
             {
               type: "doc",
