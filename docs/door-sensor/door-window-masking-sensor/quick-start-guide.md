@@ -4,11 +4,11 @@
 
 ## 1. Appearance
 
-Launching shortly. Anticipation awaits!
+![MC-4](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/RBSS-MC2/appearance.png)
 
 ## 2. Packaging List
 
-Launching shortly. Anticipation awaits!
+![MC-4](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/RBSS-MC2/packagelist.png)
 
 ## 3. Add Door Window Sensor
 
@@ -20,7 +20,7 @@ Launching shortly. Anticipation awaits!
 
 3. Assign a room  and click the "**Done**" to finish adding.
 
-![MC-4](https://dusunprj.oss-us-west-1.aliyuncs.com/MC-4.png)
+![MC-4](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/RBSS-MC2/mc2-add.png)
 
 ## 4. Testing Instruction
 
