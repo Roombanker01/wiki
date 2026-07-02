@@ -1,8 +1,6 @@
 # Door Window Sensor(Anti-masking)
 
-<center>
-    Launching shortly. Anticipation awaits!
-</center>
+
 
 <br />
 
