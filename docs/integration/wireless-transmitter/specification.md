@@ -33,7 +33,7 @@ Tramsmitter is a module for integrating a third-party wired device into the Room
 
 | Param   | Description                                                |
 | ------- | ---------------------------------------------------------- |
-| + -     | 3.3V / 30mA power supply output for connecting a wired device.   |
+| + -     | 3.3 V / 30 mA power supply output for connecting a wired device.   |
 | AO+ AO- | Outputs for connecting a wired device.                     |
 | ALARM   | Inputs for connecting a wired device.                      |
 | TAMP    | Inputs for connecting a tamper of a wired device.          |
@@ -128,19 +128,19 @@ When enabled, senor starts flashing green/orange/red showing the wirelesssignal 
 
 ## 5. General
 ### Operation Temperature
-- From -20°C to + 65°C(-4°F to 149°F)<br />
+- From -20 °C to + 65 °C(-4 °F to 149 °F)<br />
 
 ### Operation Humidity
 - Up to 90%<br />
 
 ### Storage Temperature
-- From -20°C to 65°C (-4°F to 149°F)<br />
+- From -20 °C to 65 °C (-4 °F to 149 °F)<br />
 
 ### Dimensions
-- 100mm x 41mm x 23mm<br />
+- 100 mm x 41 mm x 23 mm<br />
 
 ### Weight
-- 33g(No battery)<br />
+- 33 g(No battery)<br />
 
 ## 6. Compatibility
 - Operates with all Roombanker Home Security Hubs, RBF repeaters.<br />
