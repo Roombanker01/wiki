@@ -2098,10 +2098,10 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 | --------------------------------- | ------------------------------------------------------------ |
 | **LED Indicator**                 | Red / Green / Orange<br />**Used to indicate alarm status, signal strength status, and Find Me status.* |
 | **Register Button**               | Press and hold for 5s to add transmitter to the Hub.<br />**Register Button is only used for re-adding or connecting the peripheral to another hub.* |
-|  **+ –**                          |3.3 V⎓ power supply output for connecting a wired device.     |
-| **AO+ AO-**                       |Outputs for connecting a wired device.                        |
-| **ALARM**                         |Inputs for connecting a wired device.                         |
-| **TAMP**                          |Inputs for connecting a tamper of a wired device.             |
+|  **+ –**                          | 3.3 V / 30 mA power supply output for connecting a wired device.     |
+| **AO+ AO-**                       | Outputs for connecting a wired device.                        |
+| **ALARM**                         | Inputs for connecting a wired device.                         |
+| **TAMP**                          | Inputs for connecting a tamper of a wired device.             |
 
 #### 4.20.2 State
 
