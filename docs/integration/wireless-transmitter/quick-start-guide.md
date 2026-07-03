@@ -37,7 +37,7 @@ Transmitter is a module for integrating a third-party wired device into the Room
 
 |Parameter    |Value                                                    |
 |-------------|---------------------------------------------------------|
-|**+ –**      |3.3 V⎓ power supply output for connecting a wired device.|
+|**+ –**      |3.3 V / 30 mA power supply output for connecting a wired device.|
 |**AO+ AO-**  |Outputs for connecting a wired device.                   |
 |**ALARM**    |Inputs for connecting a wired device.                    |
 |**TAMP**     |Inputs for connecting a tamper of a wired device.        |
@@ -73,23 +73,22 @@ Transmitter is a module for integrating a third-party wired device into the Room
 ## 7. Device Specifications
 |Parameter                  |Value                                            |
 |---------------------------|-------------------------------------------------|
-|Model                      |RBAD-TR1-868\RBAD-TR1-915                        |
-|Advanced Features          |Signal Strength detection， Find me              |
-|Transmission Technology    |RBF Wireless Transmission                        |
-|Transmission Frequency     |868/915 MHz                                      |
-|Cable length               |130m                                             |
-|Wireless signal range      |Up to 1,500 m in an open space with hub          |
-|Advanced Tech              |AES-128 Encryption,FHSS,TDMA                     |
-|LED Indicator              |1                                                |
-|Device certifications      |FCC/CE/RoHS                                      |
-|Operation Temperature      |From-20°Cto +65°C(-4°F to 149°F)                 |
-|Operation Humidity         |Up to 90%                                        |
-|Storage Temperature        |From -20°C to 65°C (-4°F to 149°F)               |
-|Maximum Operating Current  | 72mA                                            |
-|Quiescent Current          | 11mA                                            |
-|Dimension (W x H x D)      |100mm x 41mm x 23mm                              |
-|Weight                     |33g(No battery)                                  |
-|Power Supply               |CR123A Battery x 3                               |
-|User Serviceable Parts     |External plug：Battery CR123A x 3                |
-|Application Scenario       |Indoor                                           |
+|Model                      | RBAD-TR1-868 \ RBAD-TR1-915                        |
+|Advanced Features          | Signal Strength detection， Find me              |
+|Transmission Technology    | RBF Wireless Transmission                        |
+|Transmission Frequency     | 868 / 915 MHz                                      |
+|Cable length               | 130 m                                             |
+|Wireless signal range      | Up to 1,500 m in an open space with hub          |
+|LED Indicator              | 1                                                |
+|Device certifications      | FCC/CE/RoHS                                      |
+|Operation Temperature      | From -20 °C to +65 °C(-4 °F to 149 °F)                 |
+|Operation Humidity         | Up to 90%                                        |
+|Storage Temperature        | From -20 °C to 65 °C (-4 °F to 149 °F)               |
+|Maximum Operating Current  | 72 mA                                            |
+|Quiescent Current          | 11 uA                                            |
+|Dimension (W x H x D)      | 100 mm x 41 mm x 23 mm                              |
+|Weight                     | 33 g(No battery)                                  |
+|Power Supply               | CR123A Battery x 3                               |
+|User Serviceable Parts     | External plug：Battery CR123A x 3                |
+|Application Scenario       | Indoor                                           |
 
