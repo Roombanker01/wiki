@@ -19,7 +19,7 @@ tags:
 </center>
 <br />
 
-Tramsmitter is a module for integrating a third-party wired device into the Roombanker system. Transmitter allows you to connect the detectors, keypad, panic button, or any other device with the NC/NO contact type to Roombanker. Tramsmitter can output the NC/NO signal to the third-party device.<br />
+Tramsmitter is a module for integrating a third-party wired device into the Roombanker system.<br />Transmitter allows you to connect the detectors, keypad, panic button, or any other device with the NC / NO contact type to Roombanker. Transmitter links to the gateway via the RBF protocol, once transmitter receives a signal from the third-party device, it will send this message to gateway, gateway will arrange the next action.<br />Tramsmitter can output a 3.3 V / 30 mA power to the third-party device.<br />Tramsmitter can output a NC / NO signal to the third-party device to achieve a certain function.<br />
 
 
 <div align="center">
@@ -33,7 +33,7 @@ Tramsmitter is a module for integrating a third-party wired device into the Room
 
 | Param   | Description                                                |
 | ------- | ---------------------------------------------------------- |
-| + -     | 3.3V⎓ power supply output for connecting a wired device.   |
+| + -     | 3.3V / 30mA power supply output for connecting a wired device.   |
 | AO+ AO- | Outputs for connecting a wired device.                     |
 | ALARM   | Inputs for connecting a wired device.                      |
 | TAMP    | Inputs for connecting a tamper of a wired device.          |
@@ -104,28 +104,34 @@ When enabled, senor starts flashing green/orange/red showing the wirelesssignal 
 - 915MHz version: 902 ~ 928 MHz
 - Depends on sales region.
 
-### Wireless signal modulation
-- FSK/DSSS
-
-### Encrypted communication
-- All the data transmitted are protected by AES-CCM encryption with a random key.<br />
-
-### Frequency hopping (FHSS)
-- To prevent radio interference and radio signal interception.<br />
-
-### Time division multiple access (TDMA)
-- With the help of clock synchronization technology, hub will slice time into differentdivision for different RBF wireless devices. In this way, all devices will communicatewith hub in a sequence.<br />
-
 ## 4. Electrical characteristic
 ### Power Supply
 - CR123A Battery x 3<br />
 
+### Calculated battery life
+- Up to 5 years<br />
+
+### Nrominal Operating Voltage
+- 3 V <br />
+
+### Quiescent current consumption at nominal voltage
+- 11 uA<br />
+
+### Maximum current consumption at nominal voltage
+- 72 mA<br />
+
+### Operating Voltage
+- From 2.5 V to 3.3 V<br />
+
+### Power supply output
+- 3.3 V / 30 mA<br />
+
 ## 5. General
 ### Operation Temperature
-- From-20°Cto +65°C(-4°F to 149°F)<br />
+- From -20°C to + 65°C(-4°F to 149°F)<br />
 
 ### Operation Humidity
-- up to 90%<br />
+- Up to 90%<br />
 
 ### Storage Temperature
 - From -20°C to 65°C (-4°F to 149°F)<br />
