@@ -38,7 +38,7 @@ Transmitter is a module for integrating a third-party wired device into the Room
 |Parameter    |Value                                                    |
 |-------------|---------------------------------------------------------|
 |**+ –**      |3.3 V / 30 mA power supply output for connecting a wired device.|
-|**AO+ AO-**  |Outputs for connecting a wired device.                   |
+|**PO+ PO-**  |Programmable output, open-collector, need external pull-up resistor. |
 |**ALARM**    |Inputs for connecting a wired device.                    |
 |**TAMP**     |Inputs for connecting a tamper of a wired device.        |
 
