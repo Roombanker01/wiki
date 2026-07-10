@@ -60,7 +60,7 @@ Transmitter is a module for integrating a third-party wired device into the Room
 |2  |Device    |Fire                      |Generate an alarm when fire detectors are activated.|
 |3  |Device    |Auxiliary alarm           |Trigger an alarm when the auxiliary request button is pressed.|
 |4  |Device    |Panic button              |Activate an alarm upon pressing the panic button.|
-|5  |Device    |Gas alarm                 |Generate an alarm when the glass break sensor is activated.|
+|5  |Device    |Gas alarm                 |Alarm when gas concentration is exceeded.|
 |6  |Device    |Leakage                   |Alarm triggered by water leakage detectors.|
 |7  |Device    |Glass break               |Alarm triggered by the glass break sensor.|
 |8  |Device    |High temperature          |Trigger an alarm when the upper temperature limit is exceeded.|
