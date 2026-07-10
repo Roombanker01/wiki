@@ -12,7 +12,7 @@
 ## 3. Add Device
 
 1. Click Home Security Hub, then click "+" and select "Add peripheral".<br />
-2. Insert the battery, and the device will enter registration mode automatically, the green indicator will flash and the device will show in the App.<br />
+2. Pop in three batteries to power up the device, the green indicator will flash and the device will show in the App.<br />
 > Note: If the device does not show in the App and green indicator is off, please press and hold the register button for 5s to try again.<br />
 3. Assign a room and click the "Done" to finish adding.<br />
 ![MC-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/add.png)
