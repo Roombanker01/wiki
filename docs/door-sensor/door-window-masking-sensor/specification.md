@@ -96,23 +96,6 @@ Door window detector is designed to detect intrusion, offering comprehensive cov
 
   > *Depends on sales region.*
 
-### Wireless signal modulation
-
-* FSK / DSSS
-
-### Encrypted communication
-
-* All the data transmitted are protected by AES-CCM encryption with a random key.
-
-### Frequency hopping (FHSS)
-
-* To prevent radio interference and radio signal interception.
-
-### Time division multiple access (TDMA)
-
-* With the help of clock synchronization technology, hub will slice time into different division for different RBF wireless devices. In this way, all devices will communicate with hub in a sequence.
-
-
 
 ## 4. Electrical Characteristic
 
