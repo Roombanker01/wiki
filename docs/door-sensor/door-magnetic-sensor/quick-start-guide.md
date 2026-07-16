@@ -61,7 +61,6 @@ Click  " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E
 | Transmission Technology        | RBF Wireless Transmission                                    |
 | Transmission Frequency         | 868/915 MHz                                                  |
 | Transmission Range(Open Space) | 1900 m                                                       |
-| Advanced Tech                  | AES-128 Encryption，FHSS，TDMA                               |
 | Standard Battery Life          | AA Battery× 1， Up to 5.5 years (standby mode)               |
 | Operation Temperature          | -10°C to 55°C (14 °F to 131 °F)                              |
 | Dimension(W x H x D)           | 82 mm x 42 mm x 16 mm(Body)         82 mm x 11 mm x 18 mm(Magnet) |
