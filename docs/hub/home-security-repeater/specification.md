@@ -33,7 +33,7 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
 - Temper protection
 
 ### Indicators  
-- Alarm: Flashing Red
+- Registration: Flashing Green
 - Find me: Flashing Green
 - Signal strength:
   - Flashing Green: signal strength is strong, and is recommended to install device here
@@ -51,24 +51,6 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
   - 868MHz version: 863 ~ 870MHz
   - 915MHz version: 902 ~ 928MHz
   - Depends on sales region. <br />
-
-  
-### Wireless signal modulation 
-
-- FSK/DSSS <br />
-  
-### Encrypted communication
-
-- All the data transmitted are protected by AES-CCM encryption with a random key.<br />
-  
-### Frequency hopping (FHSS) 
-
-- To prevent radio interference and radio signal interception.<br />
-  
-### Time division multiple access (TDMA) 
-
-- With the help of clock synchronization technology, hub will slice time into different division for different RBF wireless devices. In this way, all devices will communicate with hub in a sequence.<br />
-
 
 ## 4. Electrical characteristic
 ### Power Supply
