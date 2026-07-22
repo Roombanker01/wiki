@@ -8,9 +8,11 @@
 Repeater is a wireless radio signal range extender that boosts the range of all RBF system devices and manages their communication with the hub.<br />
 Repeater makes it possible for users to place RBF devices at a considerable distance from the hub, thereby achieving protection for multi-story office buildings, stand-alone structures, and even production plant.<br />
 
+<!-- 
 <div align="center">
   <img src="https://www.roombanker.com/wp-content/uploads/2023/11/smart-hub-roombanker-rbgw-big.png" width="300" />
 </div>
+-->
 
 ## 1. Capacity
 ### Wireless peripheral (including RBF)
@@ -129,7 +131,6 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
 ### Certifications  
 
 - CE
-- FCC
 - ROHS
 
 ## Warranty
