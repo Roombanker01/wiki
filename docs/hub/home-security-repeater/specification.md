@@ -61,7 +61,7 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
   
 ### Backup power Supply  
 
-- 5000mAh Li-ion battery<br />
+- 2500 mAh Li-ion battery<br />
   
 ### Calculated backup battery life 
 
