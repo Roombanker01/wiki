@@ -25,33 +25,33 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
 - Setting and testing from RB Link App
 
 ### Advanced features
-- Power up enrolling
-  When device is powered up, it will automatically start paring to the hub nearby
-- Find me
-  When enabled, the device starts flashing green, which can help identify the device from numerous devices.
-- Signal strength detection
-  When enabled, sensor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.
-- Low battery notification
-- Temper protection
+- Power up enrolling<br />
+  When device is powered up, it will automatically start paring to the hub nearby<br />
+- Find me<br />
+  When enabled, the device starts flashing green, which can help identify the device from numerous devices.<br />
+- Signal strength detection<br />
+  When enabled, sensor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.<br />
+- Low battery notification<br />
+- Temper protection<br />
 
 ### Indicators  
-- Registration: Flashing Green
-- Find me: Flashing Green
-- Signal strength:
-  - Flashing Green: signal strength is strong, and is recommended to install device here
-  - Flashing Orange: signal strength is medium and device can be installed here
-  - Flashing Red: signal strength is bad or no signal, and device can not be installed here
+- Registration: Flashing Green<br />
+- Find me: Flashing Green<br />
+- Signal strength:<br />
+  - Flashing Green: signal strength is strong, and is recommended to install device here<br />
+  - Flashing Orange: signal strength is medium and device can be installed here<br />
+  - Flashing Red: signal strength is bad or no signal, and device can not be installed here<br />
   
 
 ## 3. RBF wireless technology
 ### Wireless signal range 
-  - Up to 2,500m in an open space with hub/devices
+  - Up to 2,500m in an open space with hub/devices<br />
   - Two-way communication with hub/devices <br />
 
   
 ### Frequency bands 
-  - 868MHz version: 863 ~ 870MHz
-  - 915MHz version: 902 ~ 928MHz
+  - 868MHz version: 863 ~ 870MHz<br />
+  - 915MHz version: 902 ~ 928MHz<br />
   - Depends on sales region. <br />
 
 ## 4. Electrical characteristic
@@ -61,7 +61,7 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
   
 ### Backup power Supply  
 
-- 2500mAh Li-ion battery<br />
+- 5000mAh Li-ion battery<br />
   
 ### Calculated backup battery life 
 
@@ -115,11 +115,12 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
   
 ## 7. Complete set
 
-|Product            |Quantity   |
-|-------------------|-----------|
-|Repeater           | x1        |
-|Adapter            | x1        |
-|Quick Start Guide  | x1        |
+|Product                             |Quantity   |
+|------------------------------------|-----------|
+|Repeater                            | x1        |
+|Power Plug with Type-C cable (1m)   | x1        |
+|Quick Start Guide                   | x1        |
+|Screw package                       | x1        |
 
 ## 8. Additional information
 
