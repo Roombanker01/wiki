@@ -26,11 +26,11 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
 
 ### Advanced features
 - Power up enrolling<br />
-  When device is powered up, it will automatically start paring to the hub nearby<br />
+  When device is powered up, it will automatically start paring to the hub nearby.<br />
 - Find me<br />
   When enabled, the device starts flashing green, which can help identify the device from numerous devices.<br />
 - Signal strength detection<br />
-  When enabled, sensor starts flashing green/orange/red showing the wireless signal strength between the hub at current installation site.<br />
+  When enabled, senor starts flashing green / orange / red showing the wireless signal strength between the hub at 	current installation site.<br />
 - Low battery notification<br />
 - Temper protection<br />
 
@@ -38,26 +38,26 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
 - Registration: Flashing Green<br />
 - Find me: Flashing Green<br />
 - Signal strength:<br />
-  - Flashing Green: signal strength is strong, and is recommended to install device here<br />
-  - Flashing Orange: signal strength is medium and device can be installed here<br />
-  - Flashing Red: signal strength is bad or no signal, and device can not be installed here<br />
+  - Flashing Green: Signal strength is strong, it is recommended to install device here.<br />
+  - Flashing Orange: Signal strength is medium, the device can be installed here.<br />
+  - Flashing Red: Signal strength is poor or no signal, the device cannot be installed here.<br />
   
 
 ## 3. RBF wireless technology
 ### Wireless signal range 
-  - Up to 2,500m in an open space with hub/devices<br />
-  - Two-way communication with hub/devices <br />
+  - Up to 2,500 m in an open space with hub / devices .<br />
+  - Two-way communication with hub / devices <br />
 
   
 ### Frequency bands 
-  - 868MHz version: 863 ~ 870MHz<br />
-  - 915MHz version: 902 ~ 928MHz<br />
+  - 868 MHz version: 863 ~ 870 MHz<br />
+  - 915 MHz version: 902 ~ 928 MHz<br />
   - Depends on sales region. <br />
 
 ## 4. Electrical characteristic
 ### Power Supply
 
-- USB type-C 5V/2A <br /> 
+- 110–240 VAC, 50/60 Hz <br /> 
   
 ### Backup power Supply  
 
@@ -69,29 +69,29 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
   
 ### Nominal Operating Voltage  
 
-- 3.7V  <br />
+- 3.7 V  <br />
   
 ### Quiescent current consumption at nominal voltage 
 
-- TBD  <br />
+- 38 mA  <br />
   
 ### Maximum current consumption at nominal voltage  
 
-- TBD  <br />
+- 87 mA  <br />
   
 ### Operating Voltage 
 
-- From 3.5V to 4.2V  <br />
+- From 3.5 V to 4.2 V  <br />
   
 ### Low battery recovery voltage  
 
-- 3.9V  <br />
+- 3.9 V  <br />
 
 
 ## 5. General
 ### Operating Temperature 
 
-- From -10°C to + 45°C(14°F to 113°F)<br /> 
+- From -10 °C to + 45 °C(14 °F to 113 °F)<br /> 
   
 ### Operating Humidity 
 
@@ -99,7 +99,7 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
   
 ### Storage Temperature  
 
-- From -20°C to + 60°C(-4°F to 140°F) <br /> 
+- From -20 °C to + 60 °C(-4 °F to 140 °F) <br /> 
   
 ### Dimensions 
 
@@ -107,7 +107,7 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
   
 ### Weight 
 
-- 300g  <br />
+- 314 g  <br />
 
 ## 6. Compatibility
 
@@ -115,12 +115,12 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
   
 ## 7. Complete set
 
-|Product                             |Quantity   |
-|------------------------------------|-----------|
-|Repeater                            | x1        |
-|Power Plug with Type-C cable (1m)   | x1        |
-|Quick Start Guide                   | x1        |
-|Screw package                       | x1        |
+|Product                                    |Quantity   |
+|-------------------------------------------|-----------|
+|Home Security Repeater with mounting panel | x1        |
+|Power Plug with Type-C cable (1m)          | x1        |
+|Quick Start Guide                          | x1        |
+|Screw package                              | x1        |
 
 ## 8. Additional information
 
