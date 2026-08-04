@@ -1,4 +1,4 @@
-# Repeater
+# Wireless Repeater
 
 <div style={{textAlign: 'center'}}>
 <button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
@@ -65,7 +65,7 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
   
 ### Calculated backup battery life 
 
-- 35 hours<br />
+- 40 hours<br />
   
 ### Nominal Operating Voltage  
 
