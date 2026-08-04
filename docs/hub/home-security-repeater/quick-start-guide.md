@@ -1,4 +1,4 @@
-# Repeater
+# Wireless Repeater
 
 ## 1. Appearance
 
