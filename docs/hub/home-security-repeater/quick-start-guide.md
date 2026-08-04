@@ -8,7 +8,7 @@
 
 ## 2 Packaging List
 
-![repeater-1](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/1.png)
+![repeater-1](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/6.png)
 
 
 ## 3. Add Wireless Repeater
