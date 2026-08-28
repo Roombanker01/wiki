@@ -56,7 +56,7 @@ Repeater makes it possible for users to place RBF devices at a considerable dist
 ## 4. Electrical characteristic
 ### Power Supply
 
-- 110–240 VAC, 50/60 Hz <br /> 
+- Type-C , 5 V / 2 A <br /> 
   
 ### Backup power Supply  
 
