@@ -50,7 +50,7 @@ Click  " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E
 | Model                          | RBGW-RE1-868 \ RBGW-RE1-915                                  |
 | Firmware Upgrade               | OTA via APP                                                  |
 | Peripherals Connected          | Up to 128                                                    |
-| Power Supply                   | Type-C, 5VDC 2A                                              |
+| Power Supply                   | Type-C, 5 V / 2 A                                            |
 | Battery                        | 2500 mAh 18650 battery, up to 40 hours backup                |
 | Transmission Technology        | RBF                                                          |
 | Transmission Frequency         | 868 MHz / 915 MHz (RBF)                                      |
@@ -58,5 +58,5 @@ Click  " ![资源 15@4x](https://dusunprj.oss-us-west-1.aliyuncs.com/%E8%B5%84%E
 | Dimension (W × H × D)          | 150 mm × 150 mm × 37 mm                                      |
 | Weight                         | 314 g                                                        |
 | Standards and Certifications   | CE \ RoHS                                                    |
-| User Serviceable Parts         | External plug: Type-C, DC5V 2A                               |
+| User Serviceable Parts         | External plug: Type-C, 5 V / 2 A                             |
 
