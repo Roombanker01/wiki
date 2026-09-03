@@ -1,4 +1,4 @@
-# Door Window Sensor(Anti-masking)
+# Door Window Sensor G2
 
 
 ## 1. Appearance
@@ -37,7 +37,7 @@ Launching shortly. Anticipation awaits!
 
 | Parameter                      | Value                                                        |
 | :----------------------------- | ------------------------------------------------------------ |
-| Model                          | RBSS-MC2                                                     |
+| Model                          | RBSS-MC2-868/915                                                     |
 | Detection Method               | Reed switch*2                                                |
 | Detection Gap                  | >17 mm                                                       |
 | Advanced Features              | Digital Processing， Signal Strength detection， Find me     |
