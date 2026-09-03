@@ -1,4 +1,4 @@
-# Door Window Sensor(Anti-masking)
+# Door Window Sensor G2
 
 
 
@@ -163,7 +163,6 @@ Door window detector is designed to detect intrusion, offering comprehensive cov
 ### Certifications
 
 * CE
-* FCC
 * ROHS
 
 ### Warranty
