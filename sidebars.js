@@ -194,7 +194,7 @@ const sidebars = {
         },
         {
           type: "category",
-          label: "Door Window Sensor(Anti-masking)",
+          label: "Door Window Sensor G2",
           items: [
             {
               type: "doc",
