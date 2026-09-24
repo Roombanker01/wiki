@@ -2028,7 +2028,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-### 4.19 Door Window Sensor(Anti-masking)
+### 4.19 Door Window Sensor G2
 
 **You can click [Spec](https://wiki.roombanker.com/door-sensor/door-window-masking-sensor/specification) and [QSG](https://wiki.roombanker.com/door-sensor/door-window-masking-sensor/quick-start-guide)* to check more information about [Door Window Sensor(Anti-masking)](https://www.roombanker.com/products/door-window-masking-sensor/).
 
