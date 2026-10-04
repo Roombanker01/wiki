@@ -1796,6 +1796,8 @@ If your device has trouble connecting to the Wi-Fi network, or if you wish to sw
 
 #### 4.16.3 Add Indoor Camera
 
+#### 4.16.3.1 network configuration
+
 <div align="left">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoor-ipc-0.png" width="350" height="70" />
 </div>
@@ -1807,6 +1809,15 @@ If your device has trouble connecting to the Wi-Fi network, or if you wish to sw
 ![indoor-qsg-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/qsg/indoor-qsg-6.png) 
 
 <br />
+
+#### 4.16.3.2 **reconfigure the network**<br />
+
+**When reconfiguring the network, you must perform a reset first.**<br />
+Press and hold the reset button for more than 5 seconds. After the reset succeeds, the device will beep once, and the camera will rotate once automatically. Wait until the camera finishes rotating, then start the network configuration.<br />
+**The reset button is located as shown in the image.**<br />
+![indoor-qsg-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/indoor-ipc/um/indoorIPC.png)  
+<br />
+
 
 #### 4.16.4 Console
 
@@ -1900,6 +1911,8 @@ Please set the router parameters and record your WiFi SSID and password before c
 </div>
 <br />
 
+#### 4.17.3.1 network configuration
+
 1.Plug in the cable to power up the Camera. Wait a moment until the red indicator starts flashing.<br />  
 2.Click " + --> Scan " to add Camera by scanning the QR code.<br />  
 3.Connect to the internet via Wi-Fi, the blue indicator turns on when the connection is successful.<br />  
@@ -1907,6 +1920,12 @@ Please set the router parameters and record your WiFi SSID and password before c
 ![outdoor-qsg-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/qsg/outdoor-qsg-7.png)  
 <br />
 
+#### 4.17.3.2 **reconfigure the network**<br />
+**When reconfiguring the network, you must perform a reset first.**<br />
+Press and hold the reset button for more than 5 seconds. After the reset succeeds, the device will beep once, and the camera will rotate once automatically. Wait until the camera finishes rotating, then start the network configuration.<br />
+**The reset button is located as shown in the image.**<br />
+![outdoor-qsg-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoorIPC.png)  
+<br />
 
 #### 4.17.4 Console
 
