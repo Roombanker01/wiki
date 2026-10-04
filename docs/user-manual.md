@@ -1924,7 +1924,7 @@ Please set the router parameters and record your WiFi SSID and password before c
 **When reconfiguring the network, you must perform a reset first.**<br />
 Press and hold the reset button for more than 5 seconds. After the reset succeeds, the device will beep once, and the camera will rotate once automatically. Wait until the camera finishes rotating, then start the network configuration.<br />
 **The reset button is located as shown in the image.**<br />
-![outdoor-qsg-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/outdoorIPC.png)  
+![outdoor-qsg-6](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-ipc/um/out.png)  
 <br />
 
 #### 4.17.4 Console
