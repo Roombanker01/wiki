@@ -531,26 +531,6 @@ After turning on, when performing arming, if a sub-device has a fault, a confirm
 
 During this period, if your Hub is frequently online and offline, you will not receive any offline notifications. Due to delay or status synchronization, the delay time may be different.
 
-* **Alarm Receiving Center**
-
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/um-alarm-receiving-center.png" width="300" />
-</div>
-
-
-Once you subscribe to the Alarm Receiving Center (ARC) service, your installer or the ARC will provide you with the necessary information, as shown in the image. After entering and saving this information, your ARC service will be activated. Any alarm triggered in your home will be immediately reported to the ARC.
-
-| **Parameter**        | **Meaning**                                                                                           |
-| -------------------- | ----------------------------------------------------------------------------------------------------- |
-| Protocol  Type       | SIA or CID                                                                                            |
-| Main  Address        | Primary IP Address & Port: (Required)                                                                 |
-| Backup  Address      | Secondary IP Address & Port: (Optional)                                                               |
-| Transmission Mode    | TCP or UDP                                                                                            |
-| Ping Interval        | Heartbeat Interval: (Optional, configurable if enabled)                                               |
-| Periodic Report Test | support for configuring duration:1min ~ 23h59min,default value 1h. (Optional, configurable if enabled)|
-| Account Number       | Assigned by ARC                                                                                       |
-| Encryption           | AES-128, AES-192, or AES-256 with corresponding key(Optional)                                         |
-
 
 #### 2.5.5 Maintenance
 
@@ -581,6 +561,30 @@ You can click to view the Quick Start Guide document of the Hub ([R2](https://wi
 ---
 
 
+
+<br />
+
+#### 2.6 Alarm Receiving Center(ARC Settings)
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/um-alarm-receiving-center.png" width="300" />
+</div>
+
+
+Once you subscribe to the Alarm Receiving Center (ARC) service, your installer or the ARC will provide you with the necessary information, as shown in the image. After entering and saving this information, your ARC service will be activated. Any alarm triggered in your home will be immediately reported to the ARC.
+
+| **Parameter**        | **Meaning**                                                                                           |
+| -------------------- | ----------------------------------------------------------------------------------------------------- |
+| Protocol  Type       | SIA or CID                                                                                            |
+| Sub-Protocol         | Select Default for the standard protocol. Please refer to the manual for other protocols.             |
+| UTC                  | After it is turned on, the protocol time uses UTC time, and after it is turned off, the protocol time uses Hub time zone time. |
+| Main  Address        | Primary IP Address & Port: (Required)                                                                 |
+| Backup  Address      | Secondary IP Address & Port: (Optional)                                                               |
+| Transmission Mode    | TCP or UDP                                                                                            |
+| Ping Interval        | Heartbeat Interval: (Optional, configurable if enabled)                                               |
+| Periodic Report Test | support for configuring duration:1min ~ 23h59min,default value 1h. (Optional, configurable if enabled)|
+| Account Number       | Assigned by ARC                                                                                       |
+| Encryption           | AES-128, AES-192, or AES-256 with corresponding key(Optional)                                         |
 
 <br />
 
