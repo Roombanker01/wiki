@@ -567,7 +567,7 @@ You can click to view the Quick Start Guide document of the Hub ([R2](https://wi
 #### 2.6 Alarm Receiving Center(ARC Settings)
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/um-alarm-receiving-center.png" width="300" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Hub/arc-protocol.png" width="300" />
 </div>
 
 
