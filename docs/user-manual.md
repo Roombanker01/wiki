@@ -881,7 +881,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222103430998.png" width="250" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/sos/sos.png" width="250" />
 </div>
 
 
@@ -890,7 +890,8 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 |  **Basic Information**   |                              /                               | Check the basic information of this device, including MAC Address, Serial Number, etc.<br />And you can also edit the device name here by yourself. |
 |   **Room Belongs to**    | ![image-20231221233352230](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231221233352230.png) | You can select one of the rooms created before and then link the Panic Button to.<br />**When linked to a specific room, the Panic Button will be displayed on the product list of the room.* |
 |       **Find Me**        | ![EB Find me-1](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20240109095935738.png) | A function that used to find your Panic Button among numerous devices. <br />When you enable this function, the indicator in Panic Button will flash green to help you find the target device quickly. |
-| **Signal Strength Test** | ![EN SS Test](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20240109095837811.png) | A function that used to check the signal strength between Panic Button and hub at the tested place, which is designed to help you choose the right place for installation. |
+| **Signal Strength Test** | ![EN SS Test](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20240109095837811.png) | The Panic Button alarm can be canceled through settings. |
+| **Cancel Alarm** | ![Cancel](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/sos/cancel-sos.png) | **Close:** Disable alarm cancellation <br /> **Double-click:** Press twice within 1 second <br /> **Long press:** Press and hold for more than 2 seconds<br />|
 |  **Silent Panic Alarm**  |                           ON / OFF                           | When enabled, panic alarm triggered with no alarm sound from the linked siren. |
 |    **Disable Device**    |                           ON / OFF                           | When enabled, the Panic Button will be disabled.             |
 | **Display On Homepage**  |                           ON / OFF                           | When enabled, the Panic Button will show up on homepage.     |
