@@ -560,13 +560,17 @@ You can click to view the Quick Start Guide document of the Hub ([R2](https://wi
 
 
 #### 2.5.7 Data Export
-![note](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/system/data-export/1.jpg)
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/system/data-export/1.jpg" width="300" />
+</div>
+
+<br />
+
 **Path：Hub Settings->Maintenance->Data Export** <br />
 Supports exporting daily historical data for temperature & humidity, Smart Plug and Wall Switch. Export is limited to once every 30 minutes.<br />
 The exported output will be compiled into Excel format and sent to your email. <br />
 
 ---
-
 
 
 <br />
