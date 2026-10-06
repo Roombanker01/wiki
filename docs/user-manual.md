@@ -31,7 +31,7 @@ tags:
 
 | Rev.  | Date       | Update Description                                           |
 | ----- | ---------- | ------------------------------------------------------------ |
-| 1.3.4 | 2026-10-14 | **New function：**<br />1.Supports new device: Wireless Repeater.<br />2.Support multiple languages: Maltese, Slovenian, Albanian, Montenegrin, Hebrew and Latvian.<br />3.Supports APN settings during cellular network provisioning.<br />4.Add configuration item for canceling panic button alarm.<br /> |
+| 1.3.4 | 2026-10-14 | **New function：**<br />1.Supports new device: Wireless Repeater and Door Window Sensor G2.<br />2.Support multiple languages: Maltese, Slovenian, Albanian, Montenegrin, Hebrew and Latvian.<br />3.Supports APN settings during cellular network provisioning.<br />4.Add configuration item for canceling panic button alarm.<br /> |
 | 1.3.3 | 2026-09-11 | **New function：**<br />1.Optimized IPC Camera Connection Handling.<br /> |
 | 1.3.2 | 2026-07-30 | **New function：**<br />1.Supports linkage of indoor IPCs and outdoor IPCs with the hub.<br /> |
 | 1.3.1 | 2026-06-30 | **New function：**<br />1.Added Wireless Transmitter.<br />2.There's an exciting addition to our app's home page - the Device Search feature!  <br />3.Hub defends against AirSnitch attacks.<br />4.Add silent emergency alarm function to the custom buttons of the keyfob.<br />5.Support Russian.<br />**Optimization:**<br />1.Optimize the arming operation when an alarm occurs.<br />2.Optimize the display of camera messages. <br /> |
@@ -2189,9 +2189,8 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 #### 4.20.1 Appearance
 
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/1.png" width="200" />
-</div>
+![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/1.png)
+<br />
 
 | **Appearance**        | **Description**                                                      |
 | ----------------------| -------------------------------------------------------------------- |
@@ -2205,10 +2204,8 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 2.Pull out the insulation strip to power up the device , the green indicator will flash and the device will show in the App.<br />
 **Note:** If the device does not show in the App and green indicator is off , please press and hold the register button for 5s to try again.<br />
 3.Assign a room and click the "Done" to finish adding.<br />
-
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/2.png" width="200" />
-</div>
+![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/2.png)
+<br />
 
 #### 4.20.3 State
 
