@@ -2115,10 +2115,10 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-### 4.20 Transmitter
+### 4.20 Wireless Transmitter
 
 
-**You can click [Spec](https://wiki.roombanker.com/integration/wireless-transmitter/specification) and [QSG](https://wiki.roombanker.com/integration/wireless-transmitter/quick-start-guide)* to check more information about [Transmitter](https://www.roombanker.com/products/transmitter/).
+**You can click [Spec](https://wiki.roombanker.com/integration/wireless-transmitter/specification) and [QSG](https://wiki.roombanker.com/integration/wireless-transmitter/quick-start-guide)* to check more information about [Wireless Transmitter](https://www.roombanker.com/products/wired-to-wireless-converter-alarm-transmitter/).
 
 #### 4.20.1 Appearance
 
@@ -2182,7 +2182,73 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 <br />
 
-### 4.21 Repeater
+### 4.21 Wireless Repeater
+
+
+**You can click [Spec](https://wiki.roombanker.com/hub/home-security-repeater/specification) and [QSG](https://wiki.roombanker.com/hub/home-security-repeater/quick-start-guide)* to check more information about [Wireless Repeater](https://www.roombanker.com/products/home-security-kit/).
+
+#### 4.20.1 Appearance
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/1.png" width="200" />
+</div>
+
+| **Appearance**        | **Description**                                                      |
+| ----------------------| -------------------------------------------------------------------- |
+| **LED Indicator**     | Red / Green / Orange<br />**Used to indicate alarm status, signal strength status, and Find Me status.* |
+| **Register Button**   | Press and hold for 5s to add Wireless Repeater to the Hub.<br />**Register Button is only used for re-adding or connecting the peripheral to another hub.* |
+| **Signal strength**   | Flashing Green: Signal strength is strong, it is recommended to install device here.<br />Flashing Orange: Signal strength is medium, the device can be installed here.<br />Flashing Red: Signal strength is poor or no signal, the device cannot be installed here.<br />  |
+
+#### 4.20.2 Add Wireless Repeater
+
+1.Click Home Security Hub , then click "+" and select "Add peripheral" . <br />
+2.Pull out the insulation strip to power up the device , the green indicator will flash and the device will show in the App.<br />
+**Note:** If the device does not show in the App and green indicator is off , please press and hold the register button for 5s to try again.<br />
+3.Assign a room and click the "Done" to finish adding.<br />
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/2.png" width="200" />
+</div>
+
+#### 4.20.3 State
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/re1.jpg" width="250" />
+</div>
+
+
+|     **Parameter**     |                          **Value**                           | **Meaning**                                                  |
+| :-------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| **Associated scene**  |                            0 ~ 64                            | Shows the number of custom scenes associated with this Wireless Repeater. You can also click to view and configure the scenes.<br />**Please turn to [Charter 6. Scene Management](#charter-6-scene-management) for more details.* |
+|    **Power Supply**   |              Connected / Disconnected                        | The current status of the Wireless Repeater's power supply<br />**Connected** - the Wireless Repeater is connected to power supply<br />**Disconnected** - no power supply is available |
+|   **Battery Status**  | ![battery green](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/battery%20green.png) | battery level of the device .<br />**If the battery level is low, the icon will turn red and you’ll receive a malfunction notification in App.*       |
+|    **Lid Status**     |                      Normal / Triggered                      | Shows whether the Wireless Repeater’s lid is opened or not. |
+|  **Signal Strength**  | ![signal blue](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/signal%20blue.png) | Shows the signal strength between the Wireless Repeater and the Hub. |
+| **Connection Status** |                       Online / Offline                       | Shows the connection status between the Wireless Repeater and the Hub.<br />**The Wireless Repeater will not be functional if the status is offline.* |
+
+#### 4.20.4 Setting
+
+Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)" on the top right corner and turn to “**Setting**”.
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/re2.jpg" width="250" />
+</div>
+
+
+|      **Parameter**       |                          **Value**                           | **Meaning**                                                  |
+| :----------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+|  **Basic Information**   | ![image-20231222100954161](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/re3.png) <br /> ![image-logo](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/re4.png)| Check the basic information of this device, including MAC Address, Serial Number, etc.And you can also edit the device name and logo here by yourself. |
+|   **Add Room**           | ![image-20231222100954161](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/image-20231222100954161.png) | You can select one of the rooms created before and then link the Wireless Repeater to.<br />**When linked to a specific room, the Wireless Repeater will be displayed on the product list of the room, and the alarm will be triggered only when the room is armed.* |
+|       **Find Me**        | ![Find me](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/re6.png) | A function that used to find your Wireless Repeater among numerous devices.<br />When you enable this function, the indicator in Wireless Repeater will flash green to help you find the target device quickly. |
+| **Tamper detection**      |                            ON / OFF                         | When the tamper detection is enabled, if the tamper switch is triggered while the hub is armed, an alarm will be triggered. <br /> The Wireless Repeater must be fitted with the backplate for Tamper Detection to function correctly. |
+| **Signal Strength Test** | ![Signal](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/re7.png)  | A function that used to check the signal strength between Wireless Repeater and hub at the tested place, which is designed to help you choose the right place for installation.<br />When you enable this function, you can check the signal strength by watching the indicators in Wireless Repeater and the feedback in app. |
+|  **Associated sub-device** | ![Associated](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/re5.png) |  Sub-devices directly connected to the Hub can be associated with the Wireless Repeater. After successful association, these sub-devices will connect directly to the Wireless Repeater instead of the Hub. Messages from sub-devices under the Wireless Repeater will be forwarded to the Hub via the Wireless Repeater. |
+|    **Firmware Upgrade**  |                              /                               | The device supports firmware upgrade functionality and can be updated remotely over the air. The system periodically checks for version updates, allowing users to download and install firmware updates via the mobile app when the Hub is connected to the internet. |
+|    **Disable Device**    |                           ON / OFF                           | If this button is ON, the alarm  and malfunctions generated by this Wireless Repeater will no longer be uploaded to the Hub and App.<br />**It is recommended that you disable the device only if  it’s defective. Before turning on this function, please ensure that you are  aware of the situation to avoid possible personal injury or property damage that  may result from the device not detecting and triggering an alarm.* <br />If the Wireless Repeater is disabled, all sub-devices linked to it will stop working.|
+| **Display On Homepage**  |                           ON / OFF                           | When enabled, the Wireless Repeater will show up on homepage so that you can operate quickly. |
+|      **User Guide**      |                              /                               | Click to check the user guide document of Wireless Repeater. |
+|    **Delete Device**     |                              /                               | Delete the Wireless Repeater from your hub. <br />After the Wireless Repeater is deleted, the devices associated under it will automatically associate with the Hub and require re-registration. If these sub-devices are installed too far away, they will show as offline.             |
+
 
 <br />
 
