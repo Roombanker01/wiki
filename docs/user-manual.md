@@ -2004,6 +2004,9 @@ Smoothly zoom in and out with up to 16x magnification for enhanced detail.<br />
 You can click [Spec](https://wiki.roombanker.com/motion-sensor/outdoor-pir-sensor/specification) and [QSG](https://wiki.roombanker.com/motion-sensor/outdoor-pir-sensor/quick-start-guide) to check more information 
 <!-- Todo about [PIR sensors](https://www.roombanker.com/products/pir-sensor/). -->
 
+**How to Add Video**
+https://www.youtube.com/watch?v=Y-hMYtQCR5c
+
 #### 4.18.1 Appearance
 
 <div align="center">
