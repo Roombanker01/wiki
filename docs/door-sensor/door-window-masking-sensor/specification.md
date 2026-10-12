@@ -37,10 +37,14 @@ Door window detector is designed to detect intrusion, offering comprehensive cov
   > *Alarm will be triggered when system is armed, ignores vibrations lasting up to 0.15 s.*
 * Tilt
   > *Tile threshold can be set from 5° to 25°, once angle exceeds the threshold, alarm will be triggered when system is armed.*
+* External contact
+  > *External contact triggered，alarm will be triggered when system is armed. Support External contact and Roller shutter.*
 
-<--
+  
+<!--
 * Shock
   > *3 levels, Low/Normal/High, alarm will be triggered when detects a shock.*
+  
 -->
 
 ### Indicators
@@ -52,17 +56,24 @@ Door window detector is designed to detect intrusion, offering comprehensive cov
   * Flashing `Orange`: signal strength is medium and device can be installed here
   * Flashing `Red`: signal strength is bad or no signal, and device can not be installed here
 
-<--
+<!--
 ### Anti-masking
 
 * window door sensor    
 
   > *Alarm will be triggered when system is armed.*
+
 -->
 
 ### Device Calibration
 
 * Keep the window door sensor in a closed state and test for 20 seconds to obtain the normal magnetic attraction range.
+
+### External contact
+
+Support External contact and Roller shutter. <br />
+Roller shutter supports Time before alarm and Impulses before alarm.<br />
+
 
 ### Tamper Protection
 
