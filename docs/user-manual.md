@@ -31,7 +31,7 @@ tags:
 
 | Rev.  | Date       | Update Description                                           |
 | ----- | ---------- | ------------------------------------------------------------ |
-| 1.3.4 | 2026-10-14 | **New function：**<br />1.Supports new device: Wireless Repeater and Door Window Sensor G2.<br />2.Support multiple languages: Maltese, Slovenian, Albanian, Montenegrin, Hebrew and Latvian.<br />3.Supports APN settings during cellular network provisioning.<br />4.Add configuration item for canceling panic button alarm.<br /> |
+| 1.3.4 | 2026-10-14 | **New function：**<br />1.Supports new device: Wireless Repeater and Door Window Sensor G2.<br />2.Support multiple languages: Maltese, Slovenian, Albanian, Montenegrin, Hebrew and Latvian.<br />3.Supports APN settings during cellular network provisioning.<br />4.Add configuration item for canceling panic button alarm.<br />5.Optimize APP badge display. <br />6.Add ARC codes for SIM card exceptions and keypad users.<br />|
 | 1.3.3 | 2026-09-11 | **New function：**<br />1.Optimized IPC Camera Connection Handling.<br /> |
 | 1.3.2 | 2026-07-30 | **New function：**<br />1.Supports linkage of indoor IPCs and outdoor IPCs with the hub.<br /> |
 | 1.3.1 | 2026-06-30 | **New function：**<br />1.Added Wireless Transmitter.<br />2.There's an exciting addition to our app's home page - the Device Search feature!  <br />3.Hub defends against AirSnitch attacks.<br />4.Add silent emergency alarm function to the custom buttons of the keyfob.<br />5.Support Russian.<br />**Optimization:**<br />1.Optimize the arming operation when an alarm occurs.<br />2.Optimize the display of camera messages. <br /> |
