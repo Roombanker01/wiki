@@ -39,13 +39,8 @@ Door window detector is designed to detect intrusion, offering comprehensive cov
   > *Tile threshold can be set from 5° to 25°, once angle exceeds the threshold, alarm will be triggered when system is armed.*
 * External contact
   > *External contact triggered，alarm will be triggered when system is armed. Support External contact and Roller shutter.*
-
-  
-<!--
 * Shock
   > *3 levels, Low/Normal/High, alarm will be triggered when detects a shock.*
-  
--->
 
 ### Indicators
 
