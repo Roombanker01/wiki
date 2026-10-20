@@ -2202,7 +2202,7 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 ### 4.21 Wireless Repeater
 
 
-**You can click [Spec](https://wiki.roombanker.com/hub/home-security-repeater/specification) and [QSG](https://wiki.roombanker.com/hub/home-security-repeater/quick-start-guide)* to check more information about [Wireless Repeater](https://www.roombanker.com/products/home-security-kit/).
+**You can click [Spec](https://wiki.roombanker.com/hub/home-security-repeater/specification) and [QSG](https://wiki.roombanker.com/hub/home-security-repeater/quick-start-guide)* to check more information about [Wireless Repeater](https://www.roombanker.com/products/wireless-repeater).
 
 **Operating Steps for Using the Repeater** <br />
 1. Use APP version V1.3.4 or higher.<br />
