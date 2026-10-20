@@ -2204,6 +2204,13 @@ Click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20
 
 **You can click [Spec](https://wiki.roombanker.com/hub/home-security-repeater/specification) and [QSG](https://wiki.roombanker.com/hub/home-security-repeater/quick-start-guide)* to check more information about [Wireless Repeater](https://www.roombanker.com/products/home-security-kit/).
 
+**Operating Steps for Using the Repeater** <br />
+1. Use APP version V1.3.4 or higher.<br />
+2. Go to Hub Settings - System Maintenance - Firmware Upgrade, then upgrade the Hub firmware to V1.3.4 or higher.<br />
+3. Upgrade all sub-devices under the Hub to V1.2.0 or higher.<br />
+4. Add the Wireless Repeater.<br />
+5. Upgrade the Wireless Repeater to V1.2.0 or higher.<br />
+
 #### 4.20.1 Appearance
 
 ![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/1.png)
