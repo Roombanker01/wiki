@@ -232,8 +232,11 @@ The users  receive notifications in case of jamming or when the hub loses connec
 * FCC
 * ROHS
 * EN 18031-1
-* EN 50131-3:2009
-* EN 50131-1:2006 + A1:2009 + A2:2017 + A3:2020
+* EN 50131-3 : 2009
+* EN 50131-1 : 2006 + A1 : 2009 + A2 : 2017 + A3 : 2020
+* EN 50131-6 : 2017 + A1 : 2021
+* EN 50131-10 : 2014 In conjunction with EN 50136-2 : 2013 + A1 : 2023
+
 
 ### Security Grade 
 
