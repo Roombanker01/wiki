@@ -31,6 +31,7 @@ tags:
 
 | Rev.  | Date       | Update Description                                           |
 | ----- | ---------- | ------------------------------------------------------------ |
+| 1.3.5 | 2026-11-16 | **New function：**<br />1.Added individual enable/disable toggles for Wi-Fi, Ethernet, and Cellular Network.<br />2.Added a Cellular First toggle.<br />3.Added an Alarm LED indication toggle for Door Window Sensor, Indoor PIR Sensor, and Outdoor PIR Sensor.<br />4.Improved ARC alarm event codes.<br />|
 | 1.3.4 | 2026-10-14 | **New function：**<br />1.Supports new device: Wireless Repeater and Door Window Sensor G2.<br />2.Support multiple languages: Maltese, Slovenian, Albanian, Montenegrin, Hebrew and Latvian.<br />3.Supports APN settings during cellular network provisioning.<br />4.Add configuration item for canceling panic button alarm.<br />5.Optimize APP badge display. <br />6.Add ARC codes for SIM card exceptions and keypad users.<br />|
 | 1.3.3 | 2026-09-11 | **New function：**<br />1.Optimized IPC Camera Connection Handling.<br /> |
 | 1.3.2 | 2026-07-30 | **New function：**<br />1.Supports linkage of indoor IPCs and outdoor IPCs with the hub.<br /> |
