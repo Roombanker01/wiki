@@ -16,8 +16,11 @@ tags:
 </div>
 <br />
 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir.png" width="350" />
+</div>
 <center>
-Expected to be released by the end of September 2025. Stay tuned for more updates!
+Released in September 2025.
 </center>
 
 <br />
