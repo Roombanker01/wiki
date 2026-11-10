@@ -1,13 +1,13 @@
 ---
 description: Wireless converter serves as a signal adaptation unit between wired devices and wireless systems. It supports two-way conversion of wired and wireless signals, resolving the common issues of impossible on-site wiring and legacy alarm hosts without wireless capability.
-title: Custom transmitter Supplier
+title: Custom wireless transmitter Supplier
 keywords:
-- transmitter
+- wireless transmitter
 tags:
-- Transmitter spec
+- Wireless Transmitter spec
 ---
   
-# Transmitter
+# Wireless Transmitter
 
 <div style={{textAlign: 'center'}}>
 <button onClick={() => window.print()} style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 30px',cursor:'pointer', textDecoration: 'none', borderRadius: '4px' }}>Download Spec</button>
@@ -63,12 +63,15 @@ Tramsmitter is a module for integrating a third-party wired device into the Room
 |5  |Device    |Gas alarm                 |Alarm when gas concentration is exceeded.|
 |6  |Device    |Leakage                   |Alarm triggered by water leakage detectors.|
 |7  |Device    |Glass break               |Alarm triggered by the glass break sensor.|
+|8  |Device    |Duress code (opening)     |Alarm upon entry of duress code.|
+|9  |Device    |Vibration                 |Alarm when the vibration sensor is activated.This event type is only available under Pulse mode.|
+|10 |Device    |Custom                    |User-configurable event type. This event is not transmitted to the security company’s monitoring station.|
+
+<!--
 |8  |Device    |High temperature          |Trigger an alarm when the upper temperature limit is exceeded.|
 |9  |Device    |Low temperature           |Activate an alarm when the lower temperature limit is breached.|
 |10 |Device    |Masking                   |Alarm triggered when device masking is detected.|
-|11 |Device    |Duress code (opening)     |Alarm upon entry of duress code.|
-|12 |Device    |Vibration                 |Alarm when the vibration sensor is activated.This event type is only available under Pulse mode.|
-|13 |Device    |Custom                    |User-configurable event type. This event is not transmitted to the security company’s monitoring station.|
+-->
 
 ## 2. Features
 ### Remote setting and testing
