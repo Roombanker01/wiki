@@ -73,11 +73,11 @@ In this resource hub you’ll find detailed product specifications, user manuals
 
 <div class="iot-list">
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
-        <img src="https://www.roombanker.com/wp-content/uploads/2023/12/smart-hub-roombanker-rbgw-big.png" alt="Roombanker Smart Alarm Hub" style={{maxWidth:'70%'}}/>
+        <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/repeater/repeater-front.png" alt="Roombanker Wireless Repeater" style={{maxWidth:'70%'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
-        <h3>Repeater</h3>
-        <p>Repeater is a wireless radio signal range extender that boosts the range of all RBF system devices and manages their communication with the hub.Repeater makes it possible for users to place RBF devices at a considerable distance from the hub, thereby achieving protection for multi-story office buildings, stand-alone structures, and even production plant.</p>
+        <h3>Wireless Repeater</h3>
+        <p>Wireless Repeater is a wireless radio signal range extender that boosts the range of all RBF system devices and manages their communication with the hub.Wireless Repeater makes it possible for users to place RBF devices at a considerable distance from the hub, thereby achieving protection for multi-story office buildings, stand-alone structures, and even production plant.</p>
     </div>
 </div>
 <div class="iot-list">
@@ -459,8 +459,8 @@ In this resource hub you’ll find detailed product specifications, user manuals
         <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/transmitter/transmitter-front.png" style={{maxWidth:'70%'}}/>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
-        <h3>Transmitter</h3>
-        <p>Tramsmitter is a module for integrating a third-party wired device into the Roombanker system. Transmitter allows you to connect the detectors, keypad, panic button, or any other device with the NC/NO contact type to Roombanker. Tramsmitter can output the NC/NO signal to the third-party device.</p>
+        <h3>Wireless Transmitter</h3>
+        <p>Wireless Tramsmitter is a module for integrating a third-party wired device into the Roombanker system. Wireless Transmitter allows you to connect the detectors, keypad, panic button, or any other device with the NC/NO contact type to Roombanker. Tramsmitter can output the NC/NO signal to the third-party device.</p>
     </div>
 </div>
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
