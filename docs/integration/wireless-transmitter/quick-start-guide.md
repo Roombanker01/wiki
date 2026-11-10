@@ -1,4 +1,4 @@
-#  Transmitter
+#  Wireless Transmitter
 
 ## 1. Appearance
 
