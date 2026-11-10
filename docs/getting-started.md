@@ -118,6 +118,29 @@ In this resource hub you’ll find detailed product specifications, user manuals
 </div>
 
 ***
+<div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/outdoor-pir/outdoor-pir.png" alt="Roombanker Outdoor PIR motion sensor" style={{maxWidth:'70%'}}/>
+    </div>
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%', padding: '2%' }}>
+        <h3>Outdoor PIR Sensor</h3>
+        <p>The Outdoor PIR Sensor is an outdoor motion detection sensor developed by Roombanker, utilizing advanced dual detection technology with passive infrared and microwave. It features high precision and strong interference resistance, providing comprehensive protection for your safety.</p>
+    </div>
+</div>
+<div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
+            <a href="https://wiki.roombanker.com/motion-sensor/outdoor-pir-sensor/specification" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px', marginRight: '10px' }}>Read Spec</a>
+        </div>
+    </div>
+    <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
+        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 'auto'}}>
+            <a href="https://wiki.roombanker.com/motion-sensor/outdoor-pir-sensor/quick-start-guide" style={{ display: 'inline-block', backgroundColor: '#92D050', color: '#ffffff', padding: '10px 20px', textDecoration: 'none', borderRadius: '4px' }}>Get Quick Started</a>
+        </div>
+    </div>
+</div>
+
+***
 
 <div style={{display: 'flex',justifyContent: 'space-between',alignItems: 'center',marginBottom: '20px'}}>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', flexBasis: '50%'}}>
