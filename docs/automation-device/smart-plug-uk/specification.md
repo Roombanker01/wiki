@@ -1,5 +1,5 @@
 ---
-description: Roombanker offers energy monitoring smart plugs in UK standards. Max. 13A and 230 V. Compatible with Roombanker Hub, Certifications like CE, CB,FCC, ICASA, LOA, RCM, NOM, Anatel are ready.
+description: Roombanker offers energy monitoring smart plugs in UK standards. Max. 13A and 230 V. Compatible with Roombanker Hub, Certifications like CE, FCC are ready.
 title: Smart Plug Energy Monitor UK, 13 Aamp,230 V, 50mm, Wholesale OEM Manufacturer
 keywords:
 - Smart Plug UK, Energy Monitoring Smart Plug UK, Smart Plug Wholesale, OEM Smart Plug Manufacturer
