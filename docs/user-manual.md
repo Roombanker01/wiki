@@ -468,7 +468,7 @@ After Setting the language, SMS will be displayed in this language.
 Tap to reconfigure Wi-Fi.
 
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808143131665.png" width="300" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Hub/Wi-Fi.png" width="300" />
 </div>
 
 - **Enable**, <br />On: Enable Wi-Fi network.<br /> Off: Disable Wi-Fi network.<br />
@@ -480,7 +480,7 @@ Tap to reconfigure Wi-Fi.
   - **Username**, **Password** and **APN** - After inserting the SIM card, the Hub automatically obtains the necessary information and connects to the network. If you are unable to connect, please contact your telecom operator to obtain these information and perform manual configuration.
 
     <div align="center">
-      <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517160138035.png" width="300" />
+      <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Hub/Cellular1.png" width="300" />
     </div>
 
   - **SIM PIN** -  If the system prompts that the SIM PIN is not configured,  enter the SIM PIN to use the SIM card. If your SIM card is locked, please try to contact your telecom operator to unlock it.
@@ -488,8 +488,15 @@ Tap to reconfigure Wi-Fi.
     <div align="center">
       <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517172955973.png" width="300" />
     </div>
+    
+  - **Default LTE Antenna** - Select Built-in Antenna to use the LTE module’s internal antenna, or External Antenna to use an external antenna. Ensure the external antenna is properly installed before switching.
 
+    <div align="center">
+      <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Hub/Cellular2.png" width="300" />
+    </div>
+    
   - **Used Data (This month)** - Show current data usage.
+  > ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *The calculation standard for device data usage might different from telecom operators. Please refer to the actual bill for accurate data usage.*
 
   - **Monthly data allowance** - You can set a data usage limit here, and the App will send a notification when that limit is exceeded.
 
@@ -500,10 +507,20 @@ Tap to reconfigure Wi-Fi.
 
 #### 2.8.6 **Wired Network Configuration**
 
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Hub/Wired.png" width="300" />
+</div>
+
 - **Enable**<br />On: Enable Wired network.<br /> Off: Disable Wired network.<br />
 - **DHCP**<br />On: DHCP enabled.<br /> Off: Static IP enabled.You can manually configure the IP address, subnet mask, default gateway, and DNS server address.<br />
+- **Static IP Settings**,When using a static IP (instead of DHCP), manually enter: <br />
 
-> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *The calculation standard for device data usage might different from telecom operators. Please refer to the actual bill for accurate data usage.*
+|     **Parameter**         | **Meaning**                                                 |
+| :-----------------------: | ------------------------------------------------------------|
+|     IP Address            | The unique identifier of the device on the network (e.g. 192.168.1.100). It must be in the same subnet as your router/gateway and not conflict with other devices. |
+|     Subnet Mask           | Defines the network and host portions of the IP address. Common value: 255.255.255.0 (equivalent to /24 subnet).                                                    |
+|     Default Gateway       | Typically the router's IP address (e.g. 192.168.1.1), used for accessing external networks such as the internet.                                                   |
+|     DNS Server Address    | The Domain Name System (DNS) server address for resolving domain names (e.g. 8.8.8.8 or 114.114.114.114).                                                          |
 
 
 #### 2.8.7 **Celllar First**
@@ -541,21 +558,7 @@ Ensure the external antenna is properly installed before switching.
 #### 2.8.11 **24H Lid Detection**
 
   This feature is disabled by default, detecting hub tampering and triggering an alarm if disassembly is detected. It can be used in both armed and disarmed states.
-
-- **Wire Network Configuration**
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/StaticIP.png" width="300" />
-</div>
-Static IP Settings <br />
-When using a static IP (instead of DHCP), manually enter:<br />
-
-|     **Parameter**     | **Meaning**                                                  |
-| :-----------------------: | ------------------------------------------------------------|
-|     IP Address            | The unique identifier of the device on the network (e.g. 192.168.1.100). It must be in the same subnet as your router/gateway and not conflict with other devices. |
-|     Subnet Mask           | Defines the network and host portions of the IP address. Common value: 255.255.255.0 (equivalent to /24 subnet).                                                    |
-|     Default Gateway       | Typically the router's IP address (e.g. 192.168.1.1), used for accessing external networks such as the internet.                                                   |
-|     DNS Server Address    | The Domain Name System (DNS) server address for resolving domain names (e.g. 8.8.8.8 or 114.114.114.114).                                                          |
-
+  
 <br />
 
 #### 2.8.12 **Arming Check**
@@ -606,7 +609,7 @@ During this period, if your Hub is frequently online and offline, you will not r
 
 ### 2.11 Data Export
 <div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/system/data-export/1.jpg" width="300" />
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Hub/data-export.png" width="300" />
 </div>
 
 <br />
