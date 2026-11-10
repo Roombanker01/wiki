@@ -388,195 +388,7 @@ Hub states can be viewed in the RB Link (App).
 | Wireless Noise Level (dBm) | The surrounding environment will affect the noise level of hub. lt is recommended that you install an environment where the noise level is in the range of `-128 `~ `-95` dBm. |
 
 
-
-### 2.5 Hub Setting
-
-You can click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)"  on the top right corner of the hub to configure parameters.
-
-#### 2.5.1 Basic Information
-
-| **Parameter**  | **Meaning**                                                  |
-| -------------- | ------------------------------------------------------------ |
-| Device name    | Click on the device name and enter the a nickname if it's in need. |
-| Device model   | Display the device model.                                    |
-| IP Address     | Display the IP address of the device.                        |
-| MAC Address    | Display the MAC address of the device.                       |
-| Serial Number  | Display the serial number of the device.                     |
-| Version Number | The current firmware version of the device is displayed here. If a new version is available, you can simply click to upgrade via OTA. |
-
-#### 2.5.2 User Management
-
-Please turn to [Charter 5. User Management](#charter-5-user-management) for more details about user management.
-
-#### 2.5.3 System
-
-- **Time Zone**
-
-  Click "**>**" and then select your time zone, then the time will be updated automatically.
-
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/xialingshi.png" width="300" />
-</div>
-
-
-
- - **DST**
-
-  Click"DST", you can enable or disable Daylight Saving Time, set start and end times, and save the settings, the time will update accordingly.
-
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/xinlingshipeizhi.png" width="300" />
-</div>
-
-* **Wi-Fi**
-
-Tap to reconfigure Wi-Fi.
-
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808143131665.png" width="300" />
-</div>
-
-
-* **Device Language**
-
-After Setting the language, SMS will be displayed in this language.
-
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808142042615.png" width="300" />
-</div>
-
-
-
-- **Cellular Network**
-
-  - **Username**, **Password** and **APN** - After inserting the SIM card, the Hub automatically obtains the necessary information and connects to the network. If you are unable to connect, please contact your telecom operator to obtain these information and perform manual configuration.
-
-    <div align="center">
-      <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517160138035.png" width="300" />
-    </div>
-
-  - **SIM PIN** -  If the system prompts that the SIM PIN is not configured,  enter the SIM PIN to use the SIM card. If your SIM card is locked, please try to contact your telecom operator to unlock it.
-
-    <div align="center">
-      <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517172955973.png" width="300" />
-    </div>
-
-  - **Used Data (This month)** - Show current data usage.
-
-  - **Monthly data allowance** - You can set a data usage limit here, and the App will send a notification when that limit is exceeded.
-
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Screenshot_2023-12-22-16-01-16-319_com.example.iot_app.png" width="300" />
-</div>
-
-
-
-
-
-> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *The calculation standard for device data usage might different from telecom operators. Please refer to the actual bill for accurate data usage.*
-
-
-
-- **Fault Check**
-
-  You can configure fault detection rules. After you enable it, the Hub performs periodic detection and uploads relevant information according to the configured rules.
-
-|     **Parameter**     | **Meaning**                                                  |
-| :-------------------: | ------------------------------------------------------------ |
-|     Battery Loss      | Monitors battery connection status to ensure it's functioning normally.<br />**Open** **-** Monitoring function is active<br />**Close** - Monitoring function is disabled |
-|      Low Battery      | Monitors low battery levels (below 20%) <br />**Open** **-** Monitoring function is active<br />**Close** - Monitoring function is disabled |
-|     Ethernet Lost     | Monitors ethernet connectivity, and sends an alert to the APP if an ethernet outage lasts longer than a predefined threshold. |
-|      Wi-Fi Lost       | Monitors Wi-Fi connectivity, and sends an alert to the APP if Wi-Fi outage lasts longer than a predefined threshold. |
-| Cellular Network Lost | Monitors Cellular Network connectivity, and sends an alert to the APP if Cellular Network outage lasts longer than a predefined threshold. |
-|  External Power Lost  | Monitors external power supply connection status <br />**Open** - Monitoring function is active<br />**Close** - Monitoring function is disabled |
-
-- **24H Lid Detection**
-
-  This feature is disabled by default, detecting hub tampering and triggering an alarm if disassembly is detected. It can be used in both armed and disarmed states.
-
-- **Wire Network Configuration**
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/StaticIP.png" width="300" />
-</div>
-Static IP Settings <br />
-When using a static IP (instead of DHCP), manually enter:<br />
-
-|     **Parameter**     | **Meaning**                                                  |
-| :-----------------------: | ------------------------------------------------------------|
-|     IP Address            | The unique identifier of the device on the network (e.g. 192.168.1.100). It must be in the same subnet as your router/gateway and not conflict with other devices. |
-|     Subnet Mask           | Defines the network and host portions of the IP address. Common value: 255.255.255.0 (equivalent to /24 subnet).                                                    |
-|     Default Gateway       | Typically the router's IP address (e.g. 192.168.1.1), used for accessing external networks such as the internet.                                                   |
-|     DNS Server Address    | The Domain Name System (DNS) server address for resolving domain names (e.g. 8.8.8.8 or 114.114.114.114).                                                          |
-
-<br />
-
-- **Arming Check**
-
-**Setting Path: Hub Settings → System → Arming Check (default: Off)**<br />
-After turning on, when performing arming, if a sub-device has a fault, a confirmation reminder will pop up.Please note that when arming via keyfob or keypad, if any sensor malfunctions, you need to press the arming button on the keyfob or keypad again for secondary confirmation.<br />
-1.When arming via the mobile app, a secondary confirmation dialog pops up; arming only succeeds after the user confirms and dismisses this prompt.<br />
-2.When arming with the keyfob, the keyfob’s LED flashes red for 10 seconds. If you press the Arm button again within 10 seconds, arming is successful; otherwise, it fails.<br />
-3.When arming with the keypad, the keypad’s LED flashes red for 10 seconds. If you press the Arm button again within 10 seconds, arming is successful; otherwise, it fails.<br />
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/force_arming.png" width="300" />
-</div>
-
-#### 2.5.4 Communication
-
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808103558177.png" width="300" />
-</div>
-
-
-* **Hub offline timeout**
-
-During this period, if your Hub is frequently online and offline, you will not receive any offline notifications. Due to delay or status synchronization, the delay time may be different.
-
-
-#### 2.5.5 Maintenance
-
-- **Walk Test**
-
-  Enable walk test, you can trigger the corresponding sensors individually in order to check if they are installed and configured correctly. When this function is enabled, only the indicators in sensors will flash red instead of pushing alarm notification. and you can also see the corresponding status changes from `Not Triggered` to `Triggered` if the sensor detects an alarm event.
-
-> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/note.png)**Note** : *The walk test can only last for 20 minutes and then turn off automatically.*
-
-- **Firmware Upgrade**
-
-  The current firmware version of the device is displayed here. If a new version is available, you can simply click to upgrade.
-
-- **Device Reset**
-
-  - **Restart Hub** - Click `Restart` button to restart the hub without changing any settings.
-  - **Factory Default** - Click `Restore` button to reset all settings to their factory defaults.
-  - **Reset Network** - Click `Default`  button to reset the network settings while preserving detectors and peripherals.
-
-- **SSH**
-
-  When SSH is enabled, our technical support staff can help you troubleshoot issues with your device remotely. SSH is disabled by default and can only be enabled by you and other Admin users.
-
-#### 2.5.6 User Guide
-
-You can click to view the Quick Start Guide document of the Hub ([R2](https://wiki.roombanker.com/hub/home-security-hub-pico/quick-start-guide) / [R2 PRO](https://wiki.roombanker.com/hub/home-security-hub-station/quick-start-guide)).
-
-
-#### 2.5.7 Data Export
-<div align="center">
-  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/system/data-export/1.jpg" width="300" />
-</div>
-
-<br />
-
-**Path：Hub Settings->Maintenance->Data Export** <br />
-Supports exporting daily historical data for temperature & humidity, Smart Plug and Wall Switch. Export is limited to once every 30 minutes.<br />
-The exported output will be compiled into Excel format and sent to your email. <br />
-
----
-
-
-<br />
-
-### 2.6 Alarm Receiving Center(ARC Settings)
+### 2.5 Alarm Receiving Center(ARC Settings)
 
 <div align="center">
   <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/Hub/arc-protocol.png" width="300" />
@@ -599,6 +411,216 @@ Once you subscribe to the Alarm Receiving Center (ARC) service, your installer o
 | Encryption           | AES-128, AES-192, or AES-256 with corresponding key(Optional)                                         |
 
 <br />
+
+### 2.6 Hub Setting
+
+#### 2.6.1 Basic Information
+
+You can click "![Setting](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Setting.png)"  on the top right corner of the hub to configure parameters.
+
+| **Parameter**  | **Meaning**                                                  |
+| -------------- | ------------------------------------------------------------ |
+| Device name    | Click on the device name and enter the a nickname if it's in need. |
+| Device model   | Display the device model.                                    |
+| IP Address     | Display the IP address of the device.                        |
+| MAC Address    | Display the MAC address of the device.                       |
+| Serial Number  | Display the serial number of the device.                     |
+| Version Number | The current firmware version of the device is displayed here. If a new version is available, you can simply click to upgrade via OTA. |
+
+#### 2.6.2 User Guide
+
+You can click to view the Quick Start Guide document of the Hub ([R2](https://wiki.roombanker.com/hub/home-security-hub-pico/quick-start-guide) / [R2 PRO](https://wiki.roombanker.com/hub/home-security-hub-station/quick-start-guide)).
+
+### 2.7 User Management
+
+Please turn to [Charter 5. User Management](#charter-5-user-management) for more details about user management.
+
+### 2.8 System
+
+#### 2.8.1 **Time Zone**
+
+  Click "**>**" and then select your time zone, then the time will be updated automatically.
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/xialingshi.png" width="300" />
+</div>
+
+
+
+#### 2.8.2 **DST**
+
+  Click"DST", you can enable or disable Daylight Saving Time, set start and end times, and save the settings, the time will update accordingly.
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/xinlingshipeizhi.png" width="300" />
+</div>
+
+#### 2.8.3 **Device Language**
+
+After Setting the language, SMS will be displayed in this language.
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808142042615.png" width="300" />
+</div>
+
+#### 2.8.4 **Wi-Fi**
+
+Tap to reconfigure Wi-Fi.
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808143131665.png" width="300" />
+</div>
+
+- **Enable**, <br />On: Enable Wi-Fi network.<br /> Off: Disable Wi-Fi network.<br />
+
+#### 2.8.5 **Cellular Network**
+
+  - **Enable**, <br />On: Enable cellular network.<br /> Off: Disable cellular network.<br />
+
+  - **Username**, **Password** and **APN** - After inserting the SIM card, the Hub automatically obtains the necessary information and connects to the network. If you are unable to connect, please contact your telecom operator to obtain these information and perform manual configuration.
+
+    <div align="center">
+      <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517160138035.png" width="300" />
+    </div>
+
+  - **SIM PIN** -  If the system prompts that the SIM PIN is not configured,  enter the SIM PIN to use the SIM card. If your SIM card is locked, please try to contact your telecom operator to unlock it.
+
+    <div align="center">
+      <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240517172955973.png" width="300" />
+    </div>
+
+  - **Used Data (This month)** - Show current data usage.
+
+  - **Monthly data allowance** - You can set a data usage limit here, and the App will send a notification when that limit is exceeded.
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/Screenshot_2023-12-22-16-01-16-319_com.example.iot_app.png" width="300" />
+</div>
+
+
+#### 2.8.6 **Wired Network Configuration**
+
+- **Enable**<br />On: Enable Wired network.<br /> Off: Disable Wired network.<br />
+- **DHCP**<br />On: DHCP enabled.<br /> Off: Static IP enabled.You can manually configure the IP address, subnet mask, default gateway, and DNS server address.<br />
+
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/User%20Manual/note.png)**Note** : *The calculation standard for device data usage might different from telecom operators. Please refer to the actual bill for accurate data usage.*
+
+
+#### 2.8.7 **Celllar First**
+
+Sets the device’s network connection priority.<br />
+- On: Cellular → Ethernet → Wi-Fi<br />
+- Off: Ethernet → Wi-Fi → Cellular<br />
+(Disabled connections will be skipped.)<br />
+<br />
+
+#### 2.8.8 **Network security**
+
+- On:  Hub can protect against AirSnitch attacks.<br />
+- Off: No protection against AirSnitch attack.<br />
+
+#### 2.8.9 **Fault Check**
+
+  You can configure fault detection rules. After you enable it, the Hub performs periodic detection and uploads relevant information according to the configured rules.
+
+|     **Parameter**     | **Meaning**                                                  |
+| :-------------------: | ------------------------------------------------------------ |
+|     Battery Loss      | Monitors battery connection status to ensure it's functioning normally.<br />**Open** **-** Monitoring function is active<br />**Close** - Monitoring function is disabled |
+|      Low Battery      | Monitors low battery levels (below 20%) <br />**Open** **-** Monitoring function is active<br />**Close** - Monitoring function is disabled |
+|     Ethernet Lost     | Monitors ethernet connectivity, and sends an alert to the APP if an ethernet outage lasts longer than a predefined threshold. |
+|      Wi-Fi Lost       | Monitors Wi-Fi connectivity, and sends an alert to the APP if Wi-Fi outage lasts longer than a predefined threshold. |
+| Cellular Network Lost | Monitors Cellular Network connectivity, and sends an alert to the APP if Cellular Network outage lasts longer than a predefined threshold. |
+|  External Power Lost  | Monitors external power supply connection status <br />**Open** - Monitoring function is active<br />**Close** - Monitoring function is disabled |
+
+#### 2.8.10 **Antenna Settings**
+
+Ensure the external antenna is properly installed before switching.
+- **Built-in Antenna:** Use internal antenna of the Hub.
+- **External Antenna:** Use external antenna of the Hub.
+
+#### 2.8.11 **24H Lid Detection**
+
+  This feature is disabled by default, detecting hub tampering and triggering an alarm if disassembly is detected. It can be used in both armed and disarmed states.
+
+- **Wire Network Configuration**
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/StaticIP.png" width="300" />
+</div>
+Static IP Settings <br />
+When using a static IP (instead of DHCP), manually enter:<br />
+
+|     **Parameter**     | **Meaning**                                                  |
+| :-----------------------: | ------------------------------------------------------------|
+|     IP Address            | The unique identifier of the device on the network (e.g. 192.168.1.100). It must be in the same subnet as your router/gateway and not conflict with other devices. |
+|     Subnet Mask           | Defines the network and host portions of the IP address. Common value: 255.255.255.0 (equivalent to /24 subnet).                                                    |
+|     Default Gateway       | Typically the router's IP address (e.g. 192.168.1.1), used for accessing external networks such as the internet.                                                   |
+|     DNS Server Address    | The Domain Name System (DNS) server address for resolving domain names (e.g. 8.8.8.8 or 114.114.114.114).                                                          |
+
+<br />
+
+#### 2.8.12 **Arming Check**
+
+**Setting Path: Hub Settings → System → Arming Check (default: Off)**<br />
+After turning on, when performing arming, if a sub-device has a fault, a confirmation reminder will pop up.Please note that when arming via keyfob or keypad, if any sensor malfunctions, you need to press the arming button on the keyfob or keypad again for secondary confirmation.<br />
+1.When arming via the mobile app, a secondary confirmation dialog pops up; arming only succeeds after the user confirms and dismisses this prompt.<br />
+2.When arming with the keyfob, the keyfob’s LED flashes red for 10 seconds. If you press the Arm button again within 10 seconds, arming is successful; otherwise, it fails.<br />
+3.When arming with the keypad, the keypad’s LED flashes red for 10 seconds. If you press the Arm button again within 10 seconds, arming is successful; otherwise, it fails.<br />
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/common/force_arming.png" width="300" />
+</div>
+
+
+### 2.9 Communication
+
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/image-20240808103558177.png" width="300" />
+</div>
+
+
+* **Hub offline timeout**
+
+During this period, if your Hub is frequently online and offline, you will not receive any offline notifications. Due to delay or status synchronization, the delay time may be different.
+
+
+### 2.10 Maintenance
+
+- **Walk Test**
+
+  Enable walk test, you can trigger the corresponding sensors individually in order to check if they are installed and configured correctly. When this function is enabled, only the indicators in sensors will flash red instead of pushing alarm notification. and you can also see the corresponding status changes from `Not Triggered` to `Triggered` if the sensor detects an alarm event.
+
+> ![note](https://dusunprj.oss-us-west-1.aliyuncs.com/roombanker/note.png)**Note** : *The walk test can only last for 20 minutes and then turn off automatically.*
+
+- **Firmware Upgrade**
+
+  The current firmware version of the device is displayed here. If a new version is available, you can simply click to upgrade.
+
+- **Device Reset**
+
+  - **Restart Hub** - Click `Restart` button to restart the hub without changing any settings.
+  - **Factory Default** - Click `Restore` button to reset all settings to their factory defaults.
+  - **Reset Network** - Click `Default`  button to reset the network settings while preserving detectors and peripherals.
+
+- **SSH**
+
+  When SSH is enabled, our technical support staff can help you troubleshoot issues with your device remotely. SSH is disabled by default and can only be enabled by you and other Admin users.
+
+### 2.11 Data Export
+<div align="center">
+  <img src="https://dusunprj.oss-us-west-1.aliyuncs.com/RBGW/pic/system/data-export/1.jpg" width="300" />
+</div>
+
+<br />
+
+**Path：Hub Settings->Maintenance->Data Export** <br />
+Supports exporting daily historical data for temperature & humidity, Smart Plug and Wall Switch. Export is limited to once every 30 minutes.<br />
+The exported output will be compiled into Excel format and sent to your email. <br />
+
+---
+
+
+<br />
+
+
 
 ## Charter 3. Room Management
 
