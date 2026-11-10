@@ -1,5 +1,5 @@
 ﻿---
-description: Roombanker offers smart plugs in EU standards with power consumption monitoring function. Max. 16A and 230 V. Compatible with Roombanker Hub, Certifications like CE, CB,FCC, ICASA, LOA, RCM, NOM, Anatel are ready.
+description: Roombanker offers smart plugs in EU standards with power consumption monitoring function. Max. 16A and 230 V. Compatible with Roombanker Hub, Certifications like CE, FCC are ready.
 title: EU Smart Plug 16 Aamp, 230 V, 55.5mm, Wholesale Smart Plug Manufacturer
 keywords:
 - Smart Plug EU, Smart Plug Wholesale, Smart Plug Manufacturer
