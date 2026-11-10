@@ -1,5 +1,5 @@
 ﻿---
-description: Roombanker offers smart plugs in USA standards with power consumption monitoring function. Max. 15A and 110 V. Compatible with Roombanker Hub, Certifications like CE, CB,FCC, ICASA, LOA, RCM, NOM, Anatel are ready.
+description: Roombanker offers smart plugs in USA standards with power consumption monitoring function. Max. 15A and 110 V. Compatible with Roombanker Hub, Certifications like CE, FCC are ready.
 title: US Smart Plug 15 Aamp,110 V, 38mm, Wholesale OEM Smart Plug Manufacturer
 keywords:
 - Smart Plug USA, Smart Plug Wholesale, OEM Smart Plug Manufacturer
