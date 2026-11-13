@@ -19,7 +19,7 @@ tags:
 </center>
 <br />
 
-Tramsmitter is a module for integrating a third-party wired device into the Roombanker system.<br />Transmitter allows you to connect the detectors, keypad, panic button, or any other device with the NC / NO contact type to Roombanker. Transmitter links to the gateway via the RBF protocol, once transmitter receives a signal from the third-party device, it will send this message to gateway, gateway will arrange the next action.<br />Tramsmitter can output a 3.3 V / 30 mA power to the third-party device.<br />Tramsmitter can output a NC / NO signal to the third-party device to achieve a certain function.<br />
+Transmitter is a module for integrating a third-party wired device into the Roombanker system.<br />Transmitter allows you to connect the detectors, keypad, panic button, or any other device with the NC / NO contact type to Roombanker. Transmitter links to the gateway via the RBF protocol, once transmitter receives a signal from the third-party device, it will send this message to gateway, gateway will arrange the next action.<br />Transmitter can output a 3.3 V / 30 mA power to the third-party device.<br />Transmitter can output a NC / NO signal to the third-party device to achieve a certain function.<br />
 
 
 <div align="center">
